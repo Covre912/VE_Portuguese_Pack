@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Chemfuel Expanded -->
+        <!-- EN: pipe networks -->
+        <VCHE_PipeNetworks.label>dutos</VCHE_PipeNetworks.label>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: factory -->
+        <VFE_Factory.label>fábrica</VFE_Factory.label>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: Ext. Furniture -->
+        <AOMorefurniture.label>mobília Ext.</AOMorefurniture.label>
+        <!-- EN: The new pieces of furniture added by the extended furniture mod. -->
+        <AOMorefurniture.description>Novas peças de mobília.</AOMorefurniture.description>
+
+    <!-- Vanilla Furniture Expanded - Props and Decor -->
+        <!-- EN: Props -->
+        <PropsandDecor.label>decoração</PropsandDecor.label>
+        <!-- EN: Props and decorations. -->
+        <PropsandDecor.description>Adereços e decorações.</PropsandDecor.description>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: Genetics -->
+        <GR_GeneticsTab.label>genética</GR_GeneticsTab.label>
+        <!-- EN: Items added by Vanilla Genetics Expanded. -->
+        <GR_GeneticsTab.description>Itens relacionados a manipulação de material genético.</GR_GeneticsTab.description>
+
+</LanguageData>

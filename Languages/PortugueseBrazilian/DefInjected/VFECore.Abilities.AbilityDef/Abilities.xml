@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: super jump -->
+        <VFEA_SuperJump.label>super-pulo</VFEA_SuperJump.label>
+        <!-- EN: Jump over a short distance (10 cells) within line of sight to close the distance to the enemy. -->
+        <VFEA_SuperJump.description>Salta sobre uma curta distância para aproximar-se do inimigo.</VFEA_SuperJump.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_SuperJump.jobReportString>Usando habilidade: {0}</VFEA_SuperJump.jobReportString>
+        <!-- EN: super jump -->
+        <VFEA_SuperJump.verbProperties.label>super-pulo</VFEA_SuperJump.verbProperties.label>
+
+        <!-- EN: berserk (telepathy) -->
+        <VFEA_Berserk.label>fúria (telepatia)</VFEA_Berserk.label>
+        <!-- EN: Cast on an enemy to turn them on their allies. -->
+        <VFEA_Berserk.description>Enlouquece um inimigo.</VFEA_Berserk.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_Berserk.jobReportString>Usando habilidade: {0}</VFEA_Berserk.jobReportString>
+        <!-- EN: berserk (telepathy) -->
+        <VFEA_Berserk.verbProperties.label>fúria (telepatia)</VFEA_Berserk.verbProperties.label>
+
+        <!-- EN: calm (telepathy) -->
+        <VFEA_Calm.label>calma (telepatia)</VFEA_Calm.label>
+        <!-- EN: Cast on a friend to instantly snap them out of a mental break. -->
+        <VFEA_Calm.description>Acalma instantaneamente um aliado em um colapso mental.</VFEA_Calm.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_Calm.jobReportString>Usando habilidade: {0}</VFEA_Calm.jobReportString>
+        <!-- EN: calm (telepathy) -->
+        <VFEA_Calm.verbProperties.label>calma (telepatia)</VFEA_Calm.verbProperties.label>
+
+        <!-- EN: psychic shock -->
+        <VFEA_PsychicShock.label>psicochoque</VFEA_PsychicShock.label>
+        <!-- EN: Fire a psychic shock on the enemy, rendering them unconscious. -->
+        <VFEA_PsychicShock.description>Dispara um choque psíquico em um inimigo, tornando-o inconsciente.</VFEA_PsychicShock.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_PsychicShock.jobReportString>Usando habilidade: {0}</VFEA_PsychicShock.jobReportString>
+        <!-- EN: psychic shock -->
+        <VFEA_PsychicShock.verbProperties.label>psicochoque</VFEA_PsychicShock.verbProperties.label>
+
+        <!-- EN: invisibility -->
+        <VFEA_Invisibility.label>invisibilidade</VFEA_Invisibility.label>
+        <!-- EN: Turns invisible for 60 seconds. -->
+        <VFEA_Invisibility.description>Torna-se invisível por 60 segundos.</VFEA_Invisibility.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_Invisibility.jobReportString>Usando habilidade: {0}</VFEA_Invisibility.jobReportString>
+        <!-- EN: invisibility -->
+        <VFEA_Invisibility.verbProperties.label>invisibilidade</VFEA_Invisibility.verbProperties.label>
+
+        <!-- EN: self-control -->
+        <VFEA_SelfControl.label>autocontrole</VFEA_SelfControl.label>
+        <!-- EN: When activated, immediately stop any mental breaks this pawn is under effect of. -->
+        <VFEA_SelfControl.description>Quando ativado, acalma-se imediatamente.</VFEA_SelfControl.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_SelfControl.jobReportString>Usando habilidade: {0}</VFEA_SelfControl.jobReportString>
+        <!-- EN: self-control -->
+        <VFEA_SelfControl.verbProperties.label>autocontrole</VFEA_SelfControl.verbProperties.label>
+
+        <!-- EN: overshield -->
+        <VFEA_Overshield.label>superescudo</VFEA_Overshield.label>
+        <!-- EN: Generate an impenetrable shield around yourself that lasts 30 seconds. -->
+        <VFEA_Overshield.description>Projeta um escudo impenetrável em si mesmo por 30 segundos.</VFEA_Overshield.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_Overshield.jobReportString>Usando habilidade: {0}</VFEA_Overshield.jobReportString>
+        <!-- EN: overshield -->
+        <VFEA_Overshield.verbProperties.label>superescudo</VFEA_Overshield.verbProperties.label>
+
+        <!-- EN: summon lightning -->
+        <VFEA_SummonLightning.label>relampeio</VFEA_SummonLightning.label>
+        <!-- EN: Designate an area that will be blasted by lightning bolts. -->
+        <VFEA_SummonLightning.description>Designa uma área que será bombardeada com relâmpagos.</VFEA_SummonLightning.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_SummonLightning.jobReportString>Usando habilidade: {0}</VFEA_SummonLightning.jobReportString>
+        <!-- EN: summon lightning -->
+        <VFEA_SummonLightning.verbProperties.label>relampeio</VFEA_SummonLightning.verbProperties.label>
+
+        <!-- EN: animal speech -->
+        <VFEA_AnimalSpeech.label>animalinguismo</VFEA_AnimalSpeech.label>
+        <!-- EN: When cast on a man hunting animal, calms it. When cast on a wild animal, tame it. -->
+        <VFEA_AnimalSpeech.description>Quando conjurado em um animal caçador de humanos, o acalma. Quando conjurado em um animal selvagem, o domestica.</VFEA_AnimalSpeech.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_AnimalSpeech.jobReportString>Usando habilidade: {0}</VFEA_AnimalSpeech.jobReportString>
+        <!-- EN: animal speech -->
+        <VFEA_AnimalSpeech.verbProperties.label>animalinguismo</VFEA_AnimalSpeech.verbProperties.label>
+
+        <!-- EN: empathy -->
+        <VFEA_Empathy.label>empatia</VFEA_Empathy.label>
+        <!-- EN: Cast on an ally to give them a strong mood buff lasting 24 hours. -->
+        <VFEA_Empathy.description>Conjura um bom humor para um aliado por 24 horas.</VFEA_Empathy.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_Empathy.jobReportString>Usando habilidade: {0}</VFEA_Empathy.jobReportString>
+        <!-- EN: empathy -->
+        <VFEA_Empathy.verbProperties.label>empatia</VFEA_Empathy.verbProperties.label>
+
+        <!-- EN: heal others -->
+        <VFEA_Heal.label>cura</VFEA_Heal.label>
+        <!-- EN: Cast on an ally to cure them of all their wounds. -->
+        <VFEA_Heal.description>Cura todas as feridas de um aliado.</VFEA_Heal.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_Heal.jobReportString>Usando habilidade: {0}</VFEA_Heal.jobReportString>
+        <!-- EN: heal others -->
+        <VFEA_Heal.verbProperties.label>cura</VFEA_Heal.verbProperties.label>
+
+        <!-- EN: glory kill -->
+        <VFEA_GloryKill.label>gloricídio</VFEA_GloryKill.label>
+        <!-- EN: Kill a random enemy in 1 cell radius, spawning large amount of blood everywhere, and removing a random amount of their limbs. -->
+        <VFEA_GloryKill.description>Aniquila um inimigo aleatório próximo.</VFEA_GloryKill.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_GloryKill.jobReportString>Usando habilidade: {0}</VFEA_GloryKill.jobReportString>
+        <!-- EN: glory kill -->
+        <VFEA_GloryKill.verbProperties.label>gloricídio</VFEA_GloryKill.verbProperties.label>
+
+        <!-- EN: electro-magnetic pulse -->
+        <VFEA_ElectromagneticPulse.label>eletromagnetismo</VFEA_ElectromagneticPulse.label>
+        <!-- EN: Generate a large EMP explosion around yourself, disabling all electronics in radius. -->
+        <VFEA_ElectromagneticPulse.description>Conjura uma explosão PEM que desabilita todos os eletrônicos no raio.</VFEA_ElectromagneticPulse.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_ElectromagneticPulse.jobReportString>Usando habilidade: {0}</VFEA_ElectromagneticPulse.jobReportString>
+        <!-- EN: electro-magnetic pulse -->
+        <VFEA_ElectromagneticPulse.verbProperties.label>eletromagnetismo</VFEA_ElectromagneticPulse.verbProperties.label>
+
+        <!-- EN: fire breath -->
+        <VFEA_FireBreath.label>sopro de fogo</VFEA_FireBreath.label>
+        <!-- EN: Spew fire up to 12 cells range in front of you, burning enemies and sending them running. -->
+        <VFEA_FireBreath.description>Lança fogo em uma curta distância.</VFEA_FireBreath.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_FireBreath.jobReportString>Usando habilidade: {0}</VFEA_FireBreath.jobReportString>
+        <!-- EN: fire breath -->
+        <VFEA_FireBreath.verbProperties.label>sopro de fogo</VFEA_FireBreath.verbProperties.label>
+
+        <!-- EN: ice breath -->
+        <VFEA_IceBreath.label>sopro de gelo</VFEA_IceBreath.label>
+        <!-- EN: Spew ice up to 12 cells range in front of you, slowing enemies and applying high hypothermia. -->
+        <VFEA_IceBreath.description>Lança gelo em uma curta distância.</VFEA_IceBreath.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_IceBreath.jobReportString>Usando habilidade: {0}</VFEA_IceBreath.jobReportString>
+        <!-- EN: ice breath -->
+        <VFEA_IceBreath.verbProperties.label>sopro de gelo</VFEA_IceBreath.verbProperties.label>
+
+        <!-- EN: laser eyes -->
+        <VFEA_LaserEyes.label>laser</VFEA_LaserEyes.label>
+        <!-- EN: Fire an incredibly powerful beam of energy from your eyes. Maximum range is 35. -->
+        <VFEA_LaserEyes.description>Dispara um feixe incrivelmente poderoso de seus olhos.</VFEA_LaserEyes.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_LaserEyes.jobReportString>Usando habilidade: {0}</VFEA_LaserEyes.jobReportString>
+        <!-- EN: laser eyes -->
+        <VFEA_LaserEyes.verbProperties.label>laser</VFEA_LaserEyes.verbProperties.label>
+
+        <!-- EN: matter phasing -->
+        <VFEA_MatterPhasing.label>faseamento material</VFEA_MatterPhasing.label>
+        <!-- EN: Turn on to phase through walls for 10 seconds. -->
+        <VFEA_MatterPhasing.description>Entra em um estado de faseamento por 10 segundos.</VFEA_MatterPhasing.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_MatterPhasing.jobReportString>Usando habilidade: {0}</VFEA_MatterPhasing.jobReportString>
+        <!-- EN: matter phasing -->
+        <VFEA_MatterPhasing.verbProperties.label>faseamento material</VFEA_MatterPhasing.verbProperties.label>
+
+        <!-- EN: electricity blast -->
+        <VFEA_ElectricityBlast.label>explosão elétrica</VFEA_ElectricityBlast.label>
+        <!-- EN: Fire an arc of lightning that bounced between enemies, burning them and disabling any electronics. -->
+        <VFEA_ElectricityBlast.description>Dispara uma série de raios que conectam-se por inimigos.</VFEA_ElectricityBlast.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_ElectricityBlast.jobReportString>Usando habilidade: {0}</VFEA_ElectricityBlast.jobReportString>
+        <!-- EN: electricity blast -->
+        <VFEA_ElectricityBlast.verbProperties.label>explosão elétrica</VFEA_ElectricityBlast.verbProperties.label>
+
+        <!-- EN: speed burst -->
+        <VFEA_SpeedBurst.label>explosão de velocidade</VFEA_SpeedBurst.label>
+        <!-- EN: 4x Movement speed. Melee cooldown halved. Lasts 30 seconds. -->
+        <VFEA_SpeedBurst.description>Quadruplica a velocidade de movimento e duplica a velocidade de combate corpo a corpo por 30 segundos.</VFEA_SpeedBurst.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_SpeedBurst.jobReportString>Usando habilidade: {0}</VFEA_SpeedBurst.jobReportString>
+        <!-- EN: speed burst -->
+        <VFEA_SpeedBurst.verbProperties.label>explosão de velocidade</VFEA_SpeedBurst.verbProperties.label>
+
+        <!-- EN: acid spitting -->
+        <VFEA_AcidBreath.label>cuspácido</VFEA_AcidBreath.label>
+        <!-- EN: The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly. -->
+        <VFEA_AcidBreath.description>O sujeito desenvolveu bolsas de químicos concentrados em seu tronco que estão conectadas à boca via tubos. Ao contrair seu tronco enquanto cospe, o usuário dispara glóbulos de geleia ácida.</VFEA_AcidBreath.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_AcidBreath.jobReportString>Usando habilidade: {0}</VFEA_AcidBreath.jobReportString>
+        <!-- EN: acid spitting -->
+        <VFEA_AcidBreath.verbProperties.label>cuspácido</VFEA_AcidBreath.verbProperties.label>
+
+        <!-- EN: fireball -->
+        <VFEA_Fireball.label>bola de fogo</VFEA_Fireball.label>
+        <!-- EN: The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire. -->
+        <VFEA_Fireball.description>O sujeito desenvolveu diversas glândulas e uma bolsa de combustível químico gelificado na palma de sua mão. A cada 30 segundos, as glândulas descartam um glóbulo dessa substância que pode ser arremessada, inflamando no ar.</VFEA_Fireball.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_Fireball.jobReportString>Usando habilidade: {0}</VFEA_Fireball.jobReportString>
+        <!-- EN: fireball -->
+        <VFEA_Fireball.verbProperties.label>bola de fogo</VFEA_Fireball.verbProperties.label>
+
+        <!-- EN: metamorphosis (turtle) -->
+        <VFEA_MetamorphosisTurtle.label>metamorfose (tartaruga)</VFEA_MetamorphosisTurtle.label>
+        <!-- EN: The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a tortoise, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds. -->
+        <VFEA_MetamorphosisTurtle.description>O sujeito consegue exercer uma força psíquica que obriga seu corpo a metamorfosear em uma tartaruga por 60 segundos.</VFEA_MetamorphosisTurtle.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_MetamorphosisTurtle.jobReportString>Usando habilidade: {0}</VFEA_MetamorphosisTurtle.jobReportString>
+        <!-- EN: metamorphosis (turtle) -->
+        <VFEA_MetamorphosisTurtle.verbProperties.label>metamorfose (tartaruga)</VFEA_MetamorphosisTurtle.verbProperties.label>
+
+        <!-- EN: metamorphosis (warg) -->
+        <VFEA_MetamorphosisWarg.label>metamorfose (estrangul)</VFEA_MetamorphosisWarg.label>
+        <!-- EN: The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. In this case, they adopt the form of a warg, with the same health, size and abilities, before their body snaps back into its actual shape after 60 seconds. -->
+        <VFEA_MetamorphosisWarg.description>O sujeito consegue exercer uma força psíquica que obriga seu corpo a metamorfosear em um estrangul por 60 segundos.</VFEA_MetamorphosisWarg.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEA_MetamorphosisWarg.jobReportString>Usando habilidade: {0}</VFEA_MetamorphosisWarg.jobReportString>
+        <!-- EN: metamorphosis (warg) -->
+        <VFEA_MetamorphosisWarg.verbProperties.label>metamorfose (estrangul)</VFEA_MetamorphosisWarg.verbProperties.label>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: grappling hook -->
+        <VFEP_GrapplingHook.label>arpéu</VFEP_GrapplingHook.label>
+        <!-- EN: Grappling hook connects to walls and solid rock and allows the users to quickly move to the desired location. The launcher does not require ammunition, but time needs to be reserved between shots to wind it up again. -->
+        <VFEP_GrapplingHook.description>O gancho se conecta a paredes e rochas sólidas e permite que os usuários se movam rapidamente para o local desejado. O lançador não requer munição, mas é preciso reservar um tempo entre os tiros para carregá-lo novamente.</VFEP_GrapplingHook.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEP_GrapplingHook.jobReportString>Usando habilidade: {0}</VFEP_GrapplingHook.jobReportString>
+        <!-- EN: reload grappling hook -->
+        <VFEP_GrapplingHook.modExtensions.0.labelUnloaded>recarregar arpéu</VFEP_GrapplingHook.modExtensions.0.labelUnloaded>
+        <!-- EN: grappling hook -->
+        <VFEP_GrapplingHook.verbProperties.label>arpéu</VFEP_GrapplingHook.verbProperties.label>
+
+        <!-- EN: Siege Mode -->
+        <VFEP_SiegeMode.label>modo cerco</VFEP_SiegeMode.label>
+        <!-- EN: Drill yourself into the ground in order to gain more stability and turn yourself into a stationary artillery unit, increasing the attack range and reload efficiency drastically. -->
+        <VFEP_SiegeMode.description>O colono perfura-se no solo para ganhar mais estabilidade e se transformar em uma unidade de artilharia estacionária, aumentando drasticamente o alcance de ataque e a eficiência de recarga.</VFEP_SiegeMode.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEP_SiegeMode.jobReportString>Usando habilidade: {0}</VFEP_SiegeMode.jobReportString>
+        <!-- EN: Siege Mode -->
+        <VFEP_SiegeMode.verbProperties.label>modo cerco</VFEP_SiegeMode.verbProperties.label>
+
+        <!-- EN: Power jump -->
+        <VFEP_PowerJump.label>super-pulo</VFEP_PowerJump.label>
+        <!-- EN: Use shoulder-mounted jump packs to travel a short distance and create a small explosion at both start and end of the flight. -->
+        <VFEP_PowerJump.description>Utilize mochilas para viajar uma curta distância e criar uma pequena explosão no início e no final do voo.</VFEP_PowerJump.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEP_PowerJump.jobReportString>Usando habilidade: {0}</VFEP_PowerJump.jobReportString>
+        <!-- EN: Power jump -->
+        <VFEP_PowerJump.verbProperties.label>super-pulo</VFEP_PowerJump.verbProperties.label>
+
+        <!-- EN: Blast off -->
+        <VFEP_BlastOff.label>decolar</VFEP_BlastOff.label>
+        <!-- EN: Fire a large propulsion engine strapped to the back of your armor and designate a location on the world map to drop pod into. This will create a large explosion at the destination, but will most likely leave you stranded without fuel for the trip back. -->
+        <VFEP_BlastOff.description>Acione um grande motor de propulsão acoplado à parte de trás de sua armadura e designe um local no mapa do mundo para depositar a cápsula, o que criará uma grande explosão no destino.</VFEP_BlastOff.description>
+        <!-- EN: Using ability: {0} -->
+        <VFEP_BlastOff.jobReportString>Usando habilidade: {0}</VFEP_BlastOff.jobReportString>
+        <!-- EN: Blast off -->
+        <VFEP_BlastOff.verbProperties.label>decolar</VFEP_BlastOff.verbProperties.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: pounce -->
+        <GR_Pounce.label>pulo</GR_Pounce.label>
+        <!-- EN: This hybrid can jump into combat, quickly closing the distance between it and its enemies. -->
+        <GR_Pounce.description>Este híbrido pode mergulhar em combate, diminuindo rapidamente a distância entre os inimigos.</GR_Pounce.description>
+
+        <!-- EN: charge -->
+        <GR_StraightCharge.label>bote</GR_StraightCharge.label>
+        <!-- EN: This hybrid can charge into combat, quickly closing the distance between it and its enemies and damaging them. -->
+        <GR_StraightCharge.description>Este híbrido pode dar um bote em combate, diminuindo rapidamente a distância entre os inimigos e os ferindo.</GR_StraightCharge.description>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: Insects of the {1} are tunneling towards you! They will break through in a few seconds and attack! -->
+        <VFEI_Tunneling.textEnemy>Insetos de {1} estão cavando túneis em sua direção! Eles emergirão em alguns segundos e atacarão!</VFEI_Tunneling.textEnemy>
+
+        <!-- EN: Insects of the {1} are tunneling towards you! They will break through in a few seconds and attack!\n\nIt seems their plan is to open up tunnels, allowing larger swarms to crawl through. Destroy their burrows as soon as possible, as they will never stop sending waves of insects. -->
+        <VFEI_Burrow.textEnemy>Insetos de {1} estão cavando túneis em sua direção! Eles emergirão em alguns segundos e atacarão!\n\nParece que seu plano é abrir túneis para permitir que enxames maiores atravessem. Destrua suas tocas o mais rápido possível, já que elas nunca pararão de enviar ondas de insetos.</VFEI_Burrow.textEnemy>
+
+        <!-- EN: A shower of meteorites is striking the local area. It seems they are infested with hives belonging to {1}! They will attack immediately. -->
+        <VFEI_Meteorite.textEnemy>Uma chuva de meteoritos está atingindo a área local. Parece que estão infestados com colmeias de {1}! Eles atacarão imediatamente.</VFEI_Meteorite.textEnemy>
+
+        <!-- EN: A number of gigalocusts belonging to {1} are landing around your base. Their only intention is to kill and they plan to attack immediately. -->
+        <VFEI_GigalocustSwarm.textEnemy>Diversos gigafanhotos de {1} está aterrissando em sua base. Sua única intenção é matar e eles planejam atacar imediatamente.</VFEI_GigalocustSwarm.textEnemy>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: A mechanoid ship from {0} landed nearby. -->
+        <VFEM_MechShipArrival.textEnemy>Uma espaçonave mecanoide de {0} pousou nas proximidades.</VFEM_MechShipArrival.textEnemy>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: A group of {0} from {1} have arrived in gauntlet ships and are crashing on top of your colony. Gauntlet ships provide covering fire and need to be destroyed immediately. -->
+        <VFEP_GauntletDrop.textEnemy>Um grupo de {0} de {1} chegou em espaçonaves manoplas que estão caindo em sua colônia. As espaçonaves manoplas fornecem cobertura de fogo e precisam ser destruídas imediatamente.</VFEP_GauntletDrop.textEnemy>
+        <!-- EN: A group of friendly {0} from {1} have arrived in gauntlet ships and are crashing on top of your colony. Gauntlet ships will provide covering fire. -->
+        <VFEP_GauntletDrop.textFriendly>Um grupo de {0} aliados de {1} chegou em espaçonaves manoplas que estão caindo em sua colônia. As espaçonaves manoplas fornecem cobertura de fogo.</VFEP_GauntletDrop.textFriendly>
+        <!-- EN: ({0_pawnsPluralDef} will arrive in gauntlet ships right on top of you.) -->
+        <VFEP_GauntletDrop.textWillArrive>({0_pawnsPluralDef} chegarão em espaçonaves manoplas bem em cima de você.)</VFEP_GauntletDrop.textWillArrive>
+
+</LanguageData>

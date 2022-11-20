@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- EN: Amor Vincit Omnia -->
+    <AmorVincitOmnia.label>Amor Vincit Omnia</AmorVincitOmnia.label>
+    <!-- EN: Opinion of husband and wife is always locked at 100 and can never go down. -->
+    <AmorVincitOmnia.description>A opinião de cônjuges está sempre em 100 e nunca pode decair.</AmorVincitOmnia.description>
+
+    <!-- EN: Carpe Diem -->
+    <CarpeDiem.label>Carpe Diem</CarpeDiem.label>
+    <!-- EN: Everyone gets +3 Mood buff -->
+    <CarpeDiem.description>Todos recebem um bônus de humor de +3.</CarpeDiem.description>
+
+    <!-- EN: Nil Desperandum -->
+    <NilDesperandum.label>Nil Desperandum</NilDesperandum.label>
+    <!-- EN: Mental break threshold decreased by 10%. -->
+    <NilDesperandum.description>O limite de colapsos mentais é reduzido em 10%.</NilDesperandum.description>
+
+    <!-- EN: Panem Et Circenses -->
+    <PanemEtCircenses.label>Panem Et Circenses</PanemEtCircenses.label>
+    <!-- EN: All positive mood thoughts last 20% longer. -->
+    <PanemEtCircenses.description>Todos os pensamentos positivos de humor duram 20% mais.</PanemEtCircenses.description>
+
+    <!-- EN: Ars Longa, Vita Brevis -->
+    <ArsLongaVitaBrevis.label>Ars Longa, Vita Brevis</ArsLongaVitaBrevis.label>
+    <!-- EN: Beauty of all sculptures and art pieces is multiplied by x1.25. -->
+    <ArsLongaVitaBrevis.description>A beleza de todas as esculturas e peças de arte é multiplicada por 1,25.</ArsLongaVitaBrevis.description>
+
+    <!-- EN: Exitus Acta Probat -->
+    <ExitusActaProbat.label>Exitus Acta Probat</ExitusActaProbat.label>
+    <!-- EN: All negative mood thoughts last 10% shorter. -->
+    <ExitusActaProbat.description>Todos os pensamentos negativos de humor duram 10% menos.</ExitusActaProbat.description>
+
+    <!-- EN: Alea Iacta Est -->
+    <AleaIactaEst.label>Alea Iacta Est</AleaIactaEst.label>
+    <!-- EN: Pain threshold increased by 10%. -->
+    <AleaIactaEst.description>O limiar de dor é aumentado em 10%.</AleaIactaEst.description>
+
+    <!-- EN: Pecunia Nervus Belli -->
+    <PecuniaNervusBelli.label>Pecunia Nervus Belli</PecuniaNervusBelli.label>
+    <!-- EN: Weapons of any kind receive 5% price improvement. -->
+    <PecuniaNervusBelli.description>Armas de qualquer tipo recebem 5% de melhoria de preço.</PecuniaNervusBelli.description>
+
+    <!-- EN: Si Vis Pacem, Para Bellum -->
+    <SiVisPacemParaBellum.label>Si Vis Pacem, Para Bellum</SiVisPacemParaBellum.label>
+    <!-- EN: When colonist is drafted, mental breaks cannot happen. -->
+    <SiVisPacemParaBellum.description>Quando um colono é alistado, colapsos mentais não podem acontecer.</SiVisPacemParaBellum.description>
+
+    <!-- EN: Nos Morituri Te Salutant -->
+    <NosMorituriTeSalutant.label>Nos Morituri Te Salutant</NosMorituriTeSalutant.label>
+    <!-- EN: Mood thoughts for losing colonists, family members etc are halved. -->
+    <NosMorituriTeSalutant.description>Os pensamentos de humor para a perda de colonos, membros da família e outros são reduzidos pela metade.</NosMorituriTeSalutant.description>
+
+    <!-- EN: Non Omnia Possumus Omnes -->
+    <NonOmniaPossumusOmnes.label>Non Omnia Possumus Omnes</NonOmniaPossumusOmnes.label>
+    <!-- EN: Global skill learning speed increased by 5%. -->
+    <NonOmniaPossumusOmnes.description>A velocidade global de aprendizado de habilidades aumenta em 5%.</NonOmniaPossumusOmnes.description>
+
+    <!-- EN: Timendi Causa Est Nescire -->
+    <TimendiCausaEstNescire.label>Timendi Causa Est Nescire</TimendiCausaEstNescire.label>
+    <!-- EN: Research Speed increased by 5%. -->
+    <TimendiCausaEstNescire.description>A velocidade de pesquisa é aumentada em 5%.</TimendiCausaEstNescire.description>
+
+    <!-- EN: Mens Sana In Corpore Sano -->
+    <MensSanaInCorporeSano.label>Mens Sana In Corpore Sano</MensSanaInCorporeSano.label>
+    <!-- EN: Global work speed increased by 10% if in positive mood. -->
+    <MensSanaInCorporeSano.description>A velocidade global de trabalho aumenta em 10% se o colono estiver de bom humor.</MensSanaInCorporeSano.description>
+
+    <!-- EN: Acta Non Verba -->
+    <ActaNonVerba.label>Acta Non Verba</ActaNonVerba.label>
+    <!-- EN: Global work speed increased by 5%. -->
+    <ActaNonVerba.description>A velocidade global de trabalho aumenta em 5%.</ActaNonVerba.description>
+
+    <!-- EN: Natura Non Constristatur -->
+    <NaturaNonConstristatur.label>Natura Non Constristatur</NaturaNonConstristatur.label>
+    <!-- EN: Thoughts on Environment (Hot and Cold) are halved (instead of -8, for example, it's -4). -->
+    <NaturaNonConstristatur.description>Os pensamentos sobre o ambiente (calor e frio) são reduzidos pela metade.</NaturaNonConstristatur.description>
+
+    <!-- EN: Tributum -->
+    <Tributum.label>Tributum</Tributum.label>
+    <!-- EN: Gain annual silver donation equal to 5% of the player wealth. Prices at Central Republic vendors get halved. -->
+    <Tributum.description>Ganhe uma doação anual de prata igual a 5% de sua riqueza. Os preços dos fornecedores da República Central são reduzidos pela metade.</Tributum.description>
+
+    <!-- EN: Auxilia -->
+    <Auxilia.label>Auxilia</Auxilia.label>
+    <!-- EN: Every time a raid occurs, there is a 25% chance a reinforcement legion will show up to help. After that, the reinforcement legion leaves the map. -->
+    <Auxilia.description>Toda vez que uma invasão ocorre, há 25% de chance de uma legião de reforço aparecer para ajudá-lo(a).</Auxilia.description>
+
+    <!-- EN: Profectus -->
+    <Profectus.label>Profectus</Profectus.label>
+    <!-- EN: Every so often a random research project that's achievable by the player (Player meets prerequisites) gets automatically unlocked. -->
+    <Profectus.description>De vez em quando, um projeto de pesquisa aleatório acessível é desbloqueado automaticamente.</Profectus.description>
+
+    <!-- EN: Veni, Vidi, Vici -->
+    <VeniVidiVici.label>Veni, Vidi, Vici</VeniVidiVici.label>
+    <!-- EN: Any pawn from any of the three Republics will now be instantly recruitable. -->
+    <VeniVidiVici.description>Qualquer colono de qualquer uma das três Repúblicas pode ser recrutado instantaneamente.</VeniVidiVici.description>
+
+</LanguageData>

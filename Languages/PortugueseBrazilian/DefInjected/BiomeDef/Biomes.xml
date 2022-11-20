@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: outer space -->
+        <OuterSpaceBiome.label>espaço sideral</OuterSpaceBiome.label>
+        <!-- EN: It's... space. -->
+        <OuterSpaceBiome.description>É... o espaço.</OuterSpaceBiome.description>
+
+</LanguageData>

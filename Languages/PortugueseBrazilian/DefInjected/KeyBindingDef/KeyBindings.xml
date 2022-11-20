@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: Publish log file (hold Ctrl) -->
+        <PublishLogs.label>Publicação de Arquivo de Registro (Ctrl)</PublishLogs.label>
+        <!-- EN: Open log file -->
+        <OpenLogFile.label>Abertura de Arquivo de Registro</OpenLogFile.label>
+        <!-- EN: Restart Rimworld -->
+        <RestartRimworld.label>Reinício do Jogo</RestartRimworld.label>
+        <!-- EN: Open Mod Setting window -->
+        <HLOpenModSettings.label>Abertura das Configurações de Mods.</HLOpenModSettings.label>
+        <!-- EN: Open Mod Update News window -->
+        <HLOpenUpdateNews.label>Abertura de Painel de Atualização de Mods.</HLOpenUpdateNews.label>
+
+    <!-- Vanilla UI Expanded -->
+        <!-- EN: cycle overlay -->
+        <VUIE_CycleOverlay.label>Sobreposição do Ciclo</VUIE_CycleOverlay.label>
+
+</LanguageData>

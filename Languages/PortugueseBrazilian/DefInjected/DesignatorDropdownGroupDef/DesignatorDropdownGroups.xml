@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: wall lamp -->
+        <VFEA_WallLampColoured.label>arandela</VFEA_WallLampColoured.label>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: mosaics -->
+        <VFEC_Mosaics.label>mosaicos</VFEC_Mosaics.label>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: warcasket weapons -->
+        <VFEP_WarcasketWeapon.label>armas de guerrataúde</VFEP_WarcasketWeapon.label>
+
+    <!-- Vanilla Furniture Expanded - Architect -->
+        <!-- EN: stone bridge -->
+        <VFEArch_StoneBridge.label>ponte de pedra</VFEArch_StoneBridge.label>
+
+        <!-- EN: wood floor -->
+        <VFEArch_WoodFloor.label>piso de madeira</VFEArch_WoodFloor.label>:
+
+        <!-- EN: cobblestone floor -->
+        <VFEArch_CobblestoneFloor.label>piso de paralelepípedo</VFEArch_CobblestoneFloor.label>
+
+        <!-- EN: polished stone floor -->
+        <VFEArch_PolishedStoneFloor.label>piso de pedra polida</VFEArch_PolishedStoneFloor.label>
+
+        <!-- EN: stone slabs -->
+        <VFEArch_StoneSlabs.label>lajes de pedra</VFEArch_StoneSlabs.label>
+
+        <!-- EN: picket fence -->
+        <VFEArch_PicketFence.label>cerca de estacas</VFEArch_PicketFence.label>
+
+        <!-- EN: wooden parquet -->
+        <VFEArch_WoodenParquet.label>parquete de madeira</VFEArch_WoodenParquet.label>
+
+        <!-- EN: wooly carpet -->
+        <VFEArch_WoolCarpet.label>carpete de lã</VFEArch_WoolCarpet.label>
+
+        <!-- EN: fine metal floor -->
+        <VFEArch_FineMetalFloor.label>piso fino de metal</VFEArch_FineMetalFloor.label>
+
+        <!-- EN: fine wooden floor -->
+        <VFEArch_FineWoodenFloor.label>piso fino de madeira</VFEArch_FineWoodenFloor.label>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: corporate fine stone tiles -->
+        <VME_Floor_CorporateFineStoneTiles.label>ladrilho corporativo</VME_Floor_CorporateFineStoneTiles.label>
+
+        <!-- EN: shintao fine stone tiles -->
+        <VME_Floor_ShintaoFineStoneTiles.label>ladrilho xintoísta</VME_Floor_ShintaoFineStoneTiles.label>
+
+        <!-- EN: shintao carpets -->
+        <VME_Floor_ShintaoCarpet.label>carpete xintoísta</VME_Floor_ShintaoCarpet.label>
+
+        <!-- EN: shintao fine carpets -->
+        <VME_Floor_ShintaoCarpetFine.label>carpete fino xintoísta</VME_Floor_ShintaoCarpetFine.label>
+
+</LanguageData>

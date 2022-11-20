@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: super jump -->
+        <SuperJump.label>super-pulo</SuperJump.label>
+        <!-- EN: The muscles in this subject’s legs have been enhanced with spindles of dense fibre and their skeleton is more resistant to impact. This allows them to leap dozens of meters and land without injury. -->
+        <SuperJump.description>Os músculos das pernas do sujeito foram potencializados com fusos de fibra e seu esqueleto é mais resistente a impactos.</SuperJump.description>
+
+        <!-- EN: telepathy -->
+        <Telepathy.label>telepatia</Telepathy.label>
+        <!-- EN: The subject is capable of mentally overwhelming a target’s mind. -->
+        <Telepathy.description>O sujeito consegue sobrecarregar telepaticamente a mente de um alvo.</Telepathy.description>
+
+        <!-- EN: psychic shock -->
+        <PsychicShock.label>psicochoque</PsychicShock.label>
+        <!-- EN: The subject is capable of shocking a target’s mind with chaotic images, blocking coherent perception and dropping them into a state of psychic shock. -->
+        <PsychicShock.description>O sujeito consegue eletrocutar a mente de um alvo com imagens caótica bloqueando sua percepção coerente.</PsychicShock.description>
+
+        <!-- EN: invisibility -->
+        <Invisibility.label>invisibilidade</Invisibility.label>
+        <!-- EN: The subject is capable of generating a psychic field around their body that prevents others from seeing them or even acknowledging their existence for a brief time. -->
+        <Invisibility.description>O sujeito consegue gerar um campo psíquico ao redor de seu corpo que previne outros de vê-lo ou ter o conhecimento de sua existência por um curto período de tempo.</Invisibility.description>
+
+        <!-- EN: self-control -->
+        <SelfControl.label>autocontrole</SelfControl.label>
+        <!-- EN: The subject has achieved a mastery of self control, capable of actively deciding on stopping any mental breaks by psychically forcing themself to relive a cherished memory that snaps them back to reality. Afterwards, they will need 2 days to settle on a different memory. -->
+        <SelfControl.description>O sujeito conquistou maestria em autocontrole e consegue de evitar ativamente qualquer colapso mental forçando-se a recordar boas memórias. Posteriormente, o usuário precisará de 2 dias para estabelecer uma memória diferente.</SelfControl.description>
+
+        <!-- EN: overshield -->
+        <Overshield.label>superescudo</Overshield.label>
+        <!-- EN: The subject is capable of projecting a localised, unidirectional skipshield for 30 seconds, sending all incoming ground-level projectiles far away. The process is extremely draining for the user and will take 3 minutes before being able to project again. -->
+        <Overshield.description>O sujeito consegue projetar um escudo localizado unidirecional por 30 segundos que desvia todos os projéteis em sua direção. Como o processo é extremamente exaustivo, levará 3 minutos para o usuário recapacitar a projeção.</Overshield.description>
+
+        <!-- EN: summon lightning -->
+        <SummonLightning.label>relampeio</SummonLightning.label>  
+        <!-- EN: The subject is capable of generating differential-pressure skipgates in the atmosphere to generate a localized flashstorm. The psychically-connected organ is located at the base of the skull and can only be used once every 2 minutes. -->
+        <SummonLightning.description>O sujeito consegue gerar portais dimensionais de pressão diferencial na atmosfera para criar uma tempestade localizada. O órgão responsável fisicamente está localizado na base do crânio e apenas opera a cada 2 minutos.</SummonLightning.description>
+
+        <!-- EN: animal speech -->
+        <AnimalSpeech.label>animalinguismo</AnimalSpeech.label>
+        <!-- EN: The subject is capable of psychically overloading an animal's hormone production once per day, convincing them that they are a member of their species. This either snaps the animal out of a manhunting state or convinces them to join the colony. -->
+        <AnimalSpeech.description>Uma vez ao dia, o sujeito consegue sobrecarregar fisicamente a produção hormonal de um animal. Isso pode tanto parar um estado de caçador de humanos ou convencer o animal a juntar a colônia.</AnimalSpeech.description>
+
+        <!-- EN: empathy -->
+        <Empathy.label>empatia</Empathy.label>
+        <!-- EN: The subject can cause a friendly target’s body to produce a massive amount of endorphins through the emission of hormones. The surge lasts for an entire day and can be done once a day. -->
+        <Empathy.description>O sujeito pode fazer com que o corpo de um aliado produza uma quantidade massiva de endorfina através da emissão de hormônio. O impulso dura um dia inteiro e pode ser realizado uma vez por dia.</Empathy.description>
+
+        <!-- EN: heal others -->
+        <HealOthers.label>cura</HealOthers.label>
+        <!-- EN: The subject can cause a friendly target’s body to rapidly regenerate from any wounds through the emission of hormones and a nutrient-rich mist. -->
+        <HealOthers.description>O sujeito pode fazer com que o corpo de um aliado regenere rapidamente qualquer ferida através da emissão de hormônios e nutrientes.</HealOthers.description>
+
+        <!-- EN: glory kill -->
+        <GloryKill.label>gloricídio</GloryKill.label>
+        <!-- EN: The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland. This surge in strength allows them to randomly attack a nearby enemy and tear them to pieces, however it is so exhausting the user needs to spend 5 days recovering. -->
+        <GloryKill.description>O sujeito consegue induzir seu corpo a produzir uma dose massiva de adrenalina através de glândulas dilatadas, permitindo este a aniquilar inimigos próximos. Entretanto, como o processo é extremamente exaustivo, o sujeito necessita recuperar-se por 5 dias.</GloryKill.description>
+
+        <!-- EN: electro-magnetic pulse -->
+        <ElectromagneticPulse.label>eletromagnetismo</ElectromagneticPulse.label>
+        <!-- EN: The subject has developed a gland that is capable of absorbing surrounding energy and storing it. It also has a nodule protrusion that can be rapidly irritated to generate a burst of electromagnetic radiation. -->
+        <ElectromagneticPulse.description>O sujeito desenvolveu uma glândula capaz de absorver e armazenar energia que pode ser irritada para gerar uma explosão de radiação eletromagnética.</ElectromagneticPulse.description>
+
+        <!-- EN: fire breath -->
+        <FireBreath.label>sopro de fogo</FireBreath.label>
+        <!-- EN: The subject has developed a mucus gland in the back of their throat and sacs of chemfuel in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of flame that sets everything in its path alight. -->
+        <FireBreath.description>O sujeito desenvolveu uma glândula na parte traseira de sua gargante e bolsas de combustível químico em seu tronco. Ao contrair seu tronco enquanto cospe, o usuário dispara um jato de chamas em uma distância média.</FireBreath.description>
+
+        <!-- EN: ice breath -->
+        <IceBreath.label>sopro de gelo</IceBreath.label>
+        <!-- EN: The subject has developed a mucus gland in the back of their throat and sacs of neutroamine in their chest. By contracting their chest when spitting, they shoot out a medium-range jet of liquid that rapidly evaporates, slowing targets and inducing hypothermia. -->
+        <IceBreath.description>O sujeito desenvolveu uma glândula na parte traseira de sua gargante e bolsas de neutroamina em seu tronco. Ao contrair seu tronco enquanto cospe, o usuário dispara um jato líquido altamente volátil em uma distância média, desacelerando alvos e induz hipotermia.</IceBreath.description>
+
+        <!-- EN: laser eyes -->
+        <LaserEyes.label>olhos laser</LaserEyes.label>
+        <!-- EN: The subject is capable of psychically generating two temporary, microscopic skipgates linked to the core of a nearby neutron star. This energy is directed by whatever the subject is looking at, generating a powerful blast of energy over a medium distance. -->
+        <LaserEyes.description>O sujeito consegue fisicamente gerar dois portais dimensionais microscópicos temporários vinculados ao núcleo de uma estrela de nêutrons. A energia do astro é direcionada a qualquer coisa que o usuário estiver olhando, gerando uma explosão poderosa em distância média.</LaserEyes.description>
+
+        <!-- EN: matter phasing -->
+        <MatterPhasing.label>faseamento material</MatterPhasing.label>
+        <!-- EN: The subject is capable of psychically convincing their body that they are able to exist in the same space-time position as another object, specifically they can walk through walls. This can be extremely distressing on the body and can only be done for bursts of 10 seconds with a 60 second intermission. -->
+        <MatterPhasing.description>O sujeito consegue persuadir seu próprio corpo que este existe na mesma posição do espaço-tempo que outros objetos. Isso é extremamente exaustivo ao corpo e apenas pode ser realizado em períodos de 10 segundos com uma intermissão de 1 minuto.</MatterPhasing.description>
+
+        <!-- EN: electricity blast -->
+        <ElectricityBlast.label>explosão elétrica</ElectricityBlast.label>
+        <!-- EN: The subject is capable of producing a massive electrical current in a chain of targets by psychically stripping their bodies of electrons and then directing a focused lightning strike using their own body as a conductor. Very effective against robotic enemies but needs 60 seconds to recharge. -->
+        <ElectricityBlast.description>O sujeito consegue produzir uma corrente elétrica massiva em uma cadeia de alvos removendo elétrons de seus corpos e os utilizando como condutor. Embora seja extremamente efetivo contra inimigos robóticos, necessita de um período de intermissão de 60 segundos.</ElectricityBlast.description>
+
+        <!-- EN: speed burst -->
+        <SpeedBurst.label>explosão de velocidade</SpeedBurst.label>
+        <!-- EN: The subject is able to force themselves into a fight or flight response and receive a massive dose of adrenaline permissible through an enlarged adrenal gland.  This in turn allows them to strike twice as fast in melee combat, as well as quadruples their movement speed. -->
+        <SpeedBurst.description>O sujeito consegue induzir seu corpo a produzir uma dose massiva de adrenalina através de glândulas dilatadas, permitindo este a atacar duas vezes mais rápido em combate corpo a corpo e andar quatro vezes mais rápido.</SpeedBurst.description>
+
+        <!-- EN: acid spitting -->
+        <AcidSpitting.label>cuspácido</AcidSpitting.label>
+        <!-- EN: The subject has developed sacs of concentrated chemicals in their chest. The sacs are connected via tubes to the corners of their mouth and can be squirted out by contracting their chest when spitting, reacting with oxygen and forming globs of caustic jelly. -->
+        <AcidSpitting.description>O sujeito desenvolveu bolsas de químicos concentrados em seu tronco que estão conectadas à boca via tubos. Ao contrair seu tronco enquanto cospe, o usuário dispara glóbulos de geleia ácida.</AcidSpitting.description>
+
+        <!-- EN: fireball -->
+        <Fireball.label>bola de fogo</Fireball.label>
+        <!-- EN: The subject has developed a sac of jellied chemfuel in the palm of their hand along with numerous glands. Once every 30 seconds, these glands extrude a glob of napalm into a closed fist which can then be tossed out to ignite with the air, before landing and setting a small area on fire. -->
+        <Fireball.description>O sujeito desenvolveu diversas glândulas e uma bolsa de combustível químico gelificado na palma de sua mão. A cada 30 segundos, as glândulas descartam um glóbulo dessa substância que pode ser arremessada, inflamando no ar.</Fireball.description>
+
+        <!-- EN: metamorphosis -->
+        <Metamorphosis.label>metamorfose</Metamorphosis.label>
+        <!-- EN: The subject is capable of temporarily exerting a psychic force which forces their body to take the shape of what the mind is convinced it should be. -->
+        <Metamorphosis.description>O sujeito consegue exercer uma força psíquica que obriga seu corpo a metamorfosear em alguma forma.</Metamorphosis.description>
+
+        <!-- EN: plasteel claws -->
+        <PlasteelClaws.label>garras de plastiaço</PlasteelClaws.label>
+        <!-- EN: The subject has developed bone claws sheathed in Plasteel within their hands, which can be extended through vertical slits between the fingers. They serve as fast, reactive and deadly melee weapons. -->
+        <PlasteelClaws.description>O sujeito desenvolveu garras ósseas revestidas em plastiaço em suas mãos, que podem ser extendidas através de frestas entre seus dedos. As garras funcionam como armas corpo a corpo rápidas, reativas e mortais.</PlasteelClaws.description>
+        <!-- EN: Powerful, retractable claws. Deal high damage in melee combat. -->
+        <PlasteelClaws.effectDescription>Garras retráteis poderosas que inferem muito dano em combate corpo a corpo.</PlasteelClaws.effectDescription>
+
+        <!-- EN: unstoppable -->
+        <Unstoppable.label>imparável</Unstoppable.label>
+        <!-- EN: The subject’s brain is no longer able to process the sensation of pain. This allows them to accomplish more but stops their body from being able to shut down from suffering excessive damage until it is destroyed. -->
+        <Unstoppable.description>O cérebro do sujeito não consegue mais processar a sensação da for. Isso o permite lutar mais, porém cessa a capacidade do corpo de desligar-se quando sofre dano excessivo.</Unstoppable.description>
+        <!-- EN: 100% Pain resistance. -->
+        <Unstoppable.effectDescription>100% de resistência à dor.</Unstoppable.effectDescription>
+
+        <!-- EN: eagle eye -->
+        <EagleEye.label>olho de águia</EagleEye.label>
+        <!-- EN: The depth perception in this subject has been remarkably improved alongside their reaction speed, allowing them to rapidly adjust the firing arc to hit targets twice as far away than otherwise possible. -->
+        <EagleEye.description>A percepção de profundidade e velocidade de reação do sujeito foram notavelmente aprimoradas, permitindo o usuário ajustar rapidamente o arco de tiro para atingir alvos a uma distância duas vezes maior.</EagleEye.description>
+        <!-- EN: Ranged weapon range doubled. -->
+        <EagleEye.effectDescription>Alcance de armas de longa distância dobrado.</EagleEye.effectDescription>
+
+        <!-- EN: marksmanship -->
+        <Marksmanship.label>pontaria</Marksmanship.label>
+        <!-- EN: The depth perception in this subject has been remarkably improved alongside their visual acuity, giving them perfect, pinpoint accuracy with ranged weapons. -->
+        <Marksmanship.description>A percepção de profundidade e precisão visual do sujeito foram notavelmente aprimoradas, tornando o usuário perfeitamente preciso com armas à distância.</Marksmanship.description>
+
+        <!-- EN: assassin -->
+        <Assassin.label>assassino</Assassin.label>
+        <!-- EN: The subject has become capable of landing very precise hits even in frantic melee or from very long range, knowing exactly where to aim in order to target the brain or the heart. -->
+        <Assassin.description>O sujeito tornou-se capaz de atingir golpes com extrema precisão em corpo a corpo e à distância, sabendo exatamente onde mirar de modo a atingir o coração ou cérebro do alvo.</Assassin.description>
+        <!-- EN: Doubled melee damage. Doubled Caravan inventory size. Doubled local map inventory size. -->
+        <Assassin.effectDescription>Dano corpo a corpo e tamanho de inventário dobrados.</Assassin.effectDescription>
+
+        <!-- EN: super strength -->
+        <SuperStrength.label>super-força</SuperStrength.label>
+        <!-- EN: The muscles in this subject have been enhanced with spindles of dense fibre, greatly improving their power-to-mass ratio and making them almost twice as strong as before. This doubles their melee damage and both local and caravan inventory capacity. -->
+        <SuperStrength.description>Os músculos do sujeito foram aprimorados com densos fusos de fibra que melhoram consideravelmente a relação potência/massa, tornando-o quase duas vezes mais forte.</SuperStrength.description>
+        <!-- EN: All attacks hit vital organs (brain and heart). -->
+        <SuperStrength.effectDescription>Todos os ataques atingem órgãos vitais (cérebro e coração).</SuperStrength.effectDescription>
+
+        <!-- EN: martial artist -->
+        <MartialArtist.label>artista marcial</MartialArtist.label>
+        <!-- EN: The reaction speed in this subject has been greatly improved alongside their hand-eye coordination, allowing them to always land hits and never be hit in melee engagements. -->
+        <MartialArtist.description>A velocidade de reação e coordenação motora do sujeito foram notavelmente aprimoradas, permitindo o usuário a sempre acertar golpes e nunca ser atingido em lutas corpo a corpo.</MartialArtist.description>
+        <!-- EN: Never misses melee attacks. Always dodges melee attacks. -->
+        <MartialArtist.effectDescription>Nunca erra e sempre esquiva ataques corpo a corpo.</MartialArtist.effectDescription>
+
+        <!-- EN: bulletproof skin -->
+        <BulletproofSkin.label>blindagem</BulletproofSkin.label>
+        <!-- EN: The skin and muscle fibre in this subject have become incredibly dense, preventing them from suffering any cuts. It does nothing to prevent bruising or their bones from breaking. -->
+        <BulletproofSkin.description>As fibras musculares e pele do sujeito tornaram-se incrivelmente densas, prevenindo o usuário de sofrer cortes.</BulletproofSkin.description>
+        <!-- EN: All sharp damage dealt to this pawn changes into blunt damage. -->
+        <BulletproofSkin.effectDescription>Todo dano de corte neste colono é convertido em dano de contusão.</BulletproofSkin.effectDescription>
+
+        <!-- EN: plasteel skeleton -->
+        <PlasteelSkeleton.label>esqueleto de plastiaço</PlasteelSkeleton.label>
+        <!-- EN: The subject’s skeletal structure has been slowly but entirely replaced with Plasteel, with no flaws to be found anywhere. Their bones can be neither cracked nor broken. -->
+        <PlasteelSkeleton.description>A estrutura esquelética do sujeita foi inteiramente substituída por plastiaço, inviabilizando a quebra de seus ossos.</PlasteelSkeleton.description>
+        <!-- EN: Immune to cracks and broken bones. -->
+        <PlasteelSkeleton.effectDescription>Imune à quebra de ossos.</PlasteelSkeleton.effectDescription>
+
+        <!-- EN: self resurrection -->
+        <SelfResurrection.label>auto-ressurreição</SelfResurrection.label>
+        <!-- EN: The subject is practically a zombie, as when their bodily and mental functions cease their body enters suspended animation. Over the course of 3 days, their body will recover from any grave wounds and forcibly resurrect, with the majority of their wounds remaining. -->
+        <SelfResurrection.description>Quando as funções corporais e mentais do sujeito cessam, seu corpo entra em animação suspensa. Em um período de 3 dias, seu corpo se recuperará apenas de feridas graves e ressuscitará.</SelfResurrection.description>
+        <!-- EN: This pawn cannot die, and as long as the body exists, a few moments after dying, the pawn will spring back to live with no wounds at all. -->
+        <SelfResurrection.effectDescription>Este colono não morrerá enquanto seu corpo existir. Após sua morte, o colono ressuscitará sem ferimentos.</SelfResurrection.effectDescription>
+
+        <!-- EN: redundant stomach -->
+        <RedundantStomach.label>estômago redundante</RedundantStomach.label>
+        <!-- EN: The subject’s body has become so adept at extracting energy from the environment that they no longer need to eat. Such energy sources could be toxins, EMI fields, sunlight, static charges or radiation. -->
+        <RedundantStomach.description>O corpo do sujeito tornou-se adepto a extrair energia do ambiente de tal forma que não precisa mais de alimento. As fontes de energia podem ser toxinas, campos IEM, luz solar, cargas estáticas ou radiação.</RedundantStomach.description>
+        <!-- EN: Regenerate hunger passively, removing the need to eat completely. -->
+        <RedundantStomach.effectDescription>Regenera fome passivamente, removendo completamente a necessidade de alimentar-se.</RedundantStomach.effectDescription>
+
+        <!-- EN: darkvision -->
+        <Darkvision.label>visão noturna</Darkvision.label>
+        <!-- EN: The subject develops reflective membranes in the back of their eyes that are also very slightly bioluminescent, and their pupils are converted into vertical slits. This means they can see even in pitch dark as if it was broad daylight. -->
+        <Darkvision.description>O sujeito desenvolve membranas refletivas bioluminescentes em seus olhos e tem suas pupilas convertidas em fendas verticais, permitindo este a ver perfeitamente em total escuridão.</Darkvision.description>
+        <!-- EN: No darkness penalty or mood debuff. -->
+        <Darkvision.effectDescription>Sem penalidade de humor e eficiência no escuro.</Darkvision.effectDescription>
+
+        <!-- EN: regenerating limbs -->
+        <RegeneratingLimbs.label>orgeneração</RegeneratingLimbs.label>
+        <!-- EN: The subject’s body has developed a mutated fungal colony that can replicate missing organs or limbs by “remembering” what the body is missing. -->
+        <RegeneratingLimbs.description>O corpo do sujeito desenvolveu uma colônia fúngica mutante que podem se replicar de modo a reconstituir órgãos ou membros.</RegeneratingLimbs.description>
+        <!-- EN: Missing limbs and organs will grow back after some time has passed. -->
+        <RegeneratingLimbs.effectDescription>Membros e órgãos faltantes se regenerarão após algum tempo.</RegeneratingLimbs.effectDescription>
+
+        <!-- EN: efficient builder -->
+        <EfficientBuilder.label>eficiência</EfficientBuilder.label>
+        <!-- EN: The subject has developed an unusual ability for sensing and predicting stresses in structures, allowing them to save a quarter of the resources half of the time without risking structural integrity. -->
+        <EfficientBuilder.description>O sujeito desenvolveu uma habilidade incomum de sentir e prever tensões em estruturas, às vezes, permitindo este a economizar um quarto dos recursos sem prejudicar a integridade estrutural.</EfficientBuilder.description>
+        <!-- EN: 50% chance that building something will refund 25% resources used to build it. -->
+        <EfficientBuilder.effectDescription>50% de chance de reembolsar 25% dos recursos ao construir algo.</EfficientBuilder.effectDescription>
+
+        <!-- EN: masterful craft -->
+        <MasterfulCraft.label>magistratura</MasterfulCraft.label>
+        <!-- EN: The subject’s tactile sensitivity and hand-eye-coordination has skyrocketed, giving them superb handicraft skills and consistently being able to put out items 2 grades higher than similar workers. -->
+        <MasterfulCraft.description>A sensibilidade tátil e coordenação motora do sujeito foram extremamente amplificados, tornando este capaz de consistentemente produzir itens de 2 categorias mais elevadas.</MasterfulCraft.description>
+        <!-- EN: Items crafted are always 2 quality levels higher, capped at Legendary. -->
+        <MasterfulCraft.effectDescription>Itens produzidos são sempre de 2 qualidades superiores, limitado a lendário.</MasterfulCraft.effectDescription>
+
+        <!-- EN: cold resistance -->
+        <ColdResistance.label>resistência ao frio</ColdResistance.label>
+        <!-- EN: The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the cold. They function by overstimulating the body’s muscles to generate heat, a feeling similar to twitching almost non-stop that they learn to ignore even if it happens during sleep. -->
+        <ColdResistance.description>O sujeito desenvolveu pequenos nódulos em seu corpo que estimulam os músculos para produzir calor, prevenindo este de sentir frio.</ColdResistance.description>
+        <!-- EN: Will never suffer hypothermia. Does not suffer Slept in Cold debuff. -->
+        <ColdResistance.effectDescription>Nunca sofrerá efeitos negativos relacionados ao frio.</ColdResistance.effectDescription>
+
+        <!-- EN: heat resistance -->
+        <HeatResistance.label>resistência ao calor</HeatResistance.label>
+        <!-- EN: The subject has developed tiny nodules all over their body that are capable of preventing them from suffering the heat. They function by overstimulating the body’s sweat glands and as such they will never suffer from heatstroke, they cannot be set on fire and ignore the disgust of being Sweaty. -->
+        <HeatResistance.description>O sujeito desenvolveu pequenos nódulos em seu corpo que estimulam as glândulas de suor, prevenindo este de sentir calor.</HeatResistance.description>
+        <!-- EN: Will never suffer heat stroke. Does not suffer Sweaty debuff. Cannot be set on fire. -->
+        <HeatResistance.effectDescription>Nunca sofrerá efeitos negativos relacionados ao calor.</HeatResistance.effectDescription>
+
+        <!-- EN: celebrity -->
+        <Celebrity.label>celebridade</Celebrity.label>
+        <!-- EN: The subject’s social awareness and general likeability has become almost legendary. They always know the right thing to say and no one can get over just how gosh darned likeable they are. -->
+        <Celebrity.description>A percepção social e simpatia do sujeito tornaram-se lendárias.</Celebrity.description>
+        <!-- EN: All social interactions are Kind Words. People tend to like Celebrity pawn 2x as much. -->
+        <Celebrity.effectDescription>Todas as interações sociais são gentis.</Celebrity.effectDescription>
+
+        <!-- EN: master hacker -->
+        <MasterHacker.label>mestre hacker</MasterHacker.label>
+        <!-- EN: The subject has developed an unusual mental alacrity when it comes to resolving computer code. When forced to explain, they can only respond “it just works”. This allows the subject to conduct all the hacking operations instantaneously. -->
+        <MasterHacker.description>O sujeito desenvolveu um estado mental de entusiasmo incomum quando este entra em contato com códigos de computadores, permitindo este a conduzir operações de hackeamento instantaneamente.</MasterHacker.description>
+        <!-- EN: All hacking operations initiated by this pawn are instant. -->
+        <MasterHacker.effectDescription>Todas as operações de hackeamento são instantâneas.</MasterHacker.effectDescription>
+
+        <!-- EN: loner -->
+        <Loner.label>solidão</Loner.label>
+        <!-- EN: The subject is capable of attaining a form of meditative Zen when they are by themselves, able to replenish Recreation if in solitude. -->
+        <Loner.description>O sujeito consegue alcançar estado meditativo quando está sozinho, o que repõe sua necessidade de recreação.</Loner.description>
+        <!-- EN: Recreation replenishes if alone in the room. -->
+        <Loner.effectDescription>A recreação reabastece-se automaticamente se sozinho em um cômodo.</Loner.effectDescription>
+
+        <!-- EN: blast resistance -->
+        <BlastResistance.label>resistência a explosões</BlastResistance.label>
+        <!-- EN: The subject’s skin has changed to be non-Newtonian, hardening when exposed to extremely high impact velocities such as grenade shrapnel. -->
+        <BlastResistance.description>A pele do sujeito alterou-se de forma a ser não newtoniana, endurecendo quando exposta a velocidades de alto impacto.</BlastResistance.description>
+        <!-- EN: Takes no damage from explosions. -->
+        <BlastResistance.effectDescription>Não recebe danos de explosões.</BlastResistance.effectDescription>
+
+        <!-- EN: promising candidate -->
+        <PromisingCandidate.label>super-genoma</PromisingCandidate.label>
+        <!-- EN: For a lack of better term, the subject’s genes have been perfected for genetic alterations. They are completely malleable and can be improved without issue or risk of the critical experiment failure. -->
+        <PromisingCandidate.description>Os genes do sujeitos foram aperfeiçoados, sendo completamente maleáveis, capazes de serem alterados sem qualquer risco.</PromisingCandidate.description>
+        <!-- EN: Chances of Experiment failed are always reduced to 0%. -->
+        <PromisingCandidate.effectDescription>A chance de falha em operações de cápsulas de costura genética é reduzida para 0%.</PromisingCandidate.effectDescription>
+
+        <!-- EN: super learning -->
+        <SuperLearning.label>superaprendizagem</SuperLearning.label>
+        <!-- EN: The subject’s brain has become hyper elastic, allowing them to rapidly learn new skills with almost no effort. -->
+        <SuperLearning.description>O cérebro do sujeito tornou-se hiper-elástico, permitindo este a aprender rapidamente novas habilidade.</SuperLearning.description>
+
+        <!-- EN: toxic resistance -->
+        <ToxicResistance.label>resistência tóxica</ToxicResistance.label>
+        <!-- EN: The subject has become a bastion against chemical effects. Any toxins that are absorbed are immediately processed by their liver, rendering them harmless and thus full immunity to toxic effects. -->
+        <ToxicResistance.description>O sujeito tornou-se um bastião contra efeitos químicas, processando qualquer toxinas que são absorvidas imediatamente.</ToxicResistance.description>
+
+        <!-- EN: psychic resistance -->
+        <PsychicResistance.label>resistência física</PsychicResistance.label>
+        <!-- EN: The subject has become a fortress against psychic attacks. Any psychic effects are blocked due to organic webbing that surrounds and isolates their brain. -->
+        <PsychicResistance.description>O sujeito tornou-se uma fortaleza contra ataques psíquicos, bloqueando qualquer efeito através de encadeamento orgânico que isola seu cérebro.</PsychicResistance.description>
+
+        <!-- EN: regeneration -->
+        <Regeneration.label>regeneração</Regeneration.label>
+        <!-- EN: The cellular regeneration rate in this subject has been greatly improved, allowing them to heal from almost any trauma as long as the limbs are still present. -->
+        <Regeneration.description>A taxa de regeneração celular do sujeito foi notavelmente aprimorada, permitindo este a curar-se de qualquer dano contando que seus membros estejam presentes.</Regeneration.description>
+        <!-- EN: All wounds heal themselves quite quickly. Cannot regrow limbs. -->
+        <Regeneration.effectDescription>Todos os ferimentos são regenerados rapidamente.</Regeneration.effectDescription>
+
+        <!-- EN: super speed -->
+        <SuperSpeed.label>super-velocidade</SuperSpeed.label>
+        <!-- EN: The muscles and reaction speed in this subject has been improved, allowing them to move 50% faster and be able to use this increase in speed without crashing into things. -->
+        <SuperSpeed.description>Os músculos e velocidade de reação do sujeito foram aprimorados, permitindo este a mover duas vezes mais rápido.</SuperSpeed.description>
+
+        <!-- EN: genius intellect -->
+        <GeniusIntellect.label>suprintelecto</GeniusIntellect.label>
+        <!-- EN: The subject’s mental processing speed has been vastly improved, resulting in excellent deductive and analytical abilities. This allows them to research new or existing ideas at triple the speed compared to before. -->
+        <GeniusIntellect.description>A velocidade de processamento mental do sujeito foi vastamente aprimorada, o que resulta em excelentes habilidades analíticas e dedutivas. Isso o permite a pesquisar tópicos três vezes mais rápido que antes.</GeniusIntellect.description>
+
+        <!-- EN: weapons expert -->
+        <WeaponExpert.label>armaria</WeaponExpert.label>
+        <!-- EN: The reaction speed in this subject has been improved alongside their hand-eye coordination, halving their weapon warmup and cooldown. -->
+        <WeaponExpert.description>A velocidade de reação e coordenação motora do sujeito foram aprimoradas, permitindo este a diminuir o tempo de recarga de armas de longa distância.</WeaponExpert.description>
+
+        <!-- EN: blind -->
+        <Blind.label>cegueira</Blind.label>
+        <!-- EN: The center in the subject’s brain that is responsible for processing optical data has been stunted, causing them to be fully blind despite having functional eyesight. -->
+        <Blind.description>A parte do cérebro do sujeito responsável por processar dados óticos foi atrofiada, tornando o portador totalmente cego.</Blind.description>
+        <!-- EN: Sight capped at 0%. -->
+        <Blind.effectDescription>Visão limitada a 0%.</Blind.effectDescription>
+
+        <!-- EN: deaf -->
+        <Deaf.label>surdez</Deaf.label>
+        <!-- EN: The center in the subject’s brain that is responsible for processing auditory data has been stunted, causing them to be fully deaf despite having functional inner ear canals. -->
+        <Deaf.description>A parte do cérebro do sujeito responsável por processar dados auditivos foi atrofiada, tornando o portador totalmente surdo.</Deaf.description>
+        <!-- EN: Hearing capped at 0%. -->
+        <Deaf.effectDescription>Audição limitada a 0%.</Deaf.effectDescription>
+
+        <!-- EN: mute -->
+        <Mute.label>mudez</Mute.label>
+        <!-- EN: The subject has developed a mental block and can no longer create sounds with their mouth or vocal chords, eliminating all forms of speech. -->
+        <Mute.description>O sujeito desenvolveu um bloqueio mental e não é mais capaz de produzir sons com suas cordas vocais.</Mute.description>
+        <!-- EN: Talking capped at 0%. -->
+        <Mute.effectDescription>Fala limitada a 0%.</Mute.effectDescription>
+
+        <!-- EN: psychological paralysis -->
+        <PsychologicalParalysis.label>parálise psicológica</PsychologicalParalysis.label>
+        <!-- EN: The center of the subject’s brain responsible for motor control in the legs has become stunted, effectively rendering them a paraplegic. -->
+        <PsychologicalParalysis.description>A parte do cérebro do sujeito responsável por processar controles motores das pernas foi atrofiada, tornando o portador paraplégico.</PsychologicalParalysis.description>
+        <!-- EN: Pawn cannot walk. -->
+        <PsychologicalParalysis.effectDescription>Incapaz de andar.</PsychologicalParalysis.effectDescription>
+
+        <!-- EN: pain hypersensitivity -->
+        <PainHypersensitivity.label>hipersensitividade à dor</PainHypersensitivity.label>
+        <!-- EN: The center in the subject’s brain that is responsible for pain sensation has been overdeveloped, causing even a papercut to feel like their finger is being chewed on by a wild animal. -->
+        <PainHypersensitivity.description>A parte do cérebro do sujeito responsável por processar a sensação da dor foi superdesenvolvida, fazendo que um corte de papel seja tão doloroso quanto a mordida de um animal selvagem.</PainHypersensitivity.description>
+        <!-- EN: Pain multiplied by 300%. -->
+        <PainHypersensitivity.effectDescription>Dor multiplicada em 300%.</PainHypersensitivity.effectDescription>
+
+        <!-- EN: prideful -->
+        <Prideful.label>arrogância</Prideful.label>
+        <!-- EN: The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take rejection well, sometimes violently so. Being rejected can cause a murderer mental state against the love interest. -->
+        <Prideful.description>O sujeito desenvolveu um senso de orgulho devido à sua terapia genética, fazendo com que este não receba bem rejeições.</Prideful.description>
+        <!-- EN: When rebuffed, has a 10% chance to go into murderer mental state against the person who rebuffed them. -->
+        <Prideful.effectDescription>Quando rejeitado, tem 10% de chance de entrar em uma raiva assassina.</Prideful.effectDescription>
+
+        <!-- EN:bloodlust -->
+        <Bloodlust.label>sede de sangue</Bloodlust.label>
+        <!-- EN: The subject’s hormone glands have become hypersensitive, and causing the death of someone causes a massive spike in dopamine and feels incredibly pleasurable, effectively becoming an addict to murder. This in turn can lead to one kill becoming a long chain of berserk rage-induced slaughter. -->
+        <Bloodlust.description>As glândulas hormonais do sujeito tornaram-se hipersensíveis, fazendo com que a morte de alguém causasse uma explosão de dopamina, efetivamente viciando este em assassinatos.</Bloodlust.description>
+        <!-- EN: Upon killing, might enter a berserk mental state (50% chance). -->
+        <Bloodlust.effectDescription>Ao matar, tem 50% de chance de enfurecer-se.</Bloodlust.effectDescription>
+
+        <!-- EN: paranoid -->
+        <Paranoid.label>paranoia</Paranoid.label>
+        <!-- EN: The subject has developed a massive case of homesickness, and only ever feels safe whenever they’re inside what they consider home. -->
+        <Paranoid.description>O sujeito desenvolveu um caso massivo de "saudades de casa", apenas sentindo-se seguro dentro do que é considerado seu lar.</Paranoid.description>
+        <!-- EN: If outside of the Home area, pawn suffers a mood debuff. -->
+        <Paranoid.effectDescription>Se fora da área de casa, sofre uma penalidade no humor.</Paranoid.effectDescription>
+
+        <!-- EN: audacious -->
+        <Audacious.label>audácia</Audacious.label>
+        <!-- EN: The subject has developed a complete disregard for any authority except their own and will only do whatever they want to. -->
+        <Audacious.description>O sujeito desenvolveu um completo desrespeito por qualquer autoridade exceto a sua própria.</Audacious.description>
+        <!-- EN: Pawn cannot be TOLD to do something (right clicking and forcing tasks disabled). -->
+        <Audacious.effectDescription>Não pode ser comandado.</Audacious.effectDescription>
+
+        <!-- EN: callous -->
+        <Callous.label>insensibilidade</Callous.label>
+        <!-- EN: The subject has become callous and disregards the sanctity of life, butchering former colleagues or even friendly banter. As long as they have somewhere to sit, they don’t care. -->
+        <Callous.description>O sujeito tornou-se insensível, desrespeitando a santidade da vida através do esquartejamento de antigos companheiros.</Callous.description>
+        <!-- EN: Mood not affected by sight of death, unburied colonists, prisoners sold into slavery, organ harvesting, butchering of humans or friendly chats. Essentially a vanilla psychopath. -->
+        <Callous.effectDescription>O humor não é afetado por mortes, cadáveres, escravos, etc.</Callous.effectDescription>
+
+        <!-- EN: immature -->
+        <Immature.label>imaturidade</Immature.label>
+        <!-- EN: The subject has lost several methods of expressing their emotions, only able to get their point across by throwing tantrums. -->
+        <Immature.description>O sujeito tornou-se incapaz de expressar suas emoções, apenas capaz de o realizar por chiliques.</Immature.description>
+        <!-- EN: Majority of mental breaks are Tantrums. -->
+        <Immature.effectDescription>A maioria dos colapsos mentais são irritações.</Immature.effectDescription>
+
+        <!-- EN: easily bored -->
+        <EasilyBored.label>tédio</EasilyBored.label>
+        <!-- EN: The subject’s cognitive functions have become over developed and require twice the rate of recreational stimulation to delay mind-numbing boredom. -->
+        <EasilyBored.description>As funções cognitivas do sujeito foram superdesenvolvidas, requerendo o dobro de estimulação recreacional.</EasilyBored.description>
+        <!-- EN: Pawn Recreation drops at 2x the speed. -->
+        <EasilyBored.effectDescription>A recreação do colono decai duas vezes mais rápido.</EasilyBored.effectDescription>
+
+        <!-- EN: easily enraged -->
+        <EasilyEnraged.label>irritação</EasilyEnraged.label>
+        <!-- EN: The subject has developed a possibly misplaced sense of pride due to their gene therapy and doesn't take criticism well, causing them to fall into a psychotic rage every time they are slighted. -->
+        <EasilyEnraged.description>O sujeito desenvolveu um senso de orgulho devido à sua terapia genética, fazendo com que este não receba bem críticas.</EasilyEnraged.description>
+        <!-- EN: Pawn will initiate social fights every time they’re slighted. -->
+        <EasilyEnraged.effectDescription>Sempre que for menosprezado, iniciará uma briga social.</EasilyEnraged.effectDescription>
+
+        <!-- EN: sickly -->
+        <Sickly.label>debilidade</Sickly.label>
+        <!-- EN: The subject’s immune response has been ruined, requiring frequent trips to the doctor as they constantly gain new illnesses just as they’ve recovered from the previous one. -->
+        <Sickly.description>A resposta imunológica do sujeito ruiu, fazendo com que este adoeça constantemente.</Sickly.description>
+        <!-- EN: Becomes ill very often. -->
+        <Sickly.effectDescription>Adoece muito frequentemente.</Sickly.effectDescription>
+
+        <!-- EN: zealot -->
+        <Zealot.label>fanatismo</Zealot.label>
+        <!-- EN: The subject has developed an intense state of zealotry, that all who are against the will of the colony do not deserve to live. -->
+        <Zealot.description>O sujeito desenvolveu-se em um estado intenso de fanatismo, fazendo com que este aniquile tudo e todos que estiverem contra à vontade da colônia.</Zealot.description>
+        <!-- EN: Will instantly kill all prisoners. -->
+        <Zealot.effectDescription>Matará instantaneamente todos os prisioneiros.</Zealot.effectDescription>
+
+        <!-- EN: lustful -->
+        <Lustful.label>lascívia</Lustful.label>
+        <!-- EN: The subject’s hormone production has gone into overdrive, causing them to constantly make revolting remarks or gestures and generating bad blood between them and their colleagues. -->
+        <Lustful.description>A produção hormonal do sujeito entrou em sobrecarga, fazendo com que este constantemente revolte-se.</Lustful.description>
+        <!-- EN: Constantly flirts with others, but Flirts are always rejected. This drops relations with the flirt subjects. -->
+        <Lustful.effectDescription>Flerta constantemente, mas sempre é rejeitado.</Lustful.effectDescription>
+
+        <!-- EN: hallucinations -->
+        <Hallucinations.label>alucinação</Hallucinations.label>
+        <!-- EN: The subject regularly suffers from auditory and optical hallucinations, completely convinced they are seeing something that isn’t there. Sometimes they try to make them go away by firing their weapons at them. -->
+        <Hallucinations.description>O sujeito sofre regularmente de alucinações óticas e auditivas, completamente convencido de que são reais.</Hallucinations.description>
+        <!-- EN: Casually enters a silent mental break called ‘Seeing things’, where they will walk around aimlessly, potentially pulling out a weapon and firing once or twice. Such a mental break only lasts a short while and will NOT produce a letter announcing it. -->
+        <Hallucinations.effectDescription>Casualmente entra em um estado mental de alucinação em que vaga sem rumo e dispara alguns tiros.</Hallucinations.effectDescription>
+
+        <!-- EN: unstable -->
+        <Unstable.label>instabilidade</Unstable.label>
+        <!-- EN: The subject’s brain has become highly tuned to psychic wavelengths, making them vulnerable to Mechanoid psychic attacks but also a far more capable psycaster. -->
+        <Unstable.description>O cérebro do sujeito tornou-se altamente sensível a ondas psíquicas, vulnerabilizando este a ataques mentais mecanoides.</Unstable.description>
+
+        <!-- EN: extremely flammable -->
+        <ExtremelyFlammable.label>inflamabilidade</ExtremelyFlammable.label>
+        <!-- EN: The subject’s entire body has become highly flammable, with the slightest spark being able to send them bursting into flames. -->
+        <ExtremelyFlammable.description>O corpo do sujeito tornou-se altamente inflamável.</ExtremelyFlammable.description>
+
+        <!-- EN: toxin intolerance -->
+        <ToxinIntolerance.label>intolerância tóxica</ToxinIntolerance.label>
+        <!-- EN: The subject’s organs are constantly lacking certain minerals (e.g. Iodine) and freely absorb them from the air, even if they're irradiated or bound to toxic chemicals. -->
+        <ToxinIntolerance.description>Os órgãos do sujeito estão constantemente em falta de alguns minerais, absorvendo qualquer ar, mesmo irradiado, em busca desses nutrientes.</ToxinIntolerance.description>
+
+        <!-- EN: heat intolerance -->
+        <HeatIntolerance.label>intolerância ao calor</HeatIntolerance.label>
+        <!-- EN: The subject can no longer sweat properly, meaning they overheat very easily as their body can no longer cool itself. This lowers their maximum comfortable temperature by 10 degrees. -->
+        <HeatIntolerance.description>O sujeito não consegue mais suar propriamente, fazendo com que o corpo deste facilmente sobreaqueça.</HeatIntolerance.description>
+
+        <!-- EN: cold intolerance -->
+        <ColdIntolerance.label>intolerância ao frio</ColdIntolerance.label>
+        <!-- EN: The subject’s muscles no longer shiver involuntarily, meaning they can no longer warm themselves when exposed to cold temperatures. This raises their minimum comfortable temperature by 10 degrees. -->
+        <ColdIntolerance.description>Os músculos do sujeito não tremem mais involuntariamente, fazendo com que seu corpo não consiga se esquentar.</ColdIntolerance.description>
+
+        <!-- EN: immunological disorder -->
+        <ImmunologicalDisorder.label>imunocaos</ImmunologicalDisorder.label>
+        <!-- EN: The subject’s immune system has been ruined, requiring them to take frequent medicine and receive constant medical care, as even the sniffles could kill them. -->
+        <ImmunologicalDisorder.description>O sistema imune do sujeito ruiu, requerendo que este receba cuidados médicos constantes.</ImmunologicalDisorder.description>
+
+        <!-- EN: hypermetabolism -->
+        <Hypermetabolism.label>hipermetabolismo</Hypermetabolism.label>
+        <!-- EN: The subject’s metabolism has gone into overdrive, requiring them to eat twice as much food as they did before even if they don’t need that much extra energy. -->
+        <Hypermetabolism.description>O metabolismo do sujeito entrou em sobrecarga, requerendo que este coma duas vezes mais que outras pessoas.</Hypermetabolism.description>
+
+        <!-- EN: finicky -->
+        <Finicky.label>exigência</Finicky.label>
+        <!-- EN: The subject has become incredibly fussy, demanding they pay extraneous attention to the most inconsequential of tasks and taking three times longer than usual. -->
+        <Finicky.description>O sujeito tornou-se incrivelmente exigente, fazendo com que este demande extrema atenção às tarefas mais inconsequentes.</Finicky.description>
+
+        <!-- EN: unsure -->
+        <Unsure.label>incerteza</Unsure.label>
+        <!-- EN: The subject has become incredibly doubtful and suffers frequent dizzy spells, taking twice as long to acquire targets with their weapons as they re-check that they’re ready to fire. -->
+        <Unsure.description>O sujeito tornou-se incrivelmente incerto e sofre frequentemente de vertigens, fazendo com que este demore o dobro do tempo para atirar com armas.</Unsure.description>
+
+        <!-- EN: always knows better -->
+        <AlwaysKnowsBetter.label>ultra-sapiência</AlwaysKnowsBetter.label>
+        <!-- EN: The subject has developed a somewhat misplaced sense of pride due to their gene therapy and refuses to learn anything new, stating that they know better than everyone and no one can improve perfection. -->
+        <AlwaysKnowsBetter.description>O sujeito desenvolveu um senso de orgulho devido à sua terapia genética, fazendo com que este recuse-se a aprender qualquer coisa nova.</AlwaysKnowsBetter.description>
+
+        <!-- EN: bigot -->
+        <Bigot.label>intolerância</Bigot.label>
+        <!-- EN: The subject has become bigotted, believing the rule of their community is absolute and refuses to deal with prisoners unless they’re at the end of a knife or gun. -->
+        <Bigot.description>O sujeito tornou-se intolerante, acreditando que a ordem de sua comunidade é absoluta ao recusar-se a lidar com prisioneiros.</Bigot.description>
+
+        <!-- EN: conscientious objector -->
+        <ConscientiousObjector.label>objeto de consciência</ConscientiousObjector.label>
+        <!-- EN: The subject has become incredibly conscientious and refuses to use weapons or even defend themselves in the face of violence. -->
+        <ConscientiousObjector.description>O sujeito tornou-se incrivelmente consciente, recusando-se a usar armas em qualquer situação.</ConscientiousObjector.description>
+
+        <!-- EN: egotistical -->
+        <Egotistical.label>egoísmo</Egotistical.label>
+        <!-- EN: The subject has developed a massive ego and refuses to do any and all work, viewing it as beneath them. -->
+        <Egotistical.description>O sujeito desenvolveu um ego massivo, recusando-se a fazer qualquer trabalho.</Egotistical.description>
+
+</LanguageData>

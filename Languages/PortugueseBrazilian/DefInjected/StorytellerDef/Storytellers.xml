@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: Alfred Ancient -->
+        <VFEA_AlfredAncient.label>Alfredo Ancestral</VFEA_AlfredAncient.label>
+        <!-- EN: Alfred creates story events on a steadily increasing curve of threat and reward. He forces you into a low population colony to help build up the characters, but rewards you with no skill loss what-so-ever. -->
+        <VFEA_AlfredAncient.description>O Alfredo manipula eventos da história em uma curva progressivamente crescente de perigo e recompensa. Com a finalidade de desenvolver seus colonos, ele te forçará a possuir uma colônia com uma população baixa enquanto o(a) recompensa com a desabilitação da perda de habilidade.</VFEA_AlfredAncient.description>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: Neron Neolithic -->
+        <VFEC_NeronNeolithic.label>Nero Neolítico</VFEC_NeronNeolithic.label>
+        <!-- EN: Neron Neolithic believes that to be worthy, one needs to be tested in fire. He will bombard you with a constant stream of threats and only give you a short moment to catch your breath, before striking you once again. Most factions and all research will be limited to the pre-medieval era. -->
+        <VFEC_NeronNeolithic.description>O Nero acredita que para ser digno é preciso ser testado no fogo. Ele o(a) bombardeará com um fluxo constante de ameaças e apenas o(a) fornecerá um breve momento para recuperar o fôlego, antes de atacá-lo(a) novamente. A maioria das facções e todas as pesquisas serão limitadas à era pré-medieval.</VFEC_NeronNeolithic.description>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: Empress Evil -->
+        <VFEI_Empress.label>Imperatriz Impiedosa</VFEI_Empress.label>
+        <!-- EN: Empress Evil does not believe in the concept of good. Driven by primal rage and savage instinct, it will force you to constantly be on your toes, throwing harder and harder tasks until you give up and perish. No good events can happen, ever. -->
+        <VFEI_Empress.description>A Imperatriz não acredita no conceito de bom. Impulsionada pela raiva primordial e pelo instinto selvagem, ela o(a) forçará a estar constantemente alerta, realizando tarefas cada vez mais difíceis até que você desista e morra. Nenhum bom evento acontecerá, nunca.</VFEI_Empress.description>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: Igor Invader -->
+        <VFEMech-IgorInvader.label>Igor Invasor</VFEMech-IgorInvader.label>
+        <!-- EN: Igor Invader holds no regard for boring stories about thriving colonies. The only story worth telling is the one of combat. He will send raids every two or three days, rewarding players for dealing with them swiftly, and punishing player for any losses. This storyteller doubles all damage types, but also warns you about upcoming raids 12 hours before they happen. -->
+        <VFEMech-IgorInvader.description>O Igor não se importa com histórias chatas sobre colônias prósperas. A única história que vale a pena contar é a do combate. Ele enviará invasões a cada dois ou três dias, recompensando os jogadores por lidar com elas rapidamente e punindo-os por quaisquer perdas. Este narrador dobra todas as categorias de dano, mas também avisa sobre as próximas invasões 12 horas antes de acontecerem.</VFEMech-IgorInvader.description>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: Maynard Medieval -->
+        <VFEM_Maynard.label>Mair Medieval</VFEM_Maynard.label>
+        <!-- EN: Maynard likes to tell tales of heroism and hardship - of prosperity and peril. Most factions and all research will be limited to the medieval and pre-medieval eras. -->
+        <VFEM_Maynard.description>O Mair gosta de contar histórias de heroísmo e trabalho - de prosperidade e perigo. A maioria das facções e todas as pesquisas serão limitadas às eras medieval e pré-medieval.</VFEM_Maynard.description>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: Casper Cursed -->
+        <VFEP_Casper.label>Amadeu Amaldiçoado</VFEP_Casper.label>
+        <!-- EN: Casper has been traveling the known space for years. He is cursed, and the best way to lift off a curse is to share it with others. He will reward you the more curses you take upon yourself. -->
+        <VFEP_Casper.description>O Amadeu é amaldiçoado e já sofreu diversos acidentes por isso. Entretanto, ele descobriu que a melhor maneira de acabar com uma maldição é compartilhá-la com os outros. Dessa forma, ele o(a) recompensará quanto mais maldições você estiver sob.</VFEP_Casper.description>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: Diego Dire -->
+        <VFES_DD.label>Diego Direto</VFES_DD.label>
+        <!-- EN: Diego Dire believes the best stories are the violent ones, facing unfavorable odds and going down in a blaze of glory with exploding muffalos and drunks. -->
+        <VFES_DD.description>O Diego acredita que as melhores histórias são as violentas, com adversidades desfavoráveis e labaredas de glória.</VFES_DD.description>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: Freya Fierce -->
+        <VFEV-Freya.label>Frida Feroz</VFEV-Freya.label>
+        <!-- EN: Freya believes in the importance of showing your strength and using force to show others their place. Every year after the first year, at the start of Aprimay your settlement will become increasingly unhappy until you send your colonists on an adventure or a raid, and bring back the spoils of war. -->
+        <VFEV-Freya.description>A Frida acredita que as melhores histórias são as de incursões e glória. Todos os anos após o primeiro, no início de Abrimaio, seus colonos ficarão cada vez mais infelizes até que você envie-os em uma aventura ou ataque e traga de volta os despojos da guerra.</VFEV-Freya.description>
+
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <!-- EN: Perry Persistent -->
+        <VSE_PerryPersistent.label>Peri Persistente</VSE_PerryPersistent.label>
+        <!-- EN: Perry Persistent conveys a story the same way he handles his investigations - with determination and attention to details. He will constantly keep you on your toes, as every day can bring you to the end of his investigation. -->
+        <VSE_PerryPersistent.description>O Peri transmite uma história da mesma maneira que lida com suas investigações - com determinação e atenção aos detalhes. Ele o(a) manterá constantemente alerta, pois todos os dias podem levá-lo(a) ao fim de sua investigação.</VSE_PerryPersistent.description>
+
+    <!-- Vanilla Storytellers Expanded - Winston Waves -->
+        <!-- EN: Winston Wave -->
+        <VSE_WinstonWave.label>Odair Obstinado</VSE_WinstonWave.label>
+        <!-- EN: Winston is a battle-hardened combat expert, and he believes that through combat, one can find themselves for who they really are. Every day you will be attacked by enemy waves increasing in size, but you will be rewarded for each victory. -->
+        <VSE_WinstonWave.description>O Odair é um veterano de guerra que acredita apenas ser possível encontrar seu eu verdadeiro através do combate. Diariamente, você será atacado(a) por ondas crescentes de inimigos, mas também será recompensado(a) por cada vitória.</VSE_WinstonWave.description>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: Sara Spacer -->
+        <Sara.label>Eila Espacial</Sara.label>
+        <!-- EN: Sara knows that a colony's true power comes from technology. She'll ignore wealth when calculating threat strength, instead considering your colony's research progress and number of high-tech buildings. -->
+        <Sara.description>A Eila sabe que o verdadeiro poder de uma colônia vem da tecnologia. Ela ignorará a riqueza ao calcular a força de uma ameaça, considerando apenas o progresso da pesquisa de sua colônia e o número de edifícios de alta tecnologia.</Sara.description>
+
+</LanguageData>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Brewing Expanded -->
+        <!-- EN: caffeine -->
+        <VBE_Caffeine.label>cafeína</VBE_Caffeine.label>
+
+        <!-- EN: tobacco -->
+        <VBE_Tobacco.label>tabaco</VBE_Tobacco.label>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: opium -->
+        <VFEC_Opium.label>ópio</VFEC_Opium.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: royal jelly -->
+        <VFEI_RoyalJellyChemical.label>geleia real</VFEI_RoyalJellyChemical.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: active mechanites -->
+        <GR_ElectroEgg.label>mecanitos ativos</GR_ElectroEgg.label>
+
+        <!-- EN: Featherdust -->
+        <GR_Featherdust.label>pópena</GR_Featherdust.label>
+
+</LanguageData>

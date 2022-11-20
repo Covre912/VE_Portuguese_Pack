@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: recruit attempt -->
+        <VFEA_RecruitAttempt.label>tentativa de recrutamento</VFEA_RecruitAttempt.label>
+        
+        <!-- EN: interrogation -->
+        <VFEA_Interrogation.label>interrogação</VFEA_Interrogation.label>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: gained favor of all senators -->
+        <VFEC_GainedFavor.label>ganhou favor de todos os senadores</VFEC_GainedFavor.label>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: crew member died -->
+        <VFEP_CrewmanDied.label>camarada morreu</VFEP_CrewmanDied.label>
+    
+    <!-- Vanilla Furniture Expanded - Security-->
+        <!-- EN: attacked by artillery -->
+        <VFES_ArtilleryStrike.label>atacado por artilharia</VFES_ArtilleryStrike.label>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: installed non-natural prosthetic -->
+        <VME_InstalledNonNaturalProsthetic.label>prótese não natural instalada</VME_InstalledNonNaturalProsthetic.label>
+
+        <!-- EN: defeat -->
+        <VME_Defeat.label>derrota</VME_Defeat.label>
+
+        <!-- EN: defeat -->
+        <VME_SecondDefeat.label>derrota</VME_SecondDefeat.label>
+
+        <!-- EN: dumb labor -->
+        <VME_DumbLabor.label>trabalho simples</VME_DumbLabor.label>
+
+        <!-- EN: firefighting -->
+        <VME_Firefighting.label>combate a incêndios</VME_Firefighting.label>
+
+        <!-- EN: ate insect jelly -->
+        <VME_AteInsectJelly.label>comeu geleia de inseto</VME_AteInsectJelly.label>
+
+        <!-- EN: insectoid killed -->
+        <VME_InsectoidKilled.label>insetoide morto</VME_InsectoidKilled.label>
+
+        <!-- EN: killing with fire -->
+        <VME_KillingWithFire.label>assassinato com fogo</VME_KillingWithFire.label>
+
+        <!-- EN: ate animal products -->
+        <VME_AteAnimalProducts.label>consumiu produtos animais</VME_AteAnimalProducts.label>
+
+        <!-- EN: mechanoid destroyed -->
+        <VME_MechanoidDestroyed.label>mecanoide destruído</VME_MechanoidDestroyed.label>
+
+        <!-- EN: converting a prisoner -->
+        <VME_ConvertAPrisoner.label>converter um prisioneiro</VME_ConvertAPrisoner.label>
+
+        <!-- EN: attacked animal -->
+        <VME_AttackedAnimal.label>atacou animal</VME_AttackedAnimal.label>
+
+        <!-- EN: having fun -->
+        <VME_HavingFun.label>divertir-se</VME_HavingFun.label>
+
+        <!-- EN: bought slave -->
+        <VME_BoughtSlave.label>comprou escravo</VME_BoughtSlave.label>
+
+        <!-- EN: attacked innocent people -->
+        <VME_AttackedInnocent.label>atacou pessoas inocentes</VME_AttackedInnocent.label>
+
+        <!-- EN: ate simple dessert -->
+        <VME_AteSimpleDessert.label>comeu sobremesa simples</VME_AteSimpleDessert.label>
+
+        <!-- EN: ate fine dessert -->
+        <VME_AteFineDessert.label>comeu sobremesa boa</VME_AteFineDessert.label>
+
+        <!-- EN: ate lavish dessert -->
+        <VME_AteLavishDessert.label>comeu sobremesa luxuosa</VME_AteLavishDessert.label>
+
+        <!-- EN: ate gourmet dessert -->
+        <VME_AteGourmetDessert.label>comeu sobremesa gourmet</VME_AteGourmetDessert.label>
+
+        <!-- EN: ate chocolate -->
+        <VME_AteChocolateSweetTeeth.label>comeu chocolate</VME_AteChocolateSweetTeeth.label>
+
+        <!-- EN: fishing -->
+        <VME_Fishing.label>pesca</VME_Fishing.label>
+
+        <!-- EN: read book -->
+        <VME_ReadBook.label>leu livro</VME_ReadBook.label>
+
+        <!-- EN: wrote book -->
+        <VME_WroteBook.label>escreveu livro</VME_WroteBook.label>
+
+    <!-- Vanilla Outposts Expanded -->
+        <!-- EN: join hunting outpost -->
+        <VOE_JoinHuntingOutpost.label>juntou-se a posto avançado de caça</VOE_JoinHuntingOutpost.label>
+        <!-- EN: join a hunting outpost -->
+        <VOE_JoinHuntingOutpost.description>juntou-se a posto avançado de caça</VOE_JoinHuntingOutpost.description>
+
+        <!-- EN: join logging outpost -->
+        <VOE_JoinLoggingOutpost.label>juntou-se a posto avançado de exploração madeireira</VOE_JoinLoggingOutpost.label>
+        <!-- EN: join a logging outpost -->
+        <VOE_JoinLoggingOutpost.description>juntou-se a posto avançado de exploração madeireira</VOE_JoinLoggingOutpost.description>
+
+    <!-- Vanilla Trading Expanded -->
+        <!-- EN: indebted to their bank -->
+        <VTE_Indebted.label>endividado com banco</VTE_Indebted.label>
+
+</LanguageData>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Backgrounds Expanded -->
+        <!-- EN: Adventure -->
+        <VBE_Adventure.label>Aventura</VBE_Adventure.label>
+        <!-- EN: Splash screen created for Noobert's Youtube Series. -->
+        <VBE_Adventure.description>Um ecrã que retrata um planeta clássico.</VBE_Adventure.description>
+
+        <!-- EN: Archotech -->
+        <VBE_Archotech.label>Arquotecnicidade</VBE_Archotech.label>
+        <!-- EN: Splash screen depicting an archotech, a god-like super-intelligence. -->
+        <VBE_Archotech.description>Um ecrã que retrata um arquotécnico, uma super-inteligência divina.</VBE_Archotech.description>
+
+        <!-- EN: Aurora -->
+        <VBE_Aurora.label>Aurora</VBE_Aurora.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Vikings. -->
+        <VBE_Aurora.description>Um ecrã que retrata um planeta iluminado por uma aurora.</VBE_Aurora.description>
+
+        <!-- EN: Desolation -->
+        <VBE_Desolation.label>Desolação</VBE_Desolation.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Classical. -->
+        <VBE_Desolation.description>Um ecrã que retrata um planeta desolado.</VBE_Desolation.description>
+
+        <!-- EN: Destruction -->
+        <VBE_Destruction.label>Destruição</VBE_Destruction.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Mechanoids. -->
+        <VBE_Destruction.description>Um ecrã que retrata um planeta devastado por destruição.</VBE_Destruction.description>
+
+        <!-- EN: Emptiness -->
+        <VBE_Emptiness.label>Inanidade</VBE_Emptiness.label>
+        <!-- EN: Splash screen depicting an empty, barren world. -->
+        <VBE_Emptiness.description>Um ecrã que retrata um planeta coberto por inanidade.</VBE_Emptiness.description>
+
+        <!-- EN: Experiment -->
+        <VBE_Experiment.label>Ciência</VBE_Experiment.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Arkology. -->
+        <VBE_Experiment.description>Um ecrã que retrata um planeta repleto por ciência.</VBE_Experiment.description>
+
+        <!-- EN: Forgotten -->
+        <VBE_Forgotten.label>Ampulheta</VBE_Forgotten.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Ancients. -->
+        <VBE_Forgotten.description>Um ecrã que retrata um planeta devastado pelo tempo.</VBE_Forgotten.description>
+
+        <!-- EN: Giant -->
+        <VBE_Giant.label>Engenho</VBE_Giant.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Androids. -->
+        <VBE_Giant.description>Um ecrã que retrata um planeta dominado por máquinas.</VBE_Giant.description>
+
+        <!-- EN: Greed -->
+        <VBE_Greed.label>Ganância</VBE_Greed.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Hunters. -->
+        <VBE_Greed.description>Um ecrã que retrata um planeta devastado pela ambição.</VBE_Greed.description>
+
+        <!-- EN: Infestation -->
+        <VBE_Infestation.label>Infestação</VBE_Infestation.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Insectoids. -->
+        <VBE_Infestation.description>Um ecrã que retrata um planeta infestado por insetoides.</VBE_Infestation.description>
+
+        <!-- EN: Opportunity -->
+        <VBE_Opportunity.label>Oportunidade</VBE_Opportunity.label>
+        <!-- EN: Splash screen depicting an uninhabitable, red world. -->
+        <VBE_Opportunity.description>Um ecrã que retrata um planeta não habitado.</VBE_Opportunity.description>
+
+        <!-- EN: Pilgrimage -->
+        <VBE_Pilgrimage.label>Peregrinação</VBE_Pilgrimage.label>
+        <!-- EN: Splash screen created for Vanilla Religions Expanded, before I was hired to work on Ideology. -->
+        <VBE_Pilgrimage.description>Um ecrã que retrata um planeta populado por peregrinos.</VBE_Pilgrimage.description>
+
+        <!-- EN: Serenity -->
+        <VBE_Serenity.label>Serenidade</VBE_Serenity.label>
+        <!-- EN: Splash screen created for Vanilla Storytellers Expanded - Perry Persistent. -->
+        <VBE_Serenity.description>Um ecrã que retrata um planeta iluminado por serenidade.</VBE_Serenity.description>
+
+        <!-- EN: Turmoil -->
+        <VBE_Turmoil.label>Caos</VBE_Turmoil.label>
+        <!-- EN: Splash screen created for Vanilla Storytellers Expanded - Oskar Obnoxious. -->
+        <VBE_Turmoil.description>Um ecrã que retrata um planeta que ruiu ao caos.</VBE_Turmoil.description>
+
+        <!-- EN: Exploration -->
+        <VBE_Exploration.label>Exploração</VBE_Exploration.label>
+        <!-- EN: Splash screen created for an unannounced project by ISOREX and Kikohi. -->
+        <VBE_Exploration.description>Um ecrã que retrata um planeta prestes a ser explorado.</VBE_Exploration.description>
+
+        <!-- EN: Awakening -->
+        <VBE_Awakening.label>Despertar</VBE_Awakening.label>
+        <!-- EN: Splash screen created for Vanilla Factions Expanded - Archotech. -->
+        <VBE_Awakening.description>Um ecrã que retrata um planeta prestes a despertar.</VBE_Awakening.description>
+
+        <!-- EN: Save our Ship 2 -->
+        <SOS_Splash.label>Combate Espacial</SOS_Splash.label>
+        <!-- EN: Splash Screen Included in SoS2 -->
+        <SOS_Splash.description>Um ecrã que retrata uma batalha espacial.</SOS_Splash.description>
+
+</LanguageData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: forced faction relations -->
+        <VFEC_ForcedFactionGoodwill.label>Relações Forçadas de Facção</VFEC_ForcedFactionGoodwill.label>
+
+        <!-- EN: pawn arrive method -->
+        <VFEC_PlayerPawnsArriveMethodEdge.label>Método de Chegada do Colono</VFEC_PlayerPawnsArriveMethodEdge.label>
+
+        <!-- EN: add custom structure to starting map -->
+        <VFEC_AddStartingStructure.label>Estrutura no Mapa Inicial</VFEC_AddStartingStructure.label>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: reconnect all power buildings in the starting map -->
+        <VFEC_ReconnectAllPowerBuildings.label>Reconexão das Estruturas Elétricas</VFEC_ReconnectAllPowerBuildings.label>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: start with senators -->
+        <VFEC_Senators.label>Início com Senadores</VFEC_Senators.label>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: start with pack animal(s) -->
+        <VFEM_StartingPackAnimal.label>Animal(is) Inicial(is) de Carga</VFEM_StartingPackAnimal.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: generate settlement -->
+        <ScenPart_Settlement.label>Geração de Assentamento</ScenPart_Settlement.label>
+
+        <!-- EN: pawn arrive method -->
+        <ScenPart_PlayerPawnsArriveMethodEdge.label>Método de Chegada do Colono</ScenPart_PlayerPawnsArriveMethodEdge.label>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: arrival method -->
+        <VFEP_PlayerPawnsArriveCrash.label>Método de Chegada</VFEP_PlayerPawnsArriveCrash.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: start in space -->
+        <StartInSpace.label>Início no Espaço</StartInSpace.label>
+
+        <!-- EN: start in space (dungeon) -->
+        <StartInSpaceDungeon.label>Início no Espaço (Masmorra)</StartInSpaceDungeon.label>
+
+        <!-- EN: start in afterlife vault -->
+        <AfterlifeVault.label>Início em Cápsula Póstuma</AfterlifeVault.label>
+
+</LanguageData>

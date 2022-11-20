@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Australia -->
+        <!-- EN: platypus -->
+        <AEXP_PlatypusBody.label>ornitorrinco</AEXP_PlatypusBody.label>
+        <!-- EN: left lung -->
+        <AEXP_PlatypusBody.corePart.parts.3.customLabel>pulmão esquerdo</AEXP_PlatypusBody.corePart.parts.3.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_PlatypusBody.corePart.parts.4.customLabel>pulmão direito</AEXP_PlatypusBody.corePart.parts.4.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_PlatypusBody.corePart.parts.5.customLabel>rim esquerdo</AEXP_PlatypusBody.corePart.parts.5.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_PlatypusBody.corePart.parts.6.customLabel>rim direito</AEXP_PlatypusBody.corePart.parts.6.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.1.customLabel>olho esquerdo</AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.2.customLabel>olho direito</AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.3.customLabel>orelha esquerda</AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.4.customLabel>orelha direita</AEXP_PlatypusBody.corePart.parts.8.parts.0.parts.4.customLabel>
+        <!-- EN: front left leg -->
+        <AEXP_PlatypusBody.corePart.parts.9.customLabel>perna dianteira esquerda</AEXP_PlatypusBody.corePart.parts.9.customLabel>
+        <!-- EN: front left paw -->
+        <AEXP_PlatypusBody.corePart.parts.9.parts.0.customLabel>pata dianteira esquerda</AEXP_PlatypusBody.corePart.parts.9.parts.0.customLabel>
+        <!-- EN: front right leg -->
+        <AEXP_PlatypusBody.corePart.parts.10.customLabel>perna dianteira direita</AEXP_PlatypusBody.corePart.parts.10.customLabel>
+        <!-- EN: front right spur -->
+        <AEXP_PlatypusBody.corePart.parts.10.parts.0.customLabel>pata dianteira direita</AEXP_PlatypusBody.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: rear left leg -->
+        <AEXP_PlatypusBody.corePart.parts.11.customLabel>perna traseira esquerda</AEXP_PlatypusBody.corePart.parts.11.customLabel>
+        <!-- EN: rear left spur -->
+        <AEXP_PlatypusBody.corePart.parts.11.parts.0.customLabel>pata traseira esquerda</AEXP_PlatypusBody.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: rear right leg -->
+        <AEXP_PlatypusBody.corePart.parts.12.customLabel>perna traseira direita</AEXP_PlatypusBody.corePart.parts.12.customLabel>
+        <!-- EN: rear right spur -->
+        <AEXP_PlatypusBody.corePart.parts.12.parts.0.customLabel>pata traseira direita</AEXP_PlatypusBody.corePart.parts.12.parts.0.customLabel>
+
+        <!-- EN: tailed biped -->
+        <AEXP_TailedBiped.label>bípede com cauda</AEXP_TailedBiped.label>
+        <!-- EN: left lung -->
+        <AEXP_TailedBiped.corePart.parts.4.customLabel>pulmão esquerdo</AEXP_TailedBiped.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_TailedBiped.corePart.parts.5.customLabel>pulmão direito</AEXP_TailedBiped.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_TailedBiped.corePart.parts.6.customLabel>rim esquerdo</AEXP_TailedBiped.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_TailedBiped.corePart.parts.7.customLabel>rim direito</AEXP_TailedBiped.corePart.parts.7.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_TailedBiped.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</AEXP_TailedBiped.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_TailedBiped.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</AEXP_TailedBiped.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <AEXP_TailedBiped.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</AEXP_TailedBiped.corePart.parts.9.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <AEXP_TailedBiped.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</AEXP_TailedBiped.corePart.parts.9.parts.0.parts.4.customLabel>
+        <!-- EN: left arm -->
+        <AEXP_TailedBiped.corePart.parts.10.customLabel>braço esquerdo</AEXP_TailedBiped.corePart.parts.10.customLabel>
+        <!-- EN: right arm -->
+        <AEXP_TailedBiped.corePart.parts.11.customLabel>braço direito</AEXP_TailedBiped.corePart.parts.11.customLabel>
+        <!-- EN: left leg -->
+        <AEXP_TailedBiped.corePart.parts.12.customLabel>perna esquerda</AEXP_TailedBiped.corePart.parts.12.customLabel>
+        <!-- EN: right leg -->
+        <AEXP_TailedBiped.corePart.parts.13.customLabel>perna direita</AEXP_TailedBiped.corePart.parts.13.customLabel>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: insectoid hulk body -->
+        <VAE_InsectoidHulkBody.label>brutamonte insetoide</VAE_InsectoidHulkBody.label>
+        <!-- EN: left elytra -->
+        <VAE_InsectoidHulkBody.corePart.parts.0.customLabel>élitro esquerdo</VAE_InsectoidHulkBody.corePart.parts.0.customLabel>
+        <!-- EN: right elytra -->
+        <VAE_InsectoidHulkBody.corePart.parts.1.customLabel>élitro direito</VAE_InsectoidHulkBody.corePart.parts.1.customLabel>
+        <!-- EN: left eye -->
+        <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.1.customLabel>olho esquerdo</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.2.customLabel>olho direito</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.2.customLabel>
+        <!-- EN: left antenna -->
+        <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.3.customLabel>antena esquerda</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.3.customLabel>
+        <!-- EN: right antenna -->
+        <VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.4.customLabel>antena direita</VAE_InsectoidHulkBody.corePart.parts.4.parts.0.parts.4.customLabel>
+        <!-- EN: left leg -->
+        <VAE_InsectoidHulkBody.corePart.parts.5.customLabel>perna esquerda</VAE_InsectoidHulkBody.corePart.parts.5.customLabel>
+        <!-- EN: right leg -->
+        <VAE_InsectoidHulkBody.corePart.parts.6.customLabel>perna direita</VAE_InsectoidHulkBody.corePart.parts.6.customLabel>
+        <!-- EN: right arm -->
+        <VAE_InsectoidHulkBody.corePart.parts.7.customLabel>braço direito</VAE_InsectoidHulkBody.corePart.parts.7.customLabel>
+        <!-- EN: left arm -->
+        <VAE_InsectoidHulkBody.corePart.parts.8.customLabel>braço esquerdo</VAE_InsectoidHulkBody.corePart.parts.8.customLabel>
+
+        <!-- EN: wyvern -->
+        <VAE_WyvernBody.label>serpe</VAE_WyvernBody.label>
+        <!-- EN: left wing -->
+        <VAE_WyvernBody.corePart.parts.1.customLabel>asa esquerda</VAE_WyvernBody.corePart.parts.1.customLabel>
+        <!-- EN: right wing -->
+        <VAE_WyvernBody.corePart.parts.2.customLabel>asa direita</VAE_WyvernBody.corePart.parts.2.customLabel>
+        <!-- EN: left lung -->
+        <VAE_WyvernBody.corePart.parts.6.customLabel>pulmão esquerdo</VAE_WyvernBody.corePart.parts.6.customLabel>
+        <!-- EN: right lung -->
+        <VAE_WyvernBody.corePart.parts.7.customLabel>pulmão direito</VAE_WyvernBody.corePart.parts.7.customLabel>
+        <!-- EN: left kidney -->
+        <VAE_WyvernBody.corePart.parts.8.customLabel>rim esquerdo</VAE_WyvernBody.corePart.parts.8.customLabel>
+        <!-- EN: right kidney-->
+        <VAE_WyvernBody.corePart.parts.9.customLabel>rim direito</VAE_WyvernBody.corePart.parts.9.customLabel>
+        <!-- EN: left eye -->
+        <VAE_WyvernBody.corePart.parts.11.parts.0.parts.1.customLabel>olho esquerdo</VAE_WyvernBody.corePart.parts.11.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <VAE_WyvernBody.corePart.parts.11.parts.0.parts.2.customLabel>olho direito</VAE_WyvernBody.corePart.parts.11.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <VAE_WyvernBody.corePart.parts.11.parts.0.parts.3.customLabel>orelha esquerda</VAE_WyvernBody.corePart.parts.11.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <VAE_WyvernBody.corePart.parts.11.parts.0.parts.4.customLabel>orelha direita</VAE_WyvernBody.corePart.parts.11.parts.0.parts.4.customLabel>
+        <!-- EN: left leg -->
+        <VAE_WyvernBody.corePart.parts.12.customLabel>perna esquerda</VAE_WyvernBody.corePart.parts.12.customLabel>
+        <!-- EN: left claws -->
+        <VAE_WyvernBody.corePart.parts.12.parts.0.customLabel>garras esquerdas</VAE_WyvernBody.corePart.parts.12.parts.0.customLabel>
+        <!-- EN: right leg -->
+        <VAE_WyvernBody.corePart.parts.13.customLabel>perna direita</VAE_WyvernBody.corePart.parts.13.customLabel>
+        <!-- EN: right claws -->
+        <VAE_WyvernBody.corePart.parts.13.parts.0.customLabel>garras direitas</VAE_WyvernBody.corePart.parts.13.parts.0.customLabel>
+
+        <!-- EN: arachnid body -->
+        <VAE_Arachnid.label>aracnídeo</VAE_Arachnid.label>
+        <!-- EN: left first eye -->
+        <VAE_Arachnid.corePart.parts.3.parts.0.parts.1.customLabel>primeiro olho esquerdo</VAE_Arachnid.corePart.parts.3.parts.0.parts.1.customLabel>
+        <!-- EN: left second eye -->
+        <VAE_Arachnid.corePart.parts.3.parts.0.parts.2.customLabel>segundo olho esquerdo</VAE_Arachnid.corePart.parts.3.parts.0.parts.2.customLabel>
+        <!-- EN: left third eye -->
+        <VAE_Arachnid.corePart.parts.3.parts.0.parts.3.customLabel>terceiro olho esquerdo</VAE_Arachnid.corePart.parts.3.parts.0.parts.3.customLabel>
+        <!-- EN: right first eye -->
+        <VAE_Arachnid.corePart.parts.3.parts.0.parts.4.customLabel>primeiro olho direito</VAE_Arachnid.corePart.parts.3.parts.0.parts.4.customLabel>
+        <!-- EN: right second eye -->
+        <VAE_Arachnid.corePart.parts.3.parts.0.parts.5.customLabel>segundo olho direito</VAE_Arachnid.corePart.parts.3.parts.0.parts.5.customLabel>
+        <!-- EN: right third eye -->
+        <VAE_Arachnid.corePart.parts.3.parts.0.parts.6.customLabel>terceiro olho direito</VAE_Arachnid.corePart.parts.3.parts.0.parts.6.customLabel>
+        <!-- EN: left first leg -->
+        <VAE_Arachnid.corePart.parts.4.customLabel>primeira perna esquerda</VAE_Arachnid.corePart.parts.4.customLabel>
+        <!-- EN: right first leg -->
+        <VAE_Arachnid.corePart.parts.5.customLabel>primeira perna direita</VAE_Arachnid.corePart.parts.5.customLabel>
+        <!-- EN: left second leg -->
+        <VAE_Arachnid.corePart.parts.6.customLabel>segunda perna esquerda</VAE_Arachnid.corePart.parts.6.customLabel>
+        <!-- EN: right second leg -->
+        <VAE_Arachnid.corePart.parts.7.customLabel>segunda perna direita</VAE_Arachnid.corePart.parts.7.customLabel>
+        <!-- EN: left third leg -->
+        <VAE_Arachnid.corePart.parts.8.customLabel>terceira perna esquerda</VAE_Arachnid.corePart.parts.8.customLabel>
+        <!-- EN: right third leg -->
+        <VAE_Arachnid.corePart.parts.9.customLabel>terceira perna direita</VAE_Arachnid.corePart.parts.9.customLabel>
+        <!-- EN: left fourth leg -->
+        <VAE_Arachnid.corePart.parts.10.customLabel>quarta perna esquerda</VAE_Arachnid.corePart.parts.10.customLabel>
+        <!-- EN: right fourth leg -->
+        <VAE_Arachnid.corePart.parts.11.customLabel>quarta perna direita</VAE_Arachnid.corePart.parts.11.customLabel>
+
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- EN: great ape -->
+        <AEXP_GreatApe_Bonobo.label>macaco grande</AEXP_GreatApe_Bonobo.label>
+        <!-- EN: left clavicle -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.0.customLabel>clavícula esquerda</AEXP_GreatApe_Bonobo.corePart.parts.0.customLabel>
+        <!-- EN: right clavicle -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.1.customLabel>clavícula direita</AEXP_GreatApe_Bonobo.corePart.parts.1.customLabel>
+        <!-- EN: left lung -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.8.customLabel>pulmão esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.8.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.9.customLabel>pulmão direito</AEXP_GreatApe_Bonobo.corePart.parts.9.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.10.customLabel>rim esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.10.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.11.customLabel>rim direito</AEXP_GreatApe_Bonobo.corePart.parts.11.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.1.customLabel>olho esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.2.customLabel>olho direito</AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.3.customLabel>orelha esquerda</AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.4.customLabel>orelha direita</AEXP_GreatApe_Bonobo.corePart.parts.13.parts.0.parts.4.customLabel>
+        <!-- EN: left shoulder -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.customLabel>ombro esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.customLabel>
+        <!-- EN: left arm -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.customLabel>braço esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.customLabel>
+        <!-- EN: left humerus -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.0.customLabel>úmero esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.0.customLabel>
+        <!-- EN: left radius -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.1.customLabel>rádio esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.1.customLabel>
+        <!-- EN: left hand -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.customLabel>mão esquerda</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.customLabel>
+        <!-- EN: left pinky -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.0.customLabel>mindinho esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.0.customLabel>
+        <!-- EN: left ring finger -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.1.customLabel>dedo anelar esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.1.customLabel>
+        <!-- EN: left middle finger -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.2.customLabel>dedo médio esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.2.customLabel>
+        <!-- EN: left index finger -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.3.customLabel>dedo indicador esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.3.customLabel>
+        <!-- EN: left thumb -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.4.customLabel>polegar esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.14.parts.0.parts.2.parts.4.customLabel>
+        <!-- EN: right shoulder -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.customLabel>ombro direito</AEXP_GreatApe_Bonobo.corePart.parts.15.customLabel>
+        <!-- EN: right arm -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.customLabel>braço direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.customLabel>
+        <!-- EN: right humerus -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.0.customLabel>úmero direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.0.customLabel>
+        <!-- EN: right radius -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.1.customLabel>rádio direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.1.customLabel>
+        <!-- EN: right hand -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.customLabel>mão direita</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.customLabel>
+        <!-- EN: right pinky -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>mindinho direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>
+        <!-- EN: right ring finger -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>dedo anelar direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>
+        <!-- EN: right middle finger -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>dedo médio direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>
+        <!-- EN: right index finger -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>dedo indicador direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>
+        <!-- EN: right thumb -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>polegar direito</AEXP_GreatApe_Bonobo.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>
+        <!-- EN: left leg -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.customLabel>perna esquerda</AEXP_GreatApe_Bonobo.corePart.parts.16.customLabel>
+        <!-- EN: left femur -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.0.customLabel>fêmur esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.0.customLabel>
+        <!-- EN: left tibia -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.1.customLabel>tíbia esquerda</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.1.customLabel>
+        <!-- EN: left foot -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.customLabel>pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.customLabel>
+        <!-- EN: left little toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.0.customLabel>dedinho do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.0.customLabel>
+        <!-- EN: left fourth toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.1.customLabel>quarto dedo do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.1.customLabel>
+        <!-- EN: left middle toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.2.customLabel>dedo médio do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.2.customLabel>
+        <!-- EN: left second toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.3.customLabel>segundo dedo do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.3.customLabel>
+        <!-- EN: left big toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.4.customLabel>dedão do pé esquerdo</AEXP_GreatApe_Bonobo.corePart.parts.16.parts.2.parts.4.customLabel>
+        <!-- EN: right leg -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.customLabel>perna direita</AEXP_GreatApe_Bonobo.corePart.parts.17.customLabel>
+        <!-- EN: right femur -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.0.customLabel>fêmur direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.0.customLabel>
+        <!-- EN: right tibia -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.1.customLabel>tíbia direita</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.1.customLabel>
+        <!-- EN: right foot -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.customLabel>pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.customLabel>
+        <!-- EN: right little toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.0.customLabel>dedinho do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.0.customLabel>
+        <!-- EN: right fourth toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.1.customLabel>quarto dedo do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.1.customLabel>
+        <!-- EN: right middle toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.2.customLabel>dedo médio do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.2.customLabel>
+        <!-- EN: right second toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.3.customLabel>segundo dedo do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.3.customLabel>
+        <!-- EN: right big toe -->
+        <AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.4.customLabel>dedão do pé direito</AEXP_GreatApe_Bonobo.corePart.parts.17.parts.2.parts.4.customLabel>
+
+    <!-- Vanilla Animals Expanded - Ice Sheet -->
+        <!-- EN: simple pinniped -->
+        <AEXP_SimplePinniped.label>pinípede simples</AEXP_SimplePinniped.label>
+        <!-- EN: left lung -->
+        <AEXP_SimplePinniped.corePart.parts.4.customLabel>pulmão esquerdo</AEXP_SimplePinniped.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_SimplePinniped.corePart.parts.5.customLabel>pulmão direito</AEXP_SimplePinniped.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_SimplePinniped.corePart.parts.6.customLabel>rim esquerdo</AEXP_SimplePinniped.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_SimplePinniped.corePart.parts.7.customLabel>rim direito</AEXP_SimplePinniped.corePart.parts.7.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</AEXP_SimplePinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+        <!-- EN: left fore-flipper -->
+        <AEXP_SimplePinniped.corePart.parts.10.customLabel>nadadeira esquerda</AEXP_SimplePinniped.corePart.parts.10.customLabel>
+        <!-- EN: right fore-flipper -->
+        <AEXP_SimplePinniped.corePart.parts.11.customLabel>nadadeira direita</AEXP_SimplePinniped.corePart.parts.11.customLabel>
+
+        <!-- EN: tusked pinniped -->
+        <AEXP_TuskedPinniped.label>pinípede com presa</AEXP_TuskedPinniped.label>
+        <!-- EN: left lung -->
+        <AEXP_TuskedPinniped.corePart.parts.4.customLabel>pulmão esquerdo</AEXP_TuskedPinniped.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_TuskedPinniped.corePart.parts.5.customLabel>pulmão direito</AEXP_TuskedPinniped.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_TuskedPinniped.corePart.parts.6.customLabel>rim esquerdo</AEXP_TuskedPinniped.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_TuskedPinniped.corePart.parts.7.customLabel>rim direito</AEXP_TuskedPinniped.corePart.parts.7.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.4.customLabel>
+        <!-- EN: left tusk -->
+        <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>presa esquerda</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.0.customLabel>
+        <!-- EN: right tusk -->
+        <AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>presa direita</AEXP_TuskedPinniped.corePart.parts.9.parts.0.parts.6.parts.1.customLabel>
+        <!-- EN: left fore-flipper -->
+        <AEXP_TuskedPinniped.corePart.parts.10.customLabel>nadadeira esquerda</AEXP_TuskedPinniped.corePart.parts.10.customLabel>
+        <!-- EN: right fore-flipper -->
+        <AEXP_TuskedPinniped.corePart.parts.11.customLabel>nadadeira direita</AEXP_TuskedPinniped.corePart.parts.11.customLabel>
+
+    <!-- Vanilla Animals Expanded - Tropical Rainforest -->
+        <!-- EN: great ape -->
+        <AEXP_GreatApe.label>macaco grande</AEXP_GreatApe.label>
+        <!-- EN: left clavicle -->
+        <AEXP_GreatApe.corePart.parts.0.customLabel>clavícula esquerda</AEXP_GreatApe.corePart.parts.0.customLabel>
+        <!-- EN: right clavicle -->
+        <AEXP_GreatApe.corePart.parts.1.customLabel>clavícula direita</AEXP_GreatApe.corePart.parts.1.customLabel>
+        <!-- EN: left lung -->
+        <AEXP_GreatApe.corePart.parts.8.customLabel>pulmão esquerdo</AEXP_GreatApe.corePart.parts.8.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_GreatApe.corePart.parts.9.customLabel>pulmão direito</AEXP_GreatApe.corePart.parts.9.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_GreatApe.corePart.parts.10.customLabel>rim esquerdo</AEXP_GreatApe.corePart.parts.10.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_GreatApe.corePart.parts.11.customLabel>rim direito</AEXP_GreatApe.corePart.parts.11.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_GreatApe.corePart.parts.13.parts.0.parts.1.customLabel>olho esquerdo</AEXP_GreatApe.corePart.parts.13.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_GreatApe.corePart.parts.13.parts.0.parts.2.customLabel>olho direito</AEXP_GreatApe.corePart.parts.13.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <AEXP_GreatApe.corePart.parts.13.parts.0.parts.3.customLabel>orelha esquerda</AEXP_GreatApe.corePart.parts.13.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <AEXP_GreatApe.corePart.parts.13.parts.0.parts.4.customLabel>orelha direita</AEXP_GreatApe.corePart.parts.13.parts.0.parts.4.customLabel>
+        <!-- EN: left shoulder -->
+        <AEXP_GreatApe.corePart.parts.14.customLabel>ombro esquerdo</AEXP_GreatApe.corePart.parts.14.customLabel>
+        <!-- EN: left arm -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.customLabel>braço esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.customLabel>
+        <!-- EN: left humerus -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.0.customLabel>úmero esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.parts.0.customLabel>
+        <!-- EN: left radius -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.1.customLabel>rádio esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.parts.1.customLabel>
+        <!-- EN: left hand -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.customLabel>mão esquerda</AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.customLabel>
+        <!-- EN: left pinky -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.0.customLabel>mindinho esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.0.customLabel>
+        <!-- EN: left ring finger -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.1.customLabel>dedo anelar esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.1.customLabel>
+        <!-- EN: left middle finger -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.2.customLabel>dedo médio esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.2.customLabel>
+        <!-- EN: left index finger -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.3.customLabel>dedo indicador esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.3.customLabel>
+        <!-- EN: left thumb -->
+        <AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.4.customLabel>polegar esquerdo</AEXP_GreatApe.corePart.parts.14.parts.0.parts.2.parts.4.customLabel>
+        <!-- EN: right shoulder -->
+        <AEXP_GreatApe.corePart.parts.15.customLabel>ombro direito</AEXP_GreatApe.corePart.parts.15.customLabel>
+        <!-- EN: right arm -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.customLabel>braço direito</AEXP_GreatApe.corePart.parts.15.parts.0.customLabel>
+        <!-- EN: right humerus -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.0.customLabel>úmero direito</AEXP_GreatApe.corePart.parts.15.parts.0.parts.0.customLabel>
+        <!-- EN: right radius -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.1.customLabel>rádio direito</AEXP_GreatApe.corePart.parts.15.parts.0.parts.1.customLabel>
+        <!-- EN: right hand -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.customLabel>mão direita</AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.customLabel>
+        <!-- EN: right pinky -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>mindinho direito</AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.0.customLabel>
+        <!-- EN: right ring finger -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>dedo anelar direito</AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.1.customLabel>
+        <!-- EN: right middle finger -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>dedo médio direito</AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.2.customLabel>
+        <!-- EN: right index finger -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>dedo indicador direito</AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.3.customLabel>
+        <!-- EN: right thumb -->
+        <AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>polegar direito</AEXP_GreatApe.corePart.parts.15.parts.0.parts.2.parts.4.customLabel>
+        <!-- EN: left leg -->
+        <AEXP_GreatApe.corePart.parts.16.customLabel>perna esquerda</AEXP_GreatApe.corePart.parts.16.customLabel>
+        <!-- EN: left femur -->
+        <AEXP_GreatApe.corePart.parts.16.parts.0.customLabel>fêmur esquerdo</AEXP_GreatApe.corePart.parts.16.parts.0.customLabel>
+        <!-- EN: left tibia -->
+        <AEXP_GreatApe.corePart.parts.16.parts.1.customLabel>tíbia esquerda</AEXP_GreatApe.corePart.parts.16.parts.1.customLabel>
+        <!-- EN: left foot -->
+        <AEXP_GreatApe.corePart.parts.16.parts.2.customLabel>pé esquerdo</AEXP_GreatApe.corePart.parts.16.parts.2.customLabel>
+        <!-- EN: left little toe -->
+        <AEXP_GreatApe.corePart.parts.16.parts.2.parts.0.customLabel>dedinho do pé esquerdo</AEXP_GreatApe.corePart.parts.16.parts.2.parts.0.customLabel>
+        <!-- EN: left fourth toe -->
+        <AEXP_GreatApe.corePart.parts.16.parts.2.parts.1.customLabel>quarto dedo do pé esquerdo</AEXP_GreatApe.corePart.parts.16.parts.2.parts.1.customLabel>
+        <!-- EN: left middle toe -->
+        <AEXP_GreatApe.corePart.parts.16.parts.2.parts.2.customLabel>dedo médio do pé esquerdo</AEXP_GreatApe.corePart.parts.16.parts.2.parts.2.customLabel>
+        <!-- EN: left second toe -->
+        <AEXP_GreatApe.corePart.parts.16.parts.2.parts.3.customLabel>segundo dedo do pé esquerdo</AEXP_GreatApe.corePart.parts.16.parts.2.parts.3.customLabel>
+        <!-- EN: left big toe -->
+        <AEXP_GreatApe.corePart.parts.16.parts.2.parts.4.customLabel>dedão do pé esquerdo</AEXP_GreatApe.corePart.parts.16.parts.2.parts.4.customLabel>
+        <!-- EN: right leg -->
+        <AEXP_GreatApe.corePart.parts.17.customLabel>perna direita</AEXP_GreatApe.corePart.parts.17.customLabel>
+        <!-- EN: right femur -->
+        <AEXP_GreatApe.corePart.parts.17.parts.0.customLabel>fêmur direito</AEXP_GreatApe.corePart.parts.17.parts.0.customLabel>
+        <!-- EN: right tibia -->
+        <AEXP_GreatApe.corePart.parts.17.parts.1.customLabel>tíbia direita</AEXP_GreatApe.corePart.parts.17.parts.1.customLabel>
+        <!-- EN: right foot -->
+        <AEXP_GreatApe.corePart.parts.17.parts.2.customLabel>pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.customLabel>
+        <!-- EN: right little toe -->
+        <AEXP_GreatApe.corePart.parts.17.parts.2.parts.0.customLabel>dedinho do pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.parts.0.customLabel>
+        <!-- EN: right fourth toe -->
+        <AEXP_GreatApe.corePart.parts.17.parts.2.parts.1.customLabel>quarto dedo do pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.parts.1.customLabel>
+        <!-- EN: right middle toe -->
+        <AEXP_GreatApe.corePart.parts.17.parts.2.parts.2.customLabel>dedo médio do pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.parts.2.customLabel>
+        <!-- EN: right second toe -->
+        <AEXP_GreatApe.corePart.parts.17.parts.2.parts.3.customLabel>segundo dedo do pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.parts.3.customLabel>
+        <!-- EN: right big toe -->
+        <AEXP_GreatApe.corePart.parts.17.parts.2.parts.4.customLabel>dedão do pé direito</AEXP_GreatApe.corePart.parts.17.parts.2.parts.4.customLabel>
+
+    <!-- Vanilla Animals Expanded - Tropical Swamp -->
+        <!-- EN: large lizardlike -->
+        <AEXP_LargeLizardlike.label>lagarto grande</AEXP_LargeLizardlike.label>
+        <!-- EN: left lung -->
+        <AEXP_LargeLizardlike.corePart.parts.4.customLabel>pulmão esquerdo</AEXP_LargeLizardlike.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_LargeLizardlike.corePart.parts.5.customLabel>pulmão direito</AEXP_LargeLizardlike.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_LargeLizardlike.corePart.parts.6.customLabel>rim esquerdo</AEXP_LargeLizardlike.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_LargeLizardlike.corePart.parts.7.customLabel>rim direito</AEXP_LargeLizardlike.corePart.parts.7.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</AEXP_LargeLizardlike.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: front left leg -->
+        <AEXP_LargeLizardlike.corePart.parts.10.customLabel>perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.customLabel>
+        <!-- EN: front left leg first claw -->
+        <AEXP_LargeLizardlike.corePart.parts.10.parts.0.customLabel>primeira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: front left leg second claw -->
+        <AEXP_LargeLizardlike.corePart.parts.10.parts.1.customLabel>segunda garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.parts.1.customLabel>
+        <!-- EN: front left leg third claw -->
+        <AEXP_LargeLizardlike.corePart.parts.10.parts.2.customLabel>terceira garra da perna dianteira esquerda</AEXP_LargeLizardlike.corePart.parts.10.parts.2.customLabel>
+        <!-- EN: front right leg -->
+        <AEXP_LargeLizardlike.corePart.parts.11.customLabel>perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.customLabel>
+        <!-- EN: front right leg first claw -->
+        <AEXP_LargeLizardlike.corePart.parts.11.parts.0.customLabel>primeira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: front right leg second claw -->
+        <AEXP_LargeLizardlike.corePart.parts.11.parts.1.customLabel>segunda garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.parts.1.customLabel>
+        <!-- EN: front right leg third claw -->
+        <AEXP_LargeLizardlike.corePart.parts.11.parts.2.customLabel>terceira garra da perna dianteira direita</AEXP_LargeLizardlike.corePart.parts.11.parts.2.customLabel>
+        <!-- EN: rear left leg -->
+        <AEXP_LargeLizardlike.corePart.parts.12.customLabel>perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.customLabel>
+        <!-- EN: rear left leg first claw -->
+        <AEXP_LargeLizardlike.corePart.parts.12.parts.0.customLabel>primeira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.parts.0.customLabel>
+        <!-- EN: rear left leg second claw -->
+        <AEXP_LargeLizardlike.corePart.parts.12.parts.1.customLabel>segunda garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.parts.1.customLabel>
+        <!-- EN: rear left leg third claw -->
+        <AEXP_LargeLizardlike.corePart.parts.12.parts.2.customLabel>terceira garra da perna traseira esquerda</AEXP_LargeLizardlike.corePart.parts.12.parts.2.customLabel>
+        <!-- EN: rear right leg -->
+        <AEXP_LargeLizardlike.corePart.parts.13.customLabel>perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.customLabel>
+        <!-- EN: rear right leg first claw -->
+        <AEXP_LargeLizardlike.corePart.parts.13.parts.0.customLabel>primeira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.parts.0.customLabel>
+        <!-- EN: rear right leg second claw -->
+        <AEXP_LargeLizardlike.corePart.parts.13.parts.1.customLabel>segunda garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.parts.1.customLabel>
+        <!-- EN: rear right leg third claw -->
+        <AEXP_LargeLizardlike.corePart.parts.13.parts.2.customLabel>terceira garra da perna traseira direita</AEXP_LargeLizardlike.corePart.parts.13.parts.2.customLabel>
+
+    <!-- Vanilla Animals Expanded - Tundra -->
+        <!-- EN: antlered quadruped -->
+        <AEXP_AntleredQuadruped.label>quadrúpede com chifre</AEXP_AntleredQuadruped.label>
+        <!-- EN: left lung -->
+        <AEXP_AntleredQuadruped.corePart.parts.3.customLabel>pulmão esquerdo</AEXP_AntleredQuadruped.corePart.parts.3.customLabel>
+        <!-- EN: right lung -->
+        <AEXP_AntleredQuadruped.corePart.parts.4.customLabel>pulmão direito</AEXP_AntleredQuadruped.corePart.parts.4.customLabel>
+        <!-- EN: left kidney -->
+        <AEXP_AntleredQuadruped.corePart.parts.5.customLabel>rim esquerdo</AEXP_AntleredQuadruped.corePart.parts.5.customLabel>
+        <!-- EN: right kidney -->
+        <AEXP_AntleredQuadruped.corePart.parts.6.customLabel>rim direito</AEXP_AntleredQuadruped.corePart.parts.6.customLabel>
+        <!-- EN: left eye -->
+        <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.2.customLabel>olho esquerdo</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.2.customLabel>
+        <!-- EN: right eye -->
+        <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.3.customLabel>olho direito</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.3.customLabel>
+        <!-- EN: left ear -->
+        <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.4.customLabel>orelha esquerda</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.4.customLabel>
+        <!-- EN: right ear -->
+        <AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.5.customLabel>orelha direita</AEXP_AntleredQuadruped.corePart.parts.8.parts.0.parts.5.customLabel>
+        <!-- EN: front left leg -->
+        <AEXP_AntleredQuadruped.corePart.parts.9.customLabel>perna dianteira esquerda</AEXP_AntleredQuadruped.corePart.parts.9.customLabel>
+        <!-- EN: front left hoof -->
+        <AEXP_AntleredQuadruped.corePart.parts.9.parts.0.customLabel>casco dianteiro esquerdo</AEXP_AntleredQuadruped.corePart.parts.9.parts.0.customLabel>
+        <!-- EN: front right leg -->
+        <AEXP_AntleredQuadruped.corePart.parts.10.customLabel>perna dianteira direita</AEXP_AntleredQuadruped.corePart.parts.10.customLabel>
+        <!-- EN: front right hoof -->
+        <AEXP_AntleredQuadruped.corePart.parts.10.parts.0.customLabel>casco dianteiro direito</AEXP_AntleredQuadruped.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: rear left leg -->
+        <AEXP_AntleredQuadruped.corePart.parts.11.customLabel>perna traseira esquerda</AEXP_AntleredQuadruped.corePart.parts.11.customLabel>
+        <!-- EN: rear left hoof -->
+        <AEXP_AntleredQuadruped.corePart.parts.11.parts.0.customLabel>casco traseiro esquerdo</AEXP_AntleredQuadruped.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: rear right leg -->
+        <AEXP_AntleredQuadruped.corePart.parts.12.customLabel>perna traseira direita</AEXP_AntleredQuadruped.corePart.parts.12.customLabel>
+        <!-- EN: rear right hoof -->
+        <AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>casco traseiro direito</AEXP_AntleredQuadruped.corePart.parts.12.parts.0.customLabel>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: boomtick -->
+        <VFEI_Boomtick.label>carrabum</VFEI_Boomtick.label>
+        <!-- EN: left elytra -->
+        <VFEI_Boomtick.corePart.parts.0.customLabel>élitro esquerdo</VFEI_Boomtick.corePart.parts.0.customLabel>
+        <!-- EN: right elytra -->
+        <VFEI_Boomtick.corePart.parts.1.customLabel>élitro direito</VFEI_Boomtick.corePart.parts.1.customLabel>
+        <!-- EN: left eye -->
+        <VFEI_Boomtick.corePart.parts.4.parts.0.parts.1.customLabel>olho esquerdo</VFEI_Boomtick.corePart.parts.4.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <VFEI_Boomtick.corePart.parts.4.parts.0.parts.2.customLabel>olho direito</VFEI_Boomtick.corePart.parts.4.parts.0.parts.2.customLabel>
+        <!-- EN: left antenna -->
+        <VFEI_Boomtick.corePart.parts.4.parts.0.parts.3.customLabel>antena esquerda</VFEI_Boomtick.corePart.parts.4.parts.0.parts.3.customLabel>
+        <!-- EN: right antenna -->
+        <VFEI_Boomtick.corePart.parts.4.parts.0.parts.4.customLabel>antena direita</VFEI_Boomtick.corePart.parts.4.parts.0.parts.4.customLabel>
+        <!-- EN: front left leg -->
+        <VFEI_Boomtick.corePart.parts.5.customLabel>perna dianteira esquerda</VFEI_Boomtick.corePart.parts.5.customLabel>
+        <!-- EN: front right leg -->
+        <VFEI_Boomtick.corePart.parts.6.customLabel>perna dianteira direita</VFEI_Boomtick.corePart.parts.6.customLabel>
+        <!-- EN: middle left leg -->
+        <VFEI_Boomtick.corePart.parts.7.customLabel>perna média esquerda</VFEI_Boomtick.corePart.parts.7.customLabel>
+        <!-- EN: middle right leg -->
+        <VFEI_Boomtick.corePart.parts.8.customLabel>perna média direita</VFEI_Boomtick.corePart.parts.8.customLabel>
+        <!-- EN: rear left leg -->
+        <VFEI_Boomtick.corePart.parts.9.customLabel>perna traseira esquerda</VFEI_Boomtick.corePart.parts.9.customLabel>
+        <!-- EN: rear right leg -->
+        <VFEI_Boomtick.corePart.parts.10.customLabel>perna traseira direita</VFEI_Boomtick.corePart.parts.10.customLabel>
+        <!-- EN: explosive sac -->
+        <VFEI_Boomtick.corePart.parts.11.customLabel>saco explosivo</VFEI_Boomtick.corePart.parts.11.customLabel>
+
+        <!-- EN: scorpionlike body -->
+        <VFEI_ScorpionLike.label>corpo escorpião</VFEI_ScorpionLike.label>
+        <!-- EN: left eye -->
+        <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.1.customLabel>olho esquerdo</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.2.customLabel>olho direito</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.2.customLabel>
+        <!-- EN: left antenna -->
+        <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.3.customLabel>antena esquerda</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.3.customLabel>
+        <!-- EN: right antenna -->
+        <VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.4.customLabel>antena direita</VFEI_ScorpionLike.corePart.parts.3.parts.0.parts.4.customLabel>
+        <!-- EN: front left leg -->
+        <VFEI_ScorpionLike.corePart.parts.4.customLabel>perna dianteira esquerda</VFEI_ScorpionLike.corePart.parts.4.customLabel>
+        <!-- EN: front right leg -->
+        <VFEI_ScorpionLike.corePart.parts.5.customLabel>perna dianteira direita</VFEI_ScorpionLike.corePart.parts.5.customLabel>
+        <!-- EN: middle left leg -->
+        <VFEI_ScorpionLike.corePart.parts.6.customLabel>perna média esquerda</VFEI_ScorpionLike.corePart.parts.6.customLabel>
+        <!-- EN: middle right leg -->
+        <VFEI_ScorpionLike.corePart.parts.7.customLabel>perna média direita</VFEI_ScorpionLike.corePart.parts.7.customLabel>
+        <!-- EN: rear left leg -->
+        <VFEI_ScorpionLike.corePart.parts.8.customLabel>perna traseira esquerda</VFEI_ScorpionLike.corePart.parts.8.customLabel>
+        <!-- EN: rear right leg -->
+        <VFEI_ScorpionLike.corePart.parts.9.customLabel>perna traseira direita</VFEI_ScorpionLike.corePart.parts.9.customLabel>
+
+        <!-- EN: wargling -->
+        <VFEI_Wargling.label>marigul</VFEI_Wargling.label>
+        <!-- EN: left elytra -->
+        <VFEI_Wargling.corePart.parts.0.customLabel>élitro esquerdo</VFEI_Wargling.corePart.parts.0.customLabel>
+        <!-- EN: right elytra -->
+        <VFEI_Wargling.corePart.parts.1.customLabel>élitro direito</VFEI_Wargling.corePart.parts.1.customLabel>
+        <!-- EN: left eye -->
+        <VFEI_Wargling.corePart.parts.4.parts.0.parts.1.customLabel>olho esquerdo</VFEI_Wargling.corePart.parts.4.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <VFEI_Wargling.corePart.parts.4.parts.0.parts.2.customLabel>olho direito</VFEI_Wargling.corePart.parts.4.parts.0.parts.2.customLabel>
+        <!-- EN: left antenna -->
+        <VFEI_Wargling.corePart.parts.4.parts.0.parts.3.customLabel>antena esquerda</VFEI_Wargling.corePart.parts.4.parts.0.parts.3.customLabel>
+        <!-- EN: right antenna -->
+        <VFEI_Wargling.corePart.parts.4.parts.0.parts.4.customLabel>antena direita</VFEI_Wargling.corePart.parts.4.parts.0.parts.4.customLabel>
+        <!-- EN: front left claw -->
+        <VFEI_Wargling.corePart.parts.5.customLabel>garra dianteira esquerda</VFEI_Wargling.corePart.parts.5.customLabel>
+        <!-- EN: front right claw -->
+        <VFEI_Wargling.corePart.parts.6.customLabel>garra dianteira direita</VFEI_Wargling.corePart.parts.6.customLabel>
+        <!-- EN: front left leg -->
+        <VFEI_Wargling.corePart.parts.7.customLabel>perna dianteira esquerda</VFEI_Wargling.corePart.parts.7.customLabel>
+        <!-- EN: front right leg -->
+        <VFEI_Wargling.corePart.parts.8.customLabel>perna dianteira direita</VFEI_Wargling.corePart.parts.8.customLabel>
+        <!-- EN: middle left leg -->
+        <VFEI_Wargling.corePart.parts.9.customLabel>perna média esquerda</VFEI_Wargling.corePart.parts.9.customLabel>
+        <!-- EN: middle right leg -->
+        <VFEI_Wargling.corePart.parts.10.customLabel>perna média direita</VFEI_Wargling.corePart.parts.10.customLabel>
+        <!-- EN: rear left leg -->
+        <VFEI_Wargling.corePart.parts.11.customLabel>perna traseira esquerda</VFEI_Wargling.corePart.parts.11.customLabel>
+        <!-- EN: rear right leg -->
+        <VFEI_Wargling.corePart.parts.12.customLabel>perna traseira direita</VFEI_Wargling.corePart.parts.12.customLabel>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: wardrone -->
+        <VFEP_Wardrone.label>drone bélico</VFEP_Wardrone.label>
+        <!-- EN: left sight sensor -->
+        <VFEP_Wardrone.corePart.parts.0.parts.0.parts.1.customLabel>sensor de visão esquerdo</VFEP_Wardrone.corePart.parts.0.parts.0.parts.1.customLabel>
+        <!-- EN: right sight sensor -->
+        <VFEP_Wardrone.corePart.parts.0.parts.0.parts.2.customLabel>sensor de visão direito</VFEP_Wardrone.corePart.parts.0.parts.0.parts.2.customLabel>
+        <!-- EN: left hearing sensor -->
+        <VFEP_Wardrone.corePart.parts.0.parts.0.parts.3.customLabel>sensor auditivo esquerdo</VFEP_Wardrone.corePart.parts.0.parts.0.parts.3.customLabel>
+        <!-- EN: right hearing sensor -->
+        <VFEP_Wardrone.corePart.parts.0.parts.0.parts.4.customLabel>sensor auditivo direito</VFEP_Wardrone.corePart.parts.0.parts.0.parts.4.customLabel>
+        <!-- EN: left propeller -->
+        <VFEP_Wardrone.corePart.parts.1.customLabel>propulsor esquerdo</VFEP_Wardrone.corePart.parts.1.customLabel>
+        <!-- EN: right propeller -->
+        <VFEP_Wardrone.corePart.parts.2.customLabel>propulsor direito</VFEP_Wardrone.corePart.parts.2.customLabel>
+
+        <!-- EN: spidermine -->
+        <VFEP_Spidermine.label>minaranha</VFEP_Spidermine.label>
+        <!-- EN: left sight sensor -->
+        <VFEP_Spidermine.corePart.parts.0.parts.0.parts.1.customLabel>sensor de visão esquerdo</VFEP_Spidermine.corePart.parts.0.parts.0.parts.1.customLabel>
+        <!-- EN: right sight sensor -->
+        <VFEP_Spidermine.corePart.parts.0.parts.0.parts.2.customLabel>sensor de visão direito</VFEP_Spidermine.corePart.parts.0.parts.0.parts.2.customLabel>
+        <!-- EN: left hearing sensor -->
+        <VFEP_Spidermine.corePart.parts.0.parts.0.parts.3.customLabel>sensor auditivo esquerdo</VFEP_Spidermine.corePart.parts.0.parts.0.parts.3.customLabel>
+        <!-- EN: right hearing sensor -->
+        <VFEP_Spidermine.corePart.parts.0.parts.0.parts.4.customLabel>sensor auditivo direito</VFEP_Spidermine.corePart.parts.0.parts.0.parts.4.customLabel>
+        <!-- EN: left propeller -->
+        <VFEP_Spidermine.corePart.parts.1.customLabel>propulsor esquerdo</VFEP_Spidermine.corePart.parts.1.customLabel>
+        <!-- EN: right propeller -->
+        <VFEP_Spidermine.corePart.parts.2.customLabel>propulsor direito</VFEP_Spidermine.corePart.parts.2.customLabel>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: odin -->
+        <VFEV_Odin.label>odim</VFEV_Odin.label>
+        <!-- EN: left sight sensor -->
+        <VFEV_Odin.corePart.parts.0.parts.0.parts.1.customLabel>sensor de visão esquerdo</VFEV_Odin.corePart.parts.0.parts.0.parts.1.customLabel>
+        <!-- EN: right sight sensor -->
+        <VFEV_Odin.corePart.parts.0.parts.0.parts.2.customLabel>sensor de visão direito</VFEV_Odin.corePart.parts.0.parts.0.parts.2.customLabel>
+        <!-- EN: left hearing sensor -->
+        <VFEV_Odin.corePart.parts.0.parts.0.parts.3.customLabel>sensor auditivo esquerdo</VFEV_Odin.corePart.parts.0.parts.0.parts.3.customLabel>
+        <!-- EN: right hearing sensor -->
+        <VFEV_Odin.corePart.parts.0.parts.0.parts.4.customLabel>sensor auditivo direito</VFEV_Odin.corePart.parts.0.parts.0.parts.4.customLabel>
+        <!-- EN: left shoulder -->
+        <VFEV_Odin.corePart.parts.1.customLabel>ombro esquerdo</VFEV_Odin.corePart.parts.1.customLabel>
+        <!-- EN: left arm -->
+        <VFEV_Odin.corePart.parts.1.parts.0.customLabel>braço esquerdo</VFEV_Odin.corePart.parts.1.parts.0.customLabel>
+        <!-- EN: left hand -->
+        <VFEV_Odin.corePart.parts.1.parts.0.parts.0.customLabel>mão esquerda</VFEV_Odin.corePart.parts.1.parts.0.parts.0.customLabel>
+        <!-- EN: left pinky -->
+        <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>mindinho esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.0.customLabel>
+        <!-- EN: left middle finger -->
+        <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>dedo médio esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.1.customLabel>
+        <!-- EN: left index finger -->
+        <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>dedo indicador esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.2.customLabel>
+        <!-- EN: left thumb -->
+        <VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>polegar esquerdo</VFEV_Odin.corePart.parts.1.parts.0.parts.0.parts.3.customLabel>
+        <!-- EN: right mechanical shoulder -->
+        <VFEV_Odin.corePart.parts.2.customLabel>ombro direito</VFEV_Odin.corePart.parts.2.customLabel>
+        <!-- EN: right arm -->
+        <VFEV_Odin.corePart.parts.2.parts.0.customLabel>braço direito</VFEV_Odin.corePart.parts.2.parts.0.customLabel>
+        <!-- EN: right hand -->
+        <VFEV_Odin.corePart.parts.2.parts.0.parts.0.customLabel>mão direita</VFEV_Odin.corePart.parts.2.parts.0.parts.0.customLabel>
+        <!-- EN: right pinky -->
+        <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>mindinho direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.0.customLabel>
+        <!-- EN: right middle finger -->
+        <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>dedo médio direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.1.customLabel>
+        <!-- EN: right index finger -->
+        <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>dedo indicador direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.2.customLabel>
+        <!-- EN: right thumb -->
+        <VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>polegar direito</VFEV_Odin.corePart.parts.2.parts.0.parts.0.parts.3.customLabel>
+        <!-- EN: left leg -->
+        <VFEV_Odin.corePart.parts.3.customLabel>perna esquerda</VFEV_Odin.corePart.parts.3.customLabel>
+        <!-- EN: left foot -->
+        <VFEV_Odin.corePart.parts.3.parts.0.customLabel>pé esquerdo</VFEV_Odin.corePart.parts.3.parts.0.customLabel>
+        <!-- EN: right leg -->
+        <VFEV_Odin.corePart.parts.4.customLabel>perna direita</VFEV_Odin.corePart.parts.4.customLabel>
+        <!-- EN: right foot -->
+        <VFEV_Odin.corePart.parts.4.parts.0.customLabel>pé esquerdo</VFEV_Odin.corePart.parts.4.parts.0.customLabel>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: bird with teeth -->
+        <GR_BirdWithTeeth.label>pássaro dentado</GR_BirdWithTeeth.label>
+        <!-- EN: left lung -->
+        <GR_BirdWithTeeth.corePart.parts.4.customLabel>pulmão esquerdo</GR_BirdWithTeeth.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <GR_BirdWithTeeth.corePart.parts.5.customLabel>pulmão direito</GR_BirdWithTeeth.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <GR_BirdWithTeeth.corePart.parts.6.customLabel>rim esquerdo</GR_BirdWithTeeth.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <GR_BirdWithTeeth.corePart.parts.7.customLabel>rim direito</GR_BirdWithTeeth.corePart.parts.7.customLabel>
+        <!-- EN: left eye -->
+        <GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</GR_BirdWithTeeth.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: left leg -->
+        <GR_BirdWithTeeth.corePart.parts.10.customLabel>perna esquerda</GR_BirdWithTeeth.corePart.parts.10.customLabel>
+        <!-- EN: left foot -->
+        <GR_BirdWithTeeth.corePart.parts.10.parts.0.customLabel>pé esquerdo</GR_BirdWithTeeth.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: right leg -->
+        <GR_BirdWithTeeth.corePart.parts.11.customLabel>perna direita</GR_BirdWithTeeth.corePart.parts.11.customLabel>
+        <!-- EN: right foot -->
+        <GR_BirdWithTeeth.corePart.parts.11.parts.0.customLabel>pé direito</GR_BirdWithTeeth.corePart.parts.11.parts.0.customLabel>
+
+        <!-- EN: horned bird -->
+        <GR_HornedBird.label>pássaro chifrudo</GR_HornedBird.label>
+        <!-- EN: left lung -->
+        <GR_HornedBird.corePart.parts.4.customLabel>pulmão esquerdo</GR_HornedBird.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <GR_HornedBird.corePart.parts.5.customLabel>pulmão direito</GR_HornedBird.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <GR_HornedBird.corePart.parts.6.customLabel>rim esquerdo</GR_HornedBird.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <GR_HornedBird.corePart.parts.7.customLabel>rim direito</GR_HornedBird.corePart.parts.7.customLabel>
+        <!-- EN: left eye -->
+        <GR_HornedBird.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</GR_HornedBird.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <GR_HornedBird.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</GR_HornedBird.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: left leg -->
+        <GR_HornedBird.corePart.parts.10.customLabel>perna esquerda</GR_HornedBird.corePart.parts.10.customLabel>
+        <!-- EN: left foot -->
+        <GR_HornedBird.corePart.parts.10.parts.0.customLabel>pé esquerdo</GR_HornedBird.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: right leg -->
+        <GR_HornedBird.corePart.parts.11.customLabel>perna direita</GR_HornedBird.corePart.parts.11.customLabel>
+        <!-- EN: right foot -->
+        <GR_HornedBird.corePart.parts.11.parts.0.customLabel>pé direito</GR_HornedBird.corePart.parts.11.parts.0.customLabel>
+
+        <!-- EN: jellyfish -->
+        <GR_JellyfishBody.label>água-viva</GR_JellyfishBody.label>
+        <!-- EN: stomach pouch -->
+        <GR_JellyfishBody.corePart.parts.0.customLabel>bolsa estomacal</GR_JellyfishBody.corePart.parts.0.customLabel>
+        <!-- EN: gastrovascular cavity -->
+        <GR_JellyfishBody.corePart.parts.1.customLabel>cavidade gastrovascular</GR_JellyfishBody.corePart.parts.1.customLabel>
+        <!-- EN: left hydrogen-chemfuel sac -->
+        <GR_JellyfishBody.corePart.parts.2.customLabel>saco de combustível químico hidrogenado esquerdo</GR_JellyfishBody.corePart.parts.2.customLabel>
+        <!-- EN: right hydrogen-chemfuel sac -->
+        <GR_JellyfishBody.corePart.parts.3.customLabel>saco de combustível químico hidrogenado direito</GR_JellyfishBody.corePart.parts.3.customLabel>
+        <!-- EN: left eye spot -->
+        <GR_JellyfishBody.corePart.parts.5.parts.0.customLabel>olho esquerdo</GR_JellyfishBody.corePart.parts.5.parts.0.customLabel>
+        <!-- EN: right eye spot -->
+        <GR_JellyfishBody.corePart.parts.5.parts.1.customLabel>olho direito</GR_JellyfishBody.corePart.parts.5.parts.1.customLabel>
+
+        <!-- EN: quadruped animal with beak -->
+        <GR_QuadrupedAnimalWithBeak.label>animal quadrúpede com bico</GR_QuadrupedAnimalWithBeak.label>
+        <!-- EN: left lung -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.3.customLabel>pulmão esquerdo</GR_QuadrupedAnimalWithBeak.corePart.parts.3.customLabel>
+        <!-- EN: right lung -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.4.customLabel>pulmão direito</GR_QuadrupedAnimalWithBeak.corePart.parts.4.customLabel>
+        <!-- EN: left kidney -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.5.customLabel>rim esquerdo</GR_QuadrupedAnimalWithBeak.corePart.parts.5.customLabel>
+        <!-- EN: right kidney -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.6.customLabel>rim direito</GR_QuadrupedAnimalWithBeak.corePart.parts.6.customLabel>
+        <!-- EN: left eye -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.1.customLabel>olho esquerdo</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.2.customLabel>olho direito</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.3.customLabel>orelha esquerda</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.4.customLabel>orelha direita</GR_QuadrupedAnimalWithBeak.corePart.parts.8.parts.0.parts.4.customLabel>
+        <!-- EN: front left leg -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.9.customLabel>perna dianteira esquerda</GR_QuadrupedAnimalWithBeak.corePart.parts.9.customLabel>
+        <!-- EN: front left paw -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.9.parts.0.customLabel>pata dianteira esquerda</GR_QuadrupedAnimalWithBeak.corePart.parts.9.parts.0.customLabel>
+        <!-- EN: front right leg -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.10.customLabel>perna dianteira direita</GR_QuadrupedAnimalWithBeak.corePart.parts.10.customLabel>
+        <!-- EN: front right paw -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.10.parts.0.customLabel>pata dianteira direita</GR_QuadrupedAnimalWithBeak.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: rear left leg -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.11.customLabel>perna traseira esquerda</GR_QuadrupedAnimalWithBeak.corePart.parts.11.customLabel>
+        <!-- EN: rear left paw -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.11.parts.0.customLabel>pata traseira esquerda</GR_QuadrupedAnimalWithBeak.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: rear right leg -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.12.customLabel>perna traseira direita</GR_QuadrupedAnimalWithBeak.corePart.parts.12.customLabel>
+        <!-- EN: rear right paw -->
+        <GR_QuadrupedAnimalWithBeak.corePart.parts.12.parts.0.customLabel>pata traseira direita</GR_QuadrupedAnimalWithBeak.corePart.parts.12.parts.0.customLabel>
+
+        <!-- EN: quadruped animal with beak and Hump -->
+        <GR_QuadrupedAnimalWithBeakandHump.label>animal quadrúpede com bico e corcova</GR_QuadrupedAnimalWithBeakandHump.label>
+        <!-- EN: left lung -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.3.customLabel>pulmão esquerdo</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.3.customLabel>
+        <!-- EN: right lung -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.4.customLabel>pulmão direito</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.4.customLabel>
+        <!-- EN: left kidney -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.5.customLabel>rim esquerdo</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.5.customLabel>
+        <!-- EN: right kidney -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.6.customLabel>rim direito</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.6.customLabel>
+        <!-- EN: left eye -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.1.customLabel>olho esquerdo</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.2.customLabel>olho direito</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.3.customLabel>orelha esquerda</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.4.customLabel>orelha direita</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.9.parts.0.parts.4.customLabel>
+        <!-- EN: front left leg -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.customLabel>perna dianteira esquerda</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.customLabel>
+        <!-- EN: front left hoof    -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.parts.0.customLabel>casco dianteiro esquerdo</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: front right leg -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.customLabel>perna dianteira direita</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.customLabel>
+        <!-- EN: front right hoof -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.parts.0.customLabel>casco dianteiro direito</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: rear left leg -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.customLabel>perna traseira esquerda</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.customLabel>
+        <!-- EN: rear left hoof -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.parts.0.customLabel>casco traseiro esquerdo</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.12.parts.0.customLabel>
+        <!-- EN: rear right leg -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.customLabel>perna traseira direita</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.customLabel>
+        <!-- EN: rear right hoof -->
+        <GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.parts.0.customLabel>casco traseiro direito</GR_QuadrupedAnimalWithBeakandHump.corePart.parts.13.parts.0.customLabel>
+
+        <!-- EN: quadruped animal -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.label>animal quadrúpede</GR_QuadrupedAnimalWithPawsAndFangs.label>
+        <!-- EN: left lung -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.3.customLabel>pulmão esquerdo</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.3.customLabel>
+        <!-- EN: right lung -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.4.customLabel>pulmão direito</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.4.customLabel>
+        <!-- EN: left kidney -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.5.customLabel>rim esquerdo</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.5.customLabel>
+        <!-- EN: right kidney -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.6.customLabel>rim direito</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.6.customLabel>
+        <!-- EN: left eye -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.1.customLabel>olho esquerdo</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.1.customLabel>
+        <!-- EN: right eye -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.2.customLabel>olho direito</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.2.customLabel>
+        <!-- EN: left ear -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.3.customLabel>orelha esquerda</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.3.customLabel>
+        <!-- EN: right ear -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.4.customLabel>orelha direita</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.8.parts.0.parts.4.customLabel>
+        <!-- EN: front left leg -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.customLabel>perna dianteira esquerda</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.customLabel>
+        <!-- EN: front left paw -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.parts.0.customLabel>pata dianteira esquerda</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.9.parts.0.customLabel>
+        <!-- EN: front right leg -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.customLabel>perna dianteira direita</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.customLabel>
+        <!-- EN: front right paw -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.parts.0.customLabel>pata dianteira direita</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: rear left leg -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.customLabel>perna traseira esquerda</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.customLabel>
+        <!-- EN: rear left paw -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.parts.0.customLabel>pata traseira esquerda</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: rear right leg -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.customLabel>perna traseira direita</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.customLabel>
+        <!-- EN: rear right paw -->
+        <GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.parts.0.customLabel>pata traseira direita</GR_QuadrupedAnimalWithPawsAndFangs.corePart.parts.12.parts.0.customLabel>
+
+        <!-- EN: quadruped animal -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.label>animal quadrúpede</GR_QuadrupedAnimalWithPawsHornAndTail.label>
+        <!-- EN: left lung -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.4.customLabel>pulmão esquerdo</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.5.customLabel>pulmão direito</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.6.customLabel>rim esquerdo</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.7.customLabel>rim direito</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.7.customLabel>
+        <!-- EN: left eye -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.2.customLabel>olho esquerdo</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: right eye -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.3.customLabel>olho direito</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.3.customLabel>
+        <!-- EN: left ear -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.4.customLabel>orelha esquerda</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.4.customLabel>
+        <!-- EN: right ear -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.5.customLabel>orelha direita</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.9.parts.0.parts.5.customLabel>
+        <!-- EN: front left leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.customLabel>perna dianteira esquerda</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.customLabel>
+        <!-- EN: front left paw -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.parts.0.customLabel>pata dianteira esquerda</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: front right leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.customLabel>perna dianteira direita</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.customLabel>
+        <!-- EN: front right paw -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.parts.0.customLabel>pata dianteira direita</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: rear left leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.customLabel>perna traseira esquerda</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.customLabel>
+        <!-- EN: rear left hoof -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.parts.0.customLabel>casco traseiro esquerdo</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.12.parts.0.customLabel>
+        <!-- EN: rear right leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.customLabel>perna traseira direita</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.customLabel>
+        <!-- EN: rear right hoof -->
+        <GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.parts.0.customLabel>casco traseiro direito</GR_QuadrupedAnimalWithPawsHornAndTail.corePart.parts.13.parts.0.customLabel>
+
+        <!-- EN: quadruped animal -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.label>animal quadrúpede</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.label>
+        <!-- EN: left lung -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.4.customLabel>pulmão esquerdo</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.4.customLabel>
+        <!-- EN: right lung -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.5.customLabel>pulmão direito</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.5.customLabel>
+        <!-- EN: left kidney -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.6.customLabel>rim esquerdo</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.6.customLabel>
+        <!-- EN: right kidney -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.7.customLabel>rim direito</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.7.customLabel>
+        <!-- EN: first left eye -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.1.customLabel>primeiro olho esquerdo</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.1.customLabel>
+        <!-- EN: second left eye -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.2.customLabel>segundo olho esquerdo</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.2.customLabel>
+        <!-- EN: first right eye -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.3.customLabel>primeiro olho direito</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.3.customLabel>
+        <!-- EN: second right eye -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.4.customLabel>segundo olho direito</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.4.customLabel>
+        <!-- EN: left ear -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.5.customLabel>orelha esquerda</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.5.customLabel>
+        <!-- EN: right ear -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.6.customLabel>orelha direita</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.9.parts.0.parts.6.customLabel>
+        <!-- EN: front left leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.customLabel>perna dianteira esquerda</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.customLabel>
+        <!-- EN: front left paw -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.parts.0.customLabel>pata dianteira esquerda</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.10.parts.0.customLabel>
+        <!-- EN: front right leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.customLabel>perna dianteira direita</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.customLabel>
+        <!-- EN: front right paw -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.parts.0.customLabel>pata dianteira direita</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.11.parts.0.customLabel>
+        <!-- EN: rear left leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.customLabel>perna traseira esquerda</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.customLabel>
+        <!-- EN: rear left paw -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.parts.0.customLabel>pata traseira esquerda</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.12.parts.0.customLabel>
+        <!-- EN: rear right leg -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.customLabel>perna traseira direita</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.customLabel>
+        <!-- EN: rear right paw -->
+        <GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.parts.0.customLabel>pata traseira direita</GR_QuadrupedAnimalWithPawsHornAndTailThrumbo.corePart.parts.13.parts.0.customLabel>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: shuttle -->
+        <SoSShuttlecraft.label>transporte</SoSShuttlecraft.label>
+
+</LanguageData>

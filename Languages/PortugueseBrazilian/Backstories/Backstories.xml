@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BackstoryTranslations>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <SoSHologram>
+            <!-- EN: machine persona -->
+            <title>persona de máquina</title>
+            <!-- EN: machine persona -->
+            <titleFemale>persona de máquina</titleFemale>
+            <!-- EN: persona -->
+            <titleShort>persona</titleShort>
+            <!-- EN: persona -->
+            <titleShortFemale>persona</titleShortFemale>
+            <!-- EN: {PAWN_nameDef} is a machine persona. {PAWN_pronoun} interacts with the world via a hologram, which cannot leave the map where {PAWN_possessive} core resides. -->
+            <desc>{PAWN_nameDef} é uma persona de máquina. {PAWN_pronoun} interage com o mundo por meio de um holograma, que não pode sair do mapa onde reside seu núcleo.</desc>
+        </SoSHologram>
+
+</BackstoryTranslations>

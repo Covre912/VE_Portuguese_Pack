@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- EN: Random Event -->
+        <RandomEventRewardVE.label>Evento Aleatório</RandomEventRewardVE.label>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- EN: Random Event -->
+        <RandomEventReward.label>Evento Aleatório</RandomEventReward.label>
+
+</LanguageData>

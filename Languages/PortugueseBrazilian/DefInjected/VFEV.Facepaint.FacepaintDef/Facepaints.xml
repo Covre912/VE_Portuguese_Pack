@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Vikings --> 
+        <!-- EN: Barbarian -->
+        <VFEV_Facepaint_Barbarian.label>Bárbaro</VFEV_Facepaint_Barbarian.label>
+
+        <!-- EN: Beak -->
+        <VFEV_Facepaint_Beak.label>Bico</VFEV_Facepaint_Beak.label>
+
+        <!-- EN: Bear -->
+        <VFEV_Facepaint_Bear.label>Urso</VFEV_Facepaint_Bear.label>
+
+        <!-- EN: Cross -->
+        <VFEV_Facepaint_Cross.label>Cruz</VFEV_Facepaint_Cross.label>
+
+        <!-- EN: Descendant -->
+        <VFEV_Facepaint_Descendant.label>Descendente</VFEV_Facepaint_Descendant.label>
+
+        <!-- EN: Eagle -->
+        <VFEV_Facepaint_Eagle.label>Águia</VFEV_Facepaint_Eagle.label>
+
+        <!-- EN: Fairy -->
+        <VFEV_Facepaint_Fairy.label>Fada</VFEV_Facepaint_Fairy.label>
+
+        <!-- EN: Fighter -->
+        <VFEV_Facepaint_Fighter.label>Lutador</VFEV_Facepaint_Fighter.label>
+
+        <!-- EN: Freya -->
+        <VFEV_Facepaint_Freya.label>Frida</VFEV_Facepaint_Freya.label>
+
+        <!-- EN: Godly -->
+        <VFEV_Facepaint_Godly.label>Piedoso</VFEV_Facepaint_Godly.label>
+
+        <!-- EN: Hawk -->
+        <VFEV_Facepaint_Hawk.label>Falcão</VFEV_Facepaint_Hawk.label>
+
+        <!-- EN: Hunter -->
+        <VFEV_Facepaint_Hunter.label>Caçador</VFEV_Facepaint_Hunter.label>
+
+        <!-- EN: Jarl -->
+        <VFEV_Facepaint_Jarl.label>Nobre</VFEV_Facepaint_Jarl.label>
+
+        <!-- EN: Keeper -->
+        <VFEV_Facepaint_Keeper.label>Guarda</VFEV_Facepaint_Keeper.label>
+
+        <!-- EN: Oracle -->
+        <VFEV_Facepaint_Oracle.label>Oráculo</VFEV_Facepaint_Oracle.label>
+        
+        <!-- EN: Resident -->
+        <VFEV_Facepaint_Resident.label>Residente</VFEV_Facepaint_Resident.label>
+
+        <!-- EN: Roar -->
+        <VFEV_Facepaint_Roar.label>Rugido</VFEV_Facepaint_Roar.label>
+
+        <!-- EN: Ruler -->
+        <VFEV_Facepaint_Ruler.label>Governador</VFEV_Facepaint_Ruler.label>
+
+        <!-- EN: Savage -->
+        <VFEV_Facepaint_Savage.label>Selvagem</VFEV_Facepaint_Savage.label>
+
+        <!-- EN: Sunset -->
+        <VFEV_Facepaint_Sunset.label>Ocaso</VFEV_Facepaint_Sunset.label>
+
+        <!-- EN: Tears -->
+        <VFEV_Facepaint_Tears.label>Pranto</VFEV_Facepaint_Tears.label>
+
+        <!-- EN: Widow -->
+        <VFEV_Facepaint_Widow.label>Viúva</VFEV_Facepaint_Widow.label>
+
+</LanguageData>

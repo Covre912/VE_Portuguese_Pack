@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Events Expanded -->
+        <!-- EN: Ice Age -->
+        <IceAge.label>Era do Gelo</IceAge.label>
+        <!-- EN: Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.\n\nFlora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
+        <IceAge.description>A composição atmosférica do planeta mudou drasticamente, resultando em uma queda de temperatura significante.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais frias. Recursos se tornam escassos, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos.</IceAge.description>
+        <!-- EN: The ice age is ending -->
+        <IceAge.endMessage>A era do gelo está acabando.</IceAge.endMessage>
+
+        <!-- EN: Global Warming -->
+        <GlobalWarming.label>Aquecimento Global</GlobalWarming.label>
+        <!-- EN: Global temperatures have suddenly risen to dangerous levels.\n\nFlora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
+        <GlobalWarming.description>Temperaturas globais subitamente subiram a níveis perigosos.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais quentes. Recursos se tornam escassos, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos.</GlobalWarming.description>
+        <!-- EN: The global warming is ending -->
+        <GlobalWarming.endMessage>O aquecimento global está acabando.</GlobalWarming.endMessage>
+
+        <!-- EN: Psychic Rain -->
+        <PsychicRain.label>Chuva Psíquica</PsychicRain.label>
+        <!-- EN: A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.\n\nA seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.\n\nIt will last anywhere between a season to several years. -->
+        <PsychicRain.description>Uma entidade psíquica perigosa causou um distúrbio a níveis subatômicos, ressoando através de todas as partículas da atmosfera.\n\nUma chuva supernatural aparentemente sem fim começou, alterando a própria composição do tempo. Qualquer pessoa ou criatura não sob um teto envelhecerá significativamente mais rápido.\n\nIsso durará de uma estação a vários anos.</PsychicRain.description>
+        <!-- EN: The psychic rain is ending -->
+        <PsychicRain.endMessage>A chuva psíquica está acabando.</PsychicRain.endMessage>
+
+        <!-- EN: Long Night -->
+        <LongNight.label>Noite Longa</LongNight.label>
+        <!-- EN: A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.\n\nTerrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.\n\nIt will last anywhere between a season to several years. -->
+        <LongNight.description>Uma entidade espacial de tamanho inimaginável cobriu uma estrela local, resultando em um longo eclipse.\n\nApavorados com esse fenômeno supernatural, outras facções irão usar esse tempo para fazer guerras e conflitos ao longo do planeta.\n\nIsso durará de uma estação a vários anos.</LongNight.description>
+        <!-- EN: The long night is ending -->
+        <LongNight.endMessage>A noite longa está acabando.</LongNight.endMessage>
+
+        <!-- EN: Psychic Bloom -->
+        <PsychicBloom.label>Floração Psíquica</PsychicBloom.label>
+        <!-- EN: A strong psychic pulse emitted by a long forgotten entity changed the very genetical structure of local flora. Whilst the sky filled with a seemingly endless auroras, colorful flowers started sprouting everywhere. \n\nAll pawns will gain a positive mood buff for the time of the event. The rapidly spreading flowers will overgrow everything, including your fields.\n\nIt will last anywhere between a few days to a season. -->
+        <PsychicBloom.description>Um forte pulso psíquico emitido por uma entidade há muito esquecida mudou a própria estrutura genética da flora local. Enquanto o céu se encheu com auroras aparentemente sem fim, flores coloridas começaram a brotar por toda parte.\n\nTodos os colonos irão ganhar um bônus positivo de humor pelo tempo do evento. As flores se espalhando rapidamente vão crescer por cima de tudo, incluindo seus campos.\n\nIsso durará de alguns dias a uma estação.</PsychicBloom.description>
+        <!-- EN: The psychic bloom is ending -->
+        <PsychicBloom.endMessage>A floração psíquica está acabando.</PsychicBloom.endMessage>
+
+        <!-- EN: Hail Storm -->
+        <HailStorm.label>Chuva de Granizo</HailStorm.label>
+        <!-- EN: A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets. -->
+        <HailStorm.description>Uma chuva de granizo anômala de pequena escala está devastando a área local. Qualquer pessoa ou criatura não sob um teto corre o risco de se ferir por pelotas de gelo.</HailStorm.description>
+        <!-- EN: The hail storm is ending. -->
+        <HailStorm.endMessage>A chuva de granizo está acabando.</HailStorm.endMessage>
+        <!-- EN: A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets. -->
+        <HailStorm.letterText>Uma chuva de granizo anômala de pequena escala está devastando a área local. Qualquer pessoa ou criatura não sob um teto corre o risco de se ferir por pelotas de gelo.</HailStorm.letterText>
+
+        <!-- EN: Drought -->
+        <Drought.label>Seca</Drought.label>
+        <!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly destroy all the crops not planted in the hydroponics. Be sure to quickly harvest any plants you can. -->
+        <Drought.description>Uma seca inusitada se estabeleceu.\n\nA seca é devastadora para a vida vegetal e destruirá rapidamente todas as plantas não plantadas nas hidropônicas. Certifique-se de colher rapidamente todas as plantas que puder.</Drought.description>
+        <!-- EN: The drought is ending. -->
+        <Drought.endMessage>A seca está acabando.</Drought.endMessage>
+        <!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly prevent all the crops not planted in hydroponics or high fertility soil to grow. -->
+        <Drought.letterText>Uma seca inusitada se estabeleceu.\n\nA seca é devastadora para a vida vegetal e prevenirá que todas as plantas fora de bacias de hidroponia ou solos com alta fertilidade cresçam.</Drought.letterText>
+
+        <!-- EN: Space battle -->
+        <SpaceBattle.label>Batalha Espacial</SpaceBattle.label>
+        <!-- EN: A space battle is raging in the sky, may last up to half a day. -->
+        <SpaceBattle.description>Uma batalha espacial está ocorrendo no céu, pode durar até 1 dia.</SpaceBattle.description>
+        <!-- EN: The space battle is ending. -->
+        <SpaceBattle.endMessage>A batalha espacial está acabando.</SpaceBattle.endMessage>
+        <!-- EN: Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires. -->
+        <SpaceBattle.letterText>Várias espaçonaves enormes engajaram em combate na órbita do planeta. Tiros perdidos e destroços podem impactar o chão na área. Isso pode levar a grandes incêndios.</SpaceBattle.letterText>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: climate adjuster -->
+        <VFE_ClimateAdjuster.label>Ajustador Climático</VFE_ClimateAdjuster.label>
+        <!-- EN: climate adjuster -->
+        <VFE_ClimateAdjuster.letterText>Uma máquina de ajuste climático começou a mudar a temperatura.</VFE_ClimateAdjuster.letterText>
+        <!-- EN: climate adjuster -->
+        <VFE_ClimateAdjuster.description>Um ajustador climático próximo está mudando a temperatura.</VFE_ClimateAdjuster.description>
+        <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
+        <VFE_ClimateAdjuster.descriptionFuture>uma frente de ar frio resfriará a área ao redor de [map_definite] por [gameConditionDuration_duration], prejudicando as plantações e qualquer pessoa ou animal sem proteção adequada</VFE_ClimateAdjuster.descriptionFuture>
+        <!-- EN: The cold snap is over. -->
+        <VFE_ClimateAdjuster.endMessage>A onda de frio acabou.</VFE_ClimateAdjuster.endMessage>
+
+        <!-- EN: EMI dynamo -->
+        <VFE_EMIDynamo.label>Dínamo IEM</VFE_EMIDynamo.label>
+        <!-- EN: EMI dynamo -->
+        <VFE_EMIDynamo.letterText>Um campo de EMI foi gerado. Ele está desativando dispositivos elétricos.</VFE_EMIDynamo.letterText>
+        <!-- EN: EMI dynamo -->
+        <VFE_EMIDynamo.description>Um dínamo de interferência eletromagnética está projetando um campo de interferência EM, desativando dispositivos elétricos.</VFE_EMIDynamo.description>
+        <!-- EN: EMI dynamo -->
+        <VFE_EMIDynamo.descriptionFuture>um dínamo IEM distante atingirá [map_definite] com um campo IEM, desligando dispositivos elétricos por [gameConditionDuration_duration]</VFE_EMIDynamo.descriptionFuture>
+        <!-- EN: EMI dynamo -->
+        <VFE_EMIDynamo.endMessage>O campo de IEM desapareceu.</VFE_EMIDynamo.endMessage>
+
+    <!-- Vanilla Storytellers Expanded - Winston Waves -->
+        <!-- EN: Orbital bombardement -->
+        <VESWW_OrbitalBombardement.label>Bombardeio Orbital</VESWW_OrbitalBombardement.label>
+        <!-- EN: Orbital bombardement target your colony map. -->
+        <VESWW_OrbitalBombardement.description>Sua colônia é alvo de um bombardeio orbital.</VESWW_OrbitalBombardement.description>
+        <!-- EN: The orbital bombardement is ending. -->
+        <VESWW_OrbitalBombardement.endMessage>O bombardeio orbital está acabando.</VESWW_OrbitalBombardement.endMessage>
+        <!-- EN: Orbital bombardement -->
+        <VESWW_OrbitalBombardement.letterText>　</VESWW_OrbitalBombardement.letterText>
+
+        <!-- EN: Flashstorm -->
+        <VESWW_FullMapFlashstorm.label>Tempestade</VESWW_FullMapFlashstorm.label>
+        <!-- EN: Flashstorm on your whole colony map. -->
+        <VESWW_FullMapFlashstorm.description>Quantidades extremas de raios estão atingindo sua colônia.</VESWW_FullMapFlashstorm.description>
+        <!-- EN: The flashstorm is ending. -->
+        <VESWW_FullMapFlashstorm.endMessage>A tempestade está acabando.</VESWW_FullMapFlashstorm.endMessage>
+        <!-- EN: Flashstorm -->
+        <VESWW_FullMapFlashstorm.letterText>　</VESWW_FullMapFlashstorm.letterText>
+
+        <!-- EN: meteor storm -->
+        <VESWW_MeteorStorm.label>Chuva de Meteoritos</VESWW_MeteorStorm.label>
+        <!-- EN: Meteor storm on your whole colony map. -->
+        <VESWW_MeteorStorm.description>Vários meteoritos estão caindo em sua colônia!</VESWW_MeteorStorm.description>
+        <!-- EN: The meteor storm is ending. -->
+        <VESWW_MeteorStorm.endMessage>A chuva de meteoritos está acabando.</VESWW_MeteorStorm.endMessage>
+        <!-- EN: Flashstorm -->
+        <VESWW_MeteorStorm.letterText>　</VESWW_MeteorStorm.letterText>
+
+</LanguageData>

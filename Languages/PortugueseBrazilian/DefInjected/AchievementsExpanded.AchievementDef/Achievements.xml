@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- EN: Comfier Than Usual -->
+        <comfierThanUsual.label>Mais Confortável que o Normal</comfierThanUsual.label>
+        <!-- EN: Construct a human leather armchair -->
+        <comfierThanUsual.description>Construa uma poltrona de pele humana</comfierThanUsual.description>
+
+        <!-- EN: The Architect -->
+        <theArchitect.label>O Arquiteto</theArchitect.label>
+        <!-- EN: Build 1000 Walls -->
+        <theArchitect.description>Construa 1000 paredes</theArchitect.description>
+
+        <!-- EN: Building the Skynet -->
+        <buildingTheSkynet.label>Construindo a Rede</buildingTheSkynet.label>
+        <!-- EN: Construct 30 mini-turrets -->
+        <buildingTheSkynet.description>Construa 30 mini-torretas</buildingTheSkynet.description>
+
+        <!-- EN: It Ain't Rocket Science -->
+        <itAintRocketScience.label>Não é Ciência Espacial</itAintRocketScience.label>
+        <!-- EN: Build a spaceship -->
+        <itAintRocketScience.description>Construa uma espaçonave</itAintRocketScience.description>
+
+        <!-- EN:  I Will Survive -->
+        <iWillSurvive.label>Eu Sobreviverei</iWillSurvive.label>
+        <!-- EN: Have 7 colonists -->
+        <iWillSurvive.description>Possua 7 colonos</iWillSurvive.description>
+
+        <!-- EN: I'm Still Standing -->
+        <imStillStanding.label>Ainda Estou de Pé</imStillStanding.label>
+        <!-- EN: Have 12 colonists -->
+        <imStillStanding.description>Possua 12 colonos</imStillStanding.description>
+
+        <!-- EN: I'm a Survivor -->
+        <imASurvivor.label>Eu Sou um Sobrevivente</imASurvivor.label>
+        <!-- EN: Have 18 colonists -->
+        <imASurvivor.description>Possua 18 colonos</imASurvivor.description>
+
+        <!-- EN: Ain't no Stopping us Now -->
+        <aintNoStoppingUsNow.label>Não Há Como Nos Parar Agora</aintNoStoppingUsNow.label>
+        <!-- EN: Have 33 colonists -->
+        <aintNoStoppingUsNow.description>Possua 33 colonos</aintNoStoppingUsNow.description>
+
+        <!-- EN: Cheater, Cheater! -->
+        <cheaterCheater.label>Trapaceiro, Trapaceiro!</cheaterCheater.label>
+        <!-- EN: Enable development mode -->
+        <cheaterCheater.description>Habilite o modo desenvolvedor</cheaterCheater.description>
+
+        <!-- EN: T-800 -->
+        <T-800.label>T-800</T-800.label>
+        <!-- EN: Have a single pawn with bionic legs, arms, spine, ears and eyes -->
+        <T-800.description>Possua um único colono com pernas, braços, coluna, orelhas e olhos biônicos</T-800.description>
+
+        <!-- EN: I'm A Pirate! -->
+        <imAPirate.label>Eu Sou um Pirata!</imAPirate.label>
+        <!-- EN: Install a peg leg on a pawn -->
+        <imAPirate.description>Instale uma perna de pau em um colono</imAPirate.description>
+
+        <!-- EN: On Edge -->
+        <onEdge.label>No Limite</onEdge.label>
+        <!-- EN: Gain immunity when infection is on 99% -->
+        <onEdge.description>Ganhe imunidade quando a infecção estiver em 99%</onEdge.description>
+
+        <!-- EN: That'll Show Him -->
+        <thatllShowHim.label>Carestia</thatllShowHim.label>
+        <!-- EN: Starve a pawn to death -->
+        <thatllShowHim.description>Deixe um colono morrer de fome</thatllShowHim.description>
+
+        <!-- EN: This is Where The Fun Begins -->
+        <thisIsWhereTheFunBegins.label>Quando a Diversão Começa</thisIsWhereTheFunBegins.label>
+        <!-- EN: Get raided for the first time -->
+        <thisIsWhereTheFunBegins.description>Seja invadido pela primeira vez</thisIsWhereTheFunBegins.description>
+
+        <!-- EN: Show Must Go On -->
+        <showMustGoOn.label>O Espetáculo Tem que Continuar</showMustGoOn.label>
+        <!-- EN: Have a man in black join your colony -->
+        <showMustGoOn.description>Faça um estranho de preto juntar-se à sua colônia</showMustGoOn.description>
+
+        <!-- EN: Brrr -->
+        <brrr.label>Brrr</brrr.label>
+        <!-- EN: Have a coldsnap happen in winter -->
+        <brrr.description>Tenha uma onda de frio no inverno</brrr.description>
+
+        <!-- EN: Phew -->
+        <phew.label>Ufff</phew.label>
+        <!-- EN: Have a heatwave happen in summer -->
+        <phew.description>Tenha uma onda de calor no verão</phew.description>
+
+        <!-- EN: Out of The Frying Pan -->
+        <outOfTheFryingPan.label>Fora da Frigideira</outOfTheFryingPan.label>
+        <!-- EN: Have a colonist develop a bond with a pig -->
+        <outOfTheFryingPan.description>Faça um colono desenvolver um vínculo com um porco</outOfTheFryingPan.description>
+
+        <!-- EN: Into The Fire -->
+        <intoTheFire.label>Dentro do Fogo</intoTheFire.label>
+        <!-- EN: Have a bonded pig die on fire -->
+        <intoTheFire.description>Faça um porco vinculado morrer em chamas</intoTheFire.description>
+
+        <!-- EN: Blitzkrieg -->
+        <blitzkrieg.label>Guerra-Relâmpago</blitzkrieg.label>
+        <!-- EN: Destroy 5 faction bases -->
+        <blitzkrieg.description>Destrua 5 bases de facções</blitzkrieg.description>
+
+        <!-- EN: One Step Closer -->
+        <oneStepCloser.label>Um Passo Mais Perto</oneStepCloser.label>
+        <!-- EN: Obtain an AI Persona Core -->
+        <oneStepCloser.description>Obtenha um núcleo de personalidade IA</oneStepCloser.description>
+
+        <!-- EN: Human Leather Cowboy Hat -->
+        <humanLeatherHat.label>Chapéu de Boiadeiro de Pele Humana</humanLeatherHat.label>
+        <!-- EN: Craft a human leather cowboy hat -->
+        <humanLeatherHat.description>Crie um chapéu de boiadeiro de pele humana</humanLeatherHat.description>
+
+        <!-- EN: Midas -->
+        <midas.label>Midas</midas.label>
+        <!-- EN: Have 5000 gold -->
+        <midas.description>Possua 5000 unidades de ouro</midas.description>
+
+        <!-- EN: 4/20 Blaze It -->
+        <fourtwentyblazeIt.label>4/20 Dê um Dois</fourtwentyblazeIt.label>
+        <!-- EN: Obtain 420 smokeleaf -->
+        <fourtwentyblazeIt.description>Obtenha 420 folhas de fumo</fourtwentyblazeIt.description>
+
+        <!-- EN: Silence of The Lambs -->
+        <silenceOfTheLambs.label>Silêncio dos Inocentes</silenceOfTheLambs.label>
+        <!-- EN: Obtain 100 human meat -->
+        <silenceOfTheLambs.description>Obtenha 100 unidades de carne humana</silenceOfTheLambs.description>
+
+        <!-- EN: The Stuff of Legends -->
+        <theStuffOfLegends.label>O Material das Lendas</theStuffOfLegends.label>
+        <!-- EN: Craft any legendary item -->
+        <theStuffOfLegends.description>Crie um item lendário</theStuffOfLegends.description>
+
+        <!-- EN: Future Caveman -->
+        <futureCaveman.label>Homem das Cavernas do Futuro</futureCaveman.label>
+        <!-- EN: Make a plasteel club -->
+        <futureCaveman.description>Crie um porrete de plastiaço</futureCaveman.description>
+
+        <!-- EN: First Blood -->
+        <firstBlood.label>Primeiro Abate</firstBlood.label>
+        <!-- EN: Mate outro humano -->
+        <firstBlood.description>Mate um humano</firstBlood.description>
+
+        <!-- EN: Bloodlust -->
+        <bloodlust.label>Sede de Sangue</bloodlust.label>
+        <!-- EN: Kill 100 humanlikes in total -->
+        <bloodlust.description>Mate 100 humanos</bloodlust.description>
+
+        <!-- EN: Blood For The Blood God -->
+        <bloodForTheBloodGod.label>Sangue pelo Deus do Sangue</bloodForTheBloodGod.label>
+        <!-- EN: Kill 1000 humanlikes in total -->
+        <bloodForTheBloodGod.description>Mate 1000 humanos</bloodForTheBloodGod.description>
+
+        <!-- EN: Big Game Hunter -->
+        <bigGameHunter.label>Caçador de Grandes Presas</bigGameHunter.label>
+        <!-- EN: Hunt and kill 20 Thrumbos -->
+        <bigGameHunter.description>Cace e mate 20 trumbos</bigGameHunter.description>
+
+        <!-- EN: Exterminator -->
+        <exterminator.label>Exterminador</exterminator.label>
+        <!-- EN: Kill 150 Insectoids -->
+        <exterminator.description>Mate 150 insetoides</exterminator.description>
+
+        <!-- EN: Dragon Slayer -->
+        <dragonSlayer.label>Caçador de Dragões</dragonSlayer.label>
+        <!-- EN: Kill 50 Iguanas -->
+        <dragonSlayer.description>Mate 50 iguanas</dragonSlayer.description>
+
+        <!-- EN: Australian Revenge -->
+        <australianRevenge.label>Vingança Australiana</australianRevenge.label>
+        <!-- EN: Kill 30 Emus -->
+        <australianRevenge.description>Mate 30 emas</australianRevenge.description>
+
+        <!-- EN: Three Little Pigs -->
+        <threeLittlePigs.label>Três Porquinhos</threeLittlePigs.label>
+        <!-- EN: Have 3 Pigs and 1 Timberwolf -->
+        <threeLittlePigs.description>Possua 3 porcos e 1 lobo cinzento</threeLittlePigs.description>
+
+        <!-- EN: Look At Those Chickens -->
+        <lookAtAllThoseChickens.label>Veja Todas Aquelas Galinhas</lookAtAllThoseChickens.label>
+        <!-- EN: Have 20 Geese -->
+        <lookAtAllThoseChickens.description>Possua 20 gansos</lookAtAllThoseChickens.description>
+
+        <!-- EN: Sustainable Fuel Source -->
+        <sustainableFuelSource.label>Fonte de Combustível Sustentável</sustainableFuelSource.label>
+        <!-- EN: Have 8 Boomalopes -->
+        <sustainableFuelSource.description>Possua 8 bumalopes</sustainableFuelSource.description>
+
+        <!-- EN: Muffalo Rancher -->
+        <muffaloRancher.label>Pastor de Múfalos</muffaloRancher.label>
+        <!-- EN: Have 12 Muffalos -->
+        <muffaloRancher.description>Possua 12 múfalos</muffaloRancher.description>
+
+        <!-- EN: Ark Half Full -->
+        <arkHalfFull.label>Arca Meio Cheia</arkHalfFull.label>
+        <!-- EN: Have 1 of every vanilla animal at the same time. -->
+        <arkHalfFull.description>Possua 1 de cada animal ao mesmo tempo</arkHalfFull.description>
+
+        <!-- EN: Gentle Giant -->
+        <gentleGiant.label>Gigante Gentil</gentleGiant.label>
+        <!-- EN: Tame a Thrumbo -->
+        <gentleGiant.description>Domestique um trumbo</gentleGiant.description>
+
+        <!-- EN: A Formal Complaint -->
+        <aFormalComplaint.label>Uma Reclamação Formal</aFormalComplaint.label>
+        <!-- EN: Have a pawn go berserk -->
+        <aFormalComplaint.description>Faça um colono ou prisioneiro enfurecer-se</aFormalComplaint.description>
+
+        <!-- EN: Call of The Wild -->
+        <callOfTheWild.label>Chamado da Natureza</callOfTheWild.label>
+        <!-- EN: Have a pawn run wild -->
+        <callOfTheWild.description>Faça um colono tornar-se selvagem</callOfTheWild.description>
+
+        <!-- EN: Let's Start a Revolution -->
+        <letsStartARevolution.label>Vamos Começar uma Revolução</letsStartARevolution.label>
+        <!-- EN: Have 5 pawns on mental break at the same time -->
+        <letsStartARevolution.description>Tenha 5 colonos enfurecidos ao mesmo tempo</letsStartARevolution.description>
+
+        <!-- EN: Fifty Shades of Grey -->
+        <fiftyShadesOfGrey.label>50 Tons de Cinza</fiftyShadesOfGrey.label>
+        <!-- EN: Have a pawn go into a sadistic rage on a prisoner -->
+        <fiftyShadesOfGrey.description>Faça um colono entrar em uma fúria sádica em um prisioneiro</fiftyShadesOfGrey.description>
+
+        <!-- EN: A Happy Ending -->
+        <aHappyEnding.label>Um Final Feliz</aHappyEnding.label>
+        <!-- EN: Have a 90% average mood in the colony -->
+        <aHappyEnding.description>Tenha 90% de humor médio em sua colônia</aHappyEnding.description>
+
+        <!-- EN: Are You Not Entertained? -->
+        <areYouNotEntertained.label>Você Não Está Se Divertindo?</areYouNotEntertained.label>
+        <!-- EN: Have a 5% average mood in the colony -->
+        <areYouNotEntertained.description>Tenha 5% de humor médio em sua colônia</areYouNotEntertained.description>
+
+        <!-- EN: Mercenary -->
+        <mercenary.label>Mercenário</mercenary.label>
+        <!-- EN: Complete any 5 quests -->
+        <mercenary.description>Complete 5 missões</mercenary.description>
+
+        <!-- EN: Ambassador Of Peace -->
+        <ambassadorOfPeace.label>Embaixador da Paz</ambassadorOfPeace.label>
+        <!-- EN: Complete 3 PeaceTalks quests -->
+        <ambassadorOfPeace.description>Complete 3 missões de conversa de paz</ambassadorOfPeace.description>
+
+        <!-- EN: One Shot One Kill -->
+        <OneShotOneKill.label>Um Tiro, Uma Morte</OneShotOneKill.label>
+        <!-- EN: Have a single pawn score 100 headshots. -->
+        <OneShotOneKill.description>Faça com que um único colono realize 100 tiros na cabeça</OneShotOneKill.description>
+
+        <!-- EN: Trigger-Happy -->
+        <TriggerHappy.label>Gatilho Fácil</TriggerHappy.label>
+        <!-- EN: Have a single pawn fire 2000 shots -->
+        <TriggerHappy.description>Faça um único colono disparar 2.000 tiros</TriggerHappy.description>
+
+        <!-- EN: One Solid Gardner -->
+        <OneSolidGardner.label>Um Jardineiro Consistente</OneSolidGardner.label>
+        <!-- EN: Have a single pawn sow 10000 plants. -->
+        <OneSolidGardner.description>Faça com que um único colono semeie 10.000 plantas</OneSolidGardner.description>
+
+        <!-- EN: Life Sentence -->
+        <LifeSentence.label>Sentença de Vida</LifeSentence.label>
+        <!-- EN: Have a single prisoner for 2 years. -->
+        <LifeSentence.description>Tenha um único prisioneiro por 2 anos</LifeSentence.description>
+
+        <!-- EN: I Might Need a Shrink -->
+        <IMightNeedAShrink.label>Talvez Eu Precise de um Psiquiatra</IMightNeedAShrink.label>
+        <!-- EN: Have a single pawn spend 24 hours total in Mental Breaks. -->
+        <IMightNeedAShrink.description>Faça com que um único colono gaste 24 horas no total em colpasos mentais</IMightNeedAShrink.description>
+
+        <!-- EN: Dr. Dolittle -->
+        <DrDolittle.label>Cesar Millan</DrDolittle.label>
+        <!-- EN: Have a single pawn tame 50 animals. -->
+        <DrDolittle.description>Faça com que um único colono domestique 50 animais</DrDolittle.description>
+
+        <!-- EN: Professional Stripper -->
+        <ProfessionalStripper.label>Profissional do Amor</ProfessionalStripper.label>
+        <!-- EN: Have a single pawn strip 100 bodies. -->
+        <ProfessionalStripper.description>Faça com que um único colono tire as roupas de 100 corpos</ProfessionalStripper.description>
+
+        <!-- EN: Blade Runner -->
+        <BladeRunner.label>Puritianismo</BladeRunner.label>
+        <!-- EN: Have a single pawn kill 50 mechanoids -->
+        <BladeRunner.description>Faça com que um único colono elimine 50 mecanoides</BladeRunner.description>
+
+        <!-- EN: 3 Star Michelin -->
+        <ThreeStarMichelin.label>Restaurante 5 Estrelas</ThreeStarMichelin.label>
+        <!-- EN: Have a single pawn cook 10000 meals. -->
+        <ThreeStarMichelin.description>Faça com que um único colono cozinhe 10.000 refeições</ThreeStarMichelin.description>
+
+        <!-- EN: Scrub Up -->
+        <ScrubUp.label>Desinfecte-se</ScrubUp.label>
+        <!-- EN: Perform a total of 50 operations -->
+        <ScrubUp.description>Execute um total de 50 operações</ScrubUp.description>
+
+        <!-- EN: The Rim's Brightest -->
+        <TheRimsBrightest.label>Esbanjando QI</TheRimsBrightest.label>
+        <!-- EN: Spend a total of 2 years researching. -->
+        <TheRimsBrightest.description>Passe um total de 2 anos pesquisando</TheRimsBrightest.description>
+
+        <!-- EN: I Wish This Was IKEA -->
+        <IWishThisWasIkea.label>Eu Queria Que Isso Fosse a Leroy Merlin</IWishThisWasIkea.label>
+        <!-- EN: Construct AND Disassemble a total of 100 structures. -->
+        <IWishThisWasIkea.description>Construa e desmonte um total de 100 mobílias</IWishThisWasIkea.description>
+
+        <!-- EN: I'm On Fire! -->
+        <ImOnFire.label>Estou em Chamas!</ImOnFire.label>
+        <!-- EN: Have a single pawn spend a total of 3 days on fire. -->
+        <ImOnFire.description>Faça com que um único colono passe um total de 3 dias em chamas</ImOnFire.description>
+
+        <!-- EN: Sticks and Stones -->
+        <sticksAndStones.label>Paus e Pedras</sticksAndStones.label>
+        <!-- EN: Research all neolithic technologies -->
+        <sticksAndStones.description>Pesquise todas as tecnologias neolíticas</sticksAndStones.description>
+
+        <!-- EN: Out Of The Dark Ages -->
+        <outOfTheDarkAges.label>Fora da Idade das Trevas</outOfTheDarkAges.label>
+        <!-- EN: Research all medieval technologies -->
+        <outOfTheDarkAges.description>Pesquise todas as tecnologias medievais</outOfTheDarkAges.description>
+
+        <!-- EN: Industrial Revolution -->
+        <industrialRevolution.label>Revolução Industrial</industrialRevolution.label>
+        <!-- EN: Research all industrial technologies -->
+        <industrialRevolution.description>Pesquise todas as tecnologias industriais</industrialRevolution.description>
+
+        <!-- EN: Off To The Stars -->
+        <offToTheStars.label>Para as Estrelas</offToTheStars.label>
+        <!-- EN: Research all spacer technologies -->
+        <offToTheStars.description>Pesquise todas as tecnologias espaciais</offToTheStars.description>
+
+        <!-- EN: Sharpshooter -->
+        <sharpshooter.label>Atirador Preciso</sharpshooter.label>
+        <!-- EN: Have a colonist reach level 20 in shooting -->
+        <sharpshooter.description>Faça com que um colono alcance o nível 20 em atirar</sharpshooter.description>
+
+        <!-- EN: Mr. President -->
+        <mrPresident.label>Sr. Presidente</mrPresident.label>
+        <!-- EN: Have a colonist reach level 20 in Social -->
+        <mrPresident.description>Faça com que um colono alcance o nível 20 em socializar</mrPresident.description>
+
+        <!-- EN: Conan The Barbarian -->
+        <conanTheBarbarian.label>Conan, O Bárbaro</conanTheBarbarian.label>
+        <!-- EN: Have a colonist reach level 20 in Melee -->
+        <conanTheBarbarian.description>Faça com que um colono alcance o nível 20 em corpo a corpo</conanTheBarbarian.description>
+
+        <!-- EN: Could Be Worse -->
+        <couldBeWorse.label>Poderia Ser Pior</couldBeWorse.label>
+        <!-- EN: Survive a Quadrum -->
+        <couldBeWorse.description>Sobreviva um mês</couldBeWorse.description>
+
+        <!-- EN: It's All Downhill From Here -->
+        <itsAllDownhillFromHere.label>É Só Ladeira Abaixo a Partir Daqui</itsAllDownhillFromHere.label>
+        <!-- EN: Survive a year -->
+        <itsAllDownhillFromHere.description>Sobreviva um ano</itsAllDownhillFromHere.description>
+
+        <!-- EN: 10 Hours? Woah! -->
+        <tenHoursWoah.label>10 Horas? Uau!</tenHoursWoah.label>
+        <!-- EN: Spend 10 hours playing the current colony -->
+        <tenHoursWoah.description>Passe 10 horas jogando na colônia atual</tenHoursWoah.description>
+
+        <!-- EN: Wait a Minute -->
+        <waitAMinute.label>Só Mais Um Minutinho!</waitAMinute.label>
+        <!-- EN: Spend 100 hours playing the current colony -->
+        <waitAMinute.description>Passe 100 horas jogando na colônia atual</waitAMinute.description>
+
+        <!-- EN: Pablo Emilio Escobar Gaviria -->
+        <pabloEmilioEscobarGaviria.label>Pablinho</pabloEmilioEscobarGaviria.label>
+        <!-- EN: Sell 400 Yayo to a single trader in a single transaction -->
+        <pabloEmilioEscobarGaviria.description>Venda 400 unidades de brilho para um único comerciante em uma única transação</pabloEmilioEscobarGaviria.description>
+
+        <!-- EN: Wolf Of Wall Street -->
+        <wolfOfWallStreet.label>Dono do Morro</wolfOfWallStreet.label>
+        <!-- EN: Earn 3000 silver from a single transaction -->
+        <wolfOfWallStreet.description>Ganhe 3.000 unidades de prata em uma única transação</wolfOfWallStreet.description>
+
+        <!-- EN: Slaver Scum -->
+        <slaverScum.label>Escória Escrava</slaverScum.label>
+        <!-- EN: Sell 5 prisoners in a single transaction -->
+        <slaverScum.description>Venda 5 prisioneiros em uma única transação</slaverScum.description>
+
+        <!-- EN: In For a Penny -->
+        <inForAPenny.label>Por Um Centavo</inForAPenny.label>
+        <!-- EN: Amass colony wealth of 100000 -->
+        <inForAPenny.description>Alcance a riqueza de colônia de 100.000</inForAPenny.description>
+
+        <!-- EN: In For a Pound -->
+        <inForAPound.label>Por Um Real</inForAPound.label>
+        <!-- EN: Amass colony wealth of 1000000 -->
+        <inForAPound.description>Alcance a riqueza de colônia de 1.000.000</inForAPound.description>
+
+        <!-- Vanilla Apparel Expanded -->
+        <!-- EN: Boot camp -->
+        <VAppE_AchievementMultipleItems.label>Acampamento de Treinamento</VAppE_AchievementMultipleItems.label>
+        <!-- EN: Get two boots and two shoes -->
+        <VAppE_AchievementMultipleItems.description>Obtenha duas botas e dois sapatos</VAppE_AchievementMultipleItems.description>
+
+        <!-- EN: Boot camp, two -->
+        <VAppE_AchievementMultipleItemsCrafted.label>Acampamento de Treinamento, Dois</VAppE_AchievementMultipleItemsCrafted.label>
+        <!-- EN: Craft two boots and two shoes -->
+        <VAppE_AchievementMultipleItemsCrafted.description>Crie duas botas e dois sapatos</VAppE_AchievementMultipleItemsCrafted.description>
+
+    <!-- Vanilla Armour Expanded -->
+        <!-- EN: JUGGERNAUT! -->
+        <Juggernaut.label>COLOSSO!</Juggernaut.label>
+        <!-- EN: Craft a masterwork stone war mask -->
+        <Juggernaut.description>Crie uma máscara de guerra de pedra de qualidade obra-prima</Juggernaut.description>
+
+        <!-- EN: I Don't See Anyone! -->
+        <iDontSeeAnyone.label>Eu Não Vejo Ninguém!</iDontSeeAnyone.label>
+        <!-- EN: Craft a ghillie suit -->
+        <iDontSeeAnyone.description>Crie um traje ghillie</iDontSeeAnyone.description>
+
+        <!-- EN: Not Great, Not Terrible -->
+        <notGreatNotTerrible.label>Não é Bom, Não é Ruim</notGreatNotTerrible.label>
+        <!-- EN: Craft 6 HAZMAT suits -->
+        <notGreatNotTerrible.description>Crie 6 trajes anti-radiação</notGreatNotTerrible.description>
+
+        <!-- EN: Leather? That's Kinky -->
+        <leatherThatsKinky.label>Couro? Isso é Estranho</leatherThatsKinky.label>
+        <!-- EN: Research leather tanning -->
+        <leatherThatsKinky.description>Pesquise curtimento de couro</leatherThatsKinky.description>
+
+        <!-- EN: Sierra 117 -->
+        <sierra117.label>Comandante</sierra117.label>
+        <!-- EN: Craft a masterwork quality heavy marine armor -->
+        <sierra117.description>Crie uma armadura de fusileiro pesada de qualidade obra-prima</sierra117.description>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: Big-Boned -->
+        <VCE_AchievementBigBoned.label>Ossos Largos</VCE_AchievementBigBoned.label>
+        <!-- EN: Have a colonist get more than 80% cholesterol -->
+        <VCE_AchievementBigBoned.description>Tenha um colono com mais de 80% de colesterol</VCE_AchievementBigBoned.description>
+
+        <!-- EN: Five Star Restaurant -->
+        <VCE_AchievementFiveStarRestaurant.label>Restaurante Cinco Estrelas</VCE_AchievementFiveStarRestaurant.label>
+        <!-- EN: Serve a total of 100 Gourmet meals -->
+        <VCE_AchievementFiveStarRestaurant.description>Sirva um total de 100 refeições gourmet</VCE_AchievementFiveStarRestaurant.description>
+
+        <!-- EN: Lannibal Hecter -->
+        <VCE_AchievementLannibalHecter.label>Linguiceiro de Diadema</VCE_AchievementLannibalHecter.label>
+        <!-- EN: Make a Gourmet meal with human meat -->
+        <VCE_AchievementLannibalHecter.description>Faça uma refeição gourmet com carne humana</VCE_AchievementLannibalHecter.description>
+
+        <!-- EN: Ratatouille -->
+        <VCE_AchievementRatatouille.label>Ratatoing</VCE_AchievementRatatouille.label>
+        <!-- EN: Make a Fine grill with rat meat -->
+        <VCE_AchievementRatatouille.description>Faça um grelhado bom com carne de rato</VCE_AchievementRatatouille.description>
+
+        <!-- EN: Quattro formaggi -->
+        <VCE_AchievementQuattroFormaggi.label>Quatro Queijos</VCE_AchievementQuattroFormaggi.label>
+        <!-- EN: Make a Lavish bake using flour and cheese -->
+        <VCE_AchievementQuattroFormaggi.description>Faça um assado luxuoso usando farinha e queijo</VCE_AchievementQuattroFormaggi.description>
+
+        <!-- EN: Kitchen Nightmare -->
+        <VCE_AchievementKitchenNightmare.label>Pesadelo na Cozinha</VCE_AchievementKitchenNightmare.label>
+        <!-- EN: Build a total of 7 new Cooking Expanded kitchen buildings -->
+        <VCE_AchievementKitchenNightmare.description>Construa um total de 7 mobílias de cozinha</VCE_AchievementKitchenNightmare.description>
+
+        <!-- EN: Bon Fromage -->
+        <VCE_AchievementBonFromage.label>Bon Fromage</VCE_AchievementBonFromage.label>
+        <!-- EN: Obtain a Legendary quality regular cheese -->
+        <VCE_AchievementBonFromage.description>Obtenha um queijo de qualidade lendária</VCE_AchievementBonFromage.description>
+
+        <!-- EN: Nasty and Rubbery -->
+        <VCE_AchievementNastyAndRubbery.label>Desagradável e Elástico</VCE_AchievementNastyAndRubbery.label>
+        <!-- EN: Stuff some unfertilized chicken eggs inside a can -->
+        <VCE_AchievementNastyAndRubbery.description>Enlate alguns ovos de galinha</VCE_AchievementNastyAndRubbery.description>
+
+        <!-- EN: Amy's Baking -->
+        <VCE_AchievementAmysBaking.label>Président</VCE_AchievementAmysBaking.label>
+        <!-- EN: Make a revolting Gourmet dessert using Mayo -->
+        <VCE_AchievementAmysBaking.description>Faça uma sobremesa gourmet usando maionese</VCE_AchievementAmysBaking.description>
+
+        <!-- EN: Refrigeration Failure -->
+        <VCE_AchievementRefrigerationFailure.label>Pé de Fava</VCE_AchievementRefrigerationFailure.label>
+        <!-- EN: Have 30 Simple grills ruin due to being refrigerated -->
+        <VCE_AchievementRefrigerationFailure.description>Faça 30 grelhados simples serem arruinados por refrigeração</VCE_AchievementRefrigerationFailure.description>
+
+        <!-- EN: Tasty Robots -->
+        <VCE_AchievementTastyRobots.label>Robôs Saborosos</VCE_AchievementTastyRobots.label>
+        <!-- EN: Craft any meal with digestible resurrector nanites -->
+        <VCE_AchievementTastyRobots.description>Crie qualquer refeição com nanitos ressuscitadores digestíveis</VCE_AchievementTastyRobots.description>
+
+        <!-- EN: Diabetes Soup -->
+        <VCE_AchievementDiabetesSoup.label>Sopa da Diabetes</VCE_AchievementDiabetesSoup.label>
+        <!-- EN: Make a sweet Gourmet soup using sugar -->
+        <VCE_AchievementDiabetesSoup.description>Faça uma sopa gourmet com açúcar</VCE_AchievementDiabetesSoup.description>
+
+        <!-- EN: Rim SPAM -->
+        <VCE_AchievementSpam.label>JBS</VCE_AchievementSpam.label>
+        <!-- EN: Stuff some pork in a can and call it a day -->
+        <VCE_AchievementSpam.description>Coloque um pouco de carne de porco em uma lata</VCE_AchievementSpam.description>
+
+        <!-- EN: Freedom Fries -->
+        <VCE_AchievementFreedomFries.label>Batatas Livres</VCE_AchievementFreedomFries.label>
+        <!-- EN: Make 200 deep fried potatoes -->
+        <VCE_AchievementFreedomFries.description>Faça 200 batatas fritas</VCE_AchievementFreedomFries.description>
+
+        <!-- EN: Don't Fear The Reaper -->
+        <VCE_AchievementHarvestWheat.label>Não Tema a Morte</VCE_AchievementHarvestWheat.label>
+        <!-- EN: Harvest 100 wheat plants -->
+        <VCE_AchievementHarvestWheat.description>Colha 100 plantas de trigo</VCE_AchievementHarvestWheat.description>
+
+        <!-- EN: Sugar Daddy -->
+        <VCE_AchievementSugarDaddy.label>Ilana</VCE_AchievementSugarDaddy.label>
+        <!-- EN: Harvest 100 sugarcane plants -->
+        <VCE_AchievementSugarDaddy.description>Colha 100 plantas de cana-de-açúcar</VCE_AchievementSugarDaddy.description>
+
+        <!-- EN: Silk Road -->
+        <VCE_AchievementSilkRoad.label>Rota da Seda</VCE_AchievementSilkRoad.label>
+        <!-- EN: Earn 1000 silver selling spices -->
+        <VCE_AchievementSilkRoad.description>Ganhe 1000 pratas vendendo especiarias</VCE_AchievementSilkRoad.description>
+
+        <!-- EN: Insect Gourmet -->
+        <VCE_AchievementInsectGourmet.label>Inseto Gourmet</VCE_AchievementInsectGourmet.label>
+        <!-- EN: Obtain 100 bottles of insect jelly preserves -->
+        <VCE_AchievementInsectGourmet.description>Obtenha 100 jarras de conservas geleia de inseto</VCE_AchievementInsectGourmet.description>
+
+        <!-- EN: The Cheesemaker -->
+        <VCE_AchievementTheCheesemaker.label>O Fabricante de Queijos</VCE_AchievementTheCheesemaker.label>
+        <!-- EN: Craft a total of 200 pieces of cheese -->
+        <VCE_AchievementTheCheesemaker.description>Crie um total de 200 pedaços de queijo</VCE_AchievementTheCheesemaker.description>
+
+        <!-- EN: Healthy as an Ox -->
+        <VCE_AchievementHealthyAsAnOx.label>Saudável como um Boi</VCE_AchievementHealthyAsAnOx.label>
+        <!-- EN: Have a pawn with cholesterol, diabetes and high blood pressure -->
+        <VCE_AchievementHealthyAsAnOx.description>Tenha um colono com colesterol, diabetes e pressão alta</VCE_AchievementHealthyAsAnOx.description>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- EN: Feeling a Little Shellfish -->
+        <VCE_AchievementFeelingALittleShellfish.label>Sentindo-se Egoísta</VCE_AchievementFeelingALittleShellfish.label>
+        <!-- EN: Make a Lavish meal with lobster -->
+        <VCE_AchievementFeelingALittleShellfish.description>Cozinhe uma refeição luxuosa com lagostas</VCE_AchievementFeelingALittleShellfish.description>
+
+        <!-- EN: Fugu -->
+        <VCE_AchievementFugu.label>Lola</VCE_AchievementFugu.label>
+        <!-- EN: Eat a raw pufferfish -->
+        <VCE_AchievementFugu.description>Coma um baiacu cru</VCE_AchievementFugu.description>
+
+        <!-- EN: Something Special -->
+        <VCE_AchievementSomethingSpecial.label>Algo Especial</VCE_AchievementSomethingSpecial.label>
+        <!-- EN: Catch something that is not a fish -->
+        <VCE_AchievementSomethingSpecial.description>Pesque algo que não seja um peixe</VCE_AchievementSomethingSpecial.description>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- EN: Napoleon BonaPARTY -->
+        <napoleonBonaparty.label>Napocamaleão Bonaparte</napoleonBonaparty.label>
+        <!-- EN: Craft 10 Muskets -->
+        <napoleonBonaparty.description>Crie 10 mosquetes</napoleonBonaparty.description>
+
+        <!-- EN: Posh Rock Lobber -->
+        <poshRockLobber.label>Pedra Arremessável Elegante</poshRockLobber.label>
+        <!-- EN: Craft jade throwing rocks -->
+        <poshRockLobber.description>Crie uma pedra arremessável de jade</poshRockLobber.description>
+
+        <!-- EN: Burn Them All! -->
+        <burnThemAll.label>Queimem Todos!</burnThemAll.label>
+        <!-- EN: Craft a flamethrower -->
+        <burnThemAll.description>Crie um lança-chamas</burnThemAll.description>
+
+        <!-- EN: Guns Gallore -->
+        <gunsGallore.label>Loja de Armas</gunsGallore.label>
+        <!-- EN: Research Specialized Firearms -->
+        <gunsGallore.description>Pesquise armas de fogo especializadas</gunsGallore.description>
+
+        <!-- EN: Supercharged! -->
+        <superCharged.label>Sobrecarregado!</superCharged.label>
+        <!-- EN: Craft a legendary charge minigun -->
+        <superCharged.description>Crie uma metralhadora giratória de carga lendária</superCharged.description>
+
+</LanguageData>

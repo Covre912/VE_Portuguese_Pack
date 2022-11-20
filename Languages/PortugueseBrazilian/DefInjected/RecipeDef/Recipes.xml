@@ -1,0 +1,1221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Apparel Expanded - Accessories -->
+        <!-- EN: make quiver -->
+        <VAEA_Make_Quiver.label>fazer aljava</VAEA_Make_Quiver.label>
+        <!-- EN: Make a quiver. -->
+        <VAEA_Make_Quiver.description>Faça uma aljava.</VAEA_Make_Quiver.description>
+        <!-- EN: Making quiver. -->
+        <VAEA_Make_Quiver.jobString>Fazendo aljava.</VAEA_Make_Quiver.jobString>
+
+    <!-- Vanilla Brewing Expanded -->
+        <!-- EN: make simple cocktail -->
+        <VBE_MakeCocktailSimple.label>fazer coquetel simples</VBE_MakeCocktailSimple.label>
+        <!-- EN: Make a simple cocktail quickly mixed from a duo of ingredients. -->
+        <VBE_MakeCocktailSimple.description>Faça um coquetel simples rapidamente misturado com uma dupla de ingredientes.</VBE_MakeCocktailSimple.description>
+        <!-- EN: Making simple cocktail. -->
+        <VBE_MakeCocktailSimple.jobString>Fazendo coquetel simples.</VBE_MakeCocktailSimple.jobString>
+
+        <!-- EN: make fine cocktail -->
+        <VBE_MakeCocktailFine.label>fazer coquetel bom</VBE_MakeCocktailFine.label>
+        <!-- EN: Make a fine cocktail, mixed precisely from multiple ingredients. -->
+        <VBE_MakeCocktailFine.description>Faça um coquetel bom, misturado com precisão a partir de vários ingredientes.</VBE_MakeCocktailFine.description>
+        <!-- EN: Making fine cocktail. -->
+        <VBE_MakeCocktailFine.jobString>Fazendo coquetel bom.</VBE_MakeCocktailFine.jobString>
+
+        <!-- EN: make lavish cocktail -->
+        <VBE_MakeCocktailLavish.label>fazer coquetel luxuoso</VBE_MakeCocktailLavish.label>
+        <!-- EN: Make a lavish cocktail, mixed from a wide variety of ingredients and chilled to perfection before meticulously shaken and served. -->
+        <VBE_MakeCocktailLavish.description>Faça um coquetel luxoso, misturado com uma grande variedade de ingredientes e gelado à perfeição antes de meticulosamente agitado e servido.</VBE_MakeCocktailLavish.description>
+        <!-- EN: Making lavish cocktail. -->
+        <VBE_MakeCocktailLavish.jobString>Fazendo coquetel luxuoso.</VBE_MakeCocktailLavish.jobString>
+
+        <!-- EN: make coffee -->
+        <VBE_MakeCoffee.label>fazer café</VBE_MakeCoffee.label>
+        <!-- EN: Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma. -->
+        <VBE_MakeCoffee.description>Faça uma bebida quente e amarga, geralmente complementada com leite e açúcar. Um favorito entre estudantes e funcionários de escritório em toda a galáxia devido ao alto teor de cafeína e aroma agradável.</VBE_MakeCoffee.description>
+        <!-- EN: Making coffee. -->
+        <VBE_MakeCoffee.jobString>Fazendo café.</VBE_MakeCoffee.jobString>
+
+        <!-- EN: make energy drink -->
+        <VBE_MakeEnergyDrink.label>fazer energético</VBE_MakeEnergyDrink.label>
+        <!-- EN: Make a sour and fizzy drink finished off with a hint of bitterness. The combination of sugar and caffeine means a burst of energy upfront, but with a crash later. Notable aftertaste of radiation. -->
+        <VBE_MakeEnergyDrink.description>Faça uma bebida azeda e gaseificada com um toque de amargura. A combinação de açúcar e cafeína transmite uma explosão de energia! Sabor residual notável de radiação.</VBE_MakeEnergyDrink.description>
+        <!-- EN: Making energy drink. -->
+        <VBE_MakeEnergyDrink.jobString>Fazendo energético.</VBE_MakeEnergyDrink.jobString>
+
+        <!-- EN: mix fruit juice -->
+        <VBE_MixJuice.label>fazer suco</VBE_MixJuice.label>
+        <!-- EN: Mix a simple fruit juice made from a few fruits. -->
+        <VBE_MixJuice.description>Faça um suco simples feito de algumas frutas.</VBE_MixJuice.description>
+        <!-- EN: Mixing fruit juice. -->
+        <VBE_MixJuice.jobString>Fazendo suco.</VBE_MixJuice.jobString>
+
+        <!-- EN: make soda syrup -->
+        <VBE_MakeSodaSyrup.label>fazer xarope de refrigerante</VBE_MakeSodaSyrup.label>
+        <!-- EN: Make soda syrup by mixing natural fruit juice with high fructose corn syrup. -->
+        <VBE_MakeSodaSyrup.description>Faça xarope de refrigerante misturando suco natural com xarope de milho rico em frutose.</VBE_MakeSodaSyrup.description>
+        <!-- EN: Making soda syrup. -->
+        <VBE_MakeSodaSyrup.jobString>Fazendo xarope de refrigerante.</VBE_MakeSodaSyrup.jobString>
+
+        <!-- EN: make soda syrup (efficient) -->
+        <VBE_MakeSodaSyrupBulk.label>fazer xarope de refrigerante</VBE_MakeSodaSyrupBulk.label>
+        <!-- EN: Make soda syrup by mixing natural fruit juice with sugar. This recipe is much more efficient. -->
+        <VBE_MakeSodaSyrupBulk.description>Fazendo xarope de refrigerante misturando suco natural com xarope de milho rico em frutose.</VBE_MakeSodaSyrupBulk.description>
+        <!-- EN: Making soda syrup. -->
+        <VBE_MakeSodaSyrupBulk.jobString>Fazendo xarope de refrigerante.</VBE_MakeSodaSyrupBulk.jobString> -->
+
+        <!-- EN: make ambrosia mush -->
+        <VBE_AmbrosiaMush.label>fazer polpa de ambrosia</VBE_AmbrosiaMush.label>
+        <!-- EN: Make sliced and pressed ambrosia, can be left alone to ripen into must to be further distilled into an extremely fine liquor. -->
+        <VBE_AmbrosiaMush.description>Faça ambrosia fatiada e prensada que pode ser deixada sozinha para amadurecer em mosto para ser posteriormente destilada em um licor extremamente fino.</VBE_AmbrosiaMush.description>
+        <!-- EN: Making ambrosia mush. -->
+        <VBE_AmbrosiaMush.jobString>Fazendo polpa de ambrosia.</VBE_AmbrosiaMush.jobString>
+
+        <!-- EN: make tequila must from agave -->
+        <VBE_MakeTequilaMust.label>fazer mosto de tequila</VBE_MakeTequilaMust.label>
+        <!-- EN: Make a thin mixture of juiced agave sap and insect meat starter, ready to be cut and fermented in a barrel. -->
+        <VBE_MakeTequilaMust.description>Faça uma mistura fina de seiva de agave com suco e carne de inseto.</VBE_MakeTequilaMust.description>
+        <!-- EN: Making tequila must. -->
+        <VBE_MakeTequilaMust.jobString>Fazendo mosto de tequila.</VBE_MakeTequilaMust.jobString>
+
+        <!-- EN: make tequila must from prickly pear -->
+        <VBE_MakeTequilaMustFromPears.label>fazer mosto de tequila</VBE_MakeTequilaMustFromPears.label>
+        <!-- EN: Make a thin mixture of prickly cactus pear and insect meat starter, ready to be cut and fermented in a barrel. -->
+        <VBE_MakeTequilaMustFromPears.description>Faça uma mistura fina de seiva de opúncia com suco e carne de inseto.</VBE_MakeTequilaMustFromPears.description>
+        <!-- EN: Making tequila must. -->
+        <VBE_MakeTequilaMustFromPears.jobString>Fazendo mosto de tequila.</VBE_MakeTequilaMustFromPears.jobString>
+
+        <!-- EN: make whiskey mash -->
+        <VBE_MakeWhiskeyMash.label>fazer mistura de uísque</VBE_MakeWhiskeyMash.label>
+        <!-- EN: Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged. -->
+        <VBE_MakeWhiskeyMash.description>Faça uma mistura amilácea e principalmente líquida com pedaços polposos espalhados por toda parte.</VBE_MakeWhiskeyMash.description>
+        <!-- EN: Making whiskey mash. -->
+        <VBE_MakeWhiskeyMash.jobString>Fazendo mistura de uísque.</VBE_MakeWhiskeyMash.jobString>
+
+        <!-- EN: make whiskey mash from flour -->
+        <VBE_MakeWhiskeyMashFromFlour.label>fazer mistura de uísque (farinha)</VBE_MakeWhiskeyMashFromFlour.label>
+        <!-- EN: Make a starchy and mostly liquid mixture with pulpy chunks strewn throughout. Ready To be aged. -->
+        <VBE_MakeWhiskeyMashFromFlour.description>Faça uma mistura amilácea e principalmente líquida com pedaços polposos espalhados por toda parte.</VBE_MakeWhiskeyMashFromFlour.description>
+        <!-- EN: Making whiskey mash. -->
+        <VBE_MakeWhiskeyMashFromFlour.jobString>Fazendo mistura de uísque.</VBE_MakeWhiskeyMashFromFlour.jobString>
+
+        <!-- EN: make vodka mash -->
+        <VBE_MakeVodkaMash.label>fazer mistura de vodca</VBE_MakeVodkaMash.label>
+        <!-- EN: Make a thick, starchy mash of raw potatoes and a starter, ready to be fermented. -->
+        <VBE_MakeVodkaMash.description>Faça uma mistura espessa e amilácea de batata crua.</VBE_MakeVodkaMash.description>
+        <!-- EN: Making vodka mash. -->
+        <VBE_MakeVodkaMash.jobString>Fazendo mistura de vodca.</VBE_MakeVodkaMash.jobString>
+
+        <!-- EN: make gin mush -->
+        <VBE_MakeGinMush.label>fazer polpa de gim</VBE_MakeGinMush.label>
+        <!-- EN: Make a clear but cloudy mixture of juiced berries and miscellaneous grain, ready to be fermented. -->
+        <VBE_MakeGinMush.description>Faça uma mistura clara, mas turva, de frutas silvestres e grãos diversos.</VBE_MakeGinMush.description>
+        <!-- EN: Making gin mush. -->
+        <VBE_MakeGinMush.jobString>Fazendo polpa de gim.</VBE_MakeGinMush.jobString>
+
+        <!-- EN: make cigarettes -->
+        <VBE_MakeCigarettes.label>fazer cigarros</VBE_MakeCigarettes.label>
+        <!-- EN: Make a small, rolled paper tube stuffed loosely with tobacco leaves. -->
+        <VBE_MakeCigarettes.description>Faça um pequeno tubo de papel enrolado recheado com folhas de tabaco.</VBE_MakeCigarettes.description>
+        <!-- EN: Making cigarettes. -->
+        <VBE_MakeCigarettes.jobString>Fazendo cigarros.</VBE_MakeCigarettes.jobString>
+
+        <!-- EN: make cigars -->
+        <VBE_MakeCigars.label>fazer charutos</VBE_MakeCigars.label>
+        <!-- EN: Make a fat, dried tobacco leaf stuffed to the brim with more tobacco leaves and a gold foil wrap around it. -->
+        <VBE_MakeCigars.description>Faça uma folha de tabaco seca e gorda recheada até a borda e envolva-a com ouro.</VBE_MakeCigars.description>
+        <!-- EN: Making cigars. -->
+        <VBE_MakeCigars.jobString>Fazendo charutos.</VBE_MakeCigars.jobString>
+
+        <!-- EN: make tea -->
+        <VBE_MakeTea.label>fazer chá</VBE_MakeTea.label>
+        <!-- EN: Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. -->
+        <VBE_MakeTea.description>Faça uma bebida agradável e aromática preparada mergulhando um saco de folhas de chá em água fervente.</VBE_MakeTea.description>
+        <!-- EN: Making tea. -->
+        <VBE_MakeTea.jobString>Fazendo chá.</VBE_MakeTea.jobString>
+
+        <!-- EN: make luciferium powder -->
+        <VBE_MakeLuciferiumPowder.label>fazer pó de lucifério</VBE_MakeLuciferiumPowder.label>
+        <!-- EN: Make a very finely blended powder made from luciferium. Usually put around rims of alcoholic drinks in bars frequented by the wealthy and powerful. -->
+        <VBE_MakeLuciferiumPowder.description>Faça um pó muito fino feito de lucifério. Costuma-se colocar rodelas de bebidas alcoólicas em bares frequentados por ricos e poderosos.</VBE_MakeLuciferiumPowder.description>
+        <!-- EN: Making luciferium powder. -->
+        <VBE_MakeLuciferiumPowder.jobString>Fazendo pó de lucifério.</VBE_MakeLuciferiumPowder.jobString>
+
+        <!-- EN: make go-juice stock -->
+        <VBE_MakeGoJuiceStock.label>fazer gelatina de suco-turbo</VBE_MakeGoJuiceStock.label>
+        <!-- EN: Make a gelatinized cube of Go-Juice, able to be digested rather than injected. While it can be used in any meal, it is often melted into soups or used as a thickening agent in cocktails. -->
+        <VBE_MakeGoJuiceStock.description>Faça um cubo gelatinizado de suco-turbo, capaz de ser digerido em vez de injetado. Embora possa ser usado em qualquer refeição, geralmente é derretido em sopas ou usado como um agente espessante em coquetéis.</VBE_MakeGoJuiceStock.description>
+        <!-- EN: Making go-juice stock. -->
+        <VBE_MakeGoJuiceStock.jobString>Fazendo gelatina de suco-turbo.</VBE_MakeGoJuiceStock.jobString>
+
+        <!-- EN: make wake-up powder --> 
+        <VBE_MakeWakeUpPowder.label>fazer pó de despertar</VBE_MakeWakeUpPowder.label>
+        <!-- EN: Make a crushed and powdered form of wake-up, surprisingly sweet and sometimes used as a replacement for sugar in desserts or dissolved into a morning espresso. -->
+        <VBE_MakeWakeUpPowder.description>Faça um despertar triturado em pó, surpreendentemente doce e às vezes usado como substituto do açúcar em sobremesas ou dissolvido em um expresso matinal.</VBE_MakeWakeUpPowder.description>
+        <!-- EN: Making wake-up powder. -->
+        <VBE_MakeWakeUpPowder.jobString>Fazendo pó de despertar.</VBE_MakeWakeUpPowder.jobString>
+
+        <!-- EN: make gourmet cocktail -->
+        <VBE_MakeCocktailGourmet.label>fazer coquetel gourmet</VBE_MakeCocktailGourmet.label>
+        <!-- EN: Make a gourmet cocktail, where every factor from temperature of glass, choice of stirring instrument and type of garnish has been precisely calculated for the maximum flavor and body possible. -->
+        <VBE_MakeCocktailGourmet.description>Faça um coquetel gourmet, onde cada fator, desde a temperatura do vidro, a escolha do instrumento de agitação e o tipo de guarnição, foi calculado com precisão para o máximo de sabor e corpo possível.</VBE_MakeCocktailGourmet.description>
+        <!-- EN: Making gourmet cocktail. -->
+        <VBE_MakeCocktailGourmet.jobString>Fazendo coquetel gourmet</VBE_MakeCocktailGourmet.jobString>
+
+        <!-- EN: make unfermented cider -->
+        <VBE_MakeUnfermentedCider.label>fazer sidra (não ferm.)</VBE_MakeUnfermentedCider.label>
+        <!-- EN: Make unfermented cider with a starter in an air-tight bottle. If left alone to develop the proper bacteria the end result will be a weak alcoholic beverage. -->
+        <VBE_MakeUnfermentedCider.description>Faça sidra não fermentada em uma garrafa hermética. Se deixado sozinho para desenvolver as bactérias adequadas, o resultado final será uma bebida alcoólica fraca.</VBE_MakeUnfermentedCider.description>
+        <!-- EN: Making unfermented cider. -->
+        <VBE_MakeUnfermentedCider.jobString>Fazendo sidra.</VBE_MakeUnfermentedCider.jobString>
+
+
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- EN: make espresso coffee -->
+        <VBE_MakeCoffeeFast.label>preparar café espresso</VBE_MakeCoffeeFast.label>
+        <!-- EN: Make a warm, bitter beverage usually complemented with milk and sugar. A favorite among students and office workers across the galaxy due to high caffeine content and pleasing aroma. Brewing coffee in a espresso machine is generally much faster. -->
+        <VBE_MakeCoffeeFast.description>Faça uma bebida quente e amarga, geralmente complementada com leite e açúcar. Um favorito entre estudantes e funcionários de escritório em toda a galáxia devido ao alto teor de cafeína e aroma agradável. Preparar café em uma máquina de expresso é muito mais rápido.</VBE_MakeCoffeeFast.description>
+        <!-- EN: Making coffee. -->
+        <VBE_MakeCoffeeFast.jobString>Preparando café.</VBE_MakeCoffeeFast.jobString>
+
+        <!-- EN: reheat iced coffee -->
+        <VBE_ReheatCoffee.label>reaquecer café gelado</VBE_ReheatCoffee.label>
+        <!-- EN: This espresso machine has a small built-in grill to reheat iced coffee. -->
+        <VBE_ReheatCoffee.description>Esta máquina de expresso tem uma pequena grelha embutida para reaquecer o café gelado.</VBE_ReheatCoffee.description>
+        <!-- EN: Reheating iced coffee. -->
+        <VBE_ReheatCoffee.jobString>Reaquecendo café gelado.</VBE_ReheatCoffee.jobString>
+
+        <!-- EN: brew latte coffee -->
+        <VBE_BrewLatteCoffee.label>preparar café com leite</VBE_BrewLatteCoffee.label>
+        <!-- EN: Brew a potent espresso mixed with fresh milk to help ease bitterness before pouring and serving. Lattes have a reputation of being particularly meant for “sophisticated” individuals. -->
+        <VBE_BrewLatteCoffee.description>Prepare um expresso potente misturado com leite fresco para ajudar a aliviar o amargor antes de servir e servir. O café com leite tem a reputação de ser especialmente destinado a indivíduos “sofisticados”.</VBE_BrewLatteCoffee.description>
+        <!-- EN: Brewing latte coffee. -->
+        <VBE_BrewLatteCoffee.jobString>Preparando café com leite.</VBE_BrewLatteCoffee.jobString>
+
+        <!-- EN: brew mocha coffee -->
+        <VBE_BrewMochaCoffee.label>preparar moca</VBE_BrewMochaCoffee.label>
+        <!-- EN: Brew a coffee mixed with sweet and luxurious chocolate. Those of snobbish persuasion would argue mocha is more of a dessert than an actual coffee drink. -->
+        <VBE_BrewMochaCoffee.description>Prepare um café misturado com chocolate doce e luxuoso. Aqueles de persuasão esnobe diriam que o moca é mais uma sobremesa do que uma bebida de café de verdade.</VBE_BrewMochaCoffee.description>
+        <!-- EN: Brewing mocha coffee. -->
+        <VBE_BrewMochaCoffee.jobString>Preparando moca.</VBE_BrewMochaCoffee.jobString>
+
+        <!-- EN: brew irish coffee -->
+        <VBE_BrewIrishCoffee.label>preparar café irlandês</VBE_BrewIrishCoffee.label>
+        <!-- EN: Brew a drink made with whiskey and coffee blended thoroughly before forming a head and being topped with a spoonful of whipped cream. Perfect for those who just got out of bed and are already wanting to go back to it. -->
+        <VBE_BrewIrishCoffee.description>Prepare uma bebida à base de uísque e café bem misturados. Perfeito para quem acabou de sair da cama e já está com vontade de voltar a dormir.</VBE_BrewIrishCoffee.description>
+        <!-- EN: Brewing irish coffee. -->
+        <VBE_BrewIrishCoffee.jobString>Preparando café irlandês.</VBE_BrewIrishCoffee.jobString>
+
+        <!-- EN: brew cannibal coffee -->
+        <VBE_BrewCannibalCoffee.label>preparar café canibal</VBE_BrewCannibalCoffee.label>
+        <!-- EN: Brew a drink... for a very particular... refined coffee drinker. -->
+        <VBE_BrewCannibalCoffee.description>Prepare uma bebida... para um... consumidor refinado.</VBE_BrewCannibalCoffee.description>
+        <!-- EN: Brewing cannibal coffee. -->
+        <VBE_BrewCannibalCoffee.jobString>Preparando café canibal.</VBE_BrewCannibalCoffee.jobString>
+
+        <!-- EN: make fast tea -->
+        <VBE_MakeTeaFast.label>preparar chá</VBE_MakeTeaFast.label>
+        <!-- EN: Make a pleasing, aromatic beverage prepared by steeping a bag of tea leaves in boiling water. Brewing tea in this specially prepared espresso machine is generally much faster. -->
+        <VBE_MakeTeaFast.description>Faça uma bebida agradável e aromática, preparada colocando um saquinho de folhas de chá em água fervente. A preparação do chá nesta máquina de expresso é muito mais rápida.</VBE_MakeTeaFast.description>
+        <!-- EN: Making fast tea. -->
+        <VBE_MakeTeaFast.jobString>Preparando chá.</VBE_MakeTeaFast.jobString>
+
+        <!-- EN: make black tea -->
+        <VBE_MakeBlackTea.label>preparar chá preto</VBE_MakeBlackTea.label>
+        <!-- EN: Make a particularly bitter tea cut with creamy milk, wakes one up a bit and relaxes one's mind. -->
+        <VBE_MakeBlackTea.description>Faça um chá particularmente amargo com leite cremoso, desperta e relaxa a mente.</VBE_MakeBlackTea.description>
+        <!-- EN: Making black tea. -->
+        <VBE_MakeBlackTea.jobString>Preparando chá preto.</VBE_MakeBlackTea.jobString>
+
+        <!-- EN: make yuenyeung -->
+        <VBE_MakeYuenYeung.label>preparar café com chá</VBE_MakeYuenYeung.label>
+        <!-- EN: Make a mixture of coffee and tea. Tea and coffee drinkers respectively set their differences aside while concocting this unholy amalgamation. Whether it’s served hot or cold it’s equally confusing to the imbiber. -->
+        <VBE_MakeYuenYeung.description>Faça uma mistura de café e chá. Quer seja servido quente ou frio, é igualmente confuso.</VBE_MakeYuenYeung.description>
+        <!-- EN: Making yuenyeung. -->
+        <VBE_MakeYuenYeung.jobString>Preparando café com chá.</VBE_MakeYuenYeung.jobString>
+
+        <!-- EN: make kombucha tea -->
+        <VBE_MakeKombucha.label>preparar kombuchá</VBE_MakeKombucha.label>
+        <!-- EN: Make a sugary tea left out to ferment, after fermenting the end product is a sweet and sour, sometimes even naturally fizzy drink known as kombucha. Praised for health benefits, though some remain skeptical. -->
+        <VBE_MakeKombucha.description>Faça um chá açucarado deixado para fermentar, um doce e azedo, às vezes até uma bebida naturalmente gasosa conhecida como kombuchá. Elogiado pelos benefícios à saúde, embora alguns continuem céticos.</VBE_MakeKombucha.description>
+        <!-- EN: Making kombucha tea. -->
+        <VBE_MakeKombucha.jobString>Preparando kombuchá.</VBE_MakeKombucha.jobString>
+
+        <!-- EN: brew mint coffee -->
+        <VBE_BrewMintCoffee.label>preparar café com hortelã</VBE_BrewMintCoffee.label>
+        <!-- EN: Brew a bitter espresso mixed with cream or milk, then further mixed with mint oil and garnished. Cool and velvety coffee gives way to an even cooler, soothing aftertaste, not to mention great smelling breath. -->
+        <VBE_BrewMintCoffee.description>Faça um expresso amargo misturado com creme ou leite, depois misturado com óleo de menta e guarnecido. O café fresco e aveludado dá lugar a um sabor ainda mais fresco e calmante, sem falar no hálito com um ótimo cheiro.</VBE_BrewMintCoffee.description>
+        <!-- EN: Brewing mint coffee. -->
+        <VBE_BrewMintCoffee.jobString>Preparando café com hortelã.</VBE_BrewMintCoffee.jobString>
+
+        <!-- EN: brew dalgona coffee -->
+        <VBE_BrewDalgonaCoffee.label>preparar café dalgona</VBE_BrewDalgonaCoffee.label>
+        <!-- EN: Brew a trendy, newer drink in the world of coffee rumored to originate from far off steamworlds. Coffee granules are rapidly mixed with sugar to form a thick, luxuriously sweet foam. Afterwards the foam is dispersed over deeply chilled milk before drinking. -->
+        <VBE_BrewDalgonaCoffee.description>Prepare uma bebida da moda e mais recente no mundo do café, que dizem ser originário de mundos distantes. Os grânulos de café são rapidamente misturados com açúcar para formar uma espuma espessa e luxuosamente doce. Em seguida, a espuma é espalhada sobre o leite resfriado antes de ser bebido.</VBE_BrewDalgonaCoffee.description>
+        <!-- EN: Brewing dalgona coffee. -->
+        <VBE_BrewDalgonaCoffee.jobString>Preparando café dalgona.</VBE_BrewDalgonaCoffee.jobString>
+
+        <!-- EN: make green tea -->
+        <VBE_MakeGreenTea.label>preparar chá verde</VBE_MakeGreenTea.label>
+        <!-- EN: Make a light, citrusy green tea spiked with sugar to create a buttery, almost nutty flavor. -->
+        <VBE_MakeGreenTea.description>Faça um chá verde leve e cítrico enriquecido com açúcar para criar um sabor amanteigado, quase de nozes.</VBE_MakeGreenTea.description>
+        <!-- EN: Making green tea. -->
+        <VBE_MakeGreenTea.jobString>Preparando chá verde.</VBE_MakeGreenTea.jobString>
+
+        <!-- EN: make mint tea -->
+        <VBE_MakeMintTea.label>preparar chá de hortelã</VBE_MakeMintTea.label>
+        <!-- EN: Make black tea leaves mixed with mint leaves and deeply steeped, then garnished with additional mint leaves. Leaves your breath surprisingly fresh. -->
+        <VBE_MakeMintTea.description>Faça folhas de chá preto misturadas com folhas de hortelã e profundamente embebidas, a seguir guarnecidas com folhas de hortelã adicionais. Deixa seu hálito surpreendentemente fresco.</VBE_MakeMintTea.description>
+        <!-- EN: Making mint tea. -->
+        <VBE_MakeMintTea.jobString>Preparando chá de hortelã.</VBE_MakeMintTea.jobString>
+
+        <!-- EN: make masala chai -->
+        <VBE_MakeMasalaChai.label>preparar chá de especiarias</VBE_MakeMasalaChai.label>
+        <!-- EN: Make a musty, warm, almost woody tea crafted by simple leaves and complex spices. Alleged to be good against high cholesterol. -->
+        <VBE_MakeMasalaChai.description>Faça um chá mofado, quente, quase amadeirado, feito de folhas simples e especiarias complexas. Diz-se que é bom contra o colesterol alto.</VBE_MakeMasalaChai.description>
+        <!-- EN: Making masala chai. -->
+        <VBE_MakeMasalaChai.jobString>Preparando chá de especiarias.</VBE_MakeMasalaChai.jobString>
+
+        <!-- EN: make noon chai -->
+        <VBE_MakeNoonChai.label>preparar chá rosa</VBE_MakeNoonChai.label>
+        <!-- EN: Make an ancient Kashmiri tea mixing tea leaves, a pinch of salt and baking soda, which results in an striking pink beverage that is famous for being not only delicious but also healthy for the body. Very efficient for treating those with a high blood pressure. -->
+        <VBE_MakeNoonChai.description>Faça um antigo chá da caxemira misturando folhas de chá, uma pitada de sal e bicarbonato de sódio, o que resulta em uma bebida rosa marcante que é famosa por ser não apenas deliciosa, mas também saudável para o corpo. Muito eficaz no tratamento da hipertensão.</VBE_MakeNoonChai.description>
+        <!-- EN: Making noon chai. -->
+        <VBE_MakeNoonChai.jobString>Preparando chá rosa.</VBE_MakeNoonChai.jobString>
+
+        <!-- EN: brew espresso romano -->
+        <VBE_BrewLemonCoffee.label>preparar espresso romano</VBE_BrewLemonCoffee.label>
+        <!-- EN: Brew an already acidic coffee garnished with a wedge of more acidic lemon, meant to be juiced into the coffee before quickly consumed while hot. An acquired taste to be sure but lauded by those who do prefer it. -->
+        <VBE_BrewLemonCoffee.description>Prepare um café já ácido decorado com uma fatia de limão. Um gosto peculiar com certeza, mas elogiado por aqueles que o preferem.</VBE_BrewLemonCoffee.description>
+        <!-- EN: Brewing espresso romano. -->
+        <VBE_BrewLemonCoffee.jobString>Preparando espresso romano.</VBE_BrewLemonCoffee.jobString>
+
+        <!-- EN: mix lemonade -->
+        <VBE_MixLemonade.label>fazer limonada</VBE_MixLemonade.label>
+        <!-- EN: Squeeze a few lemons, mix the juice with water and add some sugar. -->
+        <VBE_MixLemonade.description>Esprema alguns limões, misture o suco com água e adicione uma pitada de açúcar.</VBE_MixLemonade.description>
+        <!-- EN: Mixing lemonade. -->
+        <VBE_MixLemonade.jobString>Fazendo limonada.</VBE_MixLemonade.jobString>
+
+        <!-- EN: make lemon tea -->
+        <VBE_MakeLemonTea.label>preparar chá de limão</VBE_MakeLemonTea.label>
+        <!-- EN: Make a dark tea cut with water, chilled and garnished with a wedge of bright lemon. -->
+        <VBE_MakeLemonTea.description>Faça um chá escuro cortado com água, resfriado e decorado com uma rodela de limão brilhante.</VBE_MakeLemonTea.description>
+        <!-- EN: Making lemon tea. -->
+        <VBE_MakeLemonTea.jobString>Preparando chá de limão.</VBE_MakeLemonTea.jobString>
+
+        <!-- EN: make earl grey tea -->
+        <VBE_MakeEarlGreyTea.label>preparar chá conde cinza</VBE_MakeEarlGreyTea.label>
+        <!-- EN: Make a very strong and semi-sweet fruity tea. Floral notes dance around one's pallet at even the most dull scent. People who finish the drink feel strangely urged to colonize. -->
+        <VBE_MakeEarlGreyTea.description>Faça um chá frutado bem forte e semidoce. Notas florais dançam em torno de uma paleta, mesmo com o cheiro mais opaco. As pessoas que terminam a bebida sentem-se estranhamente impelidas a colonizar.</VBE_MakeEarlGreyTea.description>
+        <!-- EN: Making earl grey tea. -->
+        <VBE_MakeEarlGreyTea.jobString>Preparando chá conde cinza.</VBE_MakeEarlGreyTea.jobString>
+
+    <!-- Vanilla Chemfuel Expanded -->
+        <!-- EN: make chemfuel from deepchem -->
+        <VCHE_Make_ChemfuelFromDeepchem.label>refinar biocombustível (pro-químico)</VCHE_Make_ChemfuelFromDeepchem.label>
+        <!-- EN: Make a batch of chemfuel by refining deepchem. -->
+        <VCHE_Make_ChemfuelFromDeepchem.description>Faça um lote de combustível químico refinando pro-químico.</VCHE_Make_ChemfuelFromDeepchem.description>
+        <!-- EN: Refining chemfuel from deepchem. -->
+        <VCHE_Make_ChemfuelFromDeepchem.jobString>Refinando biocombustível.</VCHE_Make_ChemfuelFromDeepchem.jobString>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: cook simple bake x2 -->
+        <VCE_CookBakeSimple.label>cozinhar assado simples x2</VCE_CookBakeSimple.label>
+        <!-- EN: Cook two simple bakes quickly cooked from flour. -->
+        <VCE_CookBakeSimple.description>Cozinhe assados simples, cozinhados rapidamente com farinha.</VCE_CookBakeSimple.description>
+        <!-- EN: Cooking simple bake x2. -->
+        <VCE_CookBakeSimple.jobString>Cozinhando assado simples.</VCE_CookBakeSimple.jobString>
+
+        <!-- EN: cook simple bake x8 -->
+        <VCE_CookBakeSimpleBulk.label>cozinhar assado simples x8</VCE_CookBakeSimpleBulk.label>
+        <!-- EN: Cook 8 simple bakes quickly cooked from flour. -->
+        <VCE_CookBakeSimpleBulk.description>Cozinhe assados simples, cozinhados rapidamente com farinha.</VCE_CookBakeSimpleBulk.description>
+        <!-- EN: Cooking simple bake x8. -->
+        <VCE_CookBakeSimpleBulk.jobString>Cozinhando assado simples.</VCE_CookBakeSimpleBulk.jobString>
+
+        <!-- EN: cook fine bake x2 -->
+        <VCE_CookBakeFine.label>cozinhar assado bom x2</VCE_CookBakeFine.label>
+        <!-- EN: Cook two complex bakes assembled with care from a wide selection of ingredients and flour. -->
+        <VCE_CookBakeFine.description>Cozinhe assados complexos montados com cuidado a partir de uma ampla seleção de ingredientes e farinha.</VCE_CookBakeFine.description>
+        <!-- EN: Cooking fine bake x2. -->
+        <VCE_CookBakeFine.jobString>Cozinhando assado bom.</VCE_CookBakeFine.jobString>
+
+        <!-- EN: cook fine bake x8 -->
+        <VCE_CookBakeFineBulk.label>cozinhar assado bom x8</VCE_CookBakeFineBulk.label>
+        <!-- EN: Cook 8 complex bakes assembled with care from a wide selection of ingredients and flour. -->
+        <VCE_CookBakeFineBulk.description>Cozinhe assados complexos montados com cuidado a partir de uma ampla seleção de ingredientes e farinha.</VCE_CookBakeFineBulk.description>
+        <!-- EN: Cooking fine bake x8. -->
+        <VCE_CookBakeFineBulk.jobString>Cozinhando assado bom.</VCE_CookBakeFineBulk.jobString>
+
+        <!-- EN: cook lavish bake x2 -->
+        <VCE_CookBakeLavish.label>cozinhar assado luxuoso x2</VCE_CookBakeLavish.label>
+        <!-- EN: Cook two masterpieces of the culinary arts, these bakes nourish the body, mind, and soul. -->
+        <VCE_CookBakeLavish.description>Cozinhe obras-primas da arte culinária, esses assados ​​nutrem o corpo, a mente e a alma.</VCE_CookBakeLavish.description>
+        <!-- EN: Cooking lavish bake x2. -->
+        <VCE_CookBakeLavish.jobString>Cozinhando assado luxuoso.</VCE_CookBakeLavish.jobString>
+
+        <!-- EN: cook lavish bake x8 -->
+        <VCE_CookBakeLavishBulk.label>cozinhar assado luxuoso x8</VCE_CookBakeLavishBulk.label>
+        <!-- EN: Cook 8 masterpieces of the culinary arts, these bakes nourish the body, mind, and soul. -->
+        <VCE_CookBakeLavishBulk.description>Cozinhe obras-primas da arte culinária, esses assados ​​nutrem o corpo, a mente e a alma.</VCE_CookBakeLavishBulk.description>
+        <!-- EN: Cooking lavish bake x8. -->
+        <VCE_CookBakeLavishBulk.jobString>Cozinhando assado luxuoso.</VCE_CookBakeLavishBulk.jobString>
+
+        <!-- EN: cook gourmet bake x2 -->
+        <VCE_CookBakeGourmet.label>cozinhar assado gourmet x2</VCE_CookBakeGourmet.label>
+        <!-- EN: Cook two culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity bake.\n\nThis recipe does not allow mixed ingredients. -->
+        <VCE_CookBakeGourmet.description>Cozinhe obras de arte culinárias, caracterizadas pela preparação e apresentação requintada e até elaborada de um cozimento esteticamente equilibrado, embora em pequena quantidade.</VCE_CookBakeGourmet.description>
+        <!-- EN: Cooking gourmet bake x2. -->
+        <VCE_CookBakeGourmet.jobString>Cozinhando assado gourmet.</VCE_CookBakeGourmet.jobString>
+
+        <!-- EN: can meats x20 -->
+        <VCE_CanMeats.label>enlatar carne x20</VCE_CanMeats.label>
+        <!-- EN: Safely store meat chunks in a steel can. Canning food extends its shelf life almost indefinitely. -->
+        <VCE_CanMeats.description>Armazene com segurança carne em uma lata de aço.</VCE_CanMeats.description>
+        <!-- EN: Canning meats. -->
+        <VCE_CanMeats.jobString>Enlatando carne.</VCE_CanMeats.jobString>
+
+        <!-- EN: can produce x20 -->
+        <VCE_CanProduce.label>enlatar vegetais x20</VCE_CanProduce.label>
+        <!-- EN: Safely store vegetables in a steel can. Canning food extends its shelf life almost indefinitely. -->
+        <VCE_CanProduce.description>Armazene com segurança vegetais em uma lata de aço.</VCE_CanProduce.description>
+        <!-- EN: Canning produce. -->
+        <VCE_CanProduce.jobString>Enlatando vegetais.</VCE_CanProduce.jobString>
+
+        <!-- EN: can fruit x20 -->
+        <VCE_CanFruit.label>enlatar frutas x20</VCE_CanFruit.label>
+        <!-- EN: Safely store fruit in a steel can. Canning food extends its shelf life almost indefinitely.\n\nPreserved fruit can be used in the production of desserts. -->
+        <VCE_CanFruit.description>Armazene com segurança frutas em uma lata de aço.</VCE_CanFruit.description>
+        <!-- EN: Canning fruit. -->
+        <VCE_CanFruit.jobString>Enlatando vegetais.</VCE_CanFruit.jobString>
+
+        <!-- EN: can eggs x20 -->
+        <VCE_CanEggs.label>enlatar ovos x20</VCE_CanEggs.label>
+        <!-- EN: Safely store boiled eggs in a steel can. Canning food extends its shelf life almost indefinitely. -->
+        <VCE_CanEggs.description>Armazene com segurança peixe em uma lata de aço.</VCE_CanEggs.description>
+        <!-- EN: Canning eggs. -->
+        <VCE_CanEggs.jobString>Enlatando ovos.</VCE_CanEggs.jobString>
+
+        <!-- EN: mix condiments into kibble -->
+        <VCE_ChopCondiments.label>misturar condimentos em ração</VCE_ChopCondiments.label>
+        <!-- EN: Mix a batch of different condiments into a barely edible organic mass that can be fed to animals. Still better than supermarket pet food. -->
+        <VCE_ChopCondiments.description>Misture um lote de condimentos diferentes em uma massa orgânica quase comestível que pode ser dada aos animais.</VCE_ChopCondiments.description>
+        <!-- EN: Mixing condiments into kibble. -->
+        <VCE_ChopCondiments.jobString>Misturando condimentos em ração.</VCE_ChopCondiments.jobString>
+
+        <!-- EN: make salt -->
+        <VCE_MakeSalt.label>fazer sal</VCE_MakeSalt.label>
+        <!-- EN: Grind and process natural stone to extract edible salts from within stone chunks.\n\nUses the Cooking skill. -->
+        <VCE_MakeSalt.description>Moa e processe pedra natural para extrair sais comestíveis de dentro dos pedaços de pedra.</VCE_MakeSalt.description>
+        <!-- EN: Making salt. -->
+        <VCE_MakeSalt.jobString>Fazendo sal.</VCE_MakeSalt.jobString>
+
+        <!-- EN: make salt (blocks) -->
+        <VCE_MakeSaltfromBlocks.label>fazer sal (blocos)</VCE_MakeSaltfromBlocks.label>
+        <!-- EN: Grind and process natural stone to extract edible salts from within stone blocks.\n\nUses the Cooking skill. -->
+        <VCE_MakeSaltfromBlocks.description>Moa e processe a pedra natural para extrair sais comestíveis de dentro dos blocos de pedra.</VCE_MakeSaltfromBlocks.description>
+        <!-- EN: Making salt from blocks. -->
+        <VCE_MakeSaltfromBlocks.jobString>Fazendo sal.</VCE_MakeSaltfromBlocks.jobString>
+
+        <!-- EN: make agave nectar -->
+        <VCE_AgaveNectar.label>fazer néctar de agave</VCE_AgaveNectar.label>
+        <!-- EN: Create agave nectar from agave. Agave nectar is a thin and semi-sweet nectar, known for its healing and anti-inflammatory properties. -->
+        <VCE_AgaveNectar.description>Crie néctar de agave fino e semidoce, conhecido por suas propriedades cicatrizantes e anti-inflamatórias, a partir de agave.</VCE_AgaveNectar.description>
+        <!-- EN: Making agave nectar. -->
+        <VCE_AgaveNectar.jobString>Fazendo néctar de agave.</VCE_AgaveNectar.jobString>
+
+        <!-- EN: make insect jelly preserves -->
+        <VCE_InsectJellyPreserves.label>fazer conserva de geleia de inseto</VCE_InsectJellyPreserves.label>
+        <!-- EN: Create insect jelly preserves from insect jelly. Very rich and sweet, while being surprisingly healthy. -->
+        <VCE_InsectJellyPreserves.description>Crie conservas de geleia de inseto a partir de geleia de inseto. Muito doce, embora seja surpreendentemente saudável.</VCE_InsectJellyPreserves.description>
+        <!-- EN: Making insect jelly preserves. -->
+        <VCE_InsectJellyPreserves.jobString>Fazendo conserva de geleia de inseto.</VCE_InsectJellyPreserves.jobString>
+
+        <!-- EN: make mayo -->
+        <VCE_Mayo.label>fazer maionese</VCE_Mayo.label>
+        <!-- EN: Create mayo from eggs. A thick emulsion of egg, oil, and other herbs. Mayonnaise, while terrible for you, adds a pleasing tang and is very calorically dense. -->
+        <VCE_Mayo.description>Crie maionese de ovos. A maionese adiciona um sabor agradável e é muito calórica.</VCE_Mayo.description>
+        <!-- EN: Making mayo. -->
+        <VCE_Mayo.jobString>Fazendo maionese.</VCE_Mayo.jobString>
+
+        <!-- EN: make smokeleaf butter -->
+        <VCE_SmokeleafButter.label>fazer manteiga de folha de fumo</VCE_SmokeleafButter.label>
+        <!-- EN: Create smokeleaf butter from smokeleaf and milk. A thickened, fatty substance made by churning milk into very thick cream, combining with smokeleaf oil and allowing it to set. Very unhealthy and hits quite a bit harder than a joint. -->
+        <VCE_SmokeleafButter.description>Crie manteiga de folha de fumo a partir de folha de fumo e leite. Muito prejudicial à saúde e um pouco mais forte do que uma folha de fumo convencional.</VCE_SmokeleafButter.description>
+        <!-- EN: Making smokeleaf butter. -->
+        <VCE_SmokeleafButter.jobString>Fazendo manteiga de folha de fumo.</VCE_SmokeleafButter.jobString>
+
+        <!-- EN: make chocolate syrup -->
+        <VCE_ChocolateSyrup.label>fazer xarope de chocolate</VCE_ChocolateSyrup.label>
+        <!-- EN: Create chocolate syrup from genetically modified chocolate. While still not good for you, chocolate syrup is not quite as bad as straight sugar. -->
+        <VCE_ChocolateSyrup.description>Crie xarope de chocolate a partir de chocolate geneticamente modificado. Embora ainda não seja saudável, o xarope de chocolate não é tão ruim quanto o açúcar puro.</VCE_ChocolateSyrup.description>
+        <!-- EN: Making chocolate syrup. -->
+        <VCE_ChocolateSyrup.jobString>Fazendo xarope de chocolate.</VCE_ChocolateSyrup.jobString>
+
+        <!-- EN: cook simple dessert -->
+        <VCE_CookDessertSimple.label>cozinhar sobremesa simples</VCE_CookDessertSimple.label>
+        <!-- EN: Cook a simple dessert quickly made from a few fruits and other ingredients. -->
+        <VCE_CookDessertSimple.description>Cozinhe uma sobremesa simples rapidamente feita com algumas frutas e outros ingredientes.</VCE_CookDessertSimple.description>
+        <!-- EN: Cooking simple dessert. -->
+        <VCE_CookDessertSimple.jobString>Cozinhando sobremesa simples.</VCE_CookDessertSimple.jobString>
+
+        <!-- EN: cook simple dessert x4 -->
+        <VCE_CookDessertSimpleBulk.label>cozinhar sobremesa simples x4</VCE_CookDessertSimpleBulk.label>
+        <!-- EN: Cook 4 simple desserts quickly made from a few fruits and other ingredients. -->
+        <VCE_CookDessertSimpleBulk.description>Cook 4 simple desserts quickly made from a few fruits and other ingredients.</VCE_CookDessertSimpleBulk.description>
+        <!-- EN: Cooking simple dessert x4. -->
+        <VCE_CookDessertSimpleBulk.jobString>Cozinhando sobremesa simples.</VCE_CookDessertSimpleBulk.jobString>
+
+        <!-- EN: cook fine dessert -->
+        <VCE_CookDessertFine.label>cozinhar sobremesa boa</VCE_CookDessertFine.label>
+        <!-- EN: Cook a complex dessert assembled with care from a wide selection of ingredients.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage. -->
+        <VCE_CookDessertFine.description>Cozinhe uma sobremesa complexa montada com cuidado a partir de uma ampla seleção de ingredientes.\n\nObserve que, como o Chocolate tem 0,10 de nutrição por unidade, parte dela será desperdiçada durante o preparo desta receita. Considere usar a versão em massa (x4) desta receita para evitar desperdício.</VCE_CookDessertFine.description>
+        <!-- EN: Cooking fine dessert. -->
+        <VCE_CookDessertFine.jobString>Cozinhando sobremesa boa.</VCE_CookDessertFine.jobString>
+
+        <!-- EN: cook fine dessert x4 -->
+        <VCE_CookDessertFineBulk.label>cozinhar sobremesa boa x4</VCE_CookDessertFineBulk.label>
+        <!-- EN: Cook 4 complex desserts assembled with care from a wide selection of ingredients. -->
+        <VCE_CookDessertFineBulk.description>Cozinhe uma sobremesa complexa montada com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookDessertFineBulk.description>
+        <!-- EN: Cooking fine dessert x4. -->
+        <VCE_CookDessertFineBulk.jobString>Cozinhando sobremesa boa.</VCE_CookDessertFineBulk.jobString>
+
+        <!-- EN: cook lavish dessert -->
+        <VCE_CookDessertLavish.label>cozinhar sobremesa luxuosa</VCE_CookDessertLavish.label>
+        <!-- EN: Cook a masterpiece of the culinary arts, this dessert nourishes the body, mind, and soul.\n\nNote that because Chocolate has 0.10 nutrition per unit, some of it will be wasted while cooking this recipe. Consider using the bulk (x4) version of this recipe instead to avoid wastage. -->
+        <VCE_CookDessertLavish.description>Cozinhe uma obra-prima das artes culinárias, esta sobremesa nutre o corpo, a mente e a alma.\n\nObserve que, como o Chocolate tem 0,10 de nutrição por unidade, parte dela será desperdiçada durante o preparo desta receita. Considere usar a versão em massa (x4) desta receita para evitar desperdício.</VCE_CookDessertLavish.description>
+        <!-- EN: Cooking lavish dessert. -->
+        <VCE_CookDessertLavish.jobString>Cozinhando sobremesa luxuosa.</VCE_CookDessertLavish.jobString>
+
+        <!-- EN: cook lavish dessert x4 -->
+        <VCE_CookDessertLavishBulk.label>cozinhar sobremesa luxuosa x4</VCE_CookDessertLavishBulk.label>
+        <!-- EN: Cook 4 masterpieces of the culinary arts, this dessert nourishes the body, mind, and soul. -->
+        <VCE_CookDessertLavishBulk.description>Cozinhe uma obra-prima das artes culinárias, esta sobremesa nutre o corpo, a mente e a alma.</VCE_CookDessertLavishBulk.description>
+        <!-- EN: Cooking lavish dessert x4. -->
+        <VCE_CookDessertLavishBulk.jobString>Cozinhando sobremesa luxuosa.</VCE_CookDessertLavishBulk.jobString>
+
+        <!-- EN: cook gourmet dessert -->
+        <VCE_CookDessertGourmet.label>cozinhar sobremesa gourmet</VCE_CookDessertGourmet.label>
+        <!-- EN: Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity dessert. -->
+        <VCE_CookDessertGourmet.description>Cozinhe uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma sobremesa esteticamente equilibrada, embora em pequena quantidade.</VCE_CookDessertGourmet.description>
+        <!-- EN: Cooking gourmet dessert. -->
+        <VCE_CookDessertGourmet.jobString>Cozinhando sobremesa gourmet.</VCE_CookDessertGourmet.jobString>
+
+        <!-- EN: deep fry meats x20 -->
+        <VCE_DeepFryMeats.label>fritar carne x20</VCE_DeepFryMeats.label>
+        <!-- EN: Deep fry large meat chunks. Deep fried food is very tasty, but not very good for your health. -->
+        <VCE_DeepFryMeats.description>Frite grandes pedaços de carne. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFryMeats.description>
+        <!-- EN: Deep frying meats. -->
+        <VCE_DeepFryMeats.jobString>Fritando carne.</VCE_DeepFryMeats.jobString>
+
+        <!-- EN: deep fry vegetables x20 -->
+        <VCE_DeepFryVegetables.label>fritar vegetais x20</VCE_DeepFryVegetables.label>
+        <!-- EN: Deep fry vegetables. Deep fried food is very tasty, but not very good for your health. -->
+        <VCE_DeepFryVegetables.description>Frite vegetais. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFryVegetables.description>
+        <!-- EN: Deep frying vegetables. -->
+        <VCE_DeepFryVegetables.jobString>Fritando vegetais.</VCE_DeepFryVegetables.jobString>
+
+        <!-- EN: cook simple grill -->
+        <VCE_CookGrillSimple.label>cozinhar grelhado simples</VCE_CookGrillSimple.label>
+        <!-- EN: Cook two simple grills quickly cooked from a few meat ingredients. -->
+        <VCE_CookGrillSimple.description>Cozinhe um grelhado simples, cozinhado rapidamente com alguns ingredientes de carne.</VCE_CookGrillSimple.description>
+        <!-- EN: Cooking simple grill. -->
+        <VCE_CookGrillSimple.jobString>Cozinhando grelhado simples.</VCE_CookGrillSimple.jobString>
+
+        <!-- EN: cook simple grill x4 -->
+        <VCE_CookGrillSimpleBulk.label>cozinhar grelhado simples x4</VCE_CookGrillSimpleBulk.label>
+        <!-- EN: Cook 4 simple grills quickly cooked from a few meat ingredients. -->
+        <VCE_CookGrillSimpleBulk.description>Cozinhe grelhados simples, cozinhados rapidamente com alguns ingredientes de carne..</VCE_CookGrillSimpleBulk.description>
+        <!-- EN: Cooking simple grill x4. -->
+        <VCE_CookGrillSimpleBulk.jobString>Cozinhando grelhado simples.</VCE_CookGrillSimpleBulk.jobString>
+
+        <!-- EN: cook fine grill -->
+        <VCE_CookGrillFine.label>cozinhar grelhado bom</VCE_CookGrillFine.label>
+        <!-- EN: Cook a complex grill assembled with care from a wide selection of ingredients. -->
+        <VCE_CookGrillFine.description>Cozinhe um grelhado complexo montado com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookGrillFine.description>
+        <!-- EN: Cooking fine grill. -->
+        <VCE_CookGrillFine.jobString>Cozinhando grelhado bom.</VCE_CookGrillFine.jobString>
+
+        <!-- EN: cook fine grill x4 -->
+        <VCE_CookGrillFineBulk.label>cozinhar grelhado bom x4</VCE_CookGrillFineBulk.label>
+        <!-- EN: Cook 4 complex grills assembled with care from a wide selection of ingredients. -->
+        <VCE_CookGrillFineBulk.description>Cozinhe grelhados complexos montados com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookGrillFineBulk.description>
+        <!-- EN: Cooking fine grill x4. -->
+        <VCE_CookGrillFineBulk.jobString>Cozinhando grelhado bom x4.</VCE_CookGrillFineBulk.jobString>
+
+        <!-- EN: cook lavish grill -->
+        <VCE_CookGrillLavish.label>cozinhar grelhado luxuoso</VCE_CookGrillLavish.label>
+        <!-- EN: Cook a masterpiece of the culinary arts, this grill nourishes the body, mind, and soul. -->
+        <VCE_CookGrillLavish.description>Cozinhe uma obra-prima das artes culinárias, este grelhado nutre o corpo, a mente e a alma.</VCE_CookGrillLavish.description>
+        <!-- EN: Cooking lavish grill. -->
+        <VCE_CookGrillLavish.jobString>Cozinhando grelhado luxuoso.</VCE_CookGrillLavish.jobString>
+        
+        <!-- EN: cook lavish grill x4 -->
+        <VCE_CookGrillLavishhBulk.label>cozinhar grelhado luxuoso x4</VCE_CookGrillLavishhBulk.label>
+        <!-- EN: Cook 4 masterpieces of the culinary arts, these grills nourish the body, mind, and soul. -->
+        <VCE_CookGrillLavishhBulk.description>Cozinhe obras-primas das artes culinárias, estes grelhados nutrem o corpo, a mente e a alma.</VCE_CookGrillLavishhBulk.description>
+        <!-- EN: Cooking lavish grill x4. -->
+        <VCE_CookGrillLavishhBulk.jobString>Cozinhando grelhado luxuoso.</VCE_CookGrillLavishhBulk.jobString>
+
+        <!-- EN: cook gourmet grill -->
+        <VCE_CookGrillGourmet.label>cozinhar grelhado gourmet</VCE_CookGrillGourmet.label>
+        <!-- EN: Cook a culinary works of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity grill. -->
+        <VCE_CookGrillGourmet.description>Cozinhe uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, mesmo elaborada, de um grelhador esteticamente equilibrado, embora em pequena quantidade.</VCE_CookGrillGourmet.description>
+        <!-- EN: Cooking gourmet grill. -->
+        <VCE_CookGrillGourmet.jobString>Cozinhando grelhado gourmet.</VCE_CookGrillGourmet.jobString>
+
+        <!-- EN: cook gourmet meal -->
+        <VCE_CookMealGourmet.label>cozinhar refeição gourmet</VCE_CookMealGourmet.label>
+        <!-- EN: Cook a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity meal. -->
+        <VCE_CookMealGourmet.description>Cozinhe uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de uma refeição esteticamente equilibrada, embora em pequena quantidade.</VCE_CookMealGourmet.description>
+        <!-- EN: Cooking gourmet meal. -->
+        <VCE_CookMealGourmet.jobString>Cozinhando refeição gourmet.</VCE_CookMealGourmet.jobString>
+
+        <!-- EN: prepare simple soup -->
+        <VCE_CookSoupSimple.label>preparar sopa simples</VCE_CookSoupSimple.label>
+        <!-- EN: Prepare a simple uncooked soup quickly made from a few ingredients. -->
+        <VCE_CookSoupSimple.description>Prepare uma sopa crua simples feita rapidamente com alguns ingredientes.</VCE_CookSoupSimple.description>
+        <!-- EN: Preparing simple soup. -->
+        <VCE_CookSoupSimple.jobString>Preparando sopa simples.</VCE_CookSoupSimple.jobString>
+
+        <!-- EN: prepare fine soup -->
+        <VCE_CookSoupFine.label>preparar sopa simples</VCE_CookSoupFine.label>
+        <!-- EN: Prepare a fine uncooked soup assembled with care from a wide selection of ingredients. -->
+        <VCE_CookSoupFine.description>Prepare uma sopa crua boa, cuidadosamente preparada com uma vasta seleção de ingredientes.</VCE_CookSoupFine.description>
+        <!-- EN: Preparing fine soup. -->
+        <VCE_CookSoupFine.jobString>Preparando sopa boa.</VCE_CookSoupFine.jobString>
+
+        <!-- EN: prepare lavish soup -->
+        <VCE_CookSoupLavish.label>preparar sopa luxuosa</VCE_CookSoupLavish.label>
+        <!-- EN: Prepare a lavish uncooked soup. A masterpiece of the culinary arts, this soup nourishes the body, mind, and soul. -->
+        <VCE_CookSoupLavish.description>Prepare uma sopa crua luxuosa. Uma obra-prima das artes culinárias, esta sopa nutre o corpo, a mente e a alma.</VCE_CookSoupLavish.description>
+        <!-- EN: Preparing lavish soup. -->
+        <VCE_CookSoupLavish.jobString>Preparando sopa luxuosa.</VCE_CookSoupLavish.jobString>
+
+        <!-- EN: prepare gourmet soup -->
+        <VCE_CookSoupGourmet.label>preparar sopa gourmet</VCE_CookSoupGourmet.label>
+        <!-- EN: Prepare a gourmet uncooked soup. A culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity soup.\n\nThis recipe does not allow mixed ingredients, and takes a long time to make. -->
+        <VCE_CookSoupGourmet.description>Prepare uma sopa gourmet crua. Uma obra de arte culinária, caracterizada pela preparação e apresentação refinada e até elaborada de uma sopa esteticamente equilibrada, embora em pequena quantidade.</VCE_CookSoupGourmet.description>
+        <!-- EN: Preparing gourmet soup. -->
+        <VCE_CookSoupGourmet.jobString>Preparando sopa gourmet.</VCE_CookSoupGourmet.jobString>
+
+        <!-- EN: deep fry fish x20 -->
+        <VCE_DeepFryFish.label>fritar peixe x20</VCE_DeepFryFish.label>
+        <!-- EN: Deep fry fish. Deep fried food is very tasty, but not very good for your health. -->
+        <VCE_DeepFryFish.description>Frite peixes. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFryFish.description>
+        <!-- EN: Deep frying fish. -->
+        <VCE_DeepFryFish.jobString>Fritando peixe.</VCE_DeepFryFish.jobString>
+
+        <!-- EN: can fish x20 -->
+        <VCE_CanFish.label>enlatar peixe x20</VCE_CanFish.label>
+        <!-- EN: Safely store fish in a steel can. Canning food extends its shelf life almost indefinitely. -->
+        <VCE_CanFish.description>Armazene com segurança peixe em uma lata de aço.</VCE_CanFish.description>
+        <!-- EN: Canning fish. -->
+        <VCE_CanFish.jobString>Enlatando peixe.</VCE_CanFish.jobString>
+
+        <!-- EN: make ketchup -->
+        <VCE_Ketchup.label>fazer ketchup</VCE_Ketchup.label>
+        <!-- EN: Create ketchup from tomatoes. A thick sauce made from stewing tomatoes, both salty and tangy in tandem with a sweet aftertaste. Perfect for meaty meals or fried foods. -->
+        <VCE_Ketchup.description>Crie ketchup de tomates. Um molho espesso feito de tomates cozidos, tanto salgados quanto picantes, em conjunto com um gosto residual doce. Perfeito para refeições com carne ou alimentos fritos.</VCE_Ketchup.description>
+        <!-- EN: Making ketchup. -->
+        <VCE_Ketchup.jobString>Fazendo ketchup.</VCE_Ketchup.jobString>
+
+        <!-- EN: make hot sauce -->  
+        <VCE_HotSauce.label>fazer molho de pimenta</VCE_HotSauce.label>
+        <!-- EN: Create hot sauce from peppers. A potent, spicy sauce made from blending and simmering chilis and other spices. While particularly strong hot sauces hurt at first, they are known to numb pain and work up a warm sweat shortly after consumption. -->
+        <VCE_HotSauce.description>Crie molho picante com pimentas. Embora molhos picantes particularmente fortes machuquem no início, são conhecidos por amortecer a dor e causar um suor quente logo após o consumo.</VCE_HotSauce.description>
+        <!-- EN: Making hot sauce. -->
+        <VCE_HotSauce.jobString>Fazendo molho de pimenta.</VCE_HotSauce.jobString>
+
+    <!-- Vanilla Cooking Expanded - Stews -->
+        <!-- EN: prepare simple stew -->
+        <VCE_CookStewSimple.label>preparar ensopado simples</VCE_CookStewSimple.label>
+        <!-- EN: Prepare a simple uncooked stew quickly made from a few ingredients. -->
+        <VCE_CookStewSimple.description>Prepare um ensopado simples feito rapidamente com alguns ingredientes.</VCE_CookStewSimple.description>
+        <!-- EN: Preparing simple stew. -->
+        <VCE_CookStewSimple.jobString>Preparando ensopado simples.</VCE_CookStewSimple.jobString>
+
+        <!-- EN: prepare fine stew -->
+        <VCE_CookStewFine.label>preparar ensopado bom</VCE_CookStewFine.label>
+        <!-- EN: Prepare a fine uncooked stew assembled with care from a wide selection of ingredients. -->
+        <VCE_CookStewFine.description>Prepare um ensopado bom, montado com cuidado com uma ampla seleção de ingredientes.</VCE_CookStewFine.description>
+        <!-- EN: Preparing fine stew.-->
+        <VCE_CookStewFine.jobString>Preparando ensopado bom.</VCE_CookStewFine.jobString>
+
+        <!-- EN: prepare lavish stew -->
+        <VCE_CookStewLavish.label>preparar ensopado luxuoso</VCE_CookStewLavish.label>
+        <!-- EN: Prepare a lavish uncooked stew. A masterpiece of the culinary arts, this stew nourishes the body, mind, and soul. -->
+        <VCE_CookStewLavish.description>Prepare um ensopado luxuoso. Uma obra-prima das artes culinárias, este ensopado nutre o corpo, a mente e a alma.</VCE_CookStewLavish.description>
+        <!-- EN: Preparing lavish stew.-->
+        <VCE_CookStewLavish.jobString>Preparando ensopado luxuoso.</VCE_CookStewLavish.jobString>
+
+
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- EN: make wasabi paste -->
+        <VCE_WasabiPaste.label>fazer pasta de wasabi</VCE_WasabiPaste.label>
+        <!-- EN: Create wasabi paste from raw wasabi. It is used as a pungent condiment for sushi and other foods. It is similar in taste to hot mustard rather than chili peppers in that it stimulates the nose more than the tongue. It loses its flavour and deteriorates extremely fast. -->
+        <VCE_WasabiPaste.description>Cria uma pasta de wasabi a partir do mesmo cru. Usado como condimento picante para sushi e outros alimentos, tem um sabor semelhante ao da mostarda picante, e não à pimenta, pois estimula mais o nariz do que a língua.</VCE_WasabiPaste.description>
+        <!-- EN: Making wasabi paste. -->
+        <VCE_WasabiPaste.jobString>Fazendo pasta de wasabi.</VCE_WasabiPaste.jobString>
+
+        <!-- EN: deep fry sushi x20 -->
+        <VCE_DeepFrySushi.label>fritar sushi x20</VCE_DeepFrySushi.label>
+        <!-- EN: Deep fry sushi. Deep fried food is very tasty, but not very good for your health. -->
+        <VCE_DeepFrySushi.description>Frita sushi. A comida frita é muito saborosa, mas não é muito boa para a saúde.</VCE_DeepFrySushi.description>
+        <!-- EN: Deep frying sushi. -->
+        <VCE_DeepFrySushi.jobString>Fritando sushi.</VCE_DeepFrySushi.jobString>
+        
+        <!-- EN: make chirashizushi bowl (simple) -->
+        <VCE_CookChirashizushiSimple.label>preparar chirashizushi simples</VCE_CookChirashizushiSimple.label>
+        <!-- EN: Make a Chirashizushi bowl quickly prepared from a few ingredients. -->
+        <VCE_CookChirashizushiSimple.description>Prepara uma tigela de chirashizushi rapidamente com alguns ingredientes.</VCE_CookChirashizushiSimple.description>
+        <!-- EN: Making chirashizushi bowl (simple). -->
+        <VCE_CookChirashizushiSimple.jobString>Preparando chirashizushi.</VCE_CookChirashizushiSimple.jobString>
+
+        <!-- EN: make chirashizushi bowls (simple) x4 -->
+        <VCE_CookChirashizushiSimpleBulk.label>preparar chirashizushi simples x4</VCE_CookChirashizushiSimpleBulk.label>
+        <!-- EN: Make 4 Chirashizushi bowls quickly prepared from a few ingredients. -->
+        <VCE_CookChirashizushiSimpleBulk.description>Prepara tigelas de chirashizushi rapidamente com alguns ingredientes.</VCE_CookChirashizushiSimpleBulk.description>
+        <!-- EN: Making chirashizushi bowls (simple) x4. -->
+        <VCE_CookChirashizushiSimpleBulk.jobString>Preparando chirashizushi.</VCE_CookChirashizushiSimpleBulk.jobString>
+
+        <!-- EN: make norimaki (simple) -->
+        <VCE_CookNorimakiSimple.label>preparar norimaki simples</VCE_CookNorimakiSimple.label>
+        <!-- EN: Make norimaki quickly prepared from a few ingredients. -->
+        <VCE_CookNorimakiSimple.description>Prepara um norimaki rapidamente com alguns ingredientes.</VCE_CookNorimakiSimple.description>
+        <!-- EN: Making norimaki (simple). -->
+        <VCE_CookNorimakiSimple.jobString>Preparando norimaki.</VCE_CookNorimakiSimple.jobString>
+
+        <!-- EN: make norimaki (simple) x4 -->
+        <VCE_CookNorimakiSimpleBulk.label>preparar norimaki (simples) x4</VCE_CookNorimakiSimpleBulk.label>
+        <!-- EN: Make 4 norimaki quickly prepared from a few ingredients. -->
+        <VCE_CookNorimakiSimpleBulk.description>Prepara norimakis rapidamente com alguns ingredientes.</VCE_CookNorimakiSimpleBulk.description>
+        <!-- EN: Making norimaki (simple) x4. -->
+        <VCE_CookNorimakiSimpleBulk.jobString>Preparando norimaki.</VCE_CookNorimakiSimpleBulk.jobString>
+
+        <!-- EN: make uramaki (fine) -->
+        <VCE_CookUramakiFine.label>preparar uramaki bom</VCE_CookUramakiFine.label>
+        <!-- EN: Make uramaki assembled with care from a wide selection of ingredients. -->
+        <VCE_CookUramakiFine.description>Prepara um uramaki montado com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookUramakiFine.description>
+        <!-- EN: Making uramaki (fine). -->
+        <VCE_CookUramakiFine.jobString>Preparando uramaki.</VCE_CookUramakiFine.jobString>
+
+        <!-- EN: make uramaki (fine) x4 -->
+        <VCE_CookUramakiFineBulk.label>preparar uramaki bom x4</VCE_CookUramakiFineBulk.label>
+        <!-- EN: Make 4 uramaki assembled with care from a wide selection of ingredients. -->
+        <VCE_CookUramakiFineBulk.description>Prepara uramakis montados com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookUramakiFineBulk.description>
+        <!-- EN: Making uramaki (fine) x4. -->
+        <VCE_CookUramakiFineBulk.jobString>Preparando uramaki.</VCE_CookUramakiFineBulk.jobString>
+
+        <!-- EN: make nigiri (fine) -->
+        <VCE_CookNigiriFine.label>preparar nigiri bom</VCE_CookNigiriFine.label>
+        <!-- EN: Make nigiri assembled with care from a wide selection of ingredients. -->
+        <VCE_CookNigiriFine.description>Prepara um nigiri preparado com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookNigiriFine.description>
+        <!-- EN: Making nigiri (fine). -->
+        <VCE_CookNigiriFine.jobString>Preparando nigiri.</VCE_CookNigiriFine.jobString>
+
+        <!-- EN: make nigiri (fine) x4 -->
+        <VCE_CookNigiriFineBulk.label>preparar nigiri bom x4</VCE_CookNigiriFineBulk.label>
+        <!-- EN: Make 4 nigiri assembled with care from a wide selection of ingredients. -->
+        <VCE_CookNigiriFineBulk.description>Prepara nigiris preparados com cuidado a partir de uma ampla seleção de ingredientes.</VCE_CookNigiriFineBulk.description>
+        <!-- EN: Making nigiri (fine) x4. -->
+        <VCE_CookNigiriFineBulk.jobString>Preparando nigiri.</VCE_CookNigiriFineBulk.jobString>
+
+        <!-- EN: make temaki (lavish) -->
+        <VCE_CookTemakiLavish.label>preparar temaki luxuoso</VCE_CookTemakiLavish.label>
+        <!-- EN: Make a masterpiece of the culinary arts, this temaki nourishes the body, mind, and soul. -->
+        <VCE_CookTemakiLavish.description>Prepara uma obra-prima da arte culinária, este temaki nutre o corpo, a mente e a alma.</VCE_CookTemakiLavish.description>
+        <!-- EN: Making temaki (lavish). -->
+        <VCE_CookTemakiLavish.jobString>Preparando temaki.</VCE_CookTemakiLavish.jobString>
+
+        <!-- EN: make temaki (lavish) x4 -->
+        <VCE_CookTemakiLavishBulk.label>preparar temaki luxuoso x4</VCE_CookTemakiLavishBulk.label>
+        <!-- EN: Make 4 masterpieces of the culinary arts, these temaki nourish the body, mind, and soul. -->
+        <VCE_CookTemakiLavishBulk.description>Prepara obras-primas da arte culinária, estes temakis nutrem o corpo, a mente e a alma.</VCE_CookTemakiLavishBulk.description>
+        <!-- EN: Making temaki (lavish) x4. -->
+        <VCE_CookTemakiLavishBulk.jobString>Preparando temaki.</VCE_CookTemakiLavishBulk.jobString>
+
+        <!-- EN: make futomaki (lavish) -->
+        <VCE_CookFutomakiLavish.label>preparar futomaki luxuoso</VCE_CookFutomakiLavish.label>
+        <!-- EN: Make a masterpiece of the culinary arts, this futomaki nourishes the body, mind, and soul. -->
+        <VCE_CookFutomakiLavish.description>Prepara uma obra-prima da arte culinária, este futomaki nutre o corpo, a mente e a alma.</VCE_CookFutomakiLavish.description>
+        <!-- EN: Making futomaki (lavish). -->
+        <VCE_CookFutomakiLavish.jobString>Preparando futomaki.</VCE_CookFutomakiLavish.jobString>
+
+        <!-- EN: make futomaki (lavish) x4 -->
+        <VCE_CookFutomakiLavishBulk.label>preparar futomaki luxuoso x4</VCE_CookFutomakiLavishBulk.label>
+        <!-- EN: Make 4 masterpieces of the culinary arts, these futomaki nourish the body, mind, and soul. -->
+        <VCE_CookFutomakiLavishBulk.description>Prepara obras-primas da arte culinária, estes futomakis nutrem o corpo, a mente e a alma.</VCE_CookFutomakiLavishBulk.description>
+        <!-- EN: Making futomaki (lavish) x4. -->
+        <VCE_CookFutomakiLavishBulk.jobString>Preparando futomaki.</VCE_CookFutomakiLavishBulk.jobString>
+
+        <!-- EN: make gunkanmaki (gourmet) -->
+        <VCE_CookGunkanmakiGourmet.label>preparar gunkanmaki gourmet</VCE_CookGunkanmakiGourmet.label>
+        <!-- EN: Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity gunkanmaki. -->
+        <VCE_CookGunkanmakiGourmet.description>Prepara uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de um gunkanmaki esteticamente equilibrado, embora em pequena quantidade.</VCE_CookGunkanmakiGourmet.description>
+        <!-- EN: Making gunkanmaki (gourmet). -->
+        <VCE_CookGunkanmakiGourmet.jobString>Preparando gunkanmaki.</VCE_CookGunkanmakiGourmet.jobString>
+
+        <!-- EN: make oshizushi (gourmet) -->
+        <VCE_CookOshizushiiGourmet.label>preparar oshizushi gourmet</VCE_CookOshizushiiGourmet.label>
+        <!-- EN: Make a culinary work of art, characterized by refined, even elaborate preparation and presentation of an aesthetically balanced, albeit low quantity oshizushi. -->
+        <VCE_CookOshizushiiGourmet.description>Prepara uma obra de arte culinária, caracterizada pela preparação e apresentação requintada, até elaborada, de um oshizushi esteticamente equilibrado, embora em pequena quantidade.</VCE_CookOshizushiiGourmet.description>
+        <!-- EN: Making oshizushi (gourmet). -->
+        <VCE_CookOshizushiiGourmet.jobString>Preparando oshizushi.</VCE_CookOshizushiiGourmet.jobString>
+
+        <!-- EN: make human "surimi" -->
+        <VCE_MakeHumanSurimi.label>preparar surimi humano</VCE_MakeHumanSurimi.label>
+        <!-- EN: Turn human meat into a indistinct paste mimicking the texture of lobster, crab, or other shellfish. The taste, though... -->
+        <VCE_MakeHumanSurimi.description>Transforme a carne humana em uma pasta indistinta que imita a textura de lagosta, caranguejo ou outro marisco. O gosto é outra história...</VCE_MakeHumanSurimi.description>
+        <!-- EN: Making human "surimi". -->
+        <VCE_MakeHumanSurimi.jobString>Preparando surimi humano.</VCE_MakeHumanSurimi.jobString>
+
+    <!-- Vanilla Expanded - Ideology Patches -->
+        <!-- EN: make dark candle -->
+        <VFEM_Make_DarkCandle.label>fazer vela negra</VFEM_Make_DarkCandle.label>
+        <!-- EN: Use meat to create dark candles. -->
+        <VFEM_Make_DarkCandle.description>Utilize carne para criar velas negras.</VFEM_Make_DarkCandle.description>
+        <!-- EN: Making dark candle. -->
+        <VFEM_Make_DarkCandle.jobString>Fazendo vela negra.</VFEM_Make_DarkCandle.jobString>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: mend weapon -->
+        <VFEA_MendWeapon.label>reparar arma</VFEA_MendWeapon.label>
+        <!-- EN: Repair a weapon, using some materials -->
+        <VFEA_MendWeapon.description>Repara uma arma utilizando alguns materiais.</VFEA_MendWeapon.description>
+        <!-- EN: Mending weapon. -->
+        <VFEA_MendWeapon.jobString>Reparando arma.</VFEA_MendWeapon.jobString>
+
+        <!-- EN: mend apparel -->
+        <VFEA_MendApparel.label>reparar vestuário</VFEA_MendApparel.label>
+        <!-- EN: Repair clothing using some materials -->
+        <VFEA_MendApparel.description>Repara um vestuário utilizando alguns materiais.</VFEA_MendApparel.description>
+        <!-- EN: Mending apparel. -->
+        <VFEA_MendApparel.jobString>Reparando vestuário.</VFEA_MendApparel.jobString>
+
+        <!-- EN: mend armor -->
+        <VFEA_MendArmor.label>reparar armadura</VFEA_MendArmor.label>
+        <!-- EN: Repair armor using some materials -->
+        <VFEA_MendArmor.description>Repara uma armadura utilizando alguns materiais.</VFEA_MendArmor.description>
+        <!-- EN: Mending armor. -->
+        <VFEA_MendArmor.jobString>Reparando armadura.</VFEA_MendArmor.jobString>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: make bronze -->
+        <VFEC_Make_Bronze.label>fazer bronze</VFEC_Make_Bronze.label>
+        <!-- EN: Make bronze using stone chunks and steel. -->
+        <VFEC_Make_Bronze.description>Faz bronze utilizando pedaços de pedra e aço.</VFEC_Make_Bronze.description>
+        <!-- EN: Making bronze. -->
+        <VFEC_Make_Bronze.jobString>Fazendo bronze.</VFEC_Make_Bronze.jobString>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: install drone genome -->
+        <VFEI_InstallDroneGenome.label>instalar genoma reprodutor</VFEI_InstallDroneGenome.label>
+        <!-- EN: Install a drone genome. -->
+        <VFEI_InstallDroneGenome.description>Instala um genoma reprodutor.</VFEI_InstallDroneGenome.description>
+        <!-- EN: Installing drone genome. -->
+        <VFEI_InstallDroneGenome.jobString>Instalando genoma reprodutor.</VFEI_InstallDroneGenome.jobString>
+
+        <!-- EN: install insectoid leg -->
+        <VFEI_InstallInsectoidLeg.label>instalar perna insetoide</VFEI_InstallInsectoidLeg.label>
+        <!-- EN: Install an insectoid leg. -->
+        <VFEI_InstallInsectoidLeg.description>Instala uma perna insetoide.</VFEI_InstallInsectoidLeg.description>
+        <!-- EN: Installing insectoid leg. -->
+        <VFEI_InstallInsectoidLeg.jobString>Instalando perna insetoide.</VFEI_InstallInsectoidLeg.jobString>
+
+        <!-- EN: install insectoid arm -->
+        <VFEI_InstallInsectoidArm.label>instalar braço insetoide</VFEI_InstallInsectoidArm.label>
+        <!-- EN: Install an insectoid arm. -->
+        <VFEI_InstallInsectoidArm.description>Instala um braço insetoide.</VFEI_InstallInsectoidArm.description>
+        <!-- EN: Installing insectoid arm. -->
+        <VFEI_InstallInsectoidArm.jobString>Instalando braço insetoide.</VFEI_InstallInsectoidArm.jobString>
+
+        <!-- EN: install compound eye -->
+        <VFEI_InstallCompoundEye.label>instalar olho composto</VFEI_InstallCompoundEye.label>
+        <!-- EN: Install a compound eye. -->
+        <VFEI_InstallCompoundEye.description>Instala um olho composto.</VFEI_InstallCompoundEye.description>
+        <!-- EN: Installing compound eye. -->
+        <VFEI_InstallCompoundEye.jobString>Instalando olho composto.</VFEI_InstallCompoundEye.jobString>
+
+        <!-- EN: install mandibles -->
+        <VFEI_InstallMandibles.label>instalar mandíbulas</VFEI_InstallMandibles.label>
+        <!-- EN: Install mandibles. -->
+        <VFEI_InstallMandibles.description>Instala mandíbulas.</VFEI_InstallMandibles.description>
+        <!-- EN: Installing mandibles. -->
+        <VFEI_InstallMandibles.jobString>Instalando mandíbulas.</VFEI_InstallMandibles.jobString>
+
+        <!-- EN: install jelly sac -->
+        <VFEI_InstallJellySac.label>instalar saco gelatinoso</VFEI_InstallJellySac.label>
+        <!-- EN: Install jelly sac. -->
+        <VFEI_InstallJellySac.description>Instala um saco gelatinoso.</VFEI_InstallJellySac.description>
+        <!-- EN: Installing jelly sac. -->
+        <VFEI_InstallJellySac.jobString>Instalando saco gelatinoso.</VFEI_InstallJellySac.jobString>
+
+        <!-- EN: install warrior genome -->
+        <VFEI_InstallWarriorGenome.label>instalar genoma operário</VFEI_InstallWarriorGenome.label>
+        <!-- EN: Install a warrior genome. -->
+        <VFEI_InstallWarriorGenome.description>Instala um genoma operário.</VFEI_InstallWarriorGenome.description>
+        <!-- EN: Installing warrior genome. -->
+        <VFEI_InstallWarriorGenome.jobString>Instalando genoma operário.</VFEI_InstallWarriorGenome.jobString>
+
+        <!-- EN: install venom gland -->
+        <VFEI_InstallVenomGland.label>instalar glândula venenosa</VFEI_InstallVenomGland.label>
+        <!-- EN: Install venom gland. -->
+        <VFEI_InstallVenomGland.description>Instala uma glândula venenosa.</VFEI_InstallVenomGland.description>
+        <!-- EN: Installing venom gland. -->
+        <VFEI_InstallVenomGland.jobString>Instalando glândula venenosa.</VFEI_InstallVenomGland.jobString>
+
+        <!-- EN: install pneumatic claw -->
+        <VFEI_InstallPneumaticClaw.label>instalar garra pneumática</VFEI_InstallPneumaticClaw.label>
+        <!-- EN: Install pneumatic claw. -->
+        <VFEI_InstallPneumaticClaw.description>Instala uma garra pneumática.</VFEI_InstallPneumaticClaw.description>
+        <!-- EN: Installing pneumatic claw. -->
+        <VFEI_InstallPneumaticClaw.jobString>Instalando garra pneumática.</VFEI_InstallPneumaticClaw.jobString>
+
+        <!-- EN: install antenna -->
+        <VFEI_InstallAntenna.label>instalar antena</VFEI_InstallAntenna.label>
+        <!-- EN: Install antenna. -->
+        <VFEI_InstallAntenna.description>Instala uma antena.</VFEI_InstallAntenna.description>
+        <!-- EN: Installing antenna. -->
+        <VFEI_InstallAntenna.jobString>Instalando antena.</VFEI_InstallAntenna.jobString>
+
+        <!-- EN: install predator stomach -->
+        <VFEI_InstallPredatorStomach.label>instalar estômago predador</VFEI_InstallPredatorStomach.label>
+        <!-- EN: Install predator stomach. -->
+        <VFEI_InstallPredatorStomach.description>Instala um estômago predador.</VFEI_InstallPredatorStomach.description>
+        <!-- EN: Installing predator stomach. -->
+        <VFEI_InstallPredatorStomach.jobString>Instalando estômago predador.</VFEI_InstallPredatorStomach.jobString>
+
+        <!-- EN: install royal genome -->
+        <VFEI_InstallRoyalGenome.label>instalar genoma real</VFEI_InstallRoyalGenome.label>
+        <!-- EN: Install a royal genome. -->
+        <VFEI_InstallRoyalGenome.description>Instala um genoma real.</VFEI_InstallRoyalGenome.description>
+        <!-- EN: Installing royal genome. -->
+        <VFEI_InstallRoyalGenome.jobString>Instalando genoma real.</VFEI_InstallRoyalGenome.jobString>
+
+        <!-- EN: install pheromone secretor -->
+        <VFEI_InstallPheromoneSecretor.label>instalar secretor de feromônios</VFEI_InstallPheromoneSecretor.label>
+        <!-- EN: Install pheromone secretor. -->
+        <VFEI_InstallPheromoneSecretor.description>Instala um secretor de feromônios.</VFEI_InstallPheromoneSecretor.description>
+        <!-- EN: Installing pheromone secretor. -->
+        <VFEI_InstallPheromoneSecretor.jobString>Instalando secretor de feromônios.</VFEI_InstallPheromoneSecretor.jobString>
+
+        <!-- EN: install ventricular sleeve -->
+        <VFEI_InstallVentricularSleeve.label>instalar corpo ventricular</VFEI_InstallVentricularSleeve.label>
+        <!-- EN: Install ventricular sleeve. -->
+        <VFEI_InstallVentricularSleeve.description>Instala um corpo ventricular.</VFEI_InstallVentricularSleeve.description>
+        <!-- EN: Installing ventricular sleeve. -->
+        <VFEI_InstallVentricularSleeve.jobString>Instalando corpo ventricular.</VFEI_InstallVentricularSleeve.jobString>
+
+        <!-- EN: install synaptic cerebellum -->
+        <VFEI_InstallSynapticCerebellum.label>instalar cerebelo sináptico</VFEI_InstallSynapticCerebellum.label>
+        <!-- EN: Install synaptic cerebellum. -->
+        <VFEI_InstallSynapticCerebellum.description>Instala um cerebelo sináptico.</VFEI_InstallSynapticCerebellum.description>
+        <!-- EN: Installing synaptic cerebellum. -->
+        <VFEI_InstallSynapticCerebellum.jobString>Instalando cerebelo sináptico.</VFEI_InstallSynapticCerebellum.jobString>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: make grape must -->
+        <VFEM_Make_Must.label>fazer mosto de uva</VFEM_Make_Must.label>
+        <!-- EN: Make must from grapes. -->
+        <VFEM_Make_Must.description>Faça mosto a partir de uvas.</VFEM_Make_Must.description>
+        <!-- EN: Making must. -->
+        <VFEM_Make_Must.jobString>Fazendo mosto.</VFEM_Make_Must.jobString>
+    
+        <!-- EN: make candle -->
+        <VFEM_Make_Candle.label>fazer vela</VFEM_Make_Candle.label>
+        <!-- EN: Make must from grapes. -->
+        <VFEM_Make_Candle.description>Utilize carne para criar velas.</VFEM_Make_Candle.description>
+        <!-- EN: Making candle. -->
+        <VFEM_Make_Candle.jobString>Fazendo vela.</VFEM_Make_Candle.jobString>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: remove warcasket -->
+        <VFEP_RemoveWarcasket.label>remover guerrataúde</VFEP_RemoveWarcasket.label>
+        <!-- EN: Remove a warcasket from the body. -->
+        <VFEP_RemoveWarcasket.description>Remova um guerrataúde de um corpo.</VFEP_RemoveWarcasket.description>
+        <!-- EN: Removing warcasket. -->
+        <VFEP_RemoveWarcasket.jobString>Removendo guerrataúde.</VFEP_RemoveWarcasket.jobString>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: make sweetrolls -->
+        <VFEV_Make_Sweetroll.label>fazer pão doce</VFEV_Make_Sweetroll.label>
+        <!-- EN: Make sweetrolls out of honey and eggs. -->
+        <VFEV_Make_Sweetroll.description>Faça pães doces de mel e ovos.</VFEV_Make_Sweetroll.description>
+        <!-- EN: Making sweetrolls. -->
+        <VFEV_Make_Sweetroll.jobString>Fazendo pão doce.</VFEV_Make_Sweetroll.jobString>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: install fleshcrafted arm -->
+        <VME_InstallFleshcraftedArm.label>instalar braço carnífero</VME_InstallFleshcraftedArm.label>
+        <!-- EN: Install a fleshcrafted arm. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedArm.description>Instala um braço carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedArm.description>
+        <!-- EN: Installing fleshcrafted arm. -->
+        <VME_InstallFleshcraftedArm.jobString>Instalando braço carnífero.</VME_InstallFleshcraftedArm.jobString>
+
+        <!-- EN: install fleshcrafted hand -->
+        <VME_InstallFleshcraftedHand.label>instalar mão carnífera</VME_InstallFleshcraftedHand.label>
+        <!-- EN: Install a fleshcrafted hand. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedHand.description>Instala uma mão carnífera. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedHand.description>
+        <!-- EN: Installing fleshcrafted hand. -->
+        <VME_InstallFleshcraftedHand.jobString>Instalando mão carnífera.</VME_InstallFleshcraftedHand.jobString>
+
+        <!-- EN: install fleshcrafted finger -->
+        <VME_InstallFleshcraftedFinger.label>instalar dedo carnífero</VME_InstallFleshcraftedFinger.label>
+        <!-- EN: Install a fleshcrafted finger. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedFinger.description>Instala um dedo carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedFinger.description>
+        <!-- EN: Installing fleshcrafted finger. -->
+        <VME_InstallFleshcraftedFinger.jobString>Instalando dedo carnífero.</VME_InstallFleshcraftedFinger.jobString>
+
+        <!-- EN: install fleshcrafted toe -->
+        <VME_InstallFleshcraftedToe.label>instalar dedo do pé carnífero</VME_InstallFleshcraftedToe.label>
+        <!-- EN: Install a fleshcrafted toe. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedToe.description>Instala um dedo do pé carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedToe.description>
+        <!-- EN: Installing fleshcrafted toe. -->
+        <VME_InstallFleshcraftedToe.jobString>Instalando dedo do pé carnífero.</VME_InstallFleshcraftedToe.jobString>
+
+        <!-- EN: install fleshcrafted foot -->
+        <VME_InstallFleshcraftedFoot.label>instalar pé carnífero</VME_InstallFleshcraftedFoot.label>
+        <!-- EN: Install a fleshcrafted foot. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedFoot.description>Instala um pé carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedFoot.description>
+        <!-- EN: Installing fleshcrafted foot. -->
+        <VME_InstallFleshcraftedFoot.jobString>Instalando pé carnífero.</VME_InstallFleshcraftedFoot.jobString>
+
+        <!-- EN: install fleshcrafted leg -->
+        <VME_InstallFleshcraftedLeg.label>instalar perna carnífera</VME_InstallFleshcraftedLeg.label>
+        <!-- EN: Install a fleshcrafted leg. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedLeg.description>Instala uma perna carnífera. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedLeg.description>
+        <!-- EN: Installing fleshcrafted leg. -->
+        <VME_InstallFleshcraftedLeg.jobString>Instalando perna carnífera.</VME_InstallFleshcraftedLeg.jobString>
+
+        <!-- EN: install fleshcrafted heart -->
+        <VME_InstallFleshcraftedHeart.label>instalar coração carnífero</VME_InstallFleshcraftedHeart.label>
+        <!-- EN: Install a fleshcrafted heart. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedHeart.description>Instala um coração carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedHeart.description>
+        <!-- EN: Installing fleshcrafted heart. -->
+        <VME_InstallFleshcraftedHeart.jobString>Instalando coração carnífero.</VME_InstallFleshcraftedHeart.jobString>
+
+        <!-- EN: install fleshcrafted lung -->
+        <VME_InstallFleshcraftedLung.label>instalar pulmão carnífero</VME_InstallFleshcraftedLung.label>
+        <!-- EN: Install a fleshcrafted lung. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedLung.description>Instala um pulmão carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedLung.description>
+        <!-- EN: Installing fleshcrafted lung. -->
+        <VME_InstallFleshcraftedLung.jobString>Instalando pulmão carnífero.</VME_InstallFleshcraftedLung.jobString>
+
+        <!-- EN: install fleshcrafted kidney -->
+        <VME_InstallFleshcraftedKidney.label>instalar rim carnífero</VME_InstallFleshcraftedKidney.label>
+        <!-- EN: Install a fleshcrafted kidney. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedKidney.description>Instala um rim carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedKidney.description>
+        <!-- EN: Installing fleshcrafted kidney. -->
+        <VME_InstallFleshcraftedKidney.jobString>Instalando rim carnífero.</VME_InstallFleshcraftedKidney.jobString>
+
+        <!-- EN: install fleshcrafted liver -->
+        <VME_InstallFleshcraftedLiver.label>instalar fígado carnífero</VME_InstallFleshcraftedLiver.label>
+        <!-- EN: Install a fleshcrafted liver. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedLiver.description>Instala um fígado carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedLiver.description>
+        <!-- EN: Installing fleshcrafted liver. -->
+        <VME_InstallFleshcraftedLiver.jobString>Instalando fígado carnífero.</VME_InstallFleshcraftedLiver.jobString>
+
+        <!-- EN: install fleshcrafted eye -->
+        <VME_InstallFleshcraftedEye.label>instalar olho carnífero</VME_InstallFleshcraftedEye.label>
+        <!-- EN: Install a fleshcrafted eye. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedEye.description>Instala um olho carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedEye.description>
+        <!-- EN: Installing fleshcrafted eye. -->
+        <VME_InstallFleshcraftedEye.jobString>Instalando olho carnífero.</VME_InstallFleshcraftedEye.jobString>
+
+        <!-- EN: install fleshcrafted ear -->
+        <VME_InstallFleshcraftedEar.label>instalar orelha carnífera</VME_InstallFleshcraftedEar.label>
+        <!-- EN: Install a fleshcrafted ear. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedEar.description>Instala uma orelha carnífera. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedEar.description>
+        <!-- EN: Installing fleshcrafted ear. -->
+        <VME_InstallFleshcraftedEar.jobString>Instalando orelha carnífera.</VME_InstallFleshcraftedEar.jobString>
+
+        <!-- EN: install fleshcrafted nose -->
+        <VME_InstallFleshcraftedNose.label>instalar nariz carnífero</VME_InstallFleshcraftedNose.label>
+        <!-- EN: Install a fleshcrafted nose. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedNose.description>Instala um nariz carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedNose.description>
+        <!-- EN: Installing fleshcrafted nose. -->
+        <VME_InstallFleshcraftedNose.jobString>Instalando nariz carnífero.</VME_InstallFleshcraftedNose.jobString>
+
+        <!-- EN: install fleshcrafted jaw -->
+        <VME_InstallFleshcraftedJaw.label>instalar mandíbula carnífera</VME_InstallFleshcraftedJaw.label>
+        <!-- EN: Install a fleshcrafted jaw. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedJaw.description>Instala uma mandíbula carnífera. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedJaw.description>
+        <!-- EN: Installing fleshcrafted jaw. -->
+        <VME_InstallFleshcraftedJaw.jobString>Instalando mandíbula carnífera.</VME_InstallFleshcraftedJaw.jobString>
+
+        <!-- EN: install fleshcrafted stomach -->
+        <VME_InstallFleshcraftedStomach.label>instalar estômago carnífero</VME_InstallFleshcraftedStomach.label>
+        <!-- EN: Install a fleshcrafted stomach. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedStomach.description>Instala um estômago carnífero. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedStomach.description>
+        <!-- EN: Installing fleshcrafted stomach. -->
+        <VME_InstallFleshcraftedStomach.jobString>Instalando estômago carnífero.</VME_InstallFleshcraftedStomach.jobString>
+
+        <!-- EN: install fleshcrafted tongue -->
+        <VME_InstallFleshcraftedTongue.label>instalar língua carnífera</VME_InstallFleshcraftedTongue.label>
+        <!-- EN: Install a fleshcrafted tongue. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedTongue.description>Instala uma língua carnífera. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedTongue.description>
+        <!-- EN: Installing fleshcrafted tongue. -->
+        <VME_InstallFleshcraftedTongue.jobString>Instalando língua carnífera.</VME_InstallFleshcraftedTongue.jobString>
+
+        <!-- EN: install fleshcrafted spine -->
+        <VME_InstallFleshcraftedSpine.label>instalar espinha carnífera</VME_InstallFleshcraftedSpine.label>
+        <!-- EN: Install a fleshcrafted spine. This can be safely installed in colonists following a Fleshcrafting ideoligion, but will cause infections due to organ rejection in others. -->
+        <VME_InstallFleshcraftedSpine.description>Instala uma espinha carnífera. Esta cirurgia pode ser realizada com segurança em colonos que seguem uma ideologia carnífera, porém em outros, haverá rejeição dos órgãos.</VME_InstallFleshcraftedSpine.description>
+        <!-- EN: Installing fleshcrafted spine. -->
+        <VME_InstallFleshcraftedSpine.jobString>Instalando espinha carnífera.</VME_InstallFleshcraftedSpine.jobString>
+
+        <!-- EN: make tackle box -->
+        <VME_Make_TackleBox.label>fazer caixa de pesca</VME_Make_TackleBox.label>
+        <!-- EN: Make a tackle box. -->
+        <VME_Make_TackleBox.description>Faz uma caixa de pesca.</VME_Make_TackleBox.description>
+        <!-- EN: Making tackle box. -->
+        <VME_Make_TackleBox.jobString>Fazendo caixa de pesca.</VME_Make_TackleBox.jobString>
+
+    <!-- Vanilla Storytellers Expanded - Winston Waves -->
+        <!-- EN: install death super acidifier -->
+        <VESWW_InstallDeathSuperAcidifier.label>implantar super acidificador da morte</VESWW_InstallDeathSuperAcidifier.label>
+        <!-- EN: Install a death super acidifier. -->
+        <VESWW_InstallDeathSuperAcidifier.description>Implanta um super acidificador da morte.</VESWW_InstallDeathSuperAcidifier.description>
+        <!-- EN: Installing death super acidifier. -->
+        <VESWW_InstallDeathSuperAcidifier.jobString>Implantando super acidificador da morte.</VESWW_InstallDeathSuperAcidifier.jobString>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: recycle -->
+        <RecyclotronRecipe.label>reciclar</RecyclotronRecipe.label>
+        <!-- EN: Use mechanites to break down an object into its base resources, with near-perfect efficiency. -->
+        <RecyclotronRecipe.description>Utiliza mecanitos para dividir um objeto em seus recursos básicos, com eficiência quase perfeita.</RecyclotronRecipe.description>
+        <!-- EN: Recycling item. -->
+        <RecyclotronRecipe.jobString>Reciclando item.</RecyclotronRecipe.jobString>
+
+        <!-- EN: install archotech ear -->
+        <SoSInstallArchotechEar.label>instalar orelha arquotécnica</SoSInstallArchotechEar.label>
+        <!-- EN: Install an archotech ear. -->
+        <SoSInstallArchotechEar.description>Instala uma orelha arquotécnica.</SoSInstallArchotechEar.description>
+        <!-- EN: Installing archotech ear. -->
+        <SoSInstallArchotechEar.jobString>Instalando orelha arquotécnica.</SoSInstallArchotechEar.jobString>
+
+        <!-- EN: install archotech nose -->
+        <SoSInstallArchotechNose.label>instalar nariz arquotécnico</SoSInstallArchotechNose.label>
+        <!-- EN: Install an archotech nose. -->
+        <SoSInstallArchotechNose.description>Instala um nariz arquotécnico.</SoSInstallArchotechNose.description>
+        <!-- EN: Installing archotech nose. -->
+        <SoSInstallArchotechNose.jobString>Instalando nariz arquotécnico.</SoSInstallArchotechNose.jobString>
+
+        <!-- EN: install archotech jaw -->
+        <SoSInstallArchotechJaw.label>instalar mandíbula arquotécnica</SoSInstallArchotechJaw.label>
+        <!-- EN: Install an archotech jaw. -->
+        <SoSInstallArchotechJaw.description>Instala uma mandíbula arquotécnica.</SoSInstallArchotechJaw.description>
+        <!-- EN: Installing archotech jaw. -->
+        <SoSInstallArchotechJaw.jobString>Instalando mandíbula arquotécnica.</SoSInstallArchotechJaw.jobString>
+
+        <!-- EN: install archotech heart -->
+        <SoSInstallArchotechHeart.label>instalar coração arquotécnico</SoSInstallArchotechHeart.label>
+        <!-- EN: Install an archotech heart. -->
+        <SoSInstallArchotechHeart.description>Instala um coração arquotécnico.</SoSInstallArchotechHeart.description>
+        <!-- EN: Installing archotech heart. -->
+        <SoSInstallArchotechHeart.jobString>Instalando coração arquotécnico.</SoSInstallArchotechHeart.jobString>
+
+        <!-- EN: install archotech lung -->
+        <SoSInstallArchotechLung.label>instalar pulmão arquotécnico</SoSInstallArchotechLung.label>
+        <!-- EN: Install an archotech lung. -->
+        <SoSInstallArchotechLung.description>Instala um pulmão arquotécnico.</SoSInstallArchotechLung.description>
+        <!-- EN: Installing archotech lung. -->
+        <SoSInstallArchotechLung.jobString>Instalando pulmão arquotécnico.</SoSInstallArchotechLung.jobString>
+
+        <!-- EN: install archotech stomach -->
+        <SoSInstallArchotechStomach.label>instalar estômago arquotécnico</SoSInstallArchotechStomach.label>
+        <!-- EN: Install an archotech stomach. -->
+        <SoSInstallArchotechStomach.description>Instala um estômago arquotécnico.</SoSInstallArchotechStomach.description>
+        <!-- EN: Installing archotech stomach. -->
+        <SoSInstallArchotechStomach.jobString>Instalando estômago arquotécnico.</SoSInstallArchotechStomach.jobString>
+
+        <!-- EN: install archotech kidney -->
+        <SoSInstallArchotechKidney.label>instalar rim arquotécnico</SoSInstallArchotechKidney.label>
+        <!-- EN: Install an archotech kidney. -->
+        <SoSInstallArchotechKidney.description>Instala um rim arquotécnico.</SoSInstallArchotechKidney.description>
+        <!-- EN: Installing archotech kidney. -->
+        <SoSInstallArchotechKidney.jobString>Instalando rim arquotécnico.</SoSInstallArchotechKidney.jobString>
+
+        <!-- EN: install archotech liver -->
+        <SoSInstallArchotechLiver.label>instalar fígado arquotécnico</SoSInstallArchotechLiver.label>
+        <!-- EN: Install an archotech liver. -->
+        <SoSInstallArchotechLiver.description>Instala um fígado arquotécnico.</SoSInstallArchotechLiver.description>
+        <!-- EN: Installing archotech liver. -->
+        <SoSInstallArchotechLiver.jobString>Instalando fígado arquotécnico.</SoSInstallArchotechLiver.jobString>
+
+        <!-- EN: install archotech spine -->
+        <SoSInstallArchotechSpine.label>instalar espinha arquotécnica</SoSInstallArchotechSpine.label>
+        <!-- EN: Install an archotech spine. -->
+        <SoSInstallArchotechSpine.description>Instala uma espinha arquotécnica.</SoSInstallArchotechSpine.description>
+        <!-- EN: Installing archotech spine. -->
+        <SoSInstallArchotechSpine.jobString>Instalando espinha arquotécnica.</SoSInstallArchotechSpine.jobString>
+
+        <!-- EN: install archotech skin -->
+        <InstallSoSArchotechSkin.label>instalar pele arquotécnica</InstallSoSArchotechSkin.label>
+        <!-- EN: Install archotech skin. -->
+        <InstallSoSArchotechSkin.description>Instalar pele arquotécnica.</InstallSoSArchotechSkin.description>
+        <!-- EN: Installing archotech skin. -->
+        <InstallSoSArchotechSkin.jobString>Instalando pele arquotécnica.</InstallSoSArchotechSkin.jobString>
+
+        <!-- EN: remove archotech skin -->
+        <RemoveSoSArchotechSkin.label>remover pele arquotécnica</RemoveSoSArchotechSkin.label>
+        <!-- EN: Remove archotech skin. -->
+        <RemoveSoSArchotechSkin.description>Remove a pele arquotécnica.</RemoveSoSArchotechSkin.description>
+        <!-- EN: Removing archotech skin. -->
+        <RemoveSoSArchotechSkin.jobString>Removendo pele arquotécnica.</RemoveSoSArchotechSkin.jobString>
+
+        <!-- EN: install psychic predictor -->
+        <InstallSoSPsychicPredictor.label>instalar preditor psíquico</InstallSoSPsychicPredictor.label>
+        <!-- EN: Install a psychic predictor. -->
+        <InstallSoSPsychicPredictor.description>Instala um preditor psíquico.</InstallSoSPsychicPredictor.description>
+        <!-- EN: Installing psychic predictor. -->
+        <InstallSoSPsychicPredictor.jobString>Instalando preditor psíquico.</InstallSoSPsychicPredictor.jobString>
+
+        <!-- EN: remove psychic predictor -->
+        <RemoveSoSPsychicPredictor.label>remover preditor psíquico</RemoveSoSPsychicPredictor.label>
+        <!-- EN: Remove psychic predictor. -->
+        <RemoveSoSPsychicPredictor.description>Remove o preditor psíquico.</RemoveSoSPsychicPredictor.description>
+        <!-- EN: Removing psychic predictor. -->
+        <RemoveSoSPsychicPredictor.jobString>Removendo preditor psíquico.</RemoveSoSPsychicPredictor.jobString>
+
+        <!-- EN: install psychic manipulator -->
+        <InstallSoSPsychicManipulator.label>instalar manipulador psíquico</InstallSoSPsychicManipulator.label>
+        <!-- EN: Install a psychic manipulator. -->
+        <InstallSoSPsychicManipulator.description>Instala um manipulador psíquico.</InstallSoSPsychicManipulator.description>
+        <!-- EN: Installing psychic manipulator. -->
+        <InstallSoSPsychicManipulator.jobString>Instalando manipulador psíquico.</InstallSoSPsychicManipulator.jobString>
+
+        <!-- EN: remove psychic manipulator -->
+        <RemoveSoSPsychicManipulator.label>remover manipulador psíquico</RemoveSoSPsychicManipulator.label>
+        <!-- EN: Remove psychic manipulator. -->
+        <RemoveSoSPsychicManipulator.description>Remove o manipulador psíquico.</RemoveSoSPsychicManipulator.description>
+        <!-- EN: Removing psychic manipulator. -->
+        <RemoveSoSPsychicManipulator.jobString>Removendo manipulador psíquico.</RemoveSoSPsychicManipulator.jobString>
+
+        <!-- EN: make uranium fuel pods -->
+        <MakeShuttleFuelPods.label>fazer cápsulas de combustível de urânio</MakeShuttleFuelPods.label>
+        <!-- EN: Craft 100 uranium fuel pods. -->
+        <MakeShuttleFuelPods.description>Faz cápsulas de combustível de urânio.</MakeShuttleFuelPods.description>
+        <!-- EN: Making uranium fuel pods. -->
+        <MakeShuttleFuelPods.jobString>Fazendo cápsulas de combustível de urânio.</MakeShuttleFuelPods.jobString>
+
+        <!-- EN: make hullfoam canister -->
+        <MakeHullFoam.label>fazer carcaça-espuma</MakeHullFoam.label>
+        <!-- EN: Craft a canister of hullfoam. -->
+        <MakeHullFoam.description>Faz uma carcaça-espuma.</MakeHullFoam.description>
+        <!-- EN: Making hullfoam. -->
+        <MakeHullFoam.jobString>Fazendo carcaça-espuma.</MakeHullFoam.jobString>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- EN: salvage laser weapon -->
+        <Salvage_LaserWeapon.label>recuperar arma laser</Salvage_LaserWeapon.label>
+        <!-- EN: Salvage a random laser weapon from advanced components. -->
+        <Salvage_LaserWeapon.description>Recupere uma arma laser aleatória de componentes avançados.</Salvage_LaserWeapon.description>
+        <!-- EN: Salvaging laser weapon. -->
+        <Salvage_LaserWeapon.jobString>Recuperando arma laser.</Salvage_LaserWeapon.jobString>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationReplace">
+                <xpath>/Defs/VCE_Fishing.FishDef[defName="VCEF_SpecialVBE_Blueprint"]/thingDef</xpath>
+                <value>
+                    <thingDef>Blueprint_VBE</thingDef>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- EN: Summon a Trade Caravan -->
+        <TradeCaravanRewardVE.label>Caravana Comercial</TradeCaravanRewardVE.label>
+
+        <!-- EN: Spawn Cargo Pods -->
+        <CargoPodsRewardVE.label>Cápsulas de Carga</CargoPodsRewardVE.label>
+
+        <!-- EN: Man in Black Joins -->
+        <ManInBlackRewardVE.label>Estranho de Preto</ManInBlackRewardVE.label>
+
+        <!-- EN: Summon a Raid -->
+        <EnemyRaidReward.label>Invasão</EnemyRaidReward.label>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- EN: Summon a Trade Caravan -->
+        <TradeCaravanReward.label>Caravana Comercial</TradeCaravanReward.label>
+
+        <!-- EN: Spawn Cargo Pods -->
+        <CargoPodsReward.label>Cápsulas de Carga</CargoPodsReward.label>
+
+        <!-- EN: Man in Black Joins -->
+        <ManInBlackReward.label>Estranho de Preto</ManInBlackReward.label>
+
+        <!-- EN: Summon a Raid -->
+        <EnemyRaidRewardVE.label>Invasão</EnemyRaidRewardVE.label>
+
+</LanguageData>

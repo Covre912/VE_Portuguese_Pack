@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: reading -->
+        <VBE_Reading.label>leitura</VBE_Reading.label>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: dessert consumption -->
+        <VCE_Confectionery.label>consumo de sobremesas</VCE_Confectionery.label>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: bath relaxing -->
+        <VFEC_Relaxing_Bath.label>relaxamento em banhos</VFEC_Relaxing_Bath.label>
+
+        <!-- EN: performing -->
+        <VFEC_Performance.label>atuação</VFEC_Performance.label>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: electronic play -->
+        <Gaming_Electronic.label>jogos (eletrônica)</Gaming_Electronic.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: holodeck simulation -->
+        <Holodeck.label>simulação de holoverso</Holodeck.label>
+
+        <!-- EN: advanced astronomical observation -->
+        <TelescopeSpace.label>observação astronômica avançada</TelescopeSpace.label>
+
+</LanguageData>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla UI Expanded -->
+        <!-- EN: toggle roofs -->
+        <Roof.label>Visibilidade de Telhados</Roof.label>
+        <!-- EN: . -->
+        <Roof.description>.</Roof.description>
+        <!-- EN: toggle fertility -->
+        <Fertility.label>Sobreposição de Fertilidade</Fertility.label>
+        <!-- EN: . -->
+        <Fertility.description>.</Fertility.description>
+        <!-- EN: toggle terrain affordances -->
+        <Terrain.label>Visibilidade da Disponibilidade do Terreno</Terrain.label>
+        <!-- EN: . -->
+        <Terrain.description>.</Terrain.description>
+        <!-- EN: toggle power grid -->
+        <Power.label>Visibilidade da Grade de Energia</Power.label>
+        <!-- EN: . -->
+        <Power.description>.</Power.description>
+        <!-- EN: toggle gas grid -->
+        <Gas.label>Visibilidade da Grade de Gás</Gas.label>
+        <!-- EN: . -->
+        <Gas.description>.</Gas.description>
+        <!-- EN: toggle water grid -->
+        <Sewage.label>Visibilidade da Grade de Água</Sewage.label>
+        <!-- EN: . -->
+        <Sewage.description>.</Sewage.description>
+        <!-- EN: toggle air-con grid -->
+        <Air.label>Visibilidade da Grade de Condicionamento de Ar</Air.label>
+        <!-- EN: . -->
+        <Air.description>.</Air.description>
+        <!-- EN: toggle beauty overlay -->
+        <Beauty.label>Sobreposição de Beleza</Beauty.label>
+        <!-- EN: . -->
+        <Beauty.description>.</Beauty.description>
+        <!-- EN: toggle lighting overlay -->
+        <Lighting.label>Sobreposição de Luz</Lighting.label>
+        <!-- EN: . -->
+        <Lighting.description>.</Lighting.description>
+        <!-- EN: toggle walk speed overlay -->
+        <WalkSpeed.label>Sobreposição da Velocidade de Movimento</WalkSpeed.label>
+        <!-- EN: . -->
+        <WalkSpeed.description>.</WalkSpeed.description>
+        <!-- EN: toggle usage overlay -->
+        <Usage.label>Sobreposição de Uso</Usage.label>
+        <!-- EN: Shows how often your pawns are in each cell. WARNING: May cause performance issues. -->
+        <Usage.description>Exibe o quão frequentemente seus colonos ficam em cada célula.</Usage.description>
+        <!-- EN: toggle cleanliness overlay -->
+        <Cleanliness.label>Sobreposição de Limpeza</Cleanliness.label>
+        <!-- EN: . -->
+        <Cleanliness.description>.</Cleanliness.description>
+        <!-- EN: toggle plant growth overlay -->
+        <PlantGrowth.label>Sobreposição de Crescimento de Plantas</PlantGrowth.label>
+        <!-- EN: . -->
+        <PlantGrowth.description>.</PlantGrowth.description>
+        <!-- EN: toggle smoothable overlay -->
+        <Smoothable.label>Sobreposição de Alisamento</Smoothable.label>
+        <!-- EN: . -->
+        <Smoothable.description>.</Smoothable.description>
+        <!-- EN: toggle wind blocker overlay -->
+        <WindBlockers.label>Sobreposição de Bloqueio de Vento</WindBlockers.label>
+        <!-- EN: . -->
+        <WindBlockers.description>.</WindBlockers.description>
+        <!-- EN: toggle high-voltage wire grid -->
+        <HighVoltage.label>Visibilidade da Garde de Fios de Alta Voltagem</HighVoltage.label>
+        <!-- EN: . -->
+        <HighVoltage.description>.</HighVoltage.description>
+        <!-- EN: toggle cooling grid -->
+        <Cooling.label>Visibilidade da Grade de Resfriamento</Cooling.label>
+        <!-- EN: . -->
+        <Cooling.description>.</Cooling.description>
+        <!-- EN: toggle steam grid -->
+        <Steam.label>Visibilidade da Grade de Vapor</Steam.label>
+        <!-- EN: . -->
+        <Steam.description>.</Steam.description>
+        <!-- EN: toggle cold water grid -->
+        <ColdWater.label>Visibilidade da Grade de Água Gelada</ColdWater.label>
+        <!-- EN: . -->
+        <ColdWater.description>.</ColdWater.description>
+        <!-- EN: toggle reactor loom grid -->
+        <Loom.label>Visibilidade da Grade de Tear</Loom.label>
+        <!-- EN: . -->
+        <Loom.description>.</Loom.description>
+        <!-- EN: toggle oil pipe grid -->
+        <OilPipes.label>Visibilidade da Grade de Tubulação de Petróleo</OilPipes.label>
+        <!-- EN: . -->
+        <OilPipes.description>.</OilPipes.description>
+        <!-- EN: toggle oil grid -->
+        <OilGrid.label>Visibilidade da Grade de Petróleo</OilGrid.label>
+        <!-- EN: . -->
+        <OilGrid.description>.</OilGrid.description>
+        <!-- EN: toggle deep oil grid -->
+        <DeepOilGrid.label>Visibilidade da Grade de Petróleo Profundo</DeepOilGrid.label>
+        <!-- EN: . -->
+        <DeepOilGrid.description>.</DeepOilGrid.description>
+        <!-- EN: toggle water grid -->
+        <WaterGrid.label>Visibilidade da Grade de Água</WaterGrid.label>
+        <!-- EN: . -->
+        <WaterGrid.description>.</WaterGrid.description>
+        <!-- EN: toggle toggle chair and table coverage overlay -->
+        <Chairs.label>Sobreposição da Cobertura de Mesas e Cadeiras</Chairs.label>
+        <!-- EN: Shows where colonists can find food with default search radius and still be able to eat at a table. -->
+        <Chairs.description>Exibe onde os colonos podem encontrar comida e ainda comer em uma mesa.</Chairs.description>
+        <!-- EN: toggle table search overlay -->
+        <TableSearch.label>Sobreposição da Procura por Mesas</TableSearch.label>
+        <!-- EN: Shows where pawns will search for a table from the selected food source. -->
+        <TableSearch.description>Exibe onde os colonos procurarão por uma mesa a partir de uma fonte de alimento selecionada.</TableSearch.description>
+        <!-- EN: toggle wealth overlay -->
+        <Wealth.label>Sobreposição de Riqueza</Wealth.label>
+        <!-- EN: . -->
+        <Wealth.description>.</Wealth.description>
+        <!-- EN: toggle health overlay -->
+        <Health.label>Sobreposição de Saúde</Health.label>
+        <!-- EN: . -->
+        <Health.description>.</Health.description>
+        <!-- EN: toggle terror overlay -->
+        <Terror.label>Sobreposição de Terror</Terror.label>
+        <!-- EN: . -->
+        <Terror.description>.</Terror.description>
+
+</LanguageData>

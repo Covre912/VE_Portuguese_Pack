@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: Vanilla Memes Expanded -->
+        <VME_MenuFeatures.label>Expansão de Memes</VME_MenuFeatures.label>
+        <!-- EN: VE Framework new Ideo menu options for Vanilla Memes Expanded -->
+        <VME_MenuFeatures.description>O novo menu de opções de ideologia para a Expansão de Memes.</VME_MenuFeatures.description>
+
+    <!-- Vanilla Ideology Expanded - Relics and Artifacts -->
+        <!-- EN: Vanilla Ideology Expanded - Relics and Artifacts -->
+        <VanillaIdeoExpandedRelicsAndArtifacts.label>Expansão de Relíquias</VanillaIdeoExpandedRelicsAndArtifacts.label>
+        <!-- EN: New VE mod hype -->
+        <VanillaIdeoExpandedRelicsAndArtifacts.description>O novo menu de opções de relíquias.</VanillaIdeoExpandedRelicsAndArtifacts.description>
+
+</LanguageData>

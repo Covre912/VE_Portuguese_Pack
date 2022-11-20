@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- EN: work frenzy -->
+        <Frenzy_Work.label>frenesi de trabalho</Frenzy_Work.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to do some work. -->
+        <Frenzy_Work.beginLetterContinue>\n\n{PAWN_pronoun} gostaria de trabalhar.</Frenzy_Work.beginLetterContinue>
+
+        <!-- EN: go frenzy -->
+        <Frenzy_Go.label>frenesi de viagem</Frenzy_Go.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to join a caravan and venture into the world. -->
+        <Frenzy_Go.beginLetterContinue>\n\n{PAWN_pronoun} gostaria de se juntar a uma caravana e se aventurar pelo mundo.</Frenzy_Go.beginLetterContinue>
+
+        <!-- EN: shoot frenzy -->
+        <Frenzy_Shoot.label>frenesi de tiro</Frenzy_Shoot.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to go on a hunt. -->
+        <Frenzy_Shoot.beginLetterContinue>\n\n{PAWN_pronoun} gostaria de caçar alguns animais.</Frenzy_Shoot.beginLetterContinue>
+
+        <!-- EN: inspired trade -->
+        <Inspired_Trade.label>inspiração comercial</Inspired_Trade.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to close a trade. -->
+        <Inspired_Trade.beginLetterContinue>\n\n{PAWN_pronoun} gostaria de realizar uma negociação.</Inspired_Trade.beginLetterContinue>
+
+        <!-- EN: inspired recruitment -->
+        <Inspired_Recruitment.label>inspiração de recrutamento</Inspired_Recruitment.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to recruit a prisoner. -->
+        <Inspired_Recruitment.beginLetterContinue>\n\n{PAWN_pronoun} gostaria de recrutar um prisioneiro.</Inspired_Recruitment.beginLetterContinue>
+
+        <!-- EN: inspired taming -->
+        <Inspired_Taming.label>inspiração de domesticação</Inspired_Taming.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to try and tame an animal. -->
+        <Inspired_Taming.beginLetterContinue>\n\n{PAWN_pronoun} gostaria de domar um animal.</Inspired_Taming.beginLetterContinue>
+
+        <!-- EN: inspired surgery -->
+        <Inspired_Surgery.label>inspiração cirúrgica</Inspired_Surgery.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to perform a surgery. -->
+        <Inspired_Surgery.beginLetterContinue>\n\n {PAWN_pronoun} gostaria de realizar uma cirurgia.</Inspired_Surgery.beginLetterContinue>
+
+        <!-- EN: inspired creativity -->
+        <Inspired_Creativity.label>inspiração criativa</Inspired_Creativity.label>
+        <!-- EN: \n\n[PAWN_pronoun] would like to create a masterwork or legendary item. -->
+        <Inspired_Creativity.beginLetterContinue>\n\n{PAWN_pronoun} gostaria de criar uma obra-prima ou um item lendário.</Inspired_Creativity.beginLetterContinue>
+
+        <!-- EN: inspired planting -->
+        <VSIE_Inspired_Planting.label>inspiração agrícola</VSIE_Inspired_Planting.label>
+
+        <!-- EN: party frenzy -->
+        <VSIE_Party_Frenzy.label>frenesi de festa</VSIE_Party_Frenzy.label>
+
+        <!-- EN: inspired research -->
+        <VSIE_Inspired_Research.label>inspiração científica</VSIE_Inspired_Research.label>
+
+        <!-- EN: inspired mining -->
+        <VSIE_Inspired_Mining.label>inspiração de mineração</VSIE_Inspired_Mining.label>
+
+        <!-- EN: learning frenzy -->
+        <VSIE_Learning_Frenzy.label>frenesi de aprendizagem</VSIE_Learning_Frenzy.label>
+
+        <!-- EN: inspired cooking -->
+        <VSIE_Inspired_Cooking.label>inspiração culinária</VSIE_Inspired_Cooking.label>
+
+        <!-- EN: flirting frenzy -->
+        <VSIE_Flirting_Frenzy.label>frenesi de flerte</VSIE_Flirting_Frenzy.label>
+
+        <!-- EN: Melee frenzy -->
+        <VSIE_Melee_Frenzy.label>frenesi corpo a corpo</VSIE_Melee_Frenzy.label>
+
+</LanguageData>

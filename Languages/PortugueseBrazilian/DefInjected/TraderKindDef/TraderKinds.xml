@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: bulk goods trader -->
+        <VFEC_Caravan_Republic_BulkGoods.label>comerciante de produtos variados</VFEC_Caravan_Republic_BulkGoods.label>
+
+        <!-- EN: war merchant -->
+        <VFEC_Caravan_Republic_WarMerchant.label>comerciante de guerra</VFEC_Caravan_Republic_WarMerchant.label>
+
+        <!-- EN: slaver -->
+        <VFEC_Caravan_Republic_Slaver.label>escravista</VFEC_Caravan_Republic_Slaver.label>
+
+        <!-- EN: trader -->
+        <VFEC_Visitor_Republic_Standard.label>comerciante</VFEC_Visitor_Republic_Standard.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: bio-engineering supplier -->
+        <VFEI_Orbital_BioEngineeringSupplier.label>provedores de bioengenharia</VFEI_Orbital_BioEngineeringSupplier.label>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: animal herder -->
+        <VFEM_Caravan_Medieval_Farmer.label>pastores de animais</VFEM_Caravan_Medieval_Farmer.label>
+
+        <!-- EN: wine merchant -->
+        <VFEM_Caravan_Medieval_WineMerchant.label>comerciantes de vinho</VFEM_Caravan_Medieval_WineMerchant.label>
+
+        <!-- EN: art patron -->
+        <VFEM_Caravan_Medieval_ArtPatron.label>patronos da arte</VFEM_Caravan_Medieval_ArtPatron.label>
+
+        <!-- EN: armorsmith -->
+        <VFEM_Caravan_Medieval_Armourer.label>armeiros</VFEM_Caravan_Medieval_Armourer.label>
+
+        <!-- EN: weaponsmith -->
+        <VFEM_Caravan_Medieval_Weaponsmith.label>ferreiros</VFEM_Caravan_Medieval_Weaponsmith.label>
+
+        <!-- EN: sellswords -->
+        <VFEM_Caravan_Medieval_Sellswords.label>mercenários</VFEM_Caravan_Medieval_Sellswords.label>
+
+        <!-- EN: trader -->
+        <VFEM_Visitor_Medieval_Standard.label>comerciantes</VFEM_Visitor_Medieval_Standard.label>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: loot trader -->
+        <VFEV_Caravan_Looter.label>comerciantes de pilhagem</VFEV_Caravan_Looter.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: genetics supplier -->
+        <GR_Outlander_CaravanTrader.label>comerciantes genéticos</GR_Outlander_CaravanTrader.label>
+
+        <!-- EN: genetics supplier -->
+        <GR_OrbitalTrader.label>comerciantes genéticos</GR_OrbitalTrader.label>
+
+</LanguageData>

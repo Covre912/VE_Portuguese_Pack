@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: ancient super-soldiers-->
+        <VFEA_AncientSoldiers.label>Super-Soldados Ancestrais</VFEA_AncientSoldiers.label>
+        <!-- EN: Ancient soldiers -->
+        <VFEA_AncientSoldiers.fixedName>Soldados Ancestrais</VFEA_AncientSoldiers.fixedName>
+        <!-- EN: ancient super-soldier -->
+        <VFEA_AncientSoldiers.pawnSingular>super-soldado ancestral</VFEA_AncientSoldiers.pawnSingular>
+        <!-- EN: ancient super-soldiers -->
+        <VFEA_AncientSoldiers.pawnsPlural>super-soldados ancestrais</VFEA_AncientSoldiers.pawnsPlural>
+
+        <!-- EN: New Vault -->
+        <VFEA_NewVault.label>Nova Cripta</VFEA_NewVault.label>
+        <!-- EN: A vault of ancient soldiers. -->
+        <VFEA_NewVault.description>Uma cripta de soldados ancestrais.</VFEA_NewVault.description>
+        <!-- EN: ancient soldier -->
+        <VFEA_NewVault.pawnSingular>soldado ancestral</VFEA_NewVault.pawnSingular>
+        <!-- EN: ancient soldiers -->
+        <VFEA_NewVault.pawnsPlural>soldados ancestrais</VFEA_NewVault.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: central republic -->
+        <VFEC_CentralRepublic.label>República Central</VFEC_CentralRepublic.label>
+        <!-- EN: These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Republic can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic holds production and city development in high regards. Gaining their support will unlock several perks focused on improving the wellbeing of the people. -->
+        <VFEC_CentralRepublic.description>Essas pessoas estão aqui há muito tempo. Sua civilização começou como uma reunião de tribos, mas rapidamente desenvolveu habilidades como escrita, alvenaria e serviço civil.\n\nApesar de sua aparente fraqueza tecnológica, a República pode ser uma inimiga perigosa ou uma amiga valiosa por causa de sua habilidade com a guerra de baixa tecnologia, seus números e sua resistência.\n\nEsta parte específica da República mantém a produção e o desenvolvimento da cidade em alta. Ganhar o apoio deles desbloqueará várias vantagens focadas em melhorar o bem-estar das pessoas.</VFEC_CentralRepublic.description>
+        <!-- EN: plebeian -->
+        <VFEC_CentralRepublic.pawnSingular>plebeu</VFEC_CentralRepublic.pawnSingular>
+        <!-- EN: plebeians -->
+        <VFEC_CentralRepublic.pawnsPlural>plebeus</VFEC_CentralRepublic.pawnsPlural>
+        <!-- EN: patrician -->
+        <VFEC_CentralRepublic.leaderTitle>patrício</VFEC_CentralRepublic.leaderTitle>
+
+        <!-- EN: western republic -->
+        <VFEC_WesternRepublic.label>República Ocidental</VFEC_WesternRepublic.label>
+        <!-- EN: These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Imperium can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic considers honor and superiority in battle to be most valuable. Gaining their support will unlock several perks focused on warfare and military. -->
+        <VFEC_WesternRepublic.description>Essas pessoas estão aqui há muito tempo. Sua civilização começou como uma reunião de tribos, mas rapidamente desenvolveu habilidades como escrita, alvenaria e serviço civil.\n\nApesar de sua aparente fraqueza tecnológica, a República pode ser uma inimiga perigosa ou uma amiga valiosa por causa de sua habilidade com a guerra de baixa tecnologia, seus números e sua resistência.\n\nEsta parte específica da República considera a honra e a superioridade na batalha os mais importantes valores. Ganhar o apoio deles desbloqueará várias vantagens focadas na guerra.</VFEC_WesternRepublic.description>
+        <!-- EN: plebeian -->
+        <VFEC_WesternRepublic.pawnSingular>plebeu</VFEC_WesternRepublic.pawnSingular>
+        <!-- EN: plebeians -->
+        <VFEC_WesternRepublic.pawnsPlural>plebeus</VFEC_WesternRepublic.pawnsPlural>
+        <!-- EN: patrician -->
+        <VFEC_WesternRepublic.leaderTitle>patrício</VFEC_WesternRepublic.leaderTitle>
+
+        <!-- EN: eastern republic -->
+        <VFEC_EasternRepublic.label>República Oriental</VFEC_EasternRepublic.label>
+        <!-- EN: These people have been here a very long time. Their civilization started as a gathering of tribes, but quickly developed skills such as writing, masonry and civil service. \n\nDespite their apparent technological weakness, the Imperium can be dangerous enemies and valuable friends because of their skill with low-tech warfare, their numbers, and their hardiness.\n\nThis particular part of the Republic values hard work and production over brawl and intellect. Gaining their support will unlock several perks focused on research and progress. -->
+        <VFEC_EasternRepublic.description>Essas pessoas estão aqui há muito tempo. Sua civilização começou como uma reunião de tribos, mas rapidamente desenvolveu habilidades como escrita, alvenaria e serviço civil.\n\nApesar de sua aparente fraqueza tecnológica, a República pode ser uma inimiga perigosa ou uma amiga valiosa por causa de sua habilidade com a guerra de baixa tecnologia, seus números e sua resistência.\n\nEsta parte específica da República valoriza o trabalho duro e a produção acima da guerra e do intelecto. Ganhar o apoio deles desbloqueará várias vantagens focadas em pesquisa e progresso.</VFEC_EasternRepublic.description>
+        <!-- EN: plebeian -->
+        <VFEC_EasternRepublic.pawnSingular>plebeu</VFEC_EasternRepublic.pawnSingular>
+        <!-- EN: plebeians -->
+        <VFEC_EasternRepublic.pawnsPlural>plebeus</VFEC_EasternRepublic.pawnsPlural>
+        <!-- EN: patrician -->
+        <VFEC_EasternRepublic.leaderTitle>patrício</VFEC_EasternRepublic.leaderTitle>
+
+        <!-- EN: New Empire -->
+        <VFEC_NewEmpire.label>Novo Império</VFEC_NewEmpire.label>
+        <!-- EN: A new empire. -->
+        <VFEC_NewEmpire.description>Um novo império.</VFEC_NewEmpire.description>
+        <!-- EN: plebeian -->
+        <VFEC_NewEmpire.pawnSingular>plebeu</VFEC_NewEmpire.pawnSingular>
+        <!-- EN: plebeians -->
+        <VFEC_NewEmpire.pawnsPlural>plebeus</VFEC_NewEmpire.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: New Squad -->
+        <VFE_PlayerOutpost.label>Novo Esquadrão</VFE_PlayerOutpost.label>
+        <!-- EN: A small squad of mercenaries, ready for combat. -->
+        <VFE_PlayerOutpost.description>Um pequeno esquadrão de mercenários prontos para o combate.</VFE_PlayerOutpost.description>
+        <!-- EN: mercenary -->
+        <VFE_PlayerOutpost.pawnSingular>mercenário</VFE_PlayerOutpost.pawnSingular>
+        <!-- EN: mercenaries -->
+        <VFE_PlayerOutpost.pawnsPlural>mercenários</VFE_PlayerOutpost.pawnsPlural>
+
+        <!-- EN: insect hive -->
+        <VFEI_Insect.label>Colmeia Insetoide</VFEI_Insect.label>
+        <!-- EN: A result of a galaxy wide experiment gone wrong, this monstrous hive-mind has made this planet their home. Divided into castes, their society relies on the giant queen.\n\nThese insectoids are not interested in diplomacy. They will try to eliminate anything that they perceive to be a threat. -->
+        <VFEI_Insect.description>Resultado de um experimento que deu errado em toda a galáxia, esta monstruosa mente coletiva fez deste planeta seu lar. Dividida em castas, sua sociedade depende de uma rainha gigante.\n\nEstes insetoides não estão interessados ​​em diplomacia. Eles tentarão eliminar qualquer coisa que considerem uma ameaça.</VFEI_Insect.description>
+        <!-- EN: insect -->
+        <VFEI_Insect.pawnSingular>inseto</VFEI_Insect.pawnSingular>
+        <!-- EN: insects -->
+        <VFEI_Insect.pawnsPlural>insetos</VFEI_Insect.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: mechanoid swarm -->
+        <VFE_Mechanoid.label>Enxame Mecanoide</VFE_Mechanoid.label>
+        <!-- EN: A large, orbit-bound swarm of mechanoid terraforming ships and combat vessels. Controlled remotely by human commanders in one of the core worlds, in the center of this mechanoid swarm lies a lair, where countless machines are constructed and deconstructed continuously to serve the greater cause.\n\nThey are not concerned with human rights and don't perceive inhabitants of this rimworld as anything but apes that need to be terminated for the terraforming project to continue.\n\nThis mechanoid swarm cannot be allied with. -->
+        <VFE_Mechanoid.description>Um grande enxame orbitado de espaçonaves mecanoides de terraformação e embarcações de combate. Controlado remotamente por comandantes humanos em um dos mundos centrais, no centro desse enxame mecanoide fica um covil, onde inúmeras máquinas são construídas e desconstruídas continuamente para servir a uma causa maior.\n\nEles não estão preocupados com os direitos humanos e não percebem os habitantes deste mundo como qualquer coisa, exceto macacos que precisam ser eliminados para que o projeto de terraformação continue.\n\nEste enxame mecanoide não pode ser transformado em aliado.</VFE_Mechanoid.description>
+        <!-- EN: mechanoid -->
+        <VFE_Mechanoid.pawnSingular>mecanoide</VFE_Mechanoid.pawnSingular>
+        <!-- EN: mechanoids -->
+        <VFE_Mechanoid.pawnsPlural>mecanoides</VFE_Mechanoid.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: unknown kingdom -->
+        <VFEM_UnknownKingdom.label>Reino Desconhecido</VFEM_UnknownKingdom.label>
+        <!-- EN: Unknown kingdom -->
+        <VFEM_UnknownKingdom.fixedName>Reino Desconhecido</VFEM_UnknownKingdom.fixedName>
+        <!-- EN: subject -->
+        <VFEM_UnknownKingdom.pawnSingular>súdito</VFEM_UnknownKingdom.pawnSingular>
+        <!-- EN: subjects -->
+        <VFEM_UnknownKingdom.pawnsPlural>súditos</VFEM_UnknownKingdom.pawnsPlural>
+
+        <!-- EN: unknown kingdom -->
+        <VFEM_UnknownKingdomHostile.label>Reino Desconhecido</VFEM_UnknownKingdomHostile.label>
+        <!-- EN: Unknown kingdom -->
+        <VFEM_UnknownKingdomHostile.fixedName>Reino Desconhecido</VFEM_UnknownKingdomHostile.fixedName>
+        <!-- EN: subject -->
+        <VFEM_UnknownKingdomHostile.pawnSingular>súdito</VFEM_UnknownKingdomHostile.pawnSingular>
+        <!-- EN: subjects -->
+        <VFEM_UnknownKingdomHostile.pawnsPlural>súditos</VFEM_UnknownKingdomHostile.pawnsPlural>
+
+        <!-- EN: civil kingdom -->
+        <VFEM_KingdomCivil.label>Reino Civil</VFEM_KingdomCivil.label>
+        <!-- EN: These people have been here for a shorter period of time than their neolithic brethren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is open to keeping trade relations good with other settlements to bolster their economic position. -->
+        <VFEM_KingdomCivil.description>Essas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Acredita-se que alguns povos tribais abraçaram os modos de vida medieval e decidiram se unir.\n\nApesar de ainda serem tecnologicamente inferiores a muitas outras facções, os súditos deste reino são conhecidos por usarem fortificações imponentes para proteger seus bens, assim como adotar o uso de escudos em combate e lutar de uma maneira particularmente ordenada.\n\nEste reino em particular está aberto a relações comerciais com outros assentamentos para reforçar sua posição econômica.</VFEM_KingdomCivil.description>
+        <!-- EN: king -->
+        <VFEM_KingdomCivil.leaderTitle>rei</VFEM_KingdomCivil.leaderTitle>
+        <!-- EN: subject -->
+        <VFEM_KingdomCivil.pawnSingular>súdito</VFEM_KingdomCivil.pawnSingular>
+        <!-- EN: subjects -->
+        <VFEM_KingdomCivil.pawnsPlural>súditos</VFEM_KingdomCivil.pawnsPlural>
+
+        <!-- EN: rough kingdom -->
+        <VFEM_KingdomRough.label>Reino Brutal</VFEM_KingdomRough.label>
+        <!-- EN: These people have been here for a shorter period of time than their neolithic brethren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is ruled under a heavy hand and wishes to expand by laying the less fortunate to waste - though it is still possible to befriend them. -->
+        <VFEM_KingdomRough.description>Essas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Acredita-se que alguns povos tribais abraçaram os modos de vida medieval e decidiram se unir.\n\nApesar de ainda serem tecnologicamente inferiores a muitas outras facções, os súditos deste reino são conhecidos por usarem fortificações imponentes para proteger seus bens, assim como adotar o uso de escudos em combate e lutar de uma maneira particularmente ordenada.\n\nEste reino em particular deseja expandir seu território a força - embora ainda seja possível aliar-se.</VFEM_KingdomRough.description>
+        <!-- EN: king -->
+        <VFEM_KingdomRough.leaderTitle>rei</VFEM_KingdomRough.leaderTitle>
+        <!-- EN: subject -->
+        <VFEM_KingdomRough.pawnSingular>súdito</VFEM_KingdomRough.pawnSingular>
+        <!-- EN: subjects -->
+        <VFEM_KingdomRough.pawnsPlural>súditos</VFEM_KingdomRough.pawnsPlural>
+
+        <!-- EN: savage kingdom -->
+        <VFEM_KingdomSavage.label>Reino Selvagem</VFEM_KingdomSavage.label>
+        <!-- EN: These people have been here for a shorter period of time than their neolithic brethren. It is believed that some tribespeople and outlanders had come to embrace the medieval ways of life and decided to unite.\n\nThough still technologically inferior to many other factions, the subjects of this kingdom are well-known for using towering fortifications to protect their assets, as well as adopting the use of shields in combat and fighting in a particularly orderly manner.\n\nThis particular kingdom is driven by a warband styled culture; you will not be able to ally with them! -->
+        <VFEM_KingdomSavage.description>Essas pessoas estão aqui há menos tempo do que seus irmãos neolíticos. Acredita-se que alguns povos tribais abraçaram os modos de vida medieval e decidiram se unir.\n\nApesar de ainda serem tecnologicamente inferiores a muitas outras facções, os súditos deste reino são conhecidos por usarem fortificações imponentes para proteger seus bens, assim como adotar o uso de escudos em combate e lutar de uma maneira particularmente ordenada.\n\nEste reino em particular é impulsionado por uma cultura de guerra; não é possível aliar-se!</VFEM_KingdomSavage.description>
+        <!-- EN: king -->
+        <VFEM_KingdomSavage.leaderTitle>rei</VFEM_KingdomSavage.leaderTitle>
+        <!-- EN: subject -->
+        <VFEM_KingdomSavage.pawnSingular>súdito</VFEM_KingdomSavage.pawnSingular>
+        <!-- EN: subjects -->
+        <VFEM_KingdomSavage.pawnsPlural>súditos</VFEM_KingdomSavage.pawnsPlural>
+
+        <!-- EN: New Kingdom -->
+        <VFEM_PlayerKingdom.label>Novo Reino</VFEM_PlayerKingdom.label>
+        <!-- EN: A small kingdom. -->
+        <VFEM_PlayerKingdom.description>Um pequeno reino.</VFEM_PlayerKingdom.description>
+        <!-- EN: subject -->
+        <VFEM_PlayerKingdom.pawnSingular>súdito</VFEM_PlayerKingdom.pawnSingular>
+        <!-- EN: subjects -->
+        <VFEM_PlayerKingdom.pawnsPlural>súditos</VFEM_PlayerKingdom.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: junkers -->
+        <VFEP_Junkers.label>Confederação Sucateadora</VFEP_Junkers.label>
+        <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\nJunkers utilize warcasket technology and seal themselves in metal tombs in which they raid, steal, plunder and inevitably die. They rarely use melee weapons and prefer to keep at distance to the enemy to fully utilize the powerful warcasket weaponry. -->
+        <VFEP_Junkers.description>Uma confederação perdida de gangues de piratas que concordaram em lutar principalmente contra forasteiros em vez de lutar entre si.\nOs piratas não semeiam, não constroem e raramente negociam. Impulsionados por uma cultura de sangue e honra que valoriza a força e a crueldade pessoais, eles se enriquecem invadindo e roubando seus vizinhos mais produtivos.\nOs sucateadores utilizam a tecnologia de guerrataúde e se fecham em cápsulas de metal nas quais invadem, roubam, saqueiam e inevitavelmente morrem. Eles raramente usam armas brancas e preferem manter distância do inimigo para utilizar plenamente o poderoso armamento de guerrataúde.</VFEP_Junkers.description>
+        <!-- EN: junker -->
+        <VFEP_Junkers.pawnSingular>sucateador</VFEP_Junkers.pawnSingular>
+        <!-- EN: junkers -->
+        <VFEP_Junkers.pawnsPlural>sucateadores</VFEP_Junkers.pawnsPlural>
+        <!-- EN: khan -->
+        <VFEP_Junkers.leaderTitle>cã</VFEP_Junkers.leaderTitle>
+
+        <!-- EN: mercenaries -->
+        <VFEP_Mercenaries.label>Organização Mercenária</VFEP_Mercenaries.label>
+        <!-- EN: A paramilitary organization sanctioned and governed by political figures and megacorporations.\nMercenaries don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\nMercenaries utilize spacer-tech weapons and armors to eliminate the targets of their corporate overlords. Unlike other pirate factions, mercenaries can be communicated with and befriended, but they rarely have much to offer in regards to trade and research. -->
+        <VFEP_Mercenaries.description>Uma organização paramilitar sancionada e governada por figuras políticas e megacorporações.\nOs mercenários não semeiam, não constroem e raramente negociam. Impulsionados por uma cultura de sangue e honra que valoriza a força e a crueldade pessoais, eles se enriquecem invadindo e roubando seus vizinhos mais produtivos.\nOs mercenários utilizam armas e armaduras de tecnologia espacial para eliminar os alvos de seus chefes corporativos. Ao contrário de outras facções de piratas, os mercenários podem se comunicar e fazer amizade, mas raramente têm muito a oferecer em relação ao comércio e pesquisa.</VFEP_Mercenaries.description>
+        <!-- EN: mercenary -->
+        <VFEP_Mercenaries.pawnSingular>mercenário</VFEP_Mercenaries.pawnSingular>
+        <!-- EN: mercenaries -->
+        <VFEP_Mercenaries.pawnsPlural>mercenários</VFEP_Mercenaries.pawnsPlural>
+        <!-- EN: general -->
+        <VFEP_Mercenaries.leaderTitle>general</VFEP_Mercenaries.leaderTitle>
+
+        <!-- EN: New Cove -->
+        <VFEP_PlayerPirate.label>Novo Esconderijo</VFEP_PlayerPirate.label>
+        <!-- EN: A small pirate cove. -->
+        <VFEP_PlayerPirate.description>Um pequeno esconderijo pirata.</VFEP_PlayerPirate.description>
+        <!-- EN: pirate -->
+        <VFEP_PlayerPirate.pawnSingular>pirata</VFEP_PlayerPirate.pawnSingular>
+        <!-- EN: pirates -->
+        <VFEP_PlayerPirate.pawnsPlural>piratas</VFEP_PlayerPirate.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: New Hideout -->
+        <VFES_PlayerSettlement.label>Novo Esconderijo</VFES_PlayerSettlement.label>
+        <!-- EN: A small hideout of gang members and criminals. -->
+        <VFES_PlayerSettlement.description>Um pequeno esconderijo de membros de gangues e criminosos.</VFES_PlayerSettlement.description>
+        <!-- EN: bandit -->
+        <VFES_PlayerSettlement.pawnSingular>bandido</VFES_PlayerSettlement.pawnSingular>
+        <!-- EN: bandits -->
+        <VFES_PlayerSettlement.pawnsPlural>bandidos</VFES_PlayerSettlement.pawnsPlural>
+
+        <!-- EN: civil settlers -->
+        <SettlerCivil.label>Colônia Civil</SettlerCivil.label>
+        <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are more than capable of defending themselves with basic gunpowder weaponry whilst they go about their every day routine of herding cattle, drinking chemshine and hunting down bounties.\n\nThey are concerned with the practical matters of trade, trust, and survival.\n\nThis particular group holds civil behavior in high regard. -->
+        <SettlerCivil.description>Essas pessoas viveram aqui por décadas ou séculos e perderam a maior parte da tecnologia que os trouxe a este mundo. Eles são mais do que capazes de se defender com armamento básico de pólvora enquanto realizam sua rotina diária de pastorear o gado, beber e caçar.\n\nEles se preocupam com as questões práticas de comércio, confiança e sobrevivência.\n\nEste grupo em particular tem o comportamento civil em alta consideração.</SettlerCivil.description>
+        <!-- EN: mayor -->
+        <SettlerCivil.leaderTitle>prefeito(a)</SettlerCivil.leaderTitle>
+        <!-- EN: settler -->
+        <SettlerCivil.pawnSingular>colonizador</SettlerCivil.pawnSingular>
+        <!-- EN: settlers -->
+        <SettlerCivil.pawnsPlural>colonizadores</SettlerCivil.pawnsPlural>
+
+        <!-- EN: rough settlers -->
+        <SettlerRough.label>Colônia Áspera</SettlerRough.label>
+        <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are more than capable of defending themselves with basic gunpowder weaponry whilst they go about their every day routine of herding cattle, drinking chemshine and hunting down bounties.\n\nThey are not concerned with the practical matters of trade and trust.\n\nThis particular group believes that none is created equal, and only strength allows one to survive on the frontier. -->
+        <SettlerRough.description>Essas pessoas viveram aqui por décadas ou séculos e perderam a maior parte da tecnologia que os trouxe a este mundo. Eles são mais do que capazes de se defender com armamento básico de pólvora enquanto realizam sua rotina diária de pastorear o gado, beber e caçar.\n\nEles não estão preocupados com as questões práticas de comércio e confiança.\n\nEste grupo em particular acredita que ninguém é criado igual e somente a força permite que alguém sobreviva.</SettlerRough.description>
+        <!-- EN: mayor -->
+        <SettlerRough.leaderTitle>prefeito(a)</SettlerRough.leaderTitle>
+        <!-- EN: settler -->
+        <SettlerRough.pawnSingular>colonizador</SettlerRough.pawnSingular>
+        <!-- EN: settlers -->
+        <SettlerRough.pawnsPlural>colonizadores</SettlerRough.pawnsPlural>
+
+        <!-- EN: bandits -->
+        <SettlerSavage.label>Gangue de Bandidos</SettlerSavage.label>
+        <!-- EN: These people have lived here for decades or centuries, and have lost most of the technology that brought them to this world. They are a loose confederation of bandit gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nBandits don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors. -->
+        <SettlerSavage.description>Essas pessoas viveram aqui por décadas ou séculos e perderam a maior parte da tecnologia que os trouxe a este mundo. Eles são uma confederação de gangues de bandidos que concordaram em lutar contra estranhos em vez de lutar entre si.\n\nBandidos não semeiam, não constroem e raramente comercializam. Impulsionados por uma cultura de sangue e honra que valoriza a força pessoal e a crueldade, eles se enriquecem atacando e roubando seus vizinhos mais produtivos.</SettlerSavage.description>
+        <!-- EN: mayor -->
+        <SettlerRough.leaderTitle>prefeito(a)</SettlerRough.leaderTitle>
+        <!-- EN: settler -->
+        <SettlerSavage.pawnSingular>bandido</SettlerSavage.pawnSingular>
+        <!-- EN: settlers -->
+        <SettlerSavage.pawnsPlural>bandidos</SettlerSavage.pawnsPlural>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: rough clan -->
+        <VFEV_VikingsClan.label>Clã Feroz</VFEV_VikingsClan.label>
+        <!-- EN: These clan men have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordic men are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordic men can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan values warlike dominance; it may be difficult to turn them into an ally. -->
+        <VFEV_VikingsClan.description>Esses membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em qualquer caso, os nórdicos são pessoas ferozes que vivem do trabalho de outros e não têm medo de usar a força para pegar o que não é deles.\n\nEmbora não sejam tão avançados tecnologicamente como outras facções, os nórdicos podem ser valiosos aliados e um inimigo terrível devido à sua resistência e modos selvagens.\n\nEste clã em particular valoriza o domínio guerreiro; pode ser difícil transformá-los em aliados.</VFEV_VikingsClan.description>
+        <!-- EN: jarl -->
+        <VFEV_VikingsClan.leaderTitle>nobre</VFEV_VikingsClan.leaderTitle>
+        <!-- EN: nordsman -->
+        <VFEV_VikingsClan.pawnSingular>nórdico</VFEV_VikingsClan.pawnSingular>
+        <!-- EN: nordspeople -->
+        <VFEV_VikingsClan.pawnsPlural>nórdicos</VFEV_VikingsClan.pawnsPlural>
+
+        <!-- EN: savage clan -->
+        <VFEV_VikingsSlaver.label>Clã Selvagem</VFEV_VikingsSlaver.label>
+        <!-- EN: These clan men have been here for a long time. Perhaps their ancestors crashed here a thousand years ago, as their legends suggest. In any case, the nordic men are fierce people who live off of the work of others, and they are not afraid to use force to take what's not theirs.\n\nAlbeit not as technologically advanced as other factions, the nordic men can be a valuable ally and a terrible enemy due to their hardiness and savage, heathen ways.\n\nThis particular clan wreaks havoc in surrounding settlements and takes any survivors into slavery - it will be very difficult to become their ally! -->
+        <VFEV_VikingsSlaver.description>Esses membros do clã estão aqui há muito tempo. Talvez seus ancestrais tenham caído aqui há mil anos, como sugerem suas lendas. Em qualquer caso, os nórdicos são pessoas ferozes que vivem do trabalho de outros e não têm medo de usar a força para pegar o que não é deles.\n\nEmbora não sejam tão avançados tecnologicamente como outras facções, os nórdicos podem ser valiosos aliados e um inimigo terrível devido à sua resistência e modos selvagens.\n\nEste clã em particular causa estragos nos assentamentos circundantes e leva todos os sobreviventes à escravidão - será muito difícil se tornar seu aliado!</VFEV_VikingsSlaver.description>
+        <!-- EN: jarl -->
+        <VFEV_VikingsSlaver.leaderTitle>nobre</VFEV_VikingsSlaver.leaderTitle>
+        <!-- EN: nordsman -->
+        <VFEV_VikingsSlaver.pawnSingular>nórdico</VFEV_VikingsSlaver.pawnSingular>
+        <!-- EN: nordspeople -->
+        <VFEV_VikingsSlaver.pawnsPlural>nórdicos</VFEV_VikingsSlaver.pawnsPlural>
+
+        <!-- EN: New Clan -->
+        <VFEV_PlayerClan.label>Novo Clã</VFEV_PlayerClan.label>
+        <!-- EN: A small clan. -->
+        <VFEV_PlayerClan.description>Um pequeno clã.</VFEV_PlayerClan.description>
+        <!-- EN: member -->
+        <VFEV_PlayerClan.pawnSingular>membro</VFEV_PlayerClan.pawnSingular>
+        <!-- EN: members -->
+        <VFEV_PlayerClan.pawnsPlural>membros</VFEV_PlayerClan.pawnsPlural>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: roaming monstrosities -->
+        <GR_RoamingMonstrosities.label>Monstruosidades Vagantes</GR_RoamingMonstrosities.label>
+        <!-- EN: The effect of hundreds of years of genetic experimentation running amok. Hordes of ravenous, maddened genetic aberrations are a threat to anyone in this planet. -->
+        <GR_RoamingMonstrosities.description>O efeito de centenas de anos de experimentação genética. Hordas de aberrações genéticas vorazes e enlouquecidas são uma ameaça para qualquer um neste planeta.</GR_RoamingMonstrosities.description>
+        <!-- EN: roaming monstrosities -->
+        <GR_RoamingMonstrosities.fixedName>Monstruosidades Vagantes</GR_RoamingMonstrosities.fixedName>
+        <!-- EN: roaming monstrosity -->
+        <GR_RoamingMonstrosities.pawnSingular>monstruosidade vagante</GR_RoamingMonstrosities.pawnSingular>
+        <!-- EN: roaming monstrosities -->
+        <GR_RoamingMonstrosities.pawnsPlural>monstruosidades vagantes</GR_RoamingMonstrosities.pawnsPlural>
+
+</LanguageData>

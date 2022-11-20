@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Events Expanded -->
+        <!-- EN: hail -->
+        <VEE_Hail.label>granizo</VEE_Hail.label>
+        <!-- EN: Hail reduces the accuracy of ranged weapons, extinguishes fire, and slows people down. -->
+        <VEE_Hail.description>Granizo reduz a precisão de armas de longo alcance, apaga o fogo, e retarda o movimento das pessoas.</VEE_Hail.description>
+
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- EN: radioactive fog -->
+        <VPE_RadioactiveFog.label>névoa radioativa</VPE_RadioactiveFog.label>
+        <!-- EN: A Nuclear reactor's meltdown has freed a cloud of radioactive material. This fog will hinder ranged attacks until it dissipates. -->
+        <VPE_RadioactiveFog.description>O derretimento de um reator nuclear liberou uma nuvem de material radioativo. Esta névoa impedirá ataques à distância até que se dissipe.</VPE_RadioactiveFog.description>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: outer space -->
+        <OuterSpaceWeather.label>espaço sideral</OuterSpaceWeather.label>
+        <!-- EN: It's... space. Try not to go outside. -->
+        <OuterSpaceWeather.description>É... o espaço.</OuterSpaceWeather.description>
+
+</LanguageData>

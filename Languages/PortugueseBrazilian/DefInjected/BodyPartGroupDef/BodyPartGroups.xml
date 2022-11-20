@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Australia -->
+        <!-- EN: rear left claws -->
+        <AEXP_RearLeftClaws.label>garra esquerda</AEXP_RearLeftClaws.label>
+        <!-- EN: claws -->
+        <AEXP_RearLeftClaws.labelShort>garra</AEXP_RearLeftClaws.labelShort>
+
+        <!-- EN: rear right claws -->
+        <AEXP_RearRightClaws.label>garra direita</AEXP_RearRightClaws.label>
+        <!-- EN: claws -->
+        <AEXP_RearRightClaws.labelShort>garra</AEXP_RearRightClaws.labelShort>
+
+        <!-- EN: rear left spur -->
+        <AEXP_RearLeftSpur.label>pata esquerda</AEXP_RearLeftSpur.label>
+        <!-- EN: spur -->
+        <AEXP_RearLeftSpur.labelShort>pata</AEXP_RearLeftSpur.labelShort>
+
+        <!-- EN: rear right spur -->
+        <AEXP_RearRightSpur.label>pata direita</AEXP_RearRightSpur.label>
+        <!-- EN: spur -->
+        <AEXP_RearRightSpur.labelShort>pata</AEXP_RearRightSpur.labelShort>
+    
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: stinging tail -->
+        <VAE_AttackTail.label>cauda pungente</VAE_AttackTail.label>
+
+        <!-- EN: claws -->
+        <VAE_Arms.label>garras</VAE_Arms.label>
+
+    <!-- Vanilla Animals Expanded - Ice Sheet -->
+        <!-- EN: fore-flippers -->
+        <AEXP_ForeFlipers.label>nadadeiras</AEXP_ForeFlipers.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: stinger -->
+        <VFEI_Sting.label>ferrão</VFEI_Sting.label>
+
+        <!-- EN: pincer -->
+        <VFEI_PincerAttackTool.label>pinça</VFEI_PincerAttackTool.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: fangs -->
+        <GR_FangsAttackTool.label>presas</GR_FangsAttackTool.label>
+
+</LanguageData>

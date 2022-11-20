@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Brewing Expanded -->
+        <!-- EN: caffeine -->
+        <VBE_Chemical_Caffeine.label>cafeína</VBE_Chemical_Caffeine.label>
+        <!-- EN: Because of a caffeine addiction, this person needs to regularly consume caffeine to avoid withdrawal symptoms. -->
+        <VBE_Chemical_Caffeine.description>Por ter desenvolvido uma dependência por cafeína, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</VBE_Chemical_Caffeine.description>
+
+        <!-- EN: tobacco -->
+        <VBE_Chemical_Tobacco.label>tabaco</VBE_Chemical_Tobacco.label>
+        <!-- EN: Because of a tobacco dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+        <VBE_Chemical_Tobacco.description>Por ter desenvolvido uma dependência por tabaco, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</VBE_Chemical_Tobacco.description>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: power -->
+        <VFE_Mechanoids_Power.label>energia</VFE_Mechanoids_Power.label>
+        <!-- EN: Power represents the state of a machine's internal battery. If it gets too low, the machine will stop performing tasks and return to its station to recharge. -->
+        <VFE_Mechanoids_Power.description>A energia representa o estado da bateria interna de um robô. Se ficar muito baixa, o robô interromperá a execução de tarefas e retornará à sua estação para recarregar.</VFE_Mechanoids_Power.description>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: opium -->
+        <VFEC_Chemical_Opium.label>ópio</VFEC_Chemical_Opium.label>
+        <!-- EN: Because of an opium addiction, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+        <VFEC_Chemical_Opium.description>Por ter desenvolvido uma dependência por ópio, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</VFEC_Chemical_Opium.description>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: royal jelly -->
+        <VFEI_Chemical_RoyalJelly.label>geleia real</VFEI_Chemical_RoyalJelly.label>
+        <!-- EN: Because of a royal jelly addiction, this person needs to regularly consume royal jelly to avoid withdrawal symptoms. -->
+        <VFEI_Chemical_RoyalJelly.description>Por ter desenvolvido uma dependência por geleia real, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</VFEI_Chemical_RoyalJelly.description>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: active mechanites -->
+        <GR_ElectroEgg.label>mecanitos ativos</GR_ElectroEgg.label>
+        <!-- EN: Because of an active mechanites addiction, this person needs to regularly consume mechanoid eggs, produced by mecha-chickens, to avoid withdrawal symptoms. -->
+        <GR_ElectroEgg.description>Por ter desenvolvido uma dependência por mecanitos ativos, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</GR_ElectroEgg.description>
+
+        <!-- EN: featherdust -->
+        <GR_Chemical_Featherdust.label>pópena</GR_Chemical_Featherdust.label>
+        <!-- EN: Because of a developed Featherdust dependence, this person needs to regularly consume the drug to avoid withdrawal symptoms. -->
+        <GR_Chemical_Featherdust.description>Por ter desenvolvido uma dependência por pópena, esta pessoa precisa consumir regularmente a droga para evitar os sintomas de abstinência.</GR_Chemical_Featherdust.description>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: anonymity -->
+        <VME_Anonymity.label>anonimato</VME_Anonymity.label>
+        <!-- EN: Anonymity reflects on how secretive a person finds their identity and personality to be. A pawn with this belief will feel happier when it’s high and unhappy when it’s nearing depletion. Anonymity slowly rises over time and any social interaction or exposed facial features will lower it. -->
+        <VME_Anonymity.description>O anonimato reflete o quão secretos uma pessoa acha que sua identidade e personalidade são. Um colono com esta crença se sentirá mais feliz quando estiver anônimo e infeliz quando estiver popular. O anonimato aumenta lentamente com o tempo, porém qualquer interação social o diminuirá.</VME_Anonymity.description>
+
+        <!-- EN: corruption -->
+        <VME_Corruption.label>corrupção</VME_Corruption.label>
+        <!-- EN: Corruption reflects a person's desire to give in to the dark, eldritch, and possibly even violent desires deeply embedded within them; a mildly corrupt pawn cannot lose ideological certainty. Corruption slowly fades daily, but can be paused by nearby obelisks and increased by incantation rituals. Upon reaching 100 corruption a pawn will immediately begin mentally breaking, and upon reaching 0 a pawn will easily be swayed to any other ideoligion -->
+        <VME_Corruption.description>A corrupção reflete o desejo de alguém a sucumbir ao sobrenatural. A corrupção diminui diariamente, mas pode ser pausada por obeliscos próximos e aumentada por rituais de encantamento. Ao alcançar 100% de corrupção, o colono colapsará mentalmente instantaneamente, e ao alcançar 0%, o colono será convertido facilmente a outra ideologia.</VME_Corruption.description>
+
+        <!-- EN: desserts -->
+        <VME_Desserts.label>sobremesas</VME_Desserts.label>
+        <!-- EN: Dessert need represents the desire to engorge yourself with lusciously sinful confectionery creations. -->
+        <VME_Desserts.description>A necessidade de sobremesa representa o desejo de se empanturrar com criações de confeitaria deliciosamente pecaminosas.</VME_Desserts.description>
+
+</LanguageData>

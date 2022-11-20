@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: Abandoned Mining Station -->
+        <AbandonedMiningStation.label>Estação de Mineração Abandonada</AbandonedMiningStation.label>
+
+        <!-- EN: Afterlife Vault -->
+        <AfterlifeVaultStart.label>Cripta Póstuma</AfterlifeVaultStart.label>
+
+        <!-- EN: Agricultural Station -->
+        <AgriculturalStation01.label>Estação Agrícola</AgriculturalStation01.label>
+
+        <!-- EN: Damaged Agricultural Station -->
+        <AgriculturalStation02.label>Estação Agrícola Danificada</AgriculturalStation02.label>
+
+        <!-- EN: Derelict Agricultural Station -->
+        <AgriculturalStationDestroyed.label>Estação Agrícola Abandonada</AgriculturalStationDestroyed.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <AntigrainTrapPod.label>Cápsula de Carga Pequena</AntigrainTrapPod.label>
+
+        <!-- EN: Archotech Garden Station -->
+        <ArchotechGardenStation.label>Estação Jardim Arquotécnica</ArchotechGardenStation.label>
+
+        <!-- EN: Fighter Squadron -->
+        <Arwing.label>Esquadrão de Caça</Arwing.label>
+
+        <!-- EN: Mixed Fighter Squadron -->
+        <ArwingWHeavyFighters.label>Esquadrão de Combate Misto</ArwingWHeavyFighters.label>
+                    
+        <!-- EN: Assault Beam Cruiser -->
+        <AssaultBeamCruiserMKI.label>Cruzador de Feixe de Assalto</AssaultBeamCruiserMKI.label>
+
+        <!-- EN: Asteroid Base -->
+        <AsteroidBaseStart01.label>Base de Asteroides</AsteroidBaseStart01.label>
+
+        <!-- EN: Asteroid Base -->
+        <AsteroidBaseStart02.label>Base de Asteroides</AsteroidBaseStart02.label>
+
+        <!-- EN: Mechanoid Asteroid Base(High Difficulty) -->
+        <AsteroidBaseStart03.label>Base de Asteroides Mecanoide</AsteroidBaseStart03.label>
+
+        <!-- EN: Derelict Shipyard (Easy Difficulty) -->
+        <AsteroidBaseStart04.label>Estaleiro Danificado</AsteroidBaseStart04.label>
+
+        <!-- EN: Lithobrake Starship (Extreme Difficulty) -->
+        <AsteroidBaseStart05.label>Impacto de Espaçonave Estelar</AsteroidBaseStart05.label>
+
+        <!-- EN: Asteroid Mining Operation (High Difficulty) -->
+        <AsteroidBaseStart06.label>Operação de Mineração de Asteroides</AsteroidBaseStart06.label>
+              
+        <!-- EN: Moon Base Wreckage (Extreme Difficulty) -->
+        <AsteroidBaseStart07.label>Destroços de Base Lunar</AsteroidBaseStart07.label>
+
+        <!-- EN: Moon Base (Moderate Difficulty) -->
+        <AsteroidBaseStart08.label>Base Lunar</AsteroidBaseStart08.label>
+
+        <!-- EN: Battlecruiser -->
+        <BattlecruiserMKII.label>Cruzador de Batalha</BattlecruiserMKII.label>
+
+        <!-- EN: Broadhead Destroyer -->
+        <Broadhead.label>Contratorpedeiro Amplo</Broadhead.label>
+        
+        <!-- EN: Charlon Whitestone -->
+        <CharlonWhitestone.label>Carlinhos Pedranca</CharlonWhitestone.label>
+
+        <!-- EN: Colony Ship -->
+        <ColonyShipEmpty.label>Espaçonave Colonial</ColonyShipEmpty.label>
+
+        <!-- EN: Colony Ship -->
+        <ColonyShipFull.label>Espaçonave Colonial</ColonyShipFull.label>
+
+        <!-- EN: Colossus Ultra Dreadnought -->
+        <Colossus.label>Ultra-Couraçado Colossal</Colossus.label>
+
+        <!-- EN: Light Corvette -->
+        <Corvette.label>Corveta Leve</Corvette.label>
+
+        <!-- EN: Dreadnought -->
+        <CrescentMoonDreadnought.label>Couraçado</CrescentMoonDreadnought.label>
+
+        <!-- EN: Defense Installation -->
+        <DefenseInstallation.label>Instalação de Defesa</DefenseInstallation.label>
+
+        <!-- EN: Planetary Defense Installation -->
+        <DefenseInstallation3Turrets.label>Instalação de Defesa Planetária</DefenseInstallation3Turrets.label>
+
+        <!-- EN: Planetary Defense Installation -->
+        <DefenseInstallation4Turrets.label>Instalação de Defesa Planetária</DefenseInstallation4Turrets.label>
+                  
+        <!-- EN: Planetary Defense Installation -->
+        <DefenseInstallation5Turrets.label>Instalação de Defesa Planetária</DefenseInstallation5Turrets.label>
+
+        <!-- EN: Planetary Defense Installation -->
+        <DefenseInstallation6Turrets.label>Instalação de Defesa Planetária</DefenseInstallation6Turrets.label>
+
+        <!-- EN: Large Trade Ship -->
+        <DeluxeTradeShip.label>Espaçonave Comercial Grande</DeluxeTradeShip.label>
+
+        <!-- EN: Derelict Destroyer -->
+        <DerelictDestroyer01.label>Contratorpedeiro Danificado</DerelictDestroyer01.label>
+
+        <!-- EN: Derelict Destroyer -->
+        <DerelictDestroyer02.label>Contratorpedeiro Danificado</DerelictDestroyer02.label>
+
+        <!-- EN: Derelict Destroyer -->
+        <DerelictDestroyerBugInfest.label>Contratorpedeiro Danificado</DerelictDestroyerBugInfest.label>
+        
+        <!-- EN: Destroyer -->
+        <DestroyerMKI.label>Contratorpedeiro</DestroyerMKI.label>
+
+        <!-- EN: Destroyer -->
+        <DestroyerMKII.label>Contratorpedeiro</DestroyerMKII.label>
+
+        <!-- EN: Destroyer -->
+        <DestroyerMKIII.label>Contratorpedeiro</DestroyerMKIII.label>
+
+        <!-- EN: Destroyer with a Corvette -->
+        <DestroyerMKIwCorvette1.label>Contratorpedeiro com uma Corveta</DestroyerMKIwCorvette1.label>
+                      
+        <!-- EN: Destroyer with two Corvettes -->
+        <DestroyerMKIwCorvette2.label>Contratorpedeiro com duas Corvetas</DestroyerMKIwCorvette2.label>
+
+        <!-- EN: Destroyer with a Corvette Fleet -->
+        <DestroyerMKIwCorvette3.label>Contratorpedeiro com uma Frota de Corvetas</DestroyerMKIwCorvette3.label>
+
+        <!-- EN: Missile Destroyer -->
+        <DestroyerMKIwMissiles.label>Contratorpedeiro Balístico</DestroyerMKIwMissiles.label>
+
+        <!-- EN: Dreadnought -->
+        <DreadnoughtMKI.label>Couraçado</DreadnoughtMKI.label>
+
+        <!-- EN: Imperial Pilum bomber -->
+        <EmpireBomber.label>Bombardeiro Arrojadiço Imperial</EmpireBomber.label>
+
+        <!-- EN: Imperial Scutum class corvette -->
+        <EmpireCorvette.label>Corveta Infante Imperial</EmpireCorvette.label>
+
+        <!-- EN: Imperial Augustus class cruiser -->
+        <EmpireCruiser.label>Cruzador Augusto Imperial</EmpireCruiser.label>
+
+        <!-- EN: Imperial Scipio class destroyer -->
+        <EmpireDestroyer.label>Contratorpedeiro Cipião Imperial</EmpireDestroyer.label>
+
+        <!-- EN: Pair of Imperial Scipio class destroyers -->
+        <EmpireDestroyer2.label>Par de Contratorpedeiros Cipiões Imperiais</EmpireDestroyer2.label>
+
+        <!-- EN: Imperial Gladius fighter -->
+        <EmpireFighter.label>Gládio Imperial</EmpireFighter.label>
+
+        <!-- EN: Imperial Longinus class frigate -->
+        <EmpireFrigate.label>Fragata Longino Imperial</EmpireFrigate.label>
+
+        <!-- EN: Imperial Longinus class frigate with escorts -->
+        <EmpireFrigateEscort.label>Fragata Longino Imperial com Escoltas</EmpireFrigateEscort.label>
+
+        <!-- EN: Imperial strike wing -->
+        <EmpireStrikeWing.label>Ala de Ataque Imperial</EmpireStrikeWing.label>
+
+        <!-- EN: Derelict Space Station -->
+        <EmptySpaceStation01.label>Estação Espacial Abandonada</EmptySpaceStation01.label>
+
+        <!-- EN: Exploration Vessel -->
+        <ExplorationVessel.label>Espaçonave de Exploração</ExplorationVessel.label>
+
+        <!-- EN: Fast Attack Corvette -->
+        <FastAttackCorvetteMKI.label>Corveta de Ataque Rápido</FastAttackCorvetteMKI.label>
+
+        <!-- EN: Fuel Depot -->
+        <FuelDepot02.label>Depósito de Combustível</FuelDepot02.label>
+
+        <!-- EN: Wrecked Fuel Depot -->
+        <FuelDepotWreckage.label>Depósito de Combustível Destruído</FuelDepotWreckage.label>
+
+        <!-- EN: Wrecked Fuel Depot -->
+        <FuelDepotWreckageBugs.label>Depósito de Combustível Destruído</FuelDepotWreckageBugs.label>
+
+        <!-- EN: Wrecked Fuel Depot -->
+        <FuelDepotWreckageMechs.label>Depósito de Combustível Destruído</FuelDepotWreckageMechs.label>
+
+        <!-- EN: Unladen Fuel Tanker -->
+        <FuelTankerUnladen.label>Petroleiro Descarregado</FuelTankerUnladen.label>
+
+        <!-- EN: Fuel Transport -->
+        <FuelTransport.label>Petroleiro</FuelTransport.label>
+
+        <!-- EN: Empty Fuel Transport -->
+        <FuelTransportEmpty.label>Petroleiro Vazio</FuelTransportEmpty.label>
+
+        <!-- EN: Fuel Transport -->
+        <FuelTransportLowResources.label>Petroleiro</FuelTransportLowResources.label>
+
+        <!-- EN: Glitterworld Planetkiller -->
+        <GlitterworldPlanetkiller.label>Aniquilador de Planetas</GlitterworldPlanetkiller.label>
+
+        <!-- EN: Heavy Battlecruiser -->
+        <HeavyBattlecruiserMKI.label>Cruzador de Batalha Pesado</HeavyBattlecruiserMKI.label>
+
+        <!-- EN: Heavy Battlecruiser -->
+        <HeavyBattlecruiserMKII.label>Cruzador de Batalha Pesado</HeavyBattlecruiserMKII.label>
+
+        <!-- EN: Heavy Fighter -->
+        <HeavyBomberMKI.label>Lutador Pesado</HeavyBomberMKI.label>
+
+        <!-- EN: Heavy Bomber -->
+        <HeavyBomberMKII.label>Bombardeiro Pesado</HeavyBomberMKII.label>
+
+        <!-- EN: Heavy Fighter -->
+        <HeavyFighterMKI.label>Heavy Fighter</HeavyFighterMKI.label>
+
+        <!-- EN: Heavy Fighter -->
+        <HeavyFighterMKII.label>Lutador Pesado</HeavyFighterMKII.label>
+
+        <!-- EN: Heavy Fighter -->
+        <HeavyFighterMKIII.label>Lutador Pesado</HeavyFighterMKIII.label>
+
+        <!-- EN: Heavy Frigate -->
+        <HeavyFrigateMKI.label>Fragata Pesada</HeavyFrigateMKI.label>
+
+        <!-- EN: Heavy Frigate -->
+        <HeavyFrigateMKII.label>Fragata Pesada</HeavyFrigateMKII.label>
+
+        <!-- EN: Interstellar Cargo Runner -->
+        <InterstellarCargoRunner.label>Cargueiro Interestelar</InterstellarCargoRunner.label>
+
+        <!-- EN: Pirate Trade Ship -->
+        <InterstellarTransport.label>Espaçonave Comercial Pirata</InterstellarTransport.label>
+
+        <!-- EN: Interstellar Trade Ship -->
+        <InterstellarTransportEmpty.label>Espaçonave Comercial Interestelar</InterstellarTransportEmpty.label>
+
+        <!-- EN: Interstellar Cargo Runner with Corvette Escort -->
+        <ISCargoRunnerWCorvette1.label>Cargueiro Interestelar com Escolta de Caça</ISCargoRunnerWCorvette1.label>
+
+        <!-- EN: Interstellar Cargo Runner with Fighter Escort -->
+        <ISCargoRunnerWCorvette2.label>Cargueiro Interestelar com Escolta de Caça</ISCargoRunnerWCorvette2.label>
+
+        <!-- EN: Interstellar Cargo Runner with Fighter Escort -->
+        <ISCargoRunnerWEscortFighter.label>Cargueiro Interestelar com Escolta de Caça</ISCargoRunnerWEscortFighter.label>
+
+        <!-- EN: Interstellar Cargo Runner with Fighter Escort -->
+        <ISCargoRunnerWEscortWing.label>Cargueiro Interestelar com Escolta de Caça</ISCargoRunnerWEscortWing.label>
+
+        <!-- EN: Interstellar Colony Ship -->
+        <ISCSColony.label>Espaçonave Colonial Interestelar</ISCSColony.label>
+
+        <!-- EN: Interstellar Cargo Ship -->
+        <ISCSContainer.label>Cargueiro Interestelar</ISCSContainer.label>
+
+        <!-- EN: Interstellar Fuel Tanker -->
+        <ISCSFuel.label>Petroleiro Interestelar</ISCSFuel.label>
+
+        <!-- EN: Interstellar Cargo Ship -->
+        <ISCSPirate.label>Cargueiro Interestelar</ISCSPirate.label>
+
+        <!-- EN: Juggernaut Battlecruiser -->
+        <JuggernautMKI.label>Cruzador de Batalha Colossal</JuggernautMKI.label>
+
+        <!-- EN: Large Assault Probe -->
+        <Large1EngSatellite1Turret.label>Sonda de Assalto Grande</Large1EngSatellite1Turret.label>
+
+        <!-- EN: Large Assault Probe -->
+        <Large1EngSatellite2Turrets.label>Sonda de Assalto Grande</Large1EngSatellite2Turrets.label>
+
+        <!-- EN: Large Assault Probe -->
+        <Large1EngSatellite3Turrets.label>Sonda de Assalto Grande</Large1EngSatellite3Turrets.label>
+
+        <!-- EN: Large Assault Probe -->
+        <Large2EngSatellite1Turret.label>Sonda de Assalto Grande</Large2EngSatellite1Turret.label>
+
+        <!-- EN: Large Assault Probe -->
+        <Large2EngSatellite2Turrets.label>Sonda de Assalto Grande</Large2EngSatellite2Turrets.label>
+        
+        <!-- EN: Large Assault Probe -->
+        <Large2EngSatellite3Turrets.label>Sonda de Assalto Grande</Large2EngSatellite3Turrets.label>
+
+        <!-- EN: Large Mech Sphere -->
+        <LargeMechSphere01.label>Esfera Mecânica Grande</LargeMechSphere01.label>
+
+        <!-- EN: Large Mech Sphere -->
+        <LargeMechSphere02.label>Esfera Mecânica Grande</LargeMechSphere02.label>
+
+        <!-- EN: Large Mech Sphere -->
+        <LargeMechSphere03.label>Esfera Mecânica Grande</LargeMechSphere03.label>
+
+        <!-- EN: Large Satellite -->
+        <LargeNoEngSatellite1Turret.label>Satélite Grande</LargeNoEngSatellite1Turret.label>
+
+        <!-- EN: Large Satellite -->
+        <LargeNoEngSatellite2Turret.label>Satélite Grande</LargeNoEngSatellite2Turret.label>
+
+        <!-- EN: Large Satellite -->
+        <LargeNoEngSatellite3Turret.label>Satélite Grande</LargeNoEngSatellite3Turret.label>
+
+        <!-- EN: Large Satellite -->
+        <LargeNoEngSatellite4Turret.label>Satélite Grande</LargeNoEngSatellite4Turret.label>
+
+        <!-- EN: Leviathan Flagship -->
+        <Leviathan.label>Leviatã Chefe</Leviathan.label>
+
+        <!-- EN: Leviathan Flagship -->
+        <LeviathanMKII.label>Leviatã Chefe</LeviathanMKII.label>
+
+        <!-- EN: Light Battlecruiser -->
+        <LightBattleCruiserMKI.label>Cruzador de Batalha Leve</LightBattleCruiserMKI.label>
+
+        <!-- EN: Cargo Runner -->
+        <LightCargoRunner.label>Espaçonave de Carga</LightCargoRunner.label>
+
+        <!-- EN: Cargo Runner with Fighter Escort -->
+        <LightCargoRunnerWEscort.label>Espaçonave de Carga com Escolta de Caça</LightCargoRunnerWEscort.label>
+
+        <!-- EN: Marine Landing Craft -->
+        <LightFrigateMarineLander.label>Espaçonave de Desembarque da Marinha</LightFrigateMarineLander.label>
+
+        <!-- EN: Light Frigate -->
+        <LightFrigateMissileBoat.label>Fragata Leve</LightFrigateMissileBoat.label>
+
+        <!-- EN: Light Frigate -->
+        <LightFrigateMKI.label>Fragata Leve</LightFrigateMKI.label>
+
+        <!-- EN: Light Frigate -->
+        <LightFrigateMKII.label>Fragata Leve</LightFrigateMKII.label>
+        
+        <!-- EN: Marine Boarding Vessel -->
+        <MarineBoardingDestroyer.label>Espaçonave da Marinha</MarineBoardingDestroyer.label>
+
+        <!-- EN: Marine Boarding Vessel -->
+        <MarineBoardingVessel.label>Espaçonave da Marinha</MarineBoardingVessel.label>
+
+        <!-- EN: Mechanoid Daywrecker -->
+        <MechanoidDaywrecker.label>Destruidor Mecanoide</MechanoidDaywrecker.label>
+
+        <!-- EN: Mechanoid Heavy Drone Squadron -->
+        <MechanoidHeavyDroneSquadron.label>Esquadrão de Drones Mecanoides Pesados</MechanoidHeavyDroneSquadron.label>
+
+        <!-- EN: Mechanoid Mega Ring -->
+        <MechanoidMegaRingShip.label>Mega Anel Mecanoide</MechanoidMegaRingShip.label>
+
+        <!-- EN: NOT A SHIP -->
+        <MechanoidMoonBase.label>Base Lunar Mecanoide</MechanoidMoonBase.label>
+
+        <!-- EN: Mechanoid System Defender -->
+        <MechanoidSystemDefender.label>Sistema de Defesa Mecanoide</MechanoidSystemDefender.label>
+
+        <!-- EN: Mechanoid Extermination Sphere -->
+        <MechExterminationSphere01.label>Esfera de Extermínio Mecanoide</MechExterminationSphere01.label>
+
+        <!-- EN: Mechanoid Hijacked Leviathan -->
+        <MechHijackedLeviathan.label>Leviatã Mecanoide</MechHijackedLeviathan.label>
+
+        <!-- EN: Mechanoid Mega Ring -->
+        <MechShipMegaRing.label>Mega Anel Mecanoide</MechShipMegaRing.label>
+
+        <!-- EN: Micro Scout -->
+        <MicroFighter.label>Micro-Batedor</MicroFighter.label>
+
+        <!-- EN: Micro Fighter -->
+        <MicroFighterMKI.label>Micro-Caça</MicroFighterMKI.label>
+
+        <!-- EN: Micro Fighter -->
+        <MicroFighterMKII.label>Micro-Caça</MicroFighterMKII.label>
+
+        <!-- EN: Heavy Fighter -->
+        <MicroFighterMKIII.label>Caça Pesada</MicroFighterMKIII.label>
+
+        <!-- EN: Fighter -->
+        <MicroFighterMKIV.label>Caça</MicroFighterMKIV.label>
+
+        <!-- EN: Micro Fighter Squadron -->
+        <MicroFightersx6.label>Esquadrão de Micro-Caças</MicroFightersx6.label>
+
+        <!-- EN: Small Mechanoid Sphere -->
+        <MiniMechSphere1Eng1Turret.label>Esfera Mecanoide Pequena</MiniMechSphere1Eng1Turret.label>
+
+        <!-- EN: Small Mechanoid Sphere -->
+        <MiniMechSphere1Eng2Turret.label>Esfera Mecanoide Pequena</MiniMechSphere1Eng2Turret.label>
+
+        <!-- EN: Small Mechanoid Sphere -->
+        <MiniMechSphere1Eng3Turret.label>Esfera Mecanoide Pequena</MiniMechSphere1Eng3Turret.label>
+
+        <!-- EN: Small Mechanoid Sphere -->
+        <MiniMechSphere2Eng3Turrets.label>Esfera Mecanoide Pequena</MiniMechSphere2Eng3Turrets.label>
+
+        <!-- EN: Small Mechanoid Sphere -->
+        <MiniMechSphere2Eng5Turrets.label>Esfera Mecanoide Pequena</MiniMechSphere2Eng5Turrets.label>
+
+        <!-- EN: Small Mechanoid Sphere -->
+        <MiniMechSphere2Eng7Turrets.label>Esfera Mecanoide Pequena</MiniMechSphere2Eng7Turrets.label>
+
+        <!-- EN: Mining Rig -->
+        <MiningRig.label>Plataforma de Mineração</MiningRig.label>
+
+        <!-- EN: Mining Rig -->
+        <MiningRigLowLoot.label>Plataforma de Mineração</MiningRigLowLoot.label>
+
+        <!-- EN: Unusually Hot Mining Rig -->
+        <MiningRigPirateSurprise.label>Plataforma de Mineração Aquecida</MiningRigPirateSurprise.label>
+
+        <!-- EN: Unladen Mining Rig -->
+        <MiningRigUnladen.label>Plataforma de Mineração Descarregada</MiningRigUnladen.label>
+
+        <!-- EN: Mysterious Archotech Sphere -->
+        <MysteriousArchotechSphere.label>Esfera Arquotécnica Misteriosa</MysteriousArchotechSphere.label>
+
+        <!-- EN: Planetary Invasion Flagship -->
+        <PlanetInvaderMKI.label>Chefe Planetário</PlanetInvaderMKI.label>
+
+        <!-- EN: Prison Station -->
+        <PrisonStation.label>Estação Prisional</PrisonStation.label>
+
+        <!-- EN: Prison Station -->
+        <PrisonStation01.label>Estação Prisional</PrisonStation01.label>
+
+        <!-- EN: Prison Station -->
+        <PrisonStation02.label>Estação Prisional</PrisonStation02.label>
+
+        <!-- EN: Psychic Amplifier -->
+        <PsychicAmplifier.label>Amplificador Psíquico</PsychicAmplifier.label>
+
+        <!-- EN: Psychic Mothership -->
+        <PsychicMothership.label>Espaçonave-Mãe Psíquica</PsychicMothership.label>
+
+        <!-- EN: Modular Cargo Hauler -->
+        <Salamander.label>Transportador de Carga Modular</Salamander.label>
+
+        <!-- EN: Destroyer -->
+        <Scorpion.label>Contratorpedeiro</Scorpion.label>
+
+        <!-- EN: Destroyer -->
+        <ScythianDestroyer.label>Contratorpedeiro</ScythianDestroyer.label>
+
+        <!-- EN: Industrial Ship Breaker -->
+        <ShipBreakerFullyArmed.label>Demolidor de Espaçonaves Industriais</ShipBreakerFullyArmed.label>
+
+        <!-- EN: Simple Scow -->
+        <SimpleScow.label>Veleiro Simples</SimpleScow.label>
+
+        <!-- EN: Modular Cargo Hauler -->
+        <Skink.label>Transportador de Carga Modular</Skink.label>
+
+        <!-- EN: Small Probe -->
+        <SmallSatellite1Eng1Turrets.label>Sonda Pequena</SmallSatellite1Eng1Turrets.label>
+
+        <!-- EN: Small Probe -->
+        <SmallSatellite1Eng2Turrets.label>Sonda Pequena</SmallSatellite1Eng2Turrets.label>
+
+        <!-- EN: Small Probe -->
+        <SmallSatellite1Eng3Turrets.label>Sonda Pequena</SmallSatellite1Eng3Turrets.label>
+
+        <!-- EN: Small Assault Probe -->
+        <SmallSatellite2Eng1Turret1.label>Sonda de Assalto Pequena</SmallSatellite2Eng1Turret1.label>
+
+        <!-- EN: Small Fast Attack Probe -->
+        <SmallSatellite2Eng1Turrets.label>Sonda de Ataque Rápido Pequena</SmallSatellite2Eng1Turrets.label>
+
+        <!-- EN: Small Fast Attack Probe -->
+        <SmallSatellite2Eng2Turrets.label>Sonda de Ataque Rápido Pequena</SmallSatellite2Eng2Turrets.label>
+
+        <!-- EN: Small Fast Attack Probe -->
+        <SmallSatellite2Eng3Turrets.label>Sonda de Ataque Rápido Pequena</SmallSatellite2Eng3Turrets.label>
+
+        <!-- EN: Satellite -->
+        <SmallSatelliteNoEng1Turret.label>Satélite</SmallSatelliteNoEng1Turret.label>
+
+        <!-- EN: Small Satellite -->
+        <SmallSatelliteNoEng1Turrets.label>Satélite Pequeno</SmallSatelliteNoEng1Turrets.label>
+
+        <!-- EN: Small Satellite -->
+        <SmallSatelliteNoEng2Turrets.label>Satélite Pequeno</SmallSatelliteNoEng2Turrets.label>
+
+        <!-- EN: Small Satellite -->
+        <SmallSatelliteNoEng3Turrets.label>Satélite Pequeno</SmallSatelliteNoEng3Turrets.label>
+
+        <!-- EN: Small Trade Ship -->
+        <SmallTradeShip.label>Espaçonave Comercial Pequena</SmallTradeShip.label>
+
+        <!-- EN: Derelict Shipyard -->
+        <SpaceStartDungeon.label>Estaleiro Danificado</SpaceStartDungeon.label>
+
+        <!-- EN: Cargo Runner (High Difficulty) -->
+        <StartShipA.label>Corredor de Carga</StartShipA.label>
+
+        <!-- EN: Damaged Frigate (High Difficulty) -->
+        <StartShipB.label>Fragata Danificada</StartShipB.label>
+
+        <!-- EN: Damaged Exploration Vessel (Moderate Difficulty) -->
+        <StartShipC.label>Espaçonave de Exploração Danificada</StartShipC.label>
+
+        <!-- EN: Damaged Cargo Vessel (Moderate Difficulty) -->
+        <StartShipD.label>Espaçonave de Carga Danificada</StartShipD.label>
+
+        <!-- EN: Experimental Warship (Easy Mode) -->
+        <StartShipE.label>Espaçonave de Guerra Experimental</StartShipE.label>
+
+        <!-- EN: Heavy Warship (Easy Mode) -->
+        <StartShipF.label>Espaçonave de Guerra Pesada</StartShipF.label>
+
+        <!-- EN: Experimental Stealth Vessel -->
+        <StartShipG.label>Espaçonave Furtiva Experimental</StartShipG.label>
+
+        <!-- EN: Civilian Garden Vessel (Mild Difficulty) -->
+        <StartShipH.label>Espaçonave Jardim Civil</StartShipH.label>
+
+        <!-- EN: Damaged Skylab (Extreme Difficulty) -->
+        <StartShipI.label>Laboratório Danificado</StartShipI.label>
+
+        <!-- EN: Fast Attack Destroyer (Low Difficulty) -->
+        <StartShipJ_EasyMode.label>Contratorpedeiro de Ataque Rápido</StartShipJ_EasyMode.label>
+
+        <!-- EN: Wrecked Fast Attack Destroyer (Very High Difficulty) -->
+        <StartShipJ.label>Contratorpedeiro de Ataque Rápido Destruído</StartShipJ.label>
+
+        <!-- EN: Colony Ship Start (Low Difficulty) -->
+        <StartShipK_EasyMode.label>Espaçonave Colonial</StartShipK_EasyMode.label>
+
+        <!-- EN: Wrecked Colony Ship (Extreme Difficulty) -->
+        <StartShipK_Infested.label>Espaçonave Colonial Destruída</StartShipK_Infested.label>
+
+        <!-- EN: Colony Ship Wreckage (High Difficulty) -->
+        <StartShipK.label>Destroços de Espaçonave Colonial</StartShipK.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPod01RandomLoot.label>Cápsula de Carga Pequena</SupplyPod01RandomLoot.label>
+
+        <!-- EN: Cargo Pod -->
+        <SupplyPodBugHive.label>Cápsula de Carga</SupplyPodBugHive.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodChemfuel.label>Cápsula de Carga Pequena</SupplyPodChemfuel.label>
+        
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodCrew.label>Cápsula de Carga Pequena</SupplyPodCrew.label>
+
+        <!-- EN: Cargo Pod -->
+        <SupplyPodCryptoCasket.label>Cápsula de Carga</SupplyPodCryptoCasket.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodEmpty.label>Cápsula de Carga Pequena</SupplyPodEmpty.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodHeavyMarine.label>Cápsula de Carga Pequena</SupplyPodHeavyMarine.label>
+
+        <!-- EN: Cargo Pod -->
+        <SupplyPodLottaMechs.label>Cápsula de Carga</SupplyPodLottaMechs.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodMarine01.label>Cápsula de Carga Pequena</SupplyPodMarine01.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodMarine02.label>Cápsula de Carga Pequena</SupplyPodMarine02.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodMarine03.label>Cápsula de Carga Pequena</SupplyPodMarine03.label>
+
+        <!-- EN: Cargo Pod -->
+        <SupplyPodMech.label>Cápsula de Carga</SupplyPodMech.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodRandom02.label>Cápsula de Carga Pequena</SupplyPodRandom02.label>
+
+        <!-- EN: Cargo Pod -->
+        <SupplyPodRandomMech.label>Cápsula de Carga</SupplyPodRandomMech.label>
+  
+        <!-- EN: Cargo Probe -->
+        <SupplyPodSpaceBug.label>Sonda de Carga</SupplyPodSpaceBug.label>
+
+        <!-- EN: Small Cargo Pod -->
+        <SupplyPodUraniumFuelpod.label>Cápsula de Carga Pequena</SupplyPodUraniumFuelpod.label>
+
+        <!-- EN: Torpedo Frigate -->
+        <TorpedoFrigate.label>Fragata Torpedo</TorpedoFrigate.label>
+
+        <!-- EN: Trade Ship -->
+        <TradeShipEmpty.label>Espaçonave Comercial</TradeShipEmpty.label>
+
+        <!-- EN: Trade Ship Fuel Tanker -->
+        <TradeShipFuelTanker.label>Petroleiro Comercial</TradeShipFuelTanker.label>
+
+        <!-- EN: Trade Ship -->
+        <TradeShipFull.label>Espaçonave Comercial</TradeShipFull.label>
+
+        <!-- EN: Trade Ship with Escort Corvette -->
+        <TradeShipWEscortCorvette1.label>Espaçonave Comercial com Escolta de Corveta</TradeShipWEscortCorvette1.label>
+
+        <!-- EN: Trade Ship with Corvette Fleet Escort -->
+        <TradeShipWEscortCorvette2.label>Espaçonave Comercial com Escolta de Frota de Corvetas</TradeShipWEscortCorvette2.label>
+
+        <!-- EN: Trade Ship with Corvette Fleet Escort -->
+        <TradeShipWEscortCorvette3.label>Espaçonave Comercial com Escolta de Frota de Corvetas</TradeShipWEscortCorvette3.label>
+
+        <!-- EN: Trade Ship with Corvette Fleet Escort -->
+        <TradeShipWEscortCorvette4.label>Espaçonave Comercial com Escolta de Frota de Corvetas</TradeShipWEscortCorvette4.label>
+
+        <!-- EN: Trade Ship with Destroyer Escort -->
+        <TradeShipWEscortDestroyer1.label>Espaçonave Comercial com Escolta de Contratorpedeiros</TradeShipWEscortDestroyer1.label>
+
+        <!-- EN: Trade Ship with Destroyer Fleet -->
+        <TradeShipWEscortDestroyer2.label>Espaçonave Comercial com Frota de Contratorpedeiros</TradeShipWEscortDestroyer2.label>
+
+        <!-- EN: Trade Ship with Destroyer Fleet Escort -->
+        <TradeShipWEscortDestroyer3.label>Espaçonave Comercial com Escolta de Frota de Contratorpedeiros</TradeShipWEscortDestroyer3.label>
+
+        <!-- EN: Trade Ship with Destroyer Fleet Escort -->
+        <TradeShipWEscortDestroyer4.label>Espaçonave Comercial com Escolta de Frota de Contratorpedeiros</TradeShipWEscortDestroyer4.label>
+
+        <!-- EN: Trade Ship with Fighter Escort -->
+        <TradeShipWEscortWing1.label>Espaçonave Comercial com Escolta de Caças</TradeShipWEscortWing1.label>
+
+        <!-- EN: Trade Ship with Fighter Escort -->
+        <TradeShipWEscortWing2.label>Espaçonave Comercial com Escolta de Caças</TradeShipWEscortWing2.label>
+
+        <!-- EN: Tribal Village -->
+        <TribalVillageIsNotAShip.label>Aldeia Tribal</TribalVillageIsNotAShip.label>
+
+        <!-- EN: Twin Spine Destroyer -->
+        <TwinSpineDestroyer.label>Contratorpedeiro de Coluna Dupla</TwinSpineDestroyer.label>
+
+        <!-- EN: Ultra Dreadnought -->
+        <UltraDreadnoughtMKI.label>Ultra-Couraçado</UltraDreadnoughtMKI.label>
+
+        <!-- EN: Ultra Dreadnought -->
+        <UltraDreadnoughtMKII.label>Ultra-Couraçado</UltraDreadnoughtMKII.label>
+
+        <!-- EN: Derelict Light Frigate -->
+        <WreckedFrigate01.label>Fragata Leve Danificada</WreckedFrigate01.label>
+
+        <!-- EN: Derelict Light Frigate -->
+        <WreckedFrigateBugs.label>Fragata Leve Danificada</WreckedFrigateBugs.label>
+
+        <!-- EN: Derelict Light Frigate -->
+        <WreckedFrigateMechs.label>Fragata Leve Danificada</WreckedFrigateMechs.label>
+
+</LanguageData>

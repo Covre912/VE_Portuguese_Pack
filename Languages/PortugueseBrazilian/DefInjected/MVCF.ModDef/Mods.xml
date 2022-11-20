@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: Vanilla Animals Expanded - Caves -->
+        <VAECaves_MVCF.label>Expansão de Animais: Cavernas</VAECaves_MVCF.label>
+        <!-- EN: Adding animal ranged attacks for Vanilla Animals Expanded - Caves creatures -->
+        <VAECaves_MVCF.description>Adicionando ataques à distância em criaturas cavernosas.</VAECaves_MVCF.description>
+
+    <!-- Vanilla Apparel Expanded - Accessories -->
+        <!-- EN: VAE - Accessories -->
+        <VAEA.label>Expansão de Acessórios</VAEA.label>
+        <!-- EN: Vanilla Apparel Expanded - Accessories -->
+        <VAEA.description>Adicionando acessórios.</VAEA.description>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: VFE Pirates -->
+        <VFEP.label>Expansão de Facções: Piratas</VFEP.label>
+        <!-- EN: VFE Pirates -->
+        <VFEP.description>Adicionando as facções de sucateadores e mercenários.</VFEP.description>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: Vanilla Genetic Rim Expanded -->
+        <GR_VanillaGeneticRimExpanded.label>Expansão de Genéticas</GR_VanillaGeneticRimExpanded.label>
+        <!-- EN: Adding animal ranged attacks for Vanilla Genetic Rim Expanded creatures -->
+        <GR_VanillaGeneticRimExpanded.description>Adicionando ataques à distância em criaturas geneticamente modificadas.</GR_VanillaGeneticRimExpanded.description>
+
+    <!-- Vanilla Ideology Expanded - Dryads -->
+        <!-- EN: Vanilla Dryads Expanded -->
+        <VDE_VanillaDryadsExpanded.label>Expansão de Dríades</VDE_VanillaDryadsExpanded.label>
+        <!-- EN: Adding animal ranged attacks for Vanilla Dryads Expanded creatures -->
+        <VDE_VanillaDryadsExpanded.description>Adicionando ataques à distância em dríades.</VDE_VanillaDryadsExpanded.description>
+
+</LanguageData>

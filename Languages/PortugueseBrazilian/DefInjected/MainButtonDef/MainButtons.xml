@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- EN: achievements -->
+        <Achievements.label>conquistas</Achievements.label>
+        <!-- EN: Unlock achievements, earn points, manage progress. -->
+        <Achievements.description>Desbloqueie conquistas, ganhe pontos e gerencie seu progresso.</Achievements.description>
+
+    <!-- Vanilla UI Expanded -->
+        <!-- EN: chat -->
+        <VUIE_Chat.label>conversas</VUIE_Chat.label>
+        <!-- EN: View all of the social interactions of your colonists and other beings. -->
+        <VUIE_Chat.description>Veja as interações sociais de seus colonos e outros seres.</VUIE_Chat.description>
+        <!-- EN: overlays -->
+        <VUIE_Overlays.label>sobreposições</VUIE_Overlays.label>
+        <!-- EN: View and toggle various overlays. -->
+        <VUIE_Overlays.description>Veja e altere diversas sobreposições.</VUIE_Overlays.description>
+
+</LanguageData>

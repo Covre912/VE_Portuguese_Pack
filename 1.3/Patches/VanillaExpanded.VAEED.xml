@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <success>Always</success>
+        <operations>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/ThingDef[defName = "WoolCamel"]/defName</xpath>
+                <value>
+                    <defName>AEXP_WoolCamel</defName>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/ThingDef[defName = "AEXP_Camel"]/comps/li/woolDef</xpath>
+                <value>
+                    <woolDef>AEXP_WoolCamel</woolDef>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

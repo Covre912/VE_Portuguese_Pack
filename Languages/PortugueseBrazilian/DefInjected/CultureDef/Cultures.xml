@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: roman -->
+        <VFEC_Roman.label>romana</VFEC_Roman.label>
+        <!-- EN: An ancient culture common among republics. -->
+        <VFEC_Roman.description>Uma cultura antiga comum entre as repúblicas.</VFEC_Roman.description>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: feudal -->
+        <VFEM_Feudal.label>feudal</VFEM_Feudal.label>
+        <!-- EN: A harsh feudal culture of medieval people. -->
+        <VFEM_Feudal.description>Uma rigorosa cultura feudal de povos medievais.</VFEM_Feudal.description>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: khanate -->
+        <VFEP_Khanate.label>canada</VFEP_Khanate.label>
+        <!-- EN: A broad category describing the styles and practices of many pirate groups. -->
+        <VFEP_Khanate.description>Uma ampla categoria que descreve os estilos e práticas de muitos grupos piratas.</VFEP_Khanate.description>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: frontier -->
+        <VFES_Frontier.label>fronteiriça</VFES_Frontier.label>
+        <!-- EN: A hardy industrial culture common among rimworld settlers. -->
+        <VFES_Frontier.description>Uma cultura industrial comum entre os colonizadores deste mundo.</VFES_Frontier.description>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: vikings -->
+        <Vikings.label>viquingue</Vikings.label>
+        <!-- EN: A harsh nordic culture common among the vikings. -->
+        <Vikings.description>Uma rígida cultura nórdica comum entre os viquingues.</Vikings.description>
+
+</LanguageData>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Apparel Expanded -->
+        <!-- EN: handwear and footwear -->
+        <VAE_BootsAndGloves.label>calçados</VAE_BootsAndGloves.label>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: books -->
+        <VBE_Books.label>livros</VBE_Books.label>
+
+    <!-- Vanilla Brewing Expanded -->
+        <!-- EN: drinks -->
+        <VBE_Drinks.label>bebidas</VBE_Drinks.label>
+
+        <!-- EN: simple spirits -->
+        <VBE_DrinksSimpleSpirits.label>destilados simples</VBE_DrinksSimpleSpirits.label>
+
+        <!-- EN: luxury spirits -->
+        <VBE_DrinksLuxurySpirits.label>destilados luxuosos</VBE_DrinksLuxurySpirits.label>
+
+        <!-- EN: non-alcoholic drinks -->
+        <VBE_DrinksNonAlcoholic.label>bebidas não alcoólicas</VBE_DrinksNonAlcoholic.label>
+
+        <!-- EN: musts and syrups -->
+        <VBE_Musts.label>mostos e xaropes</VBE_Musts.label>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: condiments -->
+        <VCE_Condiments.label>condimentos</VCE_Condiments.label>
+
+        <!-- EN: cheese -->
+        <VCE_Cheese.label>queijos</VCE_Cheese.label>
+    
+        <!-- EN: uncooked soups -->
+        <VCE_UncookedSoups.label>sopas cruas</VCE_UncookedSoups.label>
+
+    <!-- Vanilla Cooking Expanded - Stews -->
+        <!-- EN: uncooked stew -->
+        <VCE_UncookedStews.label>ensopados crus</VCE_UncookedStews.label>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: shields -->
+        <VFEC_Shields.label>escudos</VFEC_Shields.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: insect -->
+        <VFEI_BodyPartsInsect.label>insetoide</VFEI_BodyPartsInsect.label>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: crypto weapons -->
+        <WeaponsMeleeCrypto.label>cripto-armas</WeaponsMeleeCrypto.label>
+
+        <!-- EN: crypto weapons -->
+        <WeaponsRangedCrypto.label>cripto-armas</WeaponsRangedCrypto.label>
+
+    <!-- Vanilla Fishing Expanded -->   
+        <!-- EN: raw fish -->
+        <VCEF_RawFishCategory.label>peixes</VCEF_RawFishCategory.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: genetic materials -->
+        <GR_GeneticMaterial.label>materiais genéticos</GR_GeneticMaterial.label>
+
+        <!-- EN: genetic materials (tier 1) -->
+        <GR_GeneticMaterialTierOne.label>materiais genéticos (1ª liga)</GR_GeneticMaterialTierOne.label>
+
+        <!-- EN: genetic materials (tiers 2 and 3) -->
+        <GR_GeneticMaterialTierTwoOrThree.label>materiais genéticos (2ª e 3ª liga)</GR_GeneticMaterialTierTwoOrThree.label>
+
+        <!-- EN: genome excavators -->
+        <GR_GenomeExcavators.label>escavadores de genomas</GR_GenomeExcavators.label>
+
+        <!-- EN: growth cells -->
+        <GR_Incubators.label>células de crescimento</GR_Incubators.label>
+
+        <!-- EN: genoframes -->
+        <GR_Genoframes.label>genostrutas</GR_Genoframes.label>
+
+        <!-- EN: boosters -->
+        <GR_Boosters.label>impulsionadores</GR_Boosters.label>
+
+        <!-- EN: hybrid and paragon corpses -->
+        <GR_Corpses.label>cadáveres híbridos e prototípicos</GR_Corpses.label>
+
+        <!-- EN: humanoid hybrid corpses -->
+        <GR_HumanoidCorpses.label>cadáveres híbridos humanoides</GR_HumanoidCorpses.label>
+
+        <!-- EN: hybrid implants -->
+        <GR_ImplantCategory.label>implantes híbridos</GR_ImplantCategory.label>
+
+    <!-- Vanilla Plants Expanded -->
+        <!-- EN: raw fruits -->
+        <VCE_Fruit.label>frutas</VCE_Fruit.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: torpedoes -->
+        <SpaceTorpedoes.label>torpedos</SpaceTorpedoes.label>
+
+</LanguageData>

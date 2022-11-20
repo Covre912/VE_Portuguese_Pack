@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: enraged -->
+        <MentalStateEnraged.label>enfurecido</MentalStateEnraged.label>
+        <!-- EN:
+            <li>tale_noun->[PAWN_nameDef] becoming enraged</li>
+            <li>image->[PAWN_nameFull] went into rage [circumstance_group]</li>
+            <li>image->[PAWN_nameFull] becoming madly, violently insane [circumstance_group]</li>
+            <li>image->[PAWN_nameFull] stumbling forward with a psychotic look on [PAWN_possessive] face [circumstance_group]</li>
+            <li>circumstance_phrase->while attempting to disrobe</li>
+            <li>circumstance_phrase->after being brutally damaged</li>
+            <li>circumstance_phrase->as others cower in fear</li>
+            <li>circumstance_phrase->as a friend flees</li>
+            <li>circumstance_phrase->because of the stress</li>
+            <li>circumstance_phrase->as a last step</li>
+            <li>desc_sentence->[PAWN_pronoun] is shaking with ungovernable rage.</li>
+            <li>desc_sentence->[PAWN_possessive] teeth are bared in a deadly snarl.</li>
+            <li>desc_sentence->[PAWN_possessive] eyes are dead pools of madness.</li>
+            <li>desc_sentence->Spittle is flying from [PAWN_possessive] mouth as [PAWN_possessive] screams with insane rage.</li>
+            <li>desc_sentence->[PAWN_pronoun] has lost part of [PAWN_possessive] clothing.</li>
+            <li>desc_sentence->[PAWN_pronoun] is grimacing in misery.</li>
+            <li>desc_sentence->[PAWN_pronoun] seems smiling maniacally.</li>
+            <li>desc_sentence->[PAWN_pronoun] is depicted with the snarling face of a [Animal].</li>
+            <li>desc_sentence->[Animal]s symbolically surround [PAWN_possessive] head.</li>
+            <li>desc_sentence->[PAWN_pronoun] has a murderous glint in [PAWN_possessive] eye.</li>
+            <li>desc_sentence->[PAWN_possessive] entire body seems to be trembling with hatred.</li>
+            <li>desc_sentence->[PAWN_possessive] face is set in a look of twisted serenity.</li>
+            <li>desc_sentence->A single tear rolls down [PAWN_possessive] face.</li>
+        -->
+        <MentalStateEnraged.rulePack.rulesStrings>
+            <li>tale_noun->[PAWN_nameDef] enfurecendo-se</li>
+            <li>image->[PAWN_nameFull] enfurecendo-se [circumstance_group]</li>
+            <li>image->[PAWN_nameFull] tornando-se loucamente, violentamente insano(a) [circumstance_group]</li>
+            <li>imageD->e [PAWN_nameFull] enfurecendo-se [circumstance_group]</li>
+            <li>imageD->e [PAWN_nameFull] tornando-se loucamente, violentamente insano(a) [circumstance_group]</li>
+            <li>circumstance_phrase->após ser brutalmente ferido(a)</li>
+            <li>circumstance_phrase->enquanto outros se encolhem de medo</li>
+            <li>circumstance_phrase->enquanto outros fogem</li>
+            <li>circumstance_phrase->por causa de estresse</li>
+            <li>desc_sentence->[PAWN_pronoun] treme com uma raiva incontrolável.</li>
+            <li>desc_sentence->Seus dentes formam um rosnado mortal.</li>
+            <li>desc_sentence->Seus olhos são piscinas de loucura</li>
+            <li>desc_sentence->A saliva voa de sua boca enquanto [PAWN_pronoun] grita com uma raiva insana.</li>
+            <li>desc_sentence->[PAWN_pronoun] parece sorrir loucamente.</li>
+            <li>desc_sentence->[PAWN_pronoun] é retratado(a) com o rosto rosnando de um(a) [Animal].</li>
+            <li>desc_sentence->[Animal]s cercam simbolicamente sua cabeça.</li>
+            <li>desc_sentence->[PAWN_pronoun] possui um brilho assassino em seus olhos.</li>
+            <li>desc_sentence->Seu corpo inteiro treme de ódio.</li>
+            <li>desc_sentence->Seu rosto é definido em um olhar de serenidade torcida.</li>
+            <li>desc_sentence->Uma única lágrima percorre seu rosto.</li>
+        </MentalStateEnraged.rulePack.rulesStrings>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: used punching bag -->
+        <Tale_UsedPunchingBag.label>usou saco de pancadas</Tale_UsedPunchingBag.label>
+        <!-- EN: 
+            <li>tale_noun->[PAWN_nameDef] taking out his anger on a [OBJECT_label]</li>
+            <li>tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]</li>
+            <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+            <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+            <li>image->[PAWN_nameFull] punching the [OBJECT_label], [circumstance_group]</li>
+            <li>circumstance_phrase->tense with energy</li>
+            <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+            <li>circumstance_phrase->gently massaging [PAWN_possessive] wrists</li>
+            <li>circumstance_phrase->[angstyverb] with a [AdjectiveAngsty] expression</li>
+            <li>circumstance_phrase->wrapping their hands in tape</li>
+            <li>circumstance_phrase->[angstyverb]</li>
+            <li>desc_sentence->A [Color] aurora shines in the background.</li>
+            <li>desc_sentence->In the distance, a [Community] is visible.</li>
+            <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+            <li>desc_sentence->[PAWN_nameDef]'s features are exaggerated.</li>
+            <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+        -->
+        <Tale_UsedPunchingBag.rulePack.rulesStrings>
+            <li>tale_noun->[PAWN_nameDef] descontando sua raiva em um [OBJECT_label]</li>
+            <li>tale_noun->[PAWN_nameDef] olhando com raiva para um [OBJECT_label]</li>
+            <li>tale_noun->[PAWN_nameDef] divertindo-se com um [OBJECT_label]</li>
+            <li>image->[PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
+            <li>image->[PAWN_nameFull] socando o [OBJECT_label], [circumstance_group]</li>
+            <li>imageD->e [PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
+            <li>imageD->e [PAWN_nameFull] socando o [OBJECT_label], [circumstance_group]</li>
+            <li>circumstance_phrase->tenso(a) com energia</li>
+            <li>circumstance_phrase->com corpo solto e relaxado</li>
+            <li>circumstance_phrase->massageando suavemente os pulsos </li>
+            <li>circumstance_phrase->com uma expressão sedenta</li>
+            <li>circumstance_phrase->envolvendo as mãos em fita adesiva</li>
+            <li>desc_sentence->Uma aurora [Color] brilha no fundo.</li>
+            <li>desc_sentence->À distância, uma [Community] é visível.</li>
+            <li>desc_sentence->À distância, uma [TerrainFeature] é visível.</li>
+            <li>desc_sentence->As características de [PAWN_nameDef] são exageradas.</li>
+            <li>desc_sentence->[PAWN_nameDef] eleva-se acima da cena.</li>
+        </Tale_UsedPunchingBag.rulePack.rulesStrings>
+
+        <!-- EN: used computer -->
+        <Tale_UsedComputer.label>usou computador</Tale_UsedComputer.label>
+        <!-- EN: 
+            <li>tale_noun->[PAWN_nameDef] focusing heavily on the [OBJECT_label] in front of them</li>
+            <li>tale_noun->[PAWN_nameDef] looking angrily at a [OBJECT_label]</li>
+            <li>tale_noun->[PAWN_nameDef] enjoying [PAWN_objective]self at a [OBJECT_label]</li>
+            <li>image->[PAWN_nameFull] poised over the [OBJECT_label], [circumstance_group]</li>
+            <li>image->[PAWN_nameFull] typing heavily on the [OBJECT_label], [circumstance_group]</li>
+            <li>circumstance_phrase->concentrating</li>
+            <li>circumstance_phrase->[PAWN_possessive] body loose and relaxed</li>
+            <li>circumstance_phrase->leaning back in [PAWN_possessive] chair</li>
+            <li>desc_sentence->A [Color] aurora shines in the background.</li>
+            <li>desc_sentence->In the distance, a [Community] is visible.</li>
+            <li>desc_sentence->In the distance, a [TerrainFeature] is visible.</li>
+            <li>desc_sentence->[PAWN_nameDef] focused on the screen.</li>
+            <li>desc_sentence->[PAWN_nameDef] towers above the scene.</li>
+        -->
+        <Tale_UsedComputer.rulePack.rulesStrings>
+            <li>tale_noun->[PAWN_nameDef] focando fortemente no [OBJECT_label] em sua frente</li>
+            <li>tale_noun->[PAWN_nameDef] olhando com raiva para um [OBJECT_label]</li>
+            <li>tale_noun->[PAWN_nameDef] divertindo-se com um [OBJECT_label]</li>
+            <li>image->[PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
+            <li>image->[PAWN_nameFull] digitando pesadamente no [OBJECT_label], [circumstance_group]</li>
+            <li>imageD->e [PAWN_nameFull] equilibrado(a) sobre o [OBJECT_label], [circumstance_group]</li>
+            <li>imageD->e [PAWN_nameFull] digitando pesadamente no [OBJECT_label], [circumstance_group]</li>
+            <li>circumstance_phrase->concentrado(a)</li>
+            <li>circumstance_phrase->com corpo solto e relaxado</li>
+            <li>circumstance_phrase->recostado em sua cadeira</li>
+            <li>desc_sentence->Uma aurora [Color] brilha no fundo.</li>
+            <li>desc_sentence->À distância, um(a) [Community] é visível.</li>
+            <li>desc_sentence->À distância, um(a) [TerrainFeature] é visível.</li>
+            <li>desc_sentence->[PAWN_nameDef] focado(a) na tela.</li>
+            <li>desc_sentence->[PAWN_nameDef] eleva-se acima da cena.</li>
+        </Tale_UsedComputer.rulePack.rulesStrings>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- EN: bonded pet butchered -->
+        <VSIE_BondedPetButchered.label>assassinou meu animal de estimação</VSIE_BondedPetButchered.label>
+            
+        <!-- EN: exposed corpse of my friend -->
+        <VSIE_ExposedCorpseOfMyFriend.label>expôs cadáver do(a) meu(inha) amigo(a)</VSIE_ExposedCorpseOfMyFriend.label>
+
+        <!-- EN: ingested human flesh -->
+        <VSIE_IngestedHumanFlesh.label>ingeriu carne humana</VSIE_IngestedHumanFlesh.label>
+
+        <!-- EN: binged food -->
+        <VSIE_BingedFood.label>comeu excessivamente</VSIE_BingedFood.label>
+
+        <!-- EN: binged drug -->
+        <VSIE_BingedDrug.label>drogou-se excessivamente</VSIE_BingedDrug.label>
+
+        <!-- EN: was hiding in their room -->
+        <VSIE_HideInRoom.label>estava se escondendo em seu quarto</VSIE_HideInRoom.label>
+
+        <!-- EN: wandered in sadness -->
+        <VSIE_WanderedInSaddness.label>vagou em tristeza</VSIE_WanderedInSaddness.label>
+
+        <!-- EN: went into sadistic rage -->
+        <VSIE_WentIntoSadisticRage.label>entrou em uma fúria sádica</VSIE_WentIntoSadisticRage.label>
+
+        <!-- EN: threw a tantrum -->
+        <VSIE_ThrewTantrum.label>fez birra</VSIE_ThrewTantrum.label>
+
+        <!-- EN: went berserk -->
+        <VSIE_WentBerserk.label>entrou em fúria</VSIE_WentBerserk.label>
+
+        <!-- EN: went on a fire starting spree -->
+        <VSIE_WentOnFireStartingSpree.label>começou uma queimada</VSIE_WentOnFireStartingSpree.label>
+
+        <!-- EN: went on murderous rage -->
+        <VSIE_WentOnMurderousRage.label>entrou em uma fúria assassina</VSIE_WentOnMurderousRage.label>
+
+        <!-- EN: ran wild -->
+        <VSIE_RanWild.label>tornou-se selvagem</VSIE_RanWild.label>
+
+        <!-- EN: insulted me -->
+        <VSIE_InsultedMe.label>me insultou</VSIE_InsultedMe.label>
+
+        <!-- EN: slaughtered an animal in a rage -->
+        <VSIE_SlaughteredAnimalInRage.label>assassinou um animal em uma fúria</VSIE_SlaughteredAnimalInRage.label>
+
+        <!-- EN: rebuffed me -->
+        <VSIE_RebuffedMe.label>me rejeitou</VSIE_RebuffedMe.label>
+
+        <!-- EN: induced prisoner to escape -->
+        <VSIE_InducedPrisonerToEscape.label>induziu prisioneiros a escaparem</VSIE_InducedPrisonerToEscape.label>
+
+        <!-- EN: tamed a thrumbo  -->
+        <VSIE_TamedThrumbo.label>domesticou um thrumbo</VSIE_TamedThrumbo.label>
+
+        <!-- EN: was previously our enemy -->
+        <VSIE_WasPreviouslyOurEnemy.label>era nosso inimigo</VSIE_WasPreviouslyOurEnemy.label>
+
+        <!-- EN: was badly injured -->
+        <VSIE_WasBadlyInjured.label>estava gravemente ferido(a)</VSIE_WasBadlyInjured.label>
+
+        <!-- EN: didn't attend our wedding ceremony  -->
+        <VSIE_DidNotAttendWedding.label>não participou de nossa cerimônia de casamento</VSIE_DidNotAttendWedding.label>
+
+        <!-- EN: attended my wedding -->
+        <VSIE_AttendedMyWedding.label>participou de nosso casamento</VSIE_AttendedMyWedding.label>
+
+        <!-- EN: removed the prisoner's organs -->
+        <VSIE_RemovedPrisonersOrgans.label>removeu órgãos de um prisioneiro</VSIE_RemovedPrisonersOrgans.label>
+
+        <!-- EN: failed a medical operation and killed one of us -->
+        <VSIE_FailedMedicalOperationAndKilled.label>falhou em uma operação e matou um de nós</VSIE_FailedMedicalOperationAndKilled.label>
+
+        <!-- EN: tamed me -->
+        <VSIE_TamedMe.label>me domesticou</VSIE_TamedMe.label>
+
+        <!-- EN: arrested me -->
+        <VSIE_ArrestedMe.label>me prendeu</VSIE_ArrestedMe.label>
+
+        <!-- EN: resurrected me -->
+        <VSIE_ResurrectedMe.label>me ressuscitou</VSIE_ResurrectedMe.label>
+
+        <!-- EN: broke up with me -->
+        <VSIE_BrokeUpWithMe.label>terminou comigo</VSIE_BrokeUpWithMe.label>
+
+        <!-- EN: we had a nice chat -->
+        <VSIE_WeHadNiceChat.label>tivemos uma boa conversa</VSIE_WeHadNiceChat.label>
+
+        <!-- EN: we had a social fight -->
+        <VSIE_WeHadSocialFight.label>tivemos uma briga social</VSIE_WeHadSocialFight.label>
+
+        <!-- EN: saved me from my wounds -->
+        <VSIE_SavedMeFromMyWounds.label>me salvou de meus ferimentos</VSIE_SavedMeFromMyWounds.label>
+
+        <!-- EN: has been my friend since childhood -->
+        <VSIE_HasBeenMyFriendSinceChildhood.label>amigo(a) desde a infância</VSIE_HasBeenMyFriendSinceChildhood.label>
+
+        <!-- EN: saved me from the raiders -->
+        <VSIE_SavedMeFromRaiders.label>me salvou de invasores</VSIE_SavedMeFromRaiders.label>
+
+        <!-- EN: cured my friend -->
+        <VSIE_CuredMyFriend.label>curou meu(inha) amigo(a)</VSIE_CuredMyFriend.label>
+
+        <!-- EN: stole my lover -->
+        <VSIE_StoleMyLover.label>roubou meu(inha) amante</VSIE_StoleMyLover.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: space combat -->
+        <ShipCombat.label>combate espacial</ShipCombat.label>
+        <!-- EN:
+            <li>tale_noun->an attack on [PAWN_nameDef]'s [Community]</li>
+            <li>tale_noun->an assault on [PAWN_nameDef]'s [Community]</li>
+            <li>tale_noun->[PAWN_nameDef]'s [Community] being attacked by [Enemy]s</li>
+            <li>image->[Quantity_adjphrase] [Enemy]s [circumstance_phrase]</li>
+            <li>image->an army [circumstance_phrase]</li>
+            <li>image->an overwhelming force [circumstance_phrase]</li>
+            <li>image->an invading force [circumstance_phrase]</li>
+            <li>image->stylized [Color] banners [circumstance_phrase]</li>
+            <li>image->an enormous [Enemy] [circumstance_phrase]</li>
+            <li>circumstance_phrase->advancing over a [TerrainFeature]</li>
+            <li>circumstance_phrase->completely encircling a [Community]</li>
+            <li>circumstance_phrase->attacking [Quantity_adjphrase] [PersonJob]s</li>
+            <li>circumstance_phrase->roaring in victory</li>
+            <li>circumstance_phrase->brandishing [Weapon]s</li>
+            <li>circumstance_phrase->covered in [Gore]</li>
+            <li>desc_sentence->[PAWN_nameDef] organizes a resistance while [defender_circumstance].</li>
+            <li>desc_sentence->[PAWN_nameDef] wields a [Weapon] defensively while [defender_circumstance].</li>
+            <li>desc_sentence->[PAWN_nameDef] lies on the ground, wounded.</li>
+            <li>desc_sentence->[PAWN_nameDef] retaliates with [PAWN_possessive] [Weapon] while [defender_circumstance].</li>
+            <li>desc_sentence->[PAWN_nameDef] stands as tall as a building, [defender_circumstance].</li>
+            <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveBadass] expression.</li>
+            <li>desc_sentence->[PAWN_nameDef] wears a [AdjectiveAngsty] expression.</li>
+            <li>desc_sentence->The ground is coated in [Gore].</li>
+            <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s flee the area.</li>
+            <li>desc_sentence->[Quantity_adjphrase] [Animal]s flee the area.</li>
+            <li>defender_circumstance->shouting triumphantly</li>
+            <li>defender_circumstance->glowing [Color]</li>
+            <li>defender_circumstance->raising a fist in defiance</li>
+            <li>defender_circumstance->flexing [PAWN_possessive] muscles</li>
+        -->
+        <ShipCombat.rulePack.rulesStrings>
+            <li>tale_noun->um ataque no(a) [Community] de [PAWN_nameDef]</li>
+            <li>tale_noun->uma invasão no(a) [Community] de [PAWN_nameDef]</li>
+            <li>tale_noun->o(a) [Community] de [PAWN_nameDef] sendo atacado(a) por [Enemy]s</li>
+            <li>image->[Quantity_adjphrase] [Enemy]s [circumstance_phrase]</li>
+            <li>image->um exército [circumstance_phrase]</li>
+            <li>image->uma força avassaladora [circumstance_phrase]</li>
+            <li>image->uma força invasava [circumstance_phrase]</li>
+            <li>image->um(a) grande [Enemy] [circumstance_phrase]</li>
+            <li>imageD->e [Quantity_adjphrase] [Enemy]s [circumstance_phrase]</li>
+            <li>imageD->e um exército [circumstance_phrase]</li>
+            <li>imageD->e uma força avassaladora [circumstance_phrase]</li>
+            <li>imageD->e uma força invasava [circumstance_phrase]</li>
+            <li>imageD->e (a) grande [Enemy] [circumstance_phrase]</li>
+            <li>circumstance_phrase->avançando sobre um(a) [TerrainFeature]</li>
+            <li>circumstance_phrase->envolvendo completamente um(a) [Community]</li>
+            <li>circumstance_phrase->atacando [Quantity_adjphrase] [PersonJob]s</li>
+            <li>circumstance_phrase->rugindo em vitória</li>
+            <li>circumstance_phrase->brandindo [Weapon]s</li>
+            <li>desc_sentence->[PAWN_nameDef] organiza uma resistência enquanto [defender_circumstance].</li>
+            <li>desc_sentence->[PAWN_nameDef] empunha um(a) [Weapon] defensivamente enquanto [defender_circumstance].</li>
+            <li>desc_sentence->[PAWN_nameDef] jaz no chão, ferido(a).</li>
+            <li>desc_sentence->[PAWN_nameDef] retalia com [Weapon] enquanto [defender_circumstance].</li>
+            <li>desc_sentence->[PAWN_nameDef] com uma expressão [AdjectiveBadass].</li>
+            <li>desc_sentence->[PAWN_nameDef] com uma expressão [AdjectiveAngsty].</li>
+            <li>desc_sentence->O chão está coberto de [Gore].</li>
+            <li>desc_sentence->[Quantity_adjphrase] [PersonJob]s fogem da área.</li>
+            <li>desc_sentence->[Quantity_adjphrase] [Animal]s fogem da área.</li>
+            <li>defender_circumstance->gritando triunfante</li>
+            <li>defender_circumstance->levantando um punho em desafio</li>
+            <li>defender_circumstance->flexionando seus músculos</li>
+        </ShipCombat.rulePack.rulesStrings>
+
+</LanguageData>

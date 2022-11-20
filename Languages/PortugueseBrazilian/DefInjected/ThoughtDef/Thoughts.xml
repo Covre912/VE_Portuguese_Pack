@@ -1,0 +1,2178 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: we have them all! -->
+        <VAE_SalamanderThought.stages.0.label>coleção de salamandras-cegas</VAE_SalamanderThought.stages.0.label>
+        <!-- EN: We have collected all the natural Blind Salamander colours. They are so cool! -->
+        <VAE_SalamanderThought.stages.0.description>Nós coletamos todas as cores naturais de salamandras-cegas. Elas são tão legais!</VAE_SalamanderThought.stages.0.description>
+
+        <!-- EN: we have them all! -->
+        <VAE_SalamanderThoughtBonded.stages.0.label>coleção de salamandras-cegas</VAE_SalamanderThoughtBonded.stages.0.label>
+        <!-- EN: We have collected all the natural Blind Salamander colours. They are so cool! -->
+        <VAE_SalamanderThoughtBonded.stages.0.description>Nós coletamos todas as cores naturais de salamandras-cegas. Elas são tão legais!</VAE_SalamanderThoughtBonded.stages.0.description>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: decent library room -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.3.label>livraria decente</VBE_JoyActivityInImpressiveLibraryRoom.stages.3.label>
+        <!-- EN: I had fun in a decent library room. -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.3.description>Eu me diverti em uma livraria decente.</VBE_JoyActivityInImpressiveLibraryRoom.stages.3.description>
+        <!-- EN: slightly impressive library room -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>livraria ligeiramente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.4.label>
+        <!-- EN: I had fun in a nice library room. -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.4.description>Eu me diverti em uma boa livraria.</VBE_JoyActivityInImpressiveLibraryRoom.stages.4.description>
+        <!-- EN: somewhat impressive library room -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.5.label>livraria um pouco impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.5.label>
+        <!-- EN: I had a great time in an impressive library room. -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.5.description>Eu me diverti muito em uma livraria impressionante.</VBE_JoyActivityInImpressiveLibraryRoom.stages.5.description>
+        <!-- EN: very impressive library room -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.6.label>livraria muito impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.6.label>
+        <!-- EN: I had a great time in a very impressive library room. -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.6.description>Eu me diverti muito em uma livraria muito impressionante.</VBE_JoyActivityInImpressiveLibraryRoom.stages.6.description>
+        <!-- EN: extremely impressive library room -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.7.label>livraria extremamente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.7.label>
+        <!-- EN: I had a great time in an extremely impressive library room. I could stay there forever. -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.7.description>Eu me diverti muito em uma livraria extremamente impressionante. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.7.description>
+        <!-- EN: unbelievably impressive library room -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.8.label>livraria incrivelmente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.8.label>
+        <!-- EN: I had a great time in an unbelievably impressive library room. I could stay there forever. -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.8.description>Eu me diverti muito em uma livraria impossivelmente impressionante. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.8.description>
+        <!-- EN: wondrously impressive library room -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>livraria maravilhosamente impressionante</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.label>
+        <!-- EN: I had a great time in a wonderful library room. I could stay there forever. -->
+        <VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>Eu me diverti muito em uma livraria maravilhosa. Eu poderia ficar lá para sempre.</VBE_JoyActivityInImpressiveLibraryRoom.stages.9.description>
+
+    <!-- Vanilla Brewing Expanded -->
+        <!-- EN: Brewed awakening -->
+        <VBE_HotCoffeeHigh.stages.0.label>despertar cafeinado</VBE_HotCoffeeHigh.stages.0.label>
+        <!-- EN: That coffee hit the spot, now let’s get some work done. -->
+        <VBE_HotCoffeeHigh.stages.0.description>Aquele café atingiu o ponto, agora vamos trabalhar um pouco.</VBE_HotCoffeeHigh.stages.0.description>
+
+        <!-- EN: Icy awakening -->
+        <VBE_IcedCoffeeHigh.stages.0.label>despertar crio-cafeinado</VBE_IcedCoffeeHigh.stages.0.label>
+        <!-- EN: Nothing better than iced coffee to refresh yourself. -->
+        <VBE_IcedCoffeeHigh.stages.0.description>Nada melhor do que café gelado para refrescar-se.</VBE_IcedCoffeeHigh.stages.0.description>
+
+        <!-- EN: caffeine withdrawal -->
+        <VBE_CaffeineWithdrawal.stages.1.label>abstinência cafeínica</VBE_CaffeineWithdrawal.stages.1.label>
+        <!-- EN: God I'm tired. Everything's so annoying, my hands are shaking and my head is pounding. -->
+        <VBE_CaffeineWithdrawal.stages.1.description>Deus, estou cansado(a). Tudo é tão irritante, minhas mãos estão tremendo e minha cabeça está latejando.</VBE_CaffeineWithdrawal.stages.1.description>
+
+        <!-- EN: I feel like I’ve been given wings! -->
+        <VBE_EnergyDrinkHigh.stages.0.label>frenesi</VBE_EnergyDrinkHigh.stages.0.label>
+        <!-- EN: Oof, that energy drink has me bouncing off the walls! -->
+        <VBE_EnergyDrinkHigh.stages.0.description>Ufa, aquele energético me fez ricochetear nas paredes!</VBE_EnergyDrinkHigh.stages.0.description>
+
+        <!-- EN: smooth and mild -->
+        <VBE_TobaccoHigh.stages.0.label>suave</VBE_TobaccoHigh.stages.0.label>
+        <!-- EN: That cigarette was just what I needed, such a smooth flavor. -->
+        <VBE_TobaccoHigh.stages.0.description>Esse cigarro era exatamente o que eu precisava, um sabor tão suave.</VBE_TobaccoHigh.stages.0.description>
+
+        <!-- EN: puffing on luxury -->
+        <VBE_DeluxeTobaccoHigh.stages.0.label>bufando no luxo</VBE_DeluxeTobaccoHigh.stages.0.label>
+        <!-- EN: A cigar makes me feel like I’ve made it big in life. -->
+        <VBE_DeluxeTobaccoHigh.stages.0.description>Um charuto me faz sentir como se tivesse ganhado na vida.</VBE_DeluxeTobaccoHigh.stages.0.description>
+
+        <!-- EN: tobacco withdrawal -->
+        <VBE_TobaccoWithdrawal.stages.1.label>abstinência tabaca</VBE_TobaccoWithdrawal.stages.1.label>
+        <!-- EN: I really wish I could smoke. I'd kill for a cigarette. -->
+        <VBE_TobaccoWithdrawal.stages.1.description>Eu realmente gostaria de fumar. Eu mataria alguém por um cigarro.</VBE_TobaccoWithdrawal.stages.1.description>
+
+        <!-- EN: Sugar rushed -->
+        <VBE_DrankSoda.stages.0.label>açucarado</VBE_DrankSoda.stages.0.label>
+        <!-- EN: I drank a sweet, fizzy soda, a small but welcomed luxury. -->
+        <VBE_DrankSoda.stages.0.description>Bebi um refrigerante doce e gasoso, um luxo pequeno, mas bem-vindo.</VBE_DrankSoda.stages.0.description>
+
+        <!-- EN: Fancied a cuppa -->
+        <VBE_DrankTea.stages.0.label>tasse de thé</VBE_DrankTea.stages.0.label>
+        <!-- EN: A delightfully simple cup of tea really brightens the day. -->
+        <VBE_DrankTea.stages.0.description>Uma xícara de chá deliciosamente simples realmente ilumina o dia.</VBE_DrankTea.stages.0.description>
+
+        <!-- EN: Drank tequila-based cocktail -->
+        <VBE_TequilaAsIngredient.stages.0.label>bebeu coquetel com tequila</VBE_TequilaAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_TequilaAsIngredient.stages.0.description>Delicioso.</VBE_TequilaAsIngredient.stages.0.description>
+
+        <!-- EN: Drank whiskey-based cocktail -->
+        <VBE_WhiskeyAsIngredient.stages.0.label>bebeu coquetel com uísque</VBE_WhiskeyAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_WhiskeyAsIngredient.stages.0.description>Delicioso.</VBE_WhiskeyAsIngredient.stages.0.description>
+
+        <!-- EN: Drank vodka-based cocktail -->
+        <VBE_VodkaAsIngredient.stages.0.label>bebeu coquetel com vodca</VBE_VodkaAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_VodkaAsIngredient.stages.0.description>Delicioso.</VBE_VodkaAsIngredient.stages.0.description>
+
+        <!-- EN: Drank gin-based cocktail -->
+        <VBE_GinAsIngredient.stages.0.label>bebeu coquetel com gim</VBE_GinAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_GinAsIngredient.stages.0.description>Delicioso.</VBE_GinAsIngredient.stages.0.description>
+
+        <!-- EN: Drank ambrandy-based cocktail -->
+        <VBE_AmbrandyAsIngredient.stages.0.label>bebeu coquetel com ambrandia</VBE_AmbrandyAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_AmbrandyAsIngredient.stages.0.description>Delicioso.</VBE_AmbrandyAsIngredient.stages.0.description>
+
+        <!-- EN: Drank mead-based cocktail -->
+        <VBE_RBMeadAsIngredient.stages.0.label>bebeu coquetel com hidromel</VBE_RBMeadAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_RBMeadAsIngredient.stages.0.description>Delicioso.</VBE_RBMeadAsIngredient.stages.0.description>
+
+        <!-- EN: Drank wine-based cocktail -->
+        <VBE_WineAsIngredient.stages.0.label>bebeu coquetel com vinho</VBE_WineAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_WineAsIngredient.stages.0.description>Delicioso.</VBE_WineAsIngredient.stages.0.description>
+
+        <!-- EN: Consumed luciferium powder  -->
+        <VBE_ConsumedLuciferiumPowder.stages.0.label>consumiu pó de lucifério</VBE_ConsumedLuciferiumPowder.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_ConsumedLuciferiumPowder.stages.0.description>Delicioso.</VBE_ConsumedLuciferiumPowder.stages.0.description>
+
+        <!-- EN: Consumed go-juice stock -->
+        <VBE_ConsumedGoStock.stages.0.label>consumiu gelatina de suco-turbo</VBE_ConsumedGoStock.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_ConsumedGoStock.stages.0.description>Delicioso.</VBE_ConsumedGoStock.stages.0.description>
+
+        <!-- EN: Consumed wake-up powder -->
+        <VBE_ConsumedWakeupPowder.stages.0.label>consumiu pó de despertar</VBE_ConsumedWakeupPowder.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_ConsumedWakeupPowder.stages.0.description>Delicioso.</VBE_ConsumedWakeupPowder.stages.0.description>
+
+        <!-- EN: Drank cider-based cocktail -->
+        <VBE_CiderAsIngredient.stages.0.label>bebeu coquetel com sidra</VBE_CiderAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_CiderAsIngredient.stages.0.description>>Delicioso.</VBE_CiderAsIngredient.stages.0.description>
+
+        <!-- EN: Drank chemshine-based cocktail -->
+        <VBE_ChemshineAsIngredient.stages.0.label>bebeu coquetel com jägermeister</VBE_ChemshineAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VBE_ChemshineAsIngredient.stages.0.description>Delicioso.</VBE_ChemshineAsIngredient.stages.0.description>
+
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->    
+        <!-- EN: An inspiring Cup -->
+        <VBE_DrankBlackTea.stages.0.label>chá inspirador</VBE_DrankBlackTea.stages.0.label>
+        <!-- EN: A delightfully intense cup of black tea really brightens the day. -->
+        <VBE_DrankBlackTea.stages.0.description>Uma xícara de chá preto deliciosamente intensa ilumina o dia.</VBE_DrankBlackTea.stages.0.description>
+
+        <!-- EN: Live Now, Sleep Later -->
+        <VBE_IrishCoffeeHigh.stages.0.label>café motivador</VBE_IrishCoffeeHigh.stages.0.label>
+        <!-- EN: That coffee hit the spot, now let’s get some work done. -->
+        <VBE_IrishCoffeeHigh.stages.0.description>Aquele café atingiu o ponto, agora vamos trabalhar um pouco.</VBE_IrishCoffeeHigh.stages.0.description>
+
+        <!-- EN: A Healthy sip! -->
+        <VBE_DrankKombuchaTea.stages.0.label>chá saudável</VBE_DrankKombuchaTea.stages.0.label>
+        <!-- EN: A tasty cup of kombucha tea a day keeps the doctor away. -->
+        <VBE_DrankKombuchaTea.stages.0.description>Uma saborosa xícara de kombuchá por dia mantém a medicina distante.</VBE_DrankKombuchaTea.stages.0.description>
+
+        <!-- EN: Tall, Dark and Refined -->
+        <VBE_LatteCoffeeHigh.stages.0.label>café refinado</VBE_LatteCoffeeHigh.stages.0.label>
+        <!-- EN: That latte coffee hit the spot, now let’s get some work done. -->
+        <VBE_LatteCoffeeHigh.stages.0.description>Aquele café com leite atingiu o ponto, agora vamos trabalhar um pouco.</VBE_LatteCoffeeHigh.stages.0.description>
+
+        <!-- EN: A very original taste -->
+        <VBE_YuenYeungHigh.stages.0.label>café com chá original</VBE_YuenYeungHigh.stages.0.label>
+        <!-- EN: Like coffee... also, like tea. -->
+        <VBE_YuenYeungHigh.stages.0.description>É tipo café... e também tipo chá.</VBE_YuenYeungHigh.stages.0.description>
+
+        <!-- EN: Sugary awakening -->
+        <VBE_DalgonaCoffeeHigh.stages.0.label>café açucarado</VBE_DalgonaCoffeeHigh.stages.0.label>
+        <!-- EN: That dalgona coffee hit the spot, now let’s get some work done. -->
+        <VBE_DalgonaCoffeeHigh.stages.0.description>Aquele café dalgona atingiu o ponto, agora vamos trabalhar um pouco.</VBE_DalgonaCoffeeHigh.stages.0.description>
+
+        <!-- EN: Fancied a zesty cuppa -->
+        <VBE_DrankMasalaChai.stages.0.label>chá picante</VBE_DrankMasalaChai.stages.0.label>
+        <!-- EN: A delightfully complex cup of spicy masala chai really brightens the day. -->
+        <VBE_DrankMasalaChai.stages.0.description>Uma xícara deliciosamente complexa de chá de especiarias picante realmente ilumina o dia.</VBE_DrankMasalaChai.stages.0.description>
+
+        <!-- EN: Fresh awakening -->
+        <VBE_MintCoffeeHigh.stages.0.label>café fresco</VBE_MintCoffeeHigh.stages.0.label>
+        <!-- EN: That mint coffee hit the spot, now let’s get some work done. -->
+        <VBE_MintCoffeeHigh.stages.0.description>Aquele café com hortelã atingiu o ponto, agora vamos trabalhar um pouco.</VBE_MintCoffeeHigh.stages.0.description>
+
+        <!-- EN: Refreshing tea -->
+        <VBE_DrankMintTea.stages.0.label>chá refrescante</VBE_DrankMintTea.stages.0.label>
+        <!-- EN: A delightfully fresh cup of mint tea really brightens the day. -->
+        <VBE_DrankMintTea.stages.0.description>Uma xícara de chá de hortelã deliciosamente fresca realmente ilumina o dia.</VBE_DrankMintTea.stages.0.description>
+
+        <!-- EN: Fancied a salty cuppa -->
+        <VBE_DrankNoonChai.stages.0.label>chá salgado</VBE_DrankNoonChai.stages.0.label>
+        <!-- EN: A delightful cup of noon chai really brightens the day. -->
+        <VBE_DrankNoonChai.stages.0.description>Uma xícara deliciosa de noon chai realmente ilumina o dia.</VBE_DrankNoonChai.stages.0.description>
+
+        <!-- EN: consumed mint -->
+        <VCE_ConsumedMintLeaves.stages.0.label>consumiu hortelã</VCE_ConsumedMintLeaves.stages.0.label>
+        <!-- EN: Fresh breath! -->
+        <VCE_ConsumedMintLeaves.stages.0.description>Hálito fresco!</VCE_ConsumedMintLeaves.stages.0.description>
+
+        <!-- EN: Tea. Earl Grey. Hot -->
+        <VBE_DrankEarlGreyTea.stages.0.label>chá quente</VBE_DrankEarlGreyTea.stages.0.label>
+        <!-- EN: Make it so. -->
+        <VBE_DrankEarlGreyTea.stages.0.description>Sim.</VBE_DrankEarlGreyTea.stages.0.description>
+
+        <!-- EN: Lemony awakening -->
+        <VBE_LemonCoffeeHigh.stages.0.label>café cítrico</VBE_LemonCoffeeHigh.stages.0.label>
+        <!-- EN: That lemon coffee hit the spot, now let’s get some work done. -->
+        <VBE_LemonCoffeeHigh.stages.0.description>Aquele café com limão atingiu o ponto, agora vamos trabalhar.</VBE_LemonCoffeeHigh.stages.0.description>
+
+        <!-- EN: A Healthy cup! -->
+        <VBE_DrankLemonTea.stages.0.label>chá saudável</VBE_DrankLemonTea.stages.0.label>
+        <!-- EN: A tasty cup of lemon tea a day keeps the doctor away. -->
+        <VBE_DrankLemonTea.stages.0.description>Uma saborosa xícara de chá de limão por dia mantém a medicina distante!</VBE_DrankLemonTea.stages.0.description>
+
+        <!-- EN: Refreshing tang -->
+        <VBE_DrankLemonadeThought.stages.0.label>suco refrescante</VBE_DrankLemonadeThought.stages.0.label>
+        <!-- EN: I drank a bottle of lemonade. It's not much but it makes me feel nice. -->
+        <VBE_DrankLemonadeThought.stages.0.description>Eu bebi uma garrafa de limonada. Não é muito, mas me faz bem.</VBE_DrankLemonadeThought.stages.0.description>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: consumed sugar -->
+        <VCE_ConsumedSugar.stages.0.label>consumiu açúcar</VCE_ConsumedSugar.stages.0.label>
+        <!-- EN: Sugar is not love. But it can feel like it. -->
+        <VCE_ConsumedSugar.stages.0.description>Açúcar não é amor. Mas pode parecer.</VCE_ConsumedSugar.stages.0.description>
+
+        <!-- EN: consumed chocolate syrup -->
+        <VCE_ConsumedChocolateSyrup.stages.0.label>consumiu xarope de chocolate</VCE_ConsumedChocolateSyrup.stages.0.label>
+        <!-- EN: Chocolate IS love. -->
+        <VCE_ConsumedChocolateSyrup.stages.0.description>Chocolate é vida.</VCE_ConsumedChocolateSyrup.stages.0.description>
+
+        <!-- EN: consumed insect jelly preserves -->
+        <VCE_ConsumedInsectJelly.stages.0.label>consumiu conserva de geleia de inseto</VCE_ConsumedInsectJelly.stages.0.label>
+        <!-- EN: What an incredibly sweet and rich taste! -->
+        <VCE_ConsumedInsectJelly.stages.0.description>Que sabor incrivelmente doce!</VCE_ConsumedInsectJelly.stages.0.description>
+
+        <!-- EN: high on smokeleaf butter -->
+        <VCE_SmokeleafButterHigh.stages.0.label>viajando na manteiga de folha de fumo</VCE_SmokeleafButterHigh.stages.0.label>
+        <!-- EN: I'm, like, stoned, man. -->
+        <VCE_SmokeleafButterHigh.stages.0.description>Eu estou, tipo, chapado, cara.</VCE_SmokeleafButterHigh.stages.0.description>
+
+        <!-- EN: consumed salt -->
+        <VCE_ConsumedSalt.stages.0.label>consumiu sal</VCE_ConsumedSalt.stages.0.label>
+        <!-- EN: A pinch of salt really enhances the flavours of a meal. -->
+        <VCE_ConsumedSalt.stages.0.description>Uma pitada de sal realmente realça os sabores de uma refeição.</VCE_ConsumedSalt.stages.0.description>
+
+        <!-- EN: consumed mayo -->
+        <VCE_ConsumedMayo.stages.0.label>consumiu maionese</VCE_ConsumedMayo.stages.0.label>
+        <!-- EN: I ate some delicious mayo. Very filling! -->
+        <VCE_ConsumedMayo.stages.0.description>Eu comi um pouco de maionese deliciosa. Estou satisfeito!</VCE_ConsumedMayo.stages.0.description>
+
+        <!-- EN: consumed agave -->
+        <VCE_ConsumedAgave.stages.0.label>consumiu agave</VCE_ConsumedAgave.stages.0.label>
+        <!-- EN: I ate some delicious agave nectar. -->
+        <VCE_ConsumedAgave.stages.0.description>Comi um delicioso néctar de agave.</VCE_ConsumedAgave.stages.0.description>
+
+        <!-- EN: consumed spices -->
+        <VCE_ConsumedSpices.stages.0.label>consumiu especiarias</VCE_ConsumedSpices.stages.0.label>
+        <!-- EN: That meal was spicy! -->
+        <VCE_ConsumedSpices.stages.0.description>Aquela refeição estava apimentada!</VCE_ConsumedSpices.stages.0.description>
+
+        <!-- EN: resurrector nanites -->
+        <VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>nanitos ressuscitadores</VCE_ConsumedDigestibleResurrectorNanites.stages.0.label>
+        <!-- EN: I feel invincible! -->
+        <VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>Me sinto invencível!</VCE_ConsumedDigestibleResurrectorNanites.stages.0.description>
+
+        <!-- EN: ate gourmet meal -->
+        <VCE_AteGourmetMeal.stages.0.label>comeu refeição gourmet</VCE_AteGourmetMeal.stages.0.label>
+        <!-- EN: A mindbending culinary experience. My palate has been gifted with sensations that are beyond this world. -->
+        <VCE_AteGourmetMeal.stages.0.description>Uma experiência culinária alucinante. Meu paladar foi dotado de sensações que vão além deste mundo.</VCE_AteGourmetMeal.stages.0.description>
+
+        <!-- EN: ate simple dessert -->
+        <VCE_AteSimpleDessert.stages.0.label>comeu sobremesa simples</VCE_AteSimpleDessert.stages.0.label>
+        <!-- EN: That dessert was very simple, but certainly tasty. -->
+        <VCE_AteSimpleDessert.stages.0.description>Aquela sobremesa era muito simples, mas certamente saborosa.</VCE_AteSimpleDessert.stages.0.description>
+
+        <!-- EN: ate fine dessert -->
+        <VCE_AteFineDessert.stages.0.label>comeu sobremesa boa</VCE_AteFineDessert.stages.0.label>
+        <!-- EN: That dessert was really good! I want more! -->
+        <VCE_AteFineDessert.stages.0.description>Aquela sobremesa estava muito boa! Eu quero mais!</VCE_AteFineDessert.stages.0.description>
+
+        <!-- EN: ate lavish dessert -->
+        <VCE_AteLavishDessert.stages.0.label>comeu sobremesa luxuosa</VCE_AteLavishDessert.stages.0.label>
+        <!-- EN: That dessert was unbelievably good, I'm so eager to eat more of it! -->
+        <VCE_AteLavishDessert.stages.0.description>Aquela sobremesa estava incrivelmente boa, estou tão ansioso(a) para comer mais!</VCE_AteLavishDessert.stages.0.description>
+
+        <!-- EN: ate gourmet dessert -->
+        <VCE_AteGourmetDessert.stages.0.label>comeu sobremesa gourmet</VCE_AteGourmetDessert.stages.0.label>
+        <!-- EN: Oh my God! My palate had never experienced such an explosion of orgasmic tastes. That was pure food porn. I need more! -->
+        <VCE_AteGourmetDessert.stages.0.description>Meu Deus! Meu paladar nunca experimentou tamanha explosão de sabores orgásticos. Isso foi puro pornô alimentar. Eu preciso de mais!</VCE_AteGourmetDessert.stages.0.description>
+
+        <!-- EN: ate simple grill -->
+        <VCE_AteSimpleGrill.stages.0.label>comeu grelhado simples</VCE_AteSimpleGrill.stages.0.label>
+        <!-- EN: A simple grill. Meh. -->
+        <VCE_AteSimpleGrill.stages.0.description>Um grelhado simples. Mé.</VCE_AteSimpleGrill.stages.0.description>
+
+        <!-- EN: ate fine grill -->
+        <VCE_AteFineGrill.stages.0.label>comeu grelhado bom</VCE_AteFineGrill.stages.0.label>
+        <!-- EN: I ate a very fine grilled meat with some vegetables. Super tasty. -->
+        <VCE_AteFineGrill.stages.0.description>Comi um grelhado muito bom com alguns vegetais. Super saboroso.</VCE_AteFineGrill.stages.0.description>
+
+        <!-- EN: ate lavish grill -->
+        <VCE_AteLavishGrill.stages.0.label>comeu grelhado luxuoso</VCE_AteLavishGrill.stages.0.label>
+        <!-- EN: I ate an incredible dish with expertly cooked grilled meat and some veggies. Delicious! -->
+        <VCE_AteLavishGrill.stages.0.description>Comi um prato incrível com carne grelhada habilmente cozida com alguns vegetais. Delicioso!</VCE_AteLavishGrill.stages.0.description>
+
+        <!-- EN: ate gourmet grill -->
+        <VCE_AteGourmetGrill.stages.0.label>comeu grelhado gourmet</VCE_AteGourmetGrill.stages.0.label>
+        <!-- EN: That... that was out of this world. The meat melted in my mouth. Just incredible. -->
+        <VCE_AteGourmetGrill.stages.0.description>Aquilo... aquilo estava fora deste mundo. A carne derreteu na minha boca. Simplesmente incrível.</VCE_AteGourmetGrill.stages.0.description>
+
+        <!-- EN: ate deep fried food -->
+        <VCE_AteFriedGoods.stages.0.label>comeu fritura</VCE_AteFriedGoods.stages.0.label>
+        <!-- EN: Greasy food. So delicious. -->
+        <VCE_AteFriedGoods.stages.0.description>Comida gordurosa. Delicioso.</VCE_AteFriedGoods.stages.0.description>
+
+        <!-- EN: ate canned food -->
+        <VCE_ConsumedCannedGoods.stages.0.label>comeu comida enlatada</VCE_ConsumedCannedGoods.stages.0.label>
+        <!-- EN: Eating directly from a can is like eating without a table. -->
+        <VCE_ConsumedCannedGoods.stages.0.description>Comer diretamente de uma lata é tipo comer sem uma mesa.</VCE_ConsumedCannedGoods.stages.0.description>
+
+        <!-- EN: ate awful cheese -->
+        <VCE_AteCheese.stages.0.label>comeu queijo horrível</VCE_AteCheese.stages.0.label>
+        <!-- EN: I ate some poorly curdled milk with barely any cheese flavour. Disgusting. -->
+        <VCE_AteCheese.stages.0.description>Eu comi um leite mal coagulado com quase nenhum sabor de queijo. Repugnante.</VCE_AteCheese.stages.0.description>
+        <!-- EN: ate poor cheese -->
+        <VCE_AteCheese.stages.1.label>comeu queijo pobre</VCE_AteCheese.stages.1.label>
+        <!-- EN: That cheese wasn't horrible but wasn't great either. The aftertaste was kinda icky. -->
+        <VCE_AteCheese.stages.1.description>Aquele queijo não era ruim, mas também não era ruim. O gosto que ficou na boca é meio nojento.</VCE_AteCheese.stages.1.description>
+        <!-- EN: ate normal cheese -->
+        <VCE_AteCheese.stages.2.label>comeu queijo normal</VCE_AteCheese.stages.2.label>
+        <!-- EN: That was some OK cheese. -->
+        <VCE_AteCheese.stages.2.description>Era um queijo OK.</VCE_AteCheese.stages.2.description>
+        <!-- EN: ate good cheese -->
+        <VCE_AteCheese.stages.3.label>comeu queijo bom</VCE_AteCheese.stages.3.label>
+        <!-- EN: I ate some fine cheese. Delicious. -->
+        <VCE_AteCheese.stages.3.description>Eu comi um bom queijo. Delicioso.</VCE_AteCheese.stages.3.description>
+        <!-- EN: ate excellent cheese -->
+        <VCE_AteCheese.stages.4.label>comeu queijo excelente</VCE_AteCheese.stages.4.label>
+        <!-- EN: I ate some fine cheese. You can tell when it has had a good amount of time to mature. -->
+        <VCE_AteCheese.stages.4.description>Eu comi um queijo refinado. É notável que maturou por um bom tempo.</VCE_AteCheese.stages.4.description>
+        <!-- EN: ate masterwork cheese -->
+        <VCE_AteCheese.stages.5.label>comeu queijo obra-prima</VCE_AteCheese.stages.5.label>
+        <!-- EN: That cheese was simply amazing! It doesn't get much better than this. -->
+        <VCE_AteCheese.stages.5.description>Esse queijo é simplesmente delicioso! Não é possível ficar muito melhor que isso.</VCE_AteCheese.stages.5.description>
+        <!-- EN: ate legendary cheese -->
+        <VCE_AteCheese.stages.6.label>comeu queijo lendário</VCE_AteCheese.stages.6.label>
+        <!-- EN: I've eaten quite possibly some of the best cheese I've ever tasted! -->
+        <VCE_AteCheese.stages.6.description>Eu comi o melhor queijo da minha vida!</VCE_AteCheese.stages.6.description>
+
+        <!-- EN: consumed ketchup -->
+        <VCE_ConsumedKetchup.stages.0.label>consumiu ketchup</VCE_ConsumedKetchup.stages.0.label>
+        <!-- EN: Delicious, sticky goodness. -->
+        <VCE_ConsumedKetchup.stages.0.description>Bondade deliciosa e pegajosa.</VCE_ConsumedKetchup.stages.0.description>
+
+        <!-- EN: hurts so good -->
+        <VCE_ConsumedHotSauce.stages.0.label>fogo que arde sem se ver</VCE_ConsumedHotSauce.stages.0.label>
+        <!-- EN: I absolutely hate that super strong hot sauce! Please give me more. -->
+        <VCE_ConsumedHotSauce.stages.0.description>Eu simplesmente odeio aquele molho super forte! Por favor, me dá mais.</VCE_ConsumedHotSauce.stages.0.description>
+
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- EN: consumed soy sauce -->
+        <VCE_ConsumedSoySauce.stages.0.label>consumiu molho shoyu</VCE_ConsumedSoySauce.stages.0.label>
+        <!-- EN: Saltiness, moderate umami, sweet taste, and a very slight bitterness. Perfection. -->
+        <VCE_ConsumedSoySauce.stages.0.description>Salgado, umami, doce e amargor muito leve. Perfeição.</VCE_ConsumedSoySauce.stages.0.description>
+
+        <!-- EN: breath of the dragon -->
+        <VCE_ConsumedWasabi.stages.0.label>consumiu wasabi</VCE_ConsumedWasabi.stages.0.label>
+        <!-- EN: My whole nose burns! Please give me more. -->
+        <VCE_ConsumedWasabi.stages.0.description>Meu nariz inteiro está queimando! Por favor, me dá mais.</VCE_ConsumedWasabi.stages.0.description>
+
+        <!-- EN: ate simple sushi -->
+        <VCE_AteSimpleSushi.stages.0.label>comeu sushi simples</VCE_AteSimpleSushi.stages.0.label>
+        <!-- EN: Even the most basic sushi is a delicacy. -->
+        <VCE_AteSimpleSushi.stages.0.description>Até o sushi mais básico é uma iguaria.</VCE_AteSimpleSushi.stages.0.description>
+
+        <!-- EN: ate fine sushi -->
+        <VCE_AteFineSushi.stages.0.label>comeu sushi bom</VCE_AteFineSushi.stages.0.label>
+        <!-- EN: I ate a very fine sushi with some vegetables. Super tasty. -->
+        <VCE_AteFineSushi.stages.0.description>Comi um sushi muito bom com alguns vegetais. Muito gostoso.</VCE_AteFineSushi.stages.0.description>
+
+        <!-- EN: ate lavish sushi -->
+        <VCE_AteLavishSushi.stages.0.label>comeu sushi luxuoso</VCE_AteLavishSushi.stages.0.label>
+        <!-- EN: I ate an incredible sushi dish. Delicious! -->
+        <VCE_AteLavishSushi.stages.0.description>Comi um prato de sushi incrível. Delicioso!</VCE_AteLavishSushi.stages.0.description>
+
+        <!-- EN: ate gourmet sushi -->
+        <VCE_AteGourmetSushi.stages.0.label>comeu sushi gourmet</VCE_AteGourmetSushi.stages.0.label>
+        <!-- EN: That... that was out of this world. The fish slices melted in my mouth. Just incredible. -->
+        <VCE_AteGourmetSushi.stages.0.description>O sushi... estava fora deste mundo. As fatias de peixe derreteram na minha boca. Simplesmente incrível.</VCE_AteGourmetSushi.stages.0.description>
+
+        <!-- EN: ate deep fried sushi -->
+        <VCE_AteFriedSushi.stages.0.label>comeu sushi frito</VCE_AteFriedSushi.stages.0.label>
+        <!-- EN: Greasy food. So delicious. -->
+        <VCE_AteFriedSushi.stages.0.description>Comida gordurosa. Delicioso.</VCE_AteFriedSushi.stages.0.description>
+
+    <!-- Vanilla Events Expanded -->
+        <!-- EN: beautiful aurora -->
+        <VEE_Aurora.stages.0.label>aurora linda</VEE_Aurora.stages.0.label>
+        <!-- EN: The view is amazing. -->
+        <VEE_Aurora.stages.0.description>A vista é incrível.</VEE_Aurora.stages.0.description>
+
+        <!-- EN: hit by hailstones -->
+        <VEE_Hail.stages.0.label>atingido por granizo</VEE_Hail.stages.0.label>
+        <!-- EN: I'm getting hit by hailstones. -->
+        <VEE_Hail.stages.0.description>Eu estou sendo atingido(a) por pedras de gelo!</VEE_Hail.stages.0.description>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: outside of home area -->
+        <VFEA_OutsideHomeArea.stages.0.label>fora da área de casa</VFEA_OutsideHomeArea.stages.0.label>
+        <!-- EN: I'm outside of my home area. Enemies are everywhere, I want to go back. -->
+        <VFEA_OutsideHomeArea.stages.0.description>Eu estou fora de casa. Os inimigos estão em todos os lugares!</VFEA_OutsideHomeArea.stages.0.description>
+
+        <!-- EN: empathy -->
+        <VFEA_EmpathyCast.stages.0.label>empatia</VFEA_EmpathyCast.stages.0.label>
+        <!-- EN: I feel good despite all the bad things. -->
+        <VFEA_EmpathyCast.stages.0.description>Eu me sinto bem apesar das coisas ruins.</VFEA_EmpathyCast.stages.0.description>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: high on opium -->
+        <VFEC_OpiumHigh.stages.0.label>viajando no ópio</VFEC_OpiumHigh.stages.0.label>
+        <!-- EN: I feel no pain! Let's do this! -->
+        <VFEC_OpiumHigh.stages.0.description>Eu não estou sentindo nada!</VFEC_OpiumHigh.stages.0.description>
+
+        <!-- EN: opium withdrawal -->
+        <VFEC_OpiumWithdrawal.stages.1.label>abstinência de ópio</VFEC_OpiumWithdrawal.stages.1.label>
+        <!-- EN: I'm really tired. Everything's so dull and the pain is so intense. -->
+        <VFEC_OpiumWithdrawal.stages.1.description>Eu estou muito cansado. Tudo é tão maçante e a dor é tão intensa.</VFEC_OpiumWithdrawal.stages.1.description>
+
+        <!-- EN: Carpe Diem -->
+        <VFEC_CarpeDiem.stages.0.label>carpe diem</VFEC_CarpeDiem.stages.0.label>
+        <!-- EN: I have to seize the day, for it can always be my last! -->
+        <VFEC_CarpeDiem.stages.0.description>Eu tenho que aproveitar o dia, pois pode ser o meu último!</VFEC_CarpeDiem.stages.0.description>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: royal jelly withdrawal -->
+        <VFEI_RoyalJellyWithdrawal.stages.1.label>abstinência de geleia real</VFEI_RoyalJellyWithdrawal.stages.1.label>
+        <!-- EN: I never thought I'd want that juicy jelly of an insectoid so much. -->
+        <VFEI_RoyalJellyWithdrawal.stages.1.description>Eu nunca pensei que iria querer tanto aquela geleia insetoide.</VFEI_RoyalJellyWithdrawal.stages.1.description>
+
+        <!-- EN: seen an insectoid queen -->
+        <VFEI_SeenInsectoidQueen.stages.0.label>viu rainha insetoide</VFEI_SeenInsectoidQueen.stages.0.label>
+        <!-- EN: This insectoid queen is disgusting. It's shivering my body and soul. -->
+        <VFEI_SeenInsectoidQueen.stages.0.description>Aquela rainha insetoide era nojenta!</VFEI_SeenInsectoidQueen.stages.0.description>
+
+        <!-- EN: seen a cuterpillar -->
+        <VFEI_SeenCuterpillar.stages.0.label>viu lagraciosa</VFEI_SeenCuterpillar.stages.0.label>
+        <!-- EN: That small insectoid always brings a smile to my face. -->
+        <VFEI_SeenCuterpillar.stages.0.description>Esse pequeno insetoide sempre traz um sorriso para meu rosto.</VFEI_SeenCuterpillar.stages.0.description>
+
+        <!-- EN: ate royal jelly -->
+        <VFEI_AteRoyalJelly.stages.0.label>consumiu geleia real</VFEI_AteRoyalJelly.stages.0.label>
+        <!-- EN: I ate royal jelly, it's delicious! -->
+        <VFEI_AteRoyalJelly.stages.0.description>Eu comi geleia real, é uma delícia!</VFEI_AteRoyalJelly.stages.0.description>
+
+        <!-- EN: sticky -->
+        <VFEI_Sticky.stages.0.label>pegajoso</VFEI_Sticky.stages.0.label>
+        <!-- EN: I'm sticky, and I dislike it. -->
+        <VFEI_Sticky.stages.0.description>Estou todo pegajoso! Não gosto disso.</VFEI_Sticky.stages.0.description>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: drank awful wine -->
+        <VFEM_DrankWine.stages.0.label>bebeu vinho horrível</VFEM_DrankWine.stages.0.label>
+        <!-- EN: I drank some must which has barely had any time to ferment. Disgusting. -->
+        <VFEM_DrankWine.stages.0.description>Eu bebi um pouco de mosto que mal teve tempo para fermentar. Nojento.</VFEM_DrankWine.stages.0.description>
+        <!-- EN: That wine could have had a few more days to ferment. It wasn't horrible but wasn't great either. -->
+        <VFEM_DrankWine.stages.1.label>bebeu vinho pobre</VFEM_DrankWine.stages.1.label>
+        <!-- EN: That wine could have had a few more days to ferment. It wasn't horrible but wasn't great either. -->
+        <VFEM_DrankWine.stages.1.description>Esse vinho poderia ter fermentado por mais alguns dias. Não era horrível, mas também não era bom.</VFEM_DrankWine.stages.1.description>
+        <!-- EN: drank normal wine -->
+        <VFEM_DrankWine.stages.2.label>bebeu vinho</VFEM_DrankWine.stages.2.label>
+        <!-- EN: drank good wine -->
+        <VFEM_DrankWine.stages.3.label>bebeu vinho bom</VFEM_DrankWine.stages.3.label>
+        <!-- EN: I drank some fine wine. -->
+        <VFEM_DrankWine.stages.3.description>Eu bebi um bom vinho.</VFEM_DrankWine.stages.3.description>
+        <!-- EN: drank excellent wine -->
+        <VFEM_DrankWine.stages.4.label>bebeu vinho excelente</VFEM_DrankWine.stages.4.label>
+        <!-- EN: I drank some fine wine. You can tell when it has had a good amount of time to mature. -->
+        <VFEM_DrankWine.stages.4.description>Eu bebi um bom vinho. É notável que fermentou por um bom tempo.</VFEM_DrankWine.stages.4.description>
+        <!-- EN: drank masterwork wine -->
+        <VFEM_DrankWine.stages.5.label>bebeu vinho obra-prima</VFEM_DrankWine.stages.5.label>
+        <!-- EN: That wine was simply amazing! It doesn't get much better than this. -->
+        <VFEM_DrankWine.stages.5.description>Aquele vinho era simplesmente incrível! Não existe nada melhor.</VFEM_DrankWine.stages.5.description>
+        <!-- EN: drank legendary wine -->
+        <VFEM_DrankWine.stages.6.label>bebeu vinho lendário</VFEM_DrankWine.stages.6.label>
+        <!-- EN: I've drank quite possibly some of the best wine I've ever tasted! -->
+        <VFEM_DrankWine.stages.6.description>Eu bebi o melhor vinho da minha vida!</VFEM_DrankWine.stages.6.description>
+        
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: mechanite under armor -->
+        <VFE_MechaniteUnderArmorThought.stages.0.label>optimização de mecanitos</VFE_MechaniteUnderArmorThought.stages.0.label>
+        <!-- EN: I feel strangely comfortable. -->
+        <VFE_MechaniteUnderArmorThought.stages.0.description>Eu me sinto estranhamente confortável.</VFE_MechaniteUnderArmorThought.stages.0.description>
+
+        <!-- EN: Relaxing music -->
+        <VFE_Mechanoids_RelaxingMusic.stages.0.label>música relaxante</VFE_Mechanoids_RelaxingMusic.stages.0.label>
+        <!-- EN: Propaganda bot is playing my favorite jam. -->
+        <VFE_Mechanoids_RelaxingMusic.stages.0.description>O emissor está tocando minha rádio favorita!</VFE_Mechanoids_RelaxingMusic.stages.0.description>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: Drank rum-based cocktail -->
+        <VFEP_RumAsIngredient.stages.0.label>bebeu coquetel com rum</VFEP_RumAsIngredient.stages.0.label>
+        <!-- EN: Yummy. -->
+        <VFEP_RumAsIngredient.stages.0.description>Delicioso.</VFEP_RumAsIngredient.stages.0.description>
+
+        <!-- EN: sweaty -->
+        <VFEP_RumSuitThought.stages.0.label>suado</VFEP_RumSuitThought.stages.0.label>
+        <!-- EN: This suit is way too hot. I'm sweating. -->
+        <VFEP_RumSuitThought.stages.0.description>Este traje é muito quente. Eu estou suando.</VFEP_RumSuitThought.stages.0.description>
+
+        <!-- EN: lost a comrade -->
+        <VFEP_Camaraderie_Respected_CrewDead.stages.0.label>perdeu um camarada</VFEP_Camaraderie_Respected_CrewDead.stages.0.label>
+        <!-- EN: We’ve lost one of ours. What a sad day it is. -->
+        <VFEP_Camaraderie_Respected_CrewDead.stages.0.description>Nós perdemos um dos nossos companheiros. Que dia triste...</VFEP_Camaraderie_Respected_CrewDead.stages.0.description>
+
+        <!-- EN: socialized with a comrade -->
+        <VFEP_Camaraderie_Respected_Memory.stages.0.label>socializou com camarada</VFEP_Camaraderie_Respected_Memory.stages.0.label>
+        <!-- EN: I’ve socialized with a comrade, which strengthens our bond. -->
+        <VFEP_Camaraderie_Respected_Memory.stages.0.description>Eu falei com um camarada, o que fortalece nosso vínculo.</VFEP_Camaraderie_Respected_Memory.stages.0.description>
+
+        <!-- EN: lost a comrade -->
+        <VFEP_Camaraderie_Exalted_CrewDead.stages.0.label>perdeu um camarada</VFEP_Camaraderie_Exalted_CrewDead.stages.0.label>
+        <!-- EN: We’ve lost one of ours. What a sad day it is. -->
+        <VFEP_Camaraderie_Exalted_CrewDead.stages.0.description>Nós perdemos um dos nossos companheiros. Que dia triste...</VFEP_Camaraderie_Exalted_CrewDead.stages.0.description>
+
+        <!-- EN: socialized with a comrade -->
+        <VFEP_Camaraderie_Exalted_Memory.stages.0.label>socializou com camarada</VFEP_Camaraderie_Exalted_Memory.stages.0.label>
+        <!-- EN: I’ve socialized with a comrade, which strengthens our bond. -->
+        <VFEP_Camaraderie_Exalted_Memory.stages.0.description>Eu falei com um camarada, o que fortalece nosso vínculo.</VFEP_Camaraderie_Exalted_Memory.stages.0.description>
+
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.0.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.0.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.1.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.1.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.2.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.2.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.3.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.3.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.4.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.4.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.5.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.5.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.6.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.6.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.7.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.7.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.8.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.8.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.9.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.9.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.10.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.10.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.11.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.11.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.12.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.12.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.13.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.13.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.14.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.14.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.15.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.15.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.16.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.16.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.17.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.17.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.18.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.18.label>
+        <!-- EN: been through some tough times together! -->
+        <VFEP_Camaraderie_Exalted_DeadCumulative.stages.19.label>passamos por tempos difíceis juntos!</VFEP_Camaraderie_Exalted_DeadCumulative.stages.19.label>
+
+        <!-- EN: boring singing shanties -->
+        <VFEP_BoringShanties.stages.0.label>canção de cantigas chata</VFEP_BoringShanties.stages.0.label>
+        <!-- EN: The cap'n displayed a lack of passion and the feeling of camaraderie just wasn't there. -->
+        <VFEP_BoringShanties.stages.0.description>O capitão não mostrou paixão e o sentimento de camaradagem simplesmente não estava lá.</VFEP_BoringShanties.stages.0.description>
+
+        <!-- EN: lame singing shanties -->
+        <VFEP_LameShanties.stages.0.label>canção de cantigas ruim</VFEP_LameShanties.stages.0.label>
+        <!-- EN: The cap'n treated us like children, wanting so desperately to hear something to lift their spirits. -->
+        <VFEP_LameShanties.stages.0.description>O capitão nos tratou como crianças, querendo desesperadamente ouvir algo para aumentar seu ego.</VFEP_LameShanties.stages.0.description>
+
+        <!-- EN: rousing singing shanties -->
+        <VFEP_RousingShanties.stages.0.label>canção de cantigas empolgante</VFEP_RousingShanties.stages.0.label>
+        <!-- EN: Shiver me timbers, those were some good shanties! The cap'n lifted our spirits and made us feel a camaraderie and togetherness that will only make us stronger. -->
+        <VFEP_RousingShanties.stages.0.description>Porra, essas foram algumas boas cantigas! O capitão levantou nosso astral e nos fez sentir uma camaradagem e união que só nos tornará mais fortes.</VFEP_RousingShanties.stages.0.description>
+
+        <!-- EN: amazing singing shanties -->
+        <VFEP_AmazingShanties.stages.0.label>canção de cantigas incrível</VFEP_AmazingShanties.stages.0.label>
+        <!-- EN: We can still hear the mesmerizing words of the cap'n, as they reminded us of the importance of our shared camaraderie. We can even feel our sadness vanish away. -->
+        <VFEP_AmazingShanties.stages.0.description>Ainda podemos ouvir as palavras hipnotizantes do capitão, pois nos lembraram da importância de nossa camaradagem compartilhada. Podemos até sentir nossa tristeza desaparecer.</VFEP_AmazingShanties.stages.0.description>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: chemshined -->
+        <Chemshined.stages.chemshined.label>energizado</Chemshined.stages.chemshined.label>
+        <!-- EN: I feel energized, I'm on fire, witness me! -->
+        <Chemshined.stages.chemshined.description>Eu me sinto energizado(a), estou pegando fogo!</Chemshined.stages.chemshined.description>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: alcohol warmth -->
+        <VFEV_Inebriated.stages.0.label>calor alcoólico</VFEV_Inebriated.stages.0.label>
+        <!-- EN: I just feel a bit more relaxed after that drink. That's good. -->
+        <VFEV_Inebriated.stages.0.description>Eu me sinto um pouco mais relaxado depois da bebida. Isso é bom.</VFEV_Inebriated.stages.0.description>
+        <!-- EN: quite inebriated -->
+        <VFEV_Inebriated.stages.1.label>um tanto embriagado</VFEV_Inebriated.stages.1.label>
+        <!-- EN: I'm a bit wobbly! And this is quite enjoyable. -->
+        <VFEV_Inebriated.stages.1.description>Estou um pouco tonto! E isso é bastante agradável.</VFEV_Inebriated.stages.1.description>
+        <!-- EN: drunk -->
+        <VFEV_Inebriated.stages.2.label>bêbado</VFEV_Inebriated.stages.2.label>
+        <!-- EN: I feel so uninhibited and unafraid! This is a great time! -->
+        <VFEV_Inebriated.stages.2.description>Eu me sinto tão destemido e sem medo! Este é um ótimo momento!</VFEV_Inebriated.stages.2.description>
+        <!-- EN: hammered -->
+        <VFEV_Inebriated.stages.3.label>muito bêbado</VFEV_Inebriated.stages.3.label>
+        <!-- EN: Wooo! What's going on? -->
+        <VFEV_Inebriated.stages.3.description>Uau! O que está acontecendo?</VFEV_Inebriated.stages.3.description>
+
+        <!-- EN: Successful hunt! -->
+        <VFEI_BeastHunted.stages.0.label>caçada bem-sucedida!</VFEI_BeastHunted.stages.0.label>
+        <!-- EN: We successfully hunted a beast! -->
+        <VFEI_BeastHunted.stages.0.description>Nós caçamos uma fera!</VFEI_BeastHunted.stages.0.description>
+
+        <!-- EN: Restless (x0) -->
+        <VFEV_RaidRestlessness.stages.0.label>inquieto</VFEV_RaidRestlessness.stages.0.label>
+        <!-- EN: We should begin planning our next raid. -->
+        <VFEV_RaidRestlessness.stages.0.description>Devemos começar a planejar nosso próximo ataque.</VFEV_RaidRestlessness.stages.0.description>
+        <!-- EN: Restless (x1) -->
+        <VFEV_RaidRestlessness.stages.1.label>inquieto</VFEV_RaidRestlessness.stages.1.label>
+        <!-- EN: Traveling should be easy now, we can easily loot from those weaklings. -->
+        <VFEV_RaidRestlessness.stages.1.description>Viajar deve ser fácil agora, podemos facilmente saquear os fracos.</VFEV_RaidRestlessness.stages.1.description>
+        <!-- EN: Restless (x2) -->
+        <VFEV_RaidRestlessness.stages.2.label>inquieto</VFEV_RaidRestlessness.stages.2.label>
+        <!-- EN: Why is our war band growing so docile? The weak should fear the strong - We must attack our enemies soon. -->
+        <VFEV_RaidRestlessness.stages.2.description>Por que nosso bando de guerra está ficando tão dócil? Os fracos devem temer os fortes - devemos atacar nossos inimigos logo.</VFEV_RaidRestlessness.stages.2.description>
+        <!-- EN: Restless (x3) -->
+        <VFEV_RaidRestlessness.stages.3.label>inquieto</VFEV_RaidRestlessness.stages.3.label>
+        <!-- EN: So many luxuries at our fingertips, yet we’re too cowardly to slaughter our enemies and take their riches? -->
+        <VFEV_RaidRestlessness.stages.3.description>Tantos luxos ao nosso alcance, mas somos covardes demais para massacrar nossos inimigos e tirar suas riquezas?</VFEV_RaidRestlessness.stages.3.description>
+        <!-- EN: Restless (x4) -->
+        <VFEV_RaidRestlessness.stages.4.label>inquieto</VFEV_RaidRestlessness.stages.4.label>
+        <!-- EN: I’ve lost all hope - There is no way we can keep going like this, I fear our people and history will never be remembered. -->
+        <VFEV_RaidRestlessness.stages.4.description>Eu perdi todas as esperanças - não há como continuarmos assim, temo que nosso povo e nossa história nunca serão lembrados.</VFEV_RaidRestlessness.stages.4.description>
+
+        <!-- EN: Stung by bees -->
+        <VFEV_StingMoodDebuff.stages.0.label>picado por abelhas</VFEV_StingMoodDebuff.stages.0.label>
+        <!-- EN: I was stung, and it hurt! -->
+        <VFEV_StingMoodDebuff.stages.0.description>Eu fui picado, e isso dói!</VFEV_StingMoodDebuff.stages.0.description>
+
+        <!-- EN: Successful hunt! -->
+        <VFEV_BeastHunted.stages.0.label>caçada bem-sucedida!</VFEV_BeastHunted.stages.0.label>
+        <!-- EN: We successfully hunted a beast! -->
+        <VFEV_BeastHunted.stages.0.description>Nós caçamos uma fera!</VFEV_BeastHunted.stages.0.description>
+
+        <!-- EN: Attended feast -->
+        <VFEV_AttendedFeast.stages.0.label>participou de banquete</VFEV_AttendedFeast.stages.0.label>
+        <!-- EN: I had an amazing time at the feast! -->
+        <VFEV_AttendedFeast.stages.0.description>Eu me diverti muito no banquete!</VFEV_AttendedFeast.stages.0.description>
+
+        <!-- EN: Taking part in a feast -->
+        <VFEV_TakingPartInFeast.stages.0.label>participando de banquete</VFEV_TakingPartInFeast.stages.0.label>
+        <!-- EN: I'm just enjoying myself! -->
+        <VFEV_TakingPartInFeast.stages.0.description>Estou me divertindo!</VFEV_TakingPartInFeast.stages.0.description>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- EN: relaxing fishing session -->
+        <VCEF_FishingThought.stages.relaxing_fishing_session.label>pescaria relaxante</VCEF_FishingThought.stages.relaxing_fishing_session.label>
+        <!-- EN: Nothing better to relax than fishing -->
+        <VCEF_FishingThought.stages.relaxing_fishing_session.description>Não há nada melhor para relaxar do que uma bela pescaria.</VCEF_FishingThought.stages.relaxing_fishing_session.description>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: ambient music -->
+        <Thought_EffectRadio.stages.0.label>música ambiente</Thought_EffectRadio.stages.0.label>
+        <!-- EN: I somewhat like the music being played, albeit the signal is terrible. -->
+        <Thought_EffectRadio.stages.0.description>Eu gosto da música que está tocando, embora o sinal seja terrível.</Thought_EffectRadio.stages.0.description>
+        <!-- EN: ambient music -->
+        <Thought_EffectRadio.stages.1.label>música ambiente</Thought_EffectRadio.stages.1.label>
+        <!-- EN: I like the music being played, it's quite calming. -->
+        <Thought_EffectRadio.stages.1.description>Eu gosto da música que está tocando, é bastante relaxante.</Thought_EffectRadio.stages.1.description>
+
+    <!-- Vanilla Furniture Expanded - Art -->
+        <!-- EN: imprinted with art -->
+        <VFE_ArchotechSculptureImprint.stages.0.label>impressionado</VFE_ArchotechSculptureImprint.stages.0.label>
+        <!-- EN: The archotech sculpture makes me constantly see a beautiful artwork. It makes me relaxed. -->
+        <VFE_ArchotechSculptureImprint.stages.0.description>A escultura arquotecnológica me faz ver constantemente uma bela obra de arte. Isso me deixa relaxado(a).</VFE_ArchotechSculptureImprint.stages.0.description>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: missing alcohol -->
+        <VME_Alcohol_Demanded.stages.0.label>falta de álcool</VME_Alcohol_Demanded.stages.0.label>
+        <!-- EN: I could use a drink. Something stronger please. -->
+        <VME_Alcohol_Demanded.stages.0.description>Eu poderia beber um pouquinho. Algo mais forte, por favor.</VME_Alcohol_Demanded.stages.0.description>
+        <!-- EN: no alcohol -->
+        <VME_Alcohol_Demanded.stages.1.label>sem álcool</VME_Alcohol_Demanded.stages.1.label>
+        <!-- EN: I wish I could have a drink of something stronger. -->
+        <VME_Alcohol_Demanded.stages.1.description>Eu queria beber alguma coisa mais forte.</VME_Alcohol_Demanded.stages.1.description>
+        <!-- EN: needs alcohol -->
+        <VME_Alcohol_Demanded.stages.2.label>precisa de álcool</VME_Alcohol_Demanded.stages.2.label>
+        <!-- EN: I need a drink of something stronger. -->
+        <VME_Alcohol_Demanded.stages.2.description>Eu preciso beber alguma coisa mais forte.</VME_Alcohol_Demanded.stages.2.description>
+        <!-- EN: craves alcohol -->
+        <VME_Alcohol_Demanded.stages.3.label>anseia por álcool</VME_Alcohol_Demanded.stages.3.label>
+        <!-- EN: I’d kill for a drop of something stronger. -->
+        <VME_Alcohol_Demanded.stages.3.description>Eu mataria alguém por uma gota de uma bebida mais forte.</VME_Alcohol_Demanded.stages.3.description>
+        <!-- EN: demands alcohol -->
+        <VME_Alcohol_Demanded.stages.4.label>exige álcool</VME_Alcohol_Demanded.stages.4.label>
+        <!-- EN: Booze or I riot. -->
+        <VME_Alcohol_Demanded.stages.4.description>Ou eu bebo, ou eu paro.</VME_Alcohol_Demanded.stages.4.description>
+
+        <!-- EN: missing alcohol -->
+        <VME_Alcohol_Desired.stages.0.label>falta de álcool</VME_Alcohol_Desired.stages.0.label>
+        <!-- EN: It's been a while since I've had a drink.  -->
+        <VME_Alcohol_Desired.stages.0.description>Faz um tempo que eu bebi alguma coisa.</VME_Alcohol_Desired.stages.0.description>
+        <!-- EN: no alcohol -->
+        <VME_Alcohol_Desired.stages.1.label>deseja álcool</VME_Alcohol_Desired.stages.1.label>
+        <!-- EN: What this colony needs is a bar so we can take a few drinks with our friends after a day of hard work. -->
+        <VME_Alcohol_Desired.stages.1.description>O que esta colônia precisa é de um bar para podermos dar uns goles depois de um dia de muito trabalho.</VME_Alcohol_Desired.stages.1.description>
+        <!-- EN: wanting a drink -->
+        <VME_Alcohol_Desired.stages.2.label>quer álcool</VME_Alcohol_Desired.stages.2.label>
+        <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+        <VME_Alcohol_Desired.stages.2.description>É bom trabalhar, mas eu realmente gostaria de ter um tempo para relaxar com algumas bebidas.</VME_Alcohol_Desired.stages.2.description>
+        <!-- EN: wanting a drink -->
+        <VME_Alcohol_Desired.stages.3.label>quer álcool</VME_Alcohol_Desired.stages.3.label>
+        <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+        <VME_Alcohol_Desired.stages.3.description>É bom trabalhar, mas eu realmente gostaria de ter um tempo para relaxar com algumas bebidas.</VME_Alcohol_Desired.stages.3.description>
+        <!-- EN: wanting a drink -->
+        <VME_Alcohol_Desired.stages.4.label>quer álcool</VME_Alcohol_Desired.stages.4.label>
+        <!-- EN: Hard work is fine, but I'd really appreciate relaxing with some strong spirits or a beer. -->
+        <VME_Alcohol_Desired.stages.4.description>É bom trabalhar, mas eu realmente gostaria de ter um tempo para relaxar com algumas bebidas..</VME_Alcohol_Desired.stages.4.description>
+
+        <!-- EN: consumed alcohol -->
+        <VME_Alcohol_MildAbstinence.stages.0.label>consumiu álcool</VME_Alcohol_MildAbstinence.stages.0.label>
+        <!-- EN: I drank a bit of alcohol. Not a big deal, but I feel a bit woozy.  -->
+        <VME_Alcohol_MildAbstinence.stages.0.description>Eu bebi um pouco de álcool. Não é grande coisa, mas me sinto um pouco tonto.</VME_Alcohol_MildAbstinence.stages.0.description>
+        <!-- EN: abstained from alcohol -->
+        <VME_Alcohol_MildAbstinence.stages.1.label>abstendo-se de álcool</VME_Alcohol_MildAbstinence.stages.1.label>
+        <!-- EN: I haven't consumed alcohol lately. -->
+        <VME_Alcohol_MildAbstinence.stages.1.description>Eu não consumi álcool recentemente.</VME_Alcohol_MildAbstinence.stages.1.description>
+
+        <!-- EN: amazing aurora -->
+        <VME_Aurora_Amazing.stages.0.label>aurora incrível</VME_Aurora_Amazing.stages.0.label>
+        <!-- EN: I have a moment's respite from the darkness of the night. -->
+        <VME_Aurora_Amazing.stages.0.description>Eu estou tendo um momento de descanso da escuridão da noite.</VME_Aurora_Amazing.stages.0.description>
+
+        <!-- EN: disgusting aurora -->
+        <VME_Aurora_Despised.stages.0.label>aurora repugnante</VME_Aurora_Despised.stages.0.label>
+        <!-- EN: The blinding lights in the heavens give me a headache. -->
+        <VME_Aurora_Despised.stages.0.description>As luzes ofuscantes no céu estão me dando dor de cabeça.</VME_Aurora_Despised.stages.0.description>
+
+        <!-- EN: automated turrets -->
+        <VME_AutonomousWeapons_Accepted.stages.0.label>torretas automatizadas</VME_AutonomousWeapons_Accepted.stages.0.label>
+        <!-- EN: We use automated turrets. They are an incredible boon to our defenses. -->
+        <VME_AutonomousWeapons_Accepted.stages.0.description>Nós usamos torretas automatizadas. Elas são incríveis para nossas defesas.</VME_AutonomousWeapons_Accepted.stages.0.description>
+
+        <!-- EN: automated turrets -->
+        <VME_AutonomousWeapons_Exalted.stages.0.label>torretas automatizadas</VME_AutonomousWeapons_Exalted.stages.0.label>
+        <!-- EN: We use automated turrets. Automated defenses are key to a proper defense of what is ours. -->
+        <VME_AutonomousWeapons_Exalted.stages.0.description>Nós usamos torretas automatizadas. As defesas automatizadas são fundamentais para nossa defesa.</VME_AutonomousWeapons_Exalted.stages.0.description>
+
+        <!-- EN: installed non-natural prosthetic -->
+        <VME_InstalledProsthetic_OnlyBiological.stages.0.label>instalou prótese não natural</VME_InstalledProsthetic_OnlyBiological.stages.0.label>
+        <!-- EN: I had to install a non-natural prosthetic. Flesh only should be replaced by flesh. -->
+        <VME_InstalledProsthetic_OnlyBiological.stages.0.description>Eu tive que instalar uma prótese não natural... a carne só deve ser substituída pela carne.</VME_InstalledProsthetic_OnlyBiological.stages.0.description>
+
+        <!-- EN: installed non-natural prosthetic -->
+        <VME_InstalledProsthetic_Know_OnlyBiological.stages.0.label>instalou prótese não natural</VME_InstalledProsthetic_Know_OnlyBiological.stages.0.label>
+
+        <!-- EN: non-natural part -->
+        <VME_HasProsthetic_OnlyBiological.stages.0.label>parte não natural</VME_HasProsthetic_OnlyBiological.stages.0.label>
+        <!-- EN: I have a non-natural body part in me. Flesh only should be replaced by flesh! -->
+        <VME_HasProsthetic_OnlyBiological.stages.0.description>Eu tenho uma parte do corpo não natural em mim. Só a carne deve ser substituída pela carne!</VME_HasProsthetic_OnlyBiological.stages.0.description>
+
+        <!-- EN: non-natural part -->
+        <VME_HasProsthetic_OnlyBiological_Social.stages.0.label>parte não natural</VME_HasProsthetic_OnlyBiological_Social.stages.0.label>
+
+        <!-- EN: death is troubling -->
+        <VME_Death_Troubling.stages.0.label>morte preocupante</VME_Death_Troubling.stages.0.label>
+        <!-- EN: I know death is a part of life, but I just HATE being reminded of it. -->
+        <VME_Death_Troubling.stages.0.description>Eu sei que a morte faz parte da vida, mas eu odeio ser lembrado disso.</VME_Death_Troubling.stages.0.description>
+
+        <!-- EN: defeated in combat -->
+        <VME_Defeat_Dishonorable.stages.0.label>derrotado no combate</VME_Defeat_Dishonorable.stages.0.label>
+        <!-- EN: I was defeated in combat, this brings me great dishonor. -->
+        <VME_Defeat_Dishonorable.stages.0.description>Eu fui derrotado em combate, isso me traz uma grande desonra.</VME_Defeat_Dishonorable.stages.0.description>
+
+        <!-- EN: defeated in combat twice -->
+        <VME_SecondDefeat_Dishonorable.stages.0.label>derrotado no combate duas vezes</VME_SecondDefeat_Dishonorable.stages.0.label>
+        <!-- EN: I was defeated in combat again, my dishonor is immeasurable. -->
+        <VME_SecondDefeat_Dishonorable.stages.0.description>Eu fui derrotado em combate de novo, minha desonra é imensurável.</VME_SecondDefeat_Dishonorable.stages.0.description>
+
+        <!-- EN: did dumb labor -->
+        <VME_DumbLabor_Exalted.stages.0.label>fez trabalho simples</VME_DumbLabor_Exalted.stages.0.label>
+        <!-- EN: I had to do dumb labor. I am an excellent example of the working class. -->
+        <VME_DumbLabor_Exalted.stages.0.description>Eu tive que fazer trabalho simples. Eu sou um excelente exemplo da classe trabalhadora.</VME_DumbLabor_Exalted.stages.0.description>
+
+        <!-- EN: did dumb labor -->
+        <VME_DumbLabor_Liked.stages.0.label>fez trabalho simples</VME_DumbLabor_Liked.stages.0.label>
+        <!-- EN: I had to do dumb labor. Broke a sweat but it was some honest work. -->
+        <VME_DumbLabor_Liked.stages.0.description>Eu tive que fazer trabalho simples. Suei, mas foi um trabalho honesto.</VME_DumbLabor_Liked.stages.0.description>
+
+        <!-- EN: did dumb labor -->
+        <VME_DumbLabor_Disliked.stages.0.label>fez trabalho simples</VME_DumbLabor_Disliked.stages.0.label>
+        <!-- EN: I had to do dumb labor. So exhausting! -->
+        <VME_DumbLabor_Disliked.stages.0.description>Eu tive que fazer trabalho simples. Tão exaustivo!</VME_DumbLabor_Disliked.stages.0.description>
+
+        <!-- EN: did dumb labor -->
+        <VME_DumbLabor_Horrible.stages.0.label>fez trabalho simples</VME_DumbLabor_Horrible.stages.0.label>
+        <!-- EN: I had to do dumb labor. It’s horrible. I don’t want it. -->
+        <VME_DumbLabor_Horrible.stages.0.description>Eu tive que fazer trabalho simples. É horrível. Eu não quero mais.</VME_DumbLabor_Horrible.stages.0.description>
+
+        <!-- EN: disgusting eclipse -->
+        <VME_Eclipse_Despised.stages.0.label>eclipse assustador</VME_Eclipse_Despised.stages.0.label>
+        <!-- EN: Eclipses are so scary! Where did the light go? -->
+        <VME_Eclipse_Despised.stages.0.description>Eclipses são tão assustadores! Para onde a luz foi?</VME_Eclipse_Despised.stages.0.description>
+
+        <!-- EN: elder -->
+        <VME_Elders_Despised.stages.0.label>idoso</VME_Elders_Despised.stages.0.label>
+        <!-- EN: youth -->
+        <VME_Elders_Despised.stages.1.label>jovem</VME_Elders_Despised.stages.1.label>
+
+        <!-- EN: elder -->
+        <VME_Elders_Respected.stages.0.label>idoso</VME_Elders_Respected.stages.0.label>
+
+        <!-- EN: elder -->
+        <VME_Elders_Holy.stages.0.label>idoso</VME_Elders_Holy.stages.0.label>
+
+        <!-- EN: no fires nearby -->
+        <VME_Fire_Desired.stages.0.label>sem chamas por perto</VME_Fire_Desired.stages.0.label>
+        <!-- EN: It has been too long since I’ve seen a fire. -->
+        <VME_Fire_Desired.stages.0.description>Faz muito tempo que eu não vejo algumas chamas.</VME_Fire_Desired.stages.0.description>
+        <!-- EN: very few fires -->
+        <VME_Fire_Desired.stages.1.label>muitas poucas chamas</VME_Fire_Desired.stages.1.label>
+        <!-- EN: I miss seeing the open flames. -->
+        <VME_Fire_Desired.stages.1.description>Eu sinto falta de ver labaredas de chamas.</VME_Fire_Desired.stages.1.description>
+        <!-- EN: small fire -->
+        <VME_Fire_Desired.stages.2.label>pequenas chamas</VME_Fire_Desired.stages.2.label>
+        <!-- EN: I recently saw a small fire. -->
+        <VME_Fire_Desired.stages.2.description>Eu vi uma pequena labareda recentemente.</VME_Fire_Desired.stages.2.description>
+        <!-- EN: saw fire -->
+        <VME_Fire_Desired.stages.3.label>viu chamas</VME_Fire_Desired.stages.3.label>
+        <!-- EN: I recently saw a burning flame. -->
+        <VME_Fire_Desired.stages.3.description>Eu vi recentemente uma chama.</VME_Fire_Desired.stages.3.description>
+        <!-- EN: amazing fires -->
+        <VME_Fire_Desired.stages.4.label>chamas incríveis</VME_Fire_Desired.stages.4.label>
+        <!-- EN: I am surrounded by fire. -->
+        <VME_Fire_Desired.stages.4.description>Eu estou rodeado por fogo.</VME_Fire_Desired.stages.4.description>
+        <!-- EN: beautiful fires -->
+        <VME_Fire_Desired.stages.5.label>chamas maravilhosas</VME_Fire_Desired.stages.5.label>
+        <!-- EN: I am surrounded by many beautiful flames. This is fine. -->
+        <VME_Fire_Desired.stages.5.description>Eu estou rodeado por lindas labaredas de fogo.</VME_Fire_Desired.stages.5.description>
+
+        <!-- EN: no fires nearby -->
+        <VME_Fire_Despised.stages.0.label>sem chamas por perto</VME_Fire_Despised.stages.0.label>
+        <!-- EN: There are no fires nearby. That's good. -->
+        <VME_Fire_Despised.stages.0.description>Não há chamas nas proximidades. Isso é bom.</VME_Fire_Despised.stages.0.description>
+        <!-- EN: very few fires -->
+        <VME_Fire_Despised.stages.1.label>muitas poucas chamas</VME_Fire_Despised.stages.1.label>
+        <!-- EN: Looking at those fires makes me uneasy. -->
+        <VME_Fire_Despised.stages.1.description>Olhar para o fogo me deixa desconfortável.</VME_Fire_Despised.stages.1.description>
+        <!-- EN: small fire -->
+        <VME_Fire_Despised.stages.2.label>pequenas chamas</VME_Fire_Despised.stages.2.label>
+        <!-- EN: I recently saw a small fire. I'd rather see it extinguished. -->
+        <VME_Fire_Despised.stages.2.description>Eu vi recentemente um pequeno incêndio. Prefiro ver ele apagado.</VME_Fire_Despised.stages.2.description>
+        <!-- EN: saw fire -->
+        <VME_Fire_Despised.stages.3.label>viu chamas</VME_Fire_Despised.stages.3.label>
+        <!-- EN: I recently saw a burning flame. It makes me very uncomfortable! -->
+        <VME_Fire_Despised.stages.3.description>Eu vi recentemente um incêndio. Isso me deixa muito desconfortável!</VME_Fire_Despised.stages.3.description>
+        <!-- EN: blazing fires -->
+        <VME_Fire_Despised.stages.4.label>chamas ardentes</VME_Fire_Despised.stages.4.label>
+        <!-- EN: I am surrounded by fire! This is horrible! -->
+        <VME_Fire_Despised.stages.4.description>Eu estou rodeado por fogo! Isso é horrível!</VME_Fire_Despised.stages.4.description>
+        <!-- EN: conflagration -->
+        <VME_Fire_Despised.stages.5.label>conflagração</VME_Fire_Despised.stages.5.label>
+        <!-- EN: AHHHHHH! Everything is on fire! -->
+        <VME_Fire_Despised.stages.5.description>PUTA QUE PARIU! Está tudo pegando fogo!</VME_Fire_Despised.stages.5.description>
+
+        <!-- EN: extinguished fire -->
+        <VME_Firefighting_Abhorrent.stages.0.label>apagou fogo</VME_Firefighting_Abhorrent.stages.0.label>
+        <!-- EN: I had to extinguish fire. What a violation of the spirits. -->
+        <VME_Firefighting_Abhorrent.stages.0.description>Eu tive que apagar o fogo. Uma violação dos espíritos...</VME_Firefighting_Abhorrent.stages.0.description>
+
+        <!-- EN: extinguished fire -->
+        <VME_Firefighting_Preferred.stages.0.label>apagou incêndio</VME_Firefighting_Preferred.stages.0.label>
+        <!-- EN: I extinguished a fire. What an exhilarating experience! -->
+        <VME_Firefighting_Preferred.stages.0.description>Eu apaguei um incêndio. Que experiência emocionante!</VME_Firefighting_Preferred.stages.0.description>
+
+        <!-- EN: need hospital -->
+        <VME_Hospital_Required.stages.0.label>hospital necessário</VME_Hospital_Required.stages.0.label>
+        <!-- EN: We lack a place to help people and should have a dedicated hospital. -->
+        <VME_Hospital_Required.stages.0.description>Não temos um local de ajuda às pessoa. Deveríamos ter um hospital.</VME_Hospital_Required.stages.0.description>
+        <!-- EN: dirty hospital -->
+        <VME_Hospital_Required.stages.1.label>hospital sujo</VME_Hospital_Required.stages.1.label>
+        <!-- EN: We have a hospital, but it is incredibly dirty. We are not animals! -->
+        <VME_Hospital_Required.stages.1.description>Nós temos um hospital, mas ele é incrivelmente sujo. Não somos animais!</VME_Hospital_Required.stages.1.description>
+        <!-- EN: small hospital -->
+        <VME_Hospital_Required.stages.2.label>hospital pequeno</VME_Hospital_Required.stages.2.label>
+        <!-- EN: We have a small hospital. -->
+        <VME_Hospital_Required.stages.2.description>Nós temos um hospital pequeno.</VME_Hospital_Required.stages.2.description>
+        <!-- EN: spacious hospital -->
+        <VME_Hospital_Required.stages.3.label>hospital espaçoso</VME_Hospital_Required.stages.3.label>
+        <!-- EN: We have a very spacious hospital. -->
+        <VME_Hospital_Required.stages.3.description>Nós temos um hospital muito espaçoso.</VME_Hospital_Required.stages.3.description>
+        <!-- EN: huge hospital -->
+        <VME_Hospital_Required.stages.4.label>hospital imenso</VME_Hospital_Required.stages.4.label>
+        <!-- EN: We have a huge, professional hospital! -->
+        <VME_Hospital_Required.stages.4.description>Nós temos um imenso hospital profissional!</VME_Hospital_Required.stages.4.description>
+
+        <!-- EN: sick -->
+        <VME_Illness_Exalted.stages.0.label>doente</VME_Illness_Exalted.stages.0.label>
+        <!-- EN: A holy virus and the godlike bacteria shall breed in my veins. -->
+        <VME_Illness_Exalted.stages.0.description>Um vírus sagrado e bactérias divinas devem se reproduzir em minhas veias.</VME_Illness_Exalted.stages.0.description>
+
+        <!-- EN: wants to be sick -->
+        <VME_Illness_Exalted_TooHealthy.stages.0.label>saudável demais</VME_Illness_Exalted_TooHealthy.stages.0.label>
+        <!-- EN: What I would give for the illness to bind me in pain once more. -->
+        <VME_Illness_Exalted_TooHealthy.stages.0.description>Eu me sacrificaria para que a enfermidade me amarre na dor.</VME_Illness_Exalted_TooHealthy.stages.0.description>
+
+        <!-- EN: sick -->
+        <VME_Illness_Preferred.stages.0.label>doente</VME_Illness_Preferred.stages.0.label>
+        <!-- EN: I am sick. A perfect excuse to lie down. -->
+        <VME_Illness_Preferred.stages.0.description>Eu estou doente. Uma desculpa perfeita para relaxar e não trabalhar.</VME_Illness_Preferred.stages.0.description>
+
+        <!-- EN: ate insect jelly -->
+        <VME_AteInsectJellyDirect.stages.0.label>comeu geleia de inseto</VME_AteInsectJellyDirect.stages.0.label>
+        <!-- EN: I ate some insect jelly. Not bad. -->
+        <VME_AteInsectJellyDirect.stages.0.description>Eu comi um pouco de geleia de inseto. Nada mal.</VME_AteInsectJellyDirect.stages.0.description>
+
+        <!-- EN: ate insect jelly -->
+        <VME_AteInsectJellyDirect_Loved.stages.0.label>comeu geleia de inseto</VME_AteInsectJellyDirect_Loved.stages.0.label>
+        <!-- EN: Insect jelly is divine ambrosia, a gift from perfect creatures. -->
+        <VME_AteInsectJellyDirect_Loved.stages.0.description>A geleia de inseto é uma ambrosia divina, um presente de criaturas perfeitas..</VME_AteInsectJellyDirect_Loved.stages.0.description>
+
+        <!-- EN: ate insect meat -->
+        <VME_AteInsectMeat_Sacrilegious.stages.0.label>comeu carne de inseto</VME_AteInsectMeat_Sacrilegious.stages.0.label>
+        <!-- EN: I ate some insect meat. This is an act of sacrilege, how could I do this? -->
+        <VME_AteInsectMeat_Sacrilegious.stages.0.description>Eu comi um pouco de carne de inseto. Isso é um ato de sacrilégio, como eu pude?</VME_AteInsectMeat_Sacrilegious.stages.0.description>
+
+        <!-- EN: ate cooked insect jelly -->
+        <VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.label>comeu refeição de carne de inseto</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.label>
+        <!-- EN: I ate a meal that contained insect meat. This is an act of sacrilege, how could I do this? -->
+        <VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.description>Eu comi uma refeição que tinha carne de inseto. Isso é um ato de sacrilégio, como eu pude?</VME_AteInsectMeatAsIngredient_Sacrilegious.stages.0.description>
+
+        <!-- EN: insectoid slain -->
+        <VME_Insectoids_Exalted.stages.0.label>matou insetoide</VME_Insectoids_Exalted.stages.0.label>
+        <!-- EN: I have killed an insectoid being, this is a stain on my soul. -->
+        <VME_Insectoids_Exalted.stages.0.description>Eu matei um ser insetoide. Isso é uma mancha na minha alma!</VME_Insectoids_Exalted.stages.0.description>
+
+        <!-- EN: insectoid slain -->
+        <VME_Insectoids_Despised.stages.0.label>matou insetoide</VME_Insectoids_Despised.stages.0.label>
+        <!-- EN: I have killed an insectoid being, this is a victory! -->
+        <VME_Insectoids_Despised.stages.0.description>Eu matei um ser insetoide, uma vitória!</VME_Insectoids_Despised.stages.0.description>
+
+        <!-- EN: no junk -->
+        <VME_Junk_Beautiful.stages.0.label>nenhum lixo espacial</VME_Junk_Beautiful.stages.0.label>
+        <!-- EN: It has been too long since I’ve seen junk. -->
+        <VME_Junk_Beautiful.stages.0.description>Faz muito tempo que eu não vejo lixo espacial.</VME_Junk_Beautiful.stages.0.description>
+        <!-- EN: few pieces of ancient junk (1 nearby) -->
+        <VME_Junk_Beautiful.stages.1.label>muito pouco lixo espacial</VME_Junk_Beautiful.stages.1.label>
+        <!-- EN: This area is way too sparse, I miss seeing the junk. -->
+        <VME_Junk_Beautiful.stages.1.description>Esse lugar é muito vazio, eu sinto falta de lixo espacial.</VME_Junk_Beautiful.stages.1.description>
+        <!-- EN: few pieces of ancient junk (2 nearby) -->
+        <VME_Junk_Beautiful.stages.2.label>muito pouco lixo espacial</VME_Junk_Beautiful.stages.2.label>
+        <!-- EN: This area has very few relics of ancient technology. -->
+        <VME_Junk_Beautiful.stages.2.description>Esse lugar tem muito poucas relíquias da tecnologia ancestral.</VME_Junk_Beautiful.stages.2.description>
+        <!-- EN: few pieces of ancient junk (3 nearby) -->
+        <VME_Junk_Beautiful.stages.3.label>muito pouco lixo espacial</VME_Junk_Beautiful.stages.3.label>
+        <!-- EN: We need to gather more pieces of ancient junk. -->
+        <VME_Junk_Beautiful.stages.3.description>Nós precisamos de mais pedaços de lixo espacial.</VME_Junk_Beautiful.stages.3.description>
+        <!-- EN: few pieces of ancient junk (4 nearby) -->
+        <VME_Junk_Beautiful.stages.4.label>muito pouco lixo espacial</VME_Junk_Beautiful.stages.4.label>
+        <!-- EN: We have too few pieces of ancient junk lying around. -->
+        <VME_Junk_Beautiful.stages.4.description>Nós temos muitos poucos pedaços de lixo espacial por aí.</VME_Junk_Beautiful.stages.4.description>
+        <!-- EN: very little junk (5 nearby) -->
+        <VME_Junk_Beautiful.stages.5.label>pouco lixo espacial</VME_Junk_Beautiful.stages.5.label>
+        <!-- EN: We should gather at least a few more pieces. Our junkyard is lacking. -->
+        <VME_Junk_Beautiful.stages.5.description>Nós devíamos ter pelo menos mais alguns pedaços...</VME_Junk_Beautiful.stages.5.description>
+        <!-- EN: small junk -->
+        <VME_Junk_Beautiful.stages.6.label>lixo espacial pequeno</VME_Junk_Beautiful.stages.6.label>
+        <!-- EN: I recently saw a small pile of junk. -->
+        <VME_Junk_Beautiful.stages.6.description>Eu vi recentemente uma pequena pilha de lixo espacial.</VME_Junk_Beautiful.stages.6.description>
+        <!-- EN: saw junk -->
+        <VME_Junk_Beautiful.stages.7.label>viu lixo espacial</VME_Junk_Beautiful.stages.7.label>
+        <!-- EN: I recently saw junk. -->
+        <VME_Junk_Beautiful.stages.7.description>Eu recentemente vi lixo espacial.</VME_Junk_Beautiful.stages.7.description>
+        <!-- EN: amazing junk -->
+        <VME_Junk_Beautiful.stages.8.label>lixo espacial incrível</VME_Junk_Beautiful.stages.8.label>
+        <!-- EN: I am surrounded by junk. -->
+        <VME_Junk_Beautiful.stages.8.description>Eu estou rodeado por lixo espacial.</VME_Junk_Beautiful.stages.8.description>
+        <!-- EN: beautiful junk -->
+        <VME_Junk_Beautiful.stages.9.label>lixo espacial maravilhoso</VME_Junk_Beautiful.stages.9.label>
+        <!-- EN: I am surrounded by a junkyard and I love it. -->
+        <VME_Junk_Beautiful.stages.9.description>Eu estou rodeado por um ferro-velho! Incrível!</VME_Junk_Beautiful.stages.9.description>
+
+        <!-- EN: no junk -->
+        <VME_Junk_Preferred.stages.0.label>nenhum lixo espacial</VME_Junk_Preferred.stages.0.label>
+        <!-- EN: I'd prefer if the colony had some examples of ancient junk. -->
+        <VME_Junk_Preferred.stages.0.description>Eu preferiria que a colônia tivesse algumas amostras de lixo espacial.</VME_Junk_Preferred.stages.0.description>
+        <!-- EN: few pieces of ancient junk (1 nearby) -->
+        <VME_Junk_Preferred.stages.1.label>muito pouco lixo espacial</VME_Junk_Preferred.stages.1.label>
+        <!-- EN: This area is way too sparse, we could learn a lot from ancient technology. -->
+        <VME_Junk_Preferred.stages.1.description>Esse lugar é muito vazio, nós poderíamos aprender muito com a tecnologia ancestral.</VME_Junk_Preferred.stages.1.description>
+        <!-- EN: few pieces of ancient junk (2 nearby) -->
+        <VME_Junk_Preferred.stages.2.label>muito pouco lixo espacial</VME_Junk_Preferred.stages.2.label>
+        <!-- EN: This area has very few relics of ancient technology. -->
+        <VME_Junk_Preferred.stages.2.description>Esse lugar tem muito poucas relíquias da tecnologia ancestral.</VME_Junk_Preferred.stages.2.description>
+        <!-- EN: few pieces of ancient junk (3 nearby) -->
+        <VME_Junk_Preferred.stages.3.label>muito pouco lixo espacial</VME_Junk_Preferred.stages.3.label>
+        <!-- EN: We need to gather more pieces of ancient junk. -->
+        <VME_Junk_Preferred.stages.3.description>Nós precisamos de mais pedaços de lixo espacial.</VME_Junk_Preferred.stages.3.description>
+        <!-- EN: few pieces of ancient junk (4 nearby) -->
+        <VME_Junk_Preferred.stages.4.label>muito pouco lixo espacial</VME_Junk_Preferred.stages.4.label>
+        <!-- EN: We have too few pieces of ancient junk lying around. -->
+        <VME_Junk_Preferred.stages.4.description>Nós temos muitos poucos pedaços de lixo espacial por aí.</VME_Junk_Preferred.stages.4.description>
+        <!-- EN: very little junk (5 nearby) -->
+        <VME_Junk_Preferred.stages.5.label>pouco lixo espacial</VME_Junk_Preferred.stages.5.label>
+        <!-- EN: We should gather at least a few more pieces. We can learn a lot from ancient technology. -->
+        <VME_Junk_Preferred.stages.5.description>Nós deveríamos ter pelo menos mais alguns pedaços de lixo espacial. Podemos aprender muito com a tecnologia ancestral.</VME_Junk_Preferred.stages.5.description>
+        <!-- EN: small junk -->
+        <VME_Junk_Preferred.stages.6.label>lixo espacial pequeno</VME_Junk_Preferred.stages.6.label>
+        <!-- EN: I recently saw a small pile of junk. -->
+        <VME_Junk_Preferred.stages.6.description>Eu vi recentemente uma pequena pilha de lixo espacial.</VME_Junk_Preferred.stages.6.description>
+        <!-- EN: saw junk -->
+        <VME_Junk_Preferred.stages.7.label>viu lixo espacial</VME_Junk_Preferred.stages.7.label>
+        <!-- EN: I recently saw junk. -->
+        <VME_Junk_Preferred.stages.7.description>Eu recentemente vi lixo espacial.</VME_Junk_Preferred.stages.7.description>
+        <!-- EN: plenty of junk -->
+        <VME_Junk_Preferred.stages.8.label>muito lixo espacial</VME_Junk_Preferred.stages.8.label>
+        <!-- EN: I am surrounded by junk. -->
+        <VME_Junk_Preferred.stages.8.description>Eu estou rodeado por lixo espacial.</VME_Junk_Preferred.stages.8.description>
+        <!-- EN: lots of junk -->
+        <VME_Junk_Preferred.stages.9.label>toneladas de lixo espacial</VME_Junk_Preferred.stages.9.label>
+        <!-- EN: I am surrounded by a junkyard and I love it. -->
+        <VME_Junk_Preferred.stages.9.description>Eu estou rodeado por um ferro-velho! Acho fascinantes esses exemplos de tecnologia.</VME_Junk_Preferred.stages.9.description>
+
+        <!-- EN: enemies burnt -->
+        <VME_KillingWithFire_Preferred.stages.0.label>inimigos incendiados</VME_KillingWithFire_Preferred.stages.0.label>
+        <!-- EN: Our enemies burnt in the holy flames. -->
+        <VME_KillingWithFire_Preferred.stages.0.description>Nossos inimigos pereceram sob as chamas sagradas.</VME_KillingWithFire_Preferred.stages.0.description>
+
+        <!-- EN: enemies burnt -->
+        <VME_KillingWithFire_Abhorrent.stages.0.label>inimigos queimados</VME_KillingWithFire_Abhorrent.stages.0.label>
+        <!-- EN: Our enemies burnt to death and we were unable to avoid their gruesome deaths. -->
+        <VME_KillingWithFire_Abhorrent.stages.0.description>Nossos inimigos foram queimados até a morte e não conseguimos evitar suas mortes horríveis.</VME_KillingWithFire_Abhorrent.stages.0.description>
+
+        <!-- EN: supreme god emperor -->
+        <VME_Leader_Godlike.stages.0.label>Deus-Sol supremo</VME_Leader_Godlike.stages.0.label>
+        <!-- EN: god emperor -->
+        <VME_Leader_Godlike.stages.1.label>Deus-Sol</VME_Leader_Godlike.stages.1.label>
+        <!-- EN: dubious divinity -->
+        <VME_Leader_Godlike.stages.2.label>divindade questionável</VME_Leader_Godlike.stages.2.label>
+        <!-- EN: false god -->
+        <VME_Leader_Godlike.stages.3.label>falso Deus</VME_Leader_Godlike.stages.3.label>
+
+        <!-- EN: wearing leather clothing -->
+        <VME_LeatherApparel_Abhorrent.stages.0.label>utilizando vestuário de couro</VME_LeatherApparel_Abhorrent.stages.0.label>
+        <!-- EN: I'm wearing clothing made with animal leather. Slaughtering an animal to use its skin as apparel is cruel and inhumane. -->
+        <VME_LeatherApparel_Abhorrent.stages.0.description>Eu estou vestindo roupas feitas com couro animal. Abater um animal para usar sua pele como vestuário é cruel e desumano.</VME_LeatherApparel_Abhorrent.stages.0.description>
+
+        <!-- EN: wearing leather clothing -->
+        <VME_LeatherApparel_Disliked.stages.0.label>utilizando vestuário de couro</VME_LeatherApparel_Disliked.stages.0.label>
+        <!-- EN: Our enemies burnt to death and we were unable to avoid their gruesome deaths. -->
+        <VME_LeatherApparel_Disliked.stages.0.description>Eu estou vestindo roupas feitas com couro animal. O abate de um animal para usar sua pele deve ser evitado.</VME_LeatherApparel_Disliked.stages.0.description>
+
+        <!-- EN: darklight -->
+        <VME_Darklight_NormalPreferred_Darklight.stages.0.label>luz negra</VME_Darklight_NormalPreferred_Darklight.stages.0.label>
+        <!-- EN: Darklight is unnatural. -->
+        <VME_Darklight_NormalPreferred_Darklight.stages.0.description>A luz negra não é natural.</VME_Darklight_NormalPreferred_Darklight.stages.0.description>
+
+        <!-- EN: despised darkness -->
+        <VME_Darklight_DislikeDarkness.stages.0.label>escuridão</VME_Darklight_DislikeDarkness.stages.0.label>
+        <!-- EN: Darkness is unnatural and disgusting. -->
+        <VME_Darklight_DislikeDarkness.stages.0.description>A escuridão é antinatural e repugnante.</VME_Darklight_DislikeDarkness.stages.0.description>
+
+        <!-- EN: ate animal products -->
+        <VME_AteAnimalProducts_Abhorrent.stages.0.label>consumiu produtos animais</VME_AteAnimalProducts_Abhorrent.stages.0.label>
+        <!-- EN: I had to eat animal products. It is wrong and immoral to imprison an animal and use it as a factory. -->
+        <VME_AteAnimalProducts_Abhorrent.stages.0.description>Eu tive que comer produtos de origem animal. É errado e imoral aprisionar um animal e usá-lo como produto.</VME_AteAnimalProducts_Abhorrent.stages.0.description>
+
+        <!-- EN: ate animal products -->
+        <VME_AteAnimalProducts_Know_Abhorrent.stages.0.label>consumiu produtos animais</VME_AteAnimalProducts_Know_Abhorrent.stages.0.label>
+
+        <!-- EN: mechanoid destroyed -->
+        <VME_Mechanoids_Exalted.stages.0.label>mecanoide destruído</VME_Mechanoids_Exalted.stages.0.label>
+        <!-- EN: I have destroyed a mechanoid being, this will anger the gods. -->
+        <VME_Mechanoids_Exalted.stages.0.description>Eu destruí um mecanoide. Isso enfurecerá os deuses.</VME_Mechanoids_Exalted.stages.0.description>
+
+        <!-- EN: mechanoid destroyed -->
+        <VME_Mechanoids_Despised.stages.0.label>mecanoide destruído</VME_Mechanoids_Despised.stages.0.label>
+        <!-- EN: I have destroyed a mechanoid being, this is a victory! -->
+        <VME_Mechanoids_Despised.stages.0.description>Eu destruí um mecanoide, uma vitória!</VME_Mechanoids_Despised.stages.0.description>
+
+        <!-- EN: stars are aligned -->
+        <VME_Mood_DictatedByStars.stages.0.label>estrelas alinhadas</VME_Mood_DictatedByStars.stages.0.label>
+        <!-- EN: The astral architects smile upon me, their benevolence is unmatched. -->
+        <VME_Mood_DictatedByStars.stages.0.description>Os arquitetos astrais sorriem para mim, sua benevolência é inigualável.</VME_Mood_DictatedByStars.stages.0.description>
+        <!-- EN: stars are perfect -->
+        <VME_Mood_DictatedByStars.stages.1.label>estrelas perfeitas</VME_Mood_DictatedByStars.stages.1.label>
+        <!-- EN: The stellar bodies above tell a story of imminent fortunes and success. -->
+        <VME_Mood_DictatedByStars.stages.1.description>Os corpos estelares acima contam uma história de fortunas e sucessos iminentes.</VME_Mood_DictatedByStars.stages.1.description>
+        <!-- EN: stars are excellent -->
+        <VME_Mood_DictatedByStars.stages.2.label>estrelas excelentes</VME_Mood_DictatedByStars.stages.2.label>
+        <!-- EN: The stars whisper to me, and they tell me to breathe easy. My fate is comfortably in their hands. -->
+        <VME_Mood_DictatedByStars.stages.2.description>As estrelas sussurram para mim e me dizem para respirar com calma. Meu destino está confortavelmente em suas mãos.</VME_Mood_DictatedByStars.stages.2.description>
+        <!-- EN: stars are good -->
+        <VME_Mood_DictatedByStars.stages.3.label>estrelas boas</VME_Mood_DictatedByStars.stages.3.label>
+        <!-- EN: Though small, the constellations tell me all is well for the time being. -->
+        <VME_Mood_DictatedByStars.stages.3.description>Embora pequenas, as constelações me dizem que está tudo bem.</VME_Mood_DictatedByStars.stages.3.description>
+        <!-- EN: stars are indifferent -->
+        <VME_Mood_DictatedByStars.stages.4.label>estrelas indiferentes</VME_Mood_DictatedByStars.stages.4.label>
+        <!-- EN: The stars whisper nonsense and contradictions, our destiny is increasingly unclear. -->
+        <VME_Mood_DictatedByStars.stages.4.description>As estrelas sussurram bobagens e contradições, nosso destino é cada vez mais incerto.</VME_Mood_DictatedByStars.stages.4.description>
+        <!-- EN: stars are bad -->
+        <VME_Mood_DictatedByStars.stages.5.label>estrelas ruins</VME_Mood_DictatedByStars.stages.5.label>
+        <!-- EN: The skies do not bode well, an ill omen is on the horizon. -->
+        <VME_Mood_DictatedByStars.stages.5.description>O céu não augura nada de bom, um mau presságio está no horizonte.</VME_Mood_DictatedByStars.stages.5.description>
+        <!-- EN: stars are not on my side -->
+        <VME_Mood_DictatedByStars.stages.6.label>estrelas contrárias</VME_Mood_DictatedByStars.stages.6.label>
+        <!-- EN: The sea of stars is ever cloudy, they shroud themselves from me and refuse to tell me of my fate. -->
+        <VME_Mood_DictatedByStars.stages.6.description>O mar de estrelas está sempre nublado, elas se escondem de mim e se recusam a me contar meu destino.</VME_Mood_DictatedByStars.stages.6.description>
+        <!-- EN: stars are a bad omen -->
+        <VME_Mood_DictatedByStars.stages.7.label>estrelas maus</VME_Mood_DictatedByStars.stages.7.label>
+        <!-- EN: The stellar bodies far above have made themselves clear, I am no longer in their favor. -->
+        <VME_Mood_DictatedByStars.stages.7.description>Os corpos estelares lá em cima tornaram-se claros, não estou mais a seu favor.</VME_Mood_DictatedByStars.stages.7.description>
+        <!-- EN: stars are aligned… against me -->
+        <VME_Mood_DictatedByStars.stages.8.label>estrelas desalinhadas</VME_Mood_DictatedByStars.stages.8.label>
+        <!-- EN: The planets have aligned, a syzygy has made clear my approaching demise is inescapable. I will shortly be reduced to mere dust. -->
+        <VME_Mood_DictatedByStars.stages.8.description>Os planetas se desalinharam, uma sizígia deixou claro que minha morte iminente é inevitável. Em breve serei reduzido a mero pó.</VME_Mood_DictatedByStars.stages.8.description>
+
+        <!-- EN: rejoice -->
+        <VME_Mood_Shared.stages.0.label>alegria</VME_Mood_Shared.stages.0.label>
+        <!-- EN: Everyone is in good mood, as am I. -->
+        <VME_Mood_Shared.stages.0.description>Se todos estão de bom humor, eu também estou.</VME_Mood_Shared.stages.0.description>
+        <!-- EN: grieve -->
+        <VME_Mood_Shared.stages.1.label>tristeza</VME_Mood_Shared.stages.1.label>
+        <!-- EN: Everyone is in bad mood, as am I. -->
+        <VME_Mood_Shared.stages.1.description>Se todos estão de mau humor, eu também estou.</VME_Mood_Shared.stages.1.description>
+
+        <!-- EN: bad mood -->
+        <VME_Mood_LowExpectations.stages.0.label>mau humor</VME_Mood_LowExpectations.stages.0.label>
+        <!-- EN: I'm just generally having a bad mood. The Rim is a hostile place. -->
+        <VME_Mood_LowExpectations.stages.0.description>Normalmente eu estou de mau humor. Esse planeta é um lugar hostil.</VME_Mood_LowExpectations.stages.0.description>
+
+        <!-- EN: good mood -->
+        <VME_Mood_HighExpectations.stages.0.label>bom humor</VME_Mood_HighExpectations.stages.0.label>
+        <!-- EN: I'm just generally having a good mood. The Rim is an amazing place. -->
+        <VME_Mood_HighExpectations.stages.0.description>Normalmente eu estou de bom humor. Esse planeta é um lugar incrível.</VME_Mood_HighExpectations.stages.0.description>
+
+        <!-- EN: wanderlust (initial - stayed 15 days) -->
+        <VME_PermanentBases_Despised.stages.0.label>sede de viagem inicial</VME_PermanentBases_Despised.stages.0.label>
+        <!-- EN: We have been here for too long. Perhaps it is time to leave. -->
+        <VME_PermanentBases_Despised.stages.0.description>Nós estamos aqui há muito tempo. Talvez seja hora de partir.</VME_PermanentBases_Despised.stages.0.description>
+        <!-- EN: wanderlust (initial - stayed 16 days) -->
+        <VME_PermanentBases_Despised.stages.1.label>sede de viagem inicial</VME_PermanentBases_Despised.stages.1.label>
+        <!-- EN: We have been here for too long. Perhaps it is time to leave. -->
+        <VME_PermanentBases_Despised.stages.1.description>Nós estamos aqui há muito tempo. Talvez seja hora de partir.</VME_PermanentBases_Despised.stages.1.description>
+        <!-- EN: wanderlust (initial - stayed 17 days) -->
+        <VME_PermanentBases_Despised.stages.2.label>sede de viagem inicial</VME_PermanentBases_Despised.stages.2.label>
+        <!-- EN: We have been here for too long. Perhaps it is time to leave. -->
+        <VME_PermanentBases_Despised.stages.2.description>Nós estamos aqui há muito tempo. Talvez seja hora de partir.</VME_PermanentBases_Despised.stages.2.description>
+        <!-- EN: wanderlust (normal - stayed 20 days) -->
+        <VME_PermanentBases_Despised.stages.3.label>sede de viagem</VME_PermanentBases_Despised.stages.3.label>
+        <!-- EN: This colony is trite. We should we wandering, not staying on the same place. -->
+        <VME_PermanentBases_Despised.stages.3.description>Essa colônia é inútil. Devemos vagar, não ficar no mesmo lugar.</VME_PermanentBases_Despised.stages.3.description>
+        <!-- EN: wanderlust (normal - stayed 30 days) -->
+        <VME_PermanentBases_Despised.stages.4.label>sede de viagem</VME_PermanentBases_Despised.stages.4.label>
+        <!-- EN: This colony is trite. We should we wandering, not staying on the same place. -->
+        <VME_PermanentBases_Despised.stages.4.description>Essa colônia é inútil. Devemos vagar, não ficar no mesmo lugar.</VME_PermanentBases_Despised.stages.4.description>
+        <!-- EN: wanderlust (serious - stayed 40 days) -->
+        <VME_PermanentBases_Despised.stages.5.label>sede de viagem séria</VME_PermanentBases_Despised.stages.5.label>
+        <!-- EN: Enough already! It is time to pack our things and hit the road. -->
+        <VME_PermanentBases_Despised.stages.5.description>Já basta! É hora de arrumar nossas coisas e cair na estrada.</VME_PermanentBases_Despised.stages.5.description>
+        <!-- EN: wanderlust (serious - stayed 50 days) -->
+        <VME_PermanentBases_Despised.stages.6.label>sede de viagem séria</VME_PermanentBases_Despised.stages.6.label>
+        <!-- EN: Enough already! It is time to pack our things and hit the road. -->
+        <VME_PermanentBases_Despised.stages.6.description>Já basta! É hora de arrumar nossas coisas e cair na estrada.</VME_PermanentBases_Despised.stages.6.description>
+        <!-- EN: wanderlust (extreme - stayed 60 days) -->
+        <VME_PermanentBases_Despised.stages.7.label>sede de viagem extrema</VME_PermanentBases_Despised.stages.7.label>
+        <!-- EN: Agh! I can't stand being here anymore! -->
+        <VME_PermanentBases_Despised.stages.7.description>Porra! Eu não aguento mais ficar aqui!</VME_PermanentBases_Despised.stages.7.description>
+
+        <!-- EN: magnificent city -->
+        <VME_PermanentBases_Desired.stages.0.label>cidade magnífica</VME_PermanentBases_Desired.stages.0.label>
+        <!-- EN: Our city is magnificent, a fine example of what humanity can achieve. -->
+        <VME_PermanentBases_Desired.stages.0.description>Nossa cidade é magnífica, um belo exemplo do que a humanidade pode alcançar.</VME_PermanentBases_Desired.stages.0.description>
+        <!-- EN: lots of beautiful buildings -->
+        <VME_PermanentBases_Desired.stages.1.label>muitas construções</VME_PermanentBases_Desired.stages.1.label>
+        <!-- EN: We have so many beautiful buildings! -->
+        <VME_PermanentBases_Desired.stages.1.description>Nós temos tantas construções lindas!</VME_PermanentBases_Desired.stages.1.description>
+        <!-- EN: many beautiful buildings -->
+        <VME_PermanentBases_Desired.stages.2.label>várias construções</VME_PermanentBases_Desired.stages.2.label>
+        <!-- EN: We have so many beautiful buildings! -->
+        <VME_PermanentBases_Desired.stages.2.description>Nós temos tantas construções lindas!</VME_PermanentBases_Desired.stages.2.description>
+        <!-- EN: burgeoning city -->
+        <VME_PermanentBases_Desired.stages.3.label>cidade crescente</VME_PermanentBases_Desired.stages.3.label>
+        <!-- EN: Our city is growing! -->
+        <VME_PermanentBases_Desired.stages.3.description>Nossa cidade está crescendo!</VME_PermanentBases_Desired.stages.3.description>
+        <!-- EN: not enough buildings -->
+        <VME_PermanentBases_Desired.stages.4.label>muitas poucas construções</VME_PermanentBases_Desired.stages.4.label>
+        <!-- EN: There are not enough buildings nearby. I feel unprotected. -->
+        <VME_PermanentBases_Desired.stages.4.description>Não há construções suficientes nas proximidades. Eu me sinto desprotegido.</VME_PermanentBases_Desired.stages.4.description>
+
+        <!-- EN: divine rule -->
+        <VME_Power_Exalted.stages.0.label>poder divino</VME_Power_Exalted.stages.0.label>
+        <!-- EN: My rule is supreme, for I am godlike. -->
+        <VME_Power_Exalted.stages.0.description>Meu poder é divino, pois sou como um Deus!</VME_Power_Exalted.stages.0.description>
+
+        <!-- EN: in a position of power -->
+        <VME_Power_Desired.stages.0.label>posição de poder</VME_Power_Desired.stages.0.label>
+        <!-- EN: I feel important and everyone looks up to me. -->
+        <VME_Power_Desired.stages.0.description>Eu me sinto importante. Todos se espelham em mim.</VME_Power_Desired.stages.0.description>
+
+        <!-- EN: i am important -->
+        <VME_Power_Preferred.stages.0.label>importante</VME_Power_Preferred.stages.0.label>
+        <!-- EN: I hold a reasonable position of power and I like that feeling -->
+        <VME_Power_Preferred.stages.0.description>Eu mantenho uma posição de poder razoável e gosto desse sentimento.</VME_Power_Preferred.stages.0.description>
+
+        <!-- EN: participated in raid -->
+        <VME_ParticipatedInRaid_Honorable.stages.0.label>participou de uma invasão</VME_ParticipatedInRaid_Honorable.stages.0.label>
+        <!-- EN: I participated in a raid. Through conquest, we bring honor to our colony. -->
+        <VME_ParticipatedInRaid_Honorable.stages.0.description>Eu participei de uma invasão. Através da conquista, trazemos honra à nossa colônia.</VME_ParticipatedInRaid_Honorable.stages.0.description>
+
+        <!-- EN: recent conquest -->
+        <VME_RecentConquest_Honorable.stages.0.label>conquista recente</VME_RecentConquest_Honorable.stages.0.label>
+        <!-- EN: We recently raided another faction. Through conquest, we bring honor to our colony. -->
+        <VME_RecentConquest_Honorable.stages.0.description>Recentemente, nós invadimos outra facção. Através da conquista, trazemos honra à nossa colônia.</VME_RecentConquest_Honorable.stages.0.description>
+        <!-- EN: no recent conquest -->
+        <VME_RecentConquest_Honorable.stages.1.label>nenhuma conquista recente</VME_RecentConquest_Honorable.stages.1.label>
+        <!-- EN: It's been far too long since we raided anyone. Through conquest, we bring honor to our colony. -->
+        <VME_RecentConquest_Honorable.stages.1.description>Já faz muito tempo desde que invadimos alguém. Através da conquista, trazemos honra à nossa colônia.</VME_RecentConquest_Honorable.stages.1.description>
+
+        <!-- EN: participated in raid -->
+        <VME_ParticipatedInRaid_Abhorrent.stages.0.label>participou de uma invasão</VME_ParticipatedInRaid_Abhorrent.stages.0.label>
+        <!-- EN: I participated in a raid. How could we do that? It's horribly shameful! -->
+        <VME_ParticipatedInRaid_Abhorrent.stages.0.description>Eu participei de uma invasão. Como poderíamos fazer isso? É terrivelmente vergonhoso!</VME_ParticipatedInRaid_Abhorrent.stages.0.description>
+
+        <!-- EN: recent conquest -->
+        <VME_RecentConquest_Abhorrent.stages.0.label>conquista recente</VME_RecentConquest_Abhorrent.stages.0.label>
+        <!-- EN: We recently raided another faction. This is horrible and brings shame to our colony. -->
+        <VME_RecentConquest_Abhorrent.stages.0.description>Recentemente, nós invadimos outra facção. Isso é horrível e envergonha a nossa colônia.</VME_RecentConquest_Abhorrent.stages.0.description>
+        <!-- EN: no recent conquest -->
+        <VME_RecentConquest_Abhorrent.stages.1.label>nenhuma conquista recente</VME_RecentConquest_Abhorrent.stages.1.label>
+        <!-- EN: It's been far too long since we raided anyone. This is as it should be, we are not bullies. -->
+        <VME_RecentConquest_Abhorrent.stages.1.description>Já faz muito tempo desde que invadimos alguém. AÉ assim que deve ser, não somos maus.</VME_RecentConquest_Abhorrent.stages.1.description>
+
+        <!-- EN: no pen markers around -->
+        <VME_Ranching_Disliked.stages.0.label>nenhum marcador de curral</VME_Ranching_Disliked.stages.0.label>
+        <!-- EN: We have no imprisoned animals. This is the way things should be. -->
+        <VME_Ranching_Disliked.stages.0.description>Não temos animais presos. É assim que as coisas devem ser.</VME_Ranching_Disliked.stages.0.description>
+        <!-- EN: pen marker around -->
+        <VME_Ranching_Disliked.stages.1.label>marcador de curral</VME_Ranching_Disliked.stages.1.label>
+        <!-- EN: We have a pen marker in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral. -->
+        <VME_Ranching_Disliked.stages.1.description>Nós temos um marcador de curral em nossa colônia. Os animais não são nossos escravos e não devem ser mantidos em cativeiro, é imoral.</VME_Ranching_Disliked.stages.1.description>
+        <!-- EN: pen markers around -->
+        <VME_Ranching_Disliked.stages.2.label>marcadores de curral</VME_Ranching_Disliked.stages.2.label>
+        <!-- EN: We have several pen markers in our colony. Animals are not our slaves and shouldn't be kept captive, it's immoral! -->
+        <VME_Ranching_Disliked.stages.2.description>Nós temos vários marcadores de curral em nossa colônia. Os animais não são nossos escravos e não devem ser mantidos em cativeiro, é imoral!</VME_Ranching_Disliked.stages.2.description>
+        <!-- EN: factory farming -->
+        <VME_Ranching_Disliked.stages.3.label>pecuária industrial</VME_Ranching_Disliked.stages.3.label>
+        <!-- EN: Our colony has too many pens, filled with poor animals in cramped conditions, bred for the slaughter. I'm disgusted. -->
+        <VME_Ranching_Disliked.stages.3.description>Nossa colônia tem muitos currais, cheios de animais pobres em condições precárias, criados para o abate. Eu estou enojado.</VME_Ranching_Disliked.stages.3.description>
+
+        <!-- EN: attacked an animal -->
+        <VME_Ranching_Disliked_AttackedAnimal.stages.0.label>atacou animal</VME_Ranching_Disliked_AttackedAnimal.stages.0.label>
+        <!-- EN: I had to attack an animal. They have rights too! -->
+        <VME_Ranching_Disliked_AttackedAnimal.stages.0.description>Eu tive que atacar um animal. Eles também têm direitos!</VME_Ranching_Disliked_AttackedAnimal.stages.0.description>
+
+        <!-- EN: sowed human food plant -->
+        <VME_Ranching_Disliked_SowedPlant.stages.0.label>cultivou planta de alimentação humana</VME_Ranching_Disliked_SowedPlant.stages.0.label>
+        <!-- EN: I sowed a human food plant. It's amazing, food free from cruelty and abuse. -->
+        <VME_Ranching_Disliked_SowedPlant.stages.0.description>Eu cultivei uma planta de alimentação humana. É incrível, comida livre de crueldade e abuso.</VME_Ranching_Disliked_SowedPlant.stages.0.description>
+
+        <!-- EN: waste of time -->
+        <VME_Recreation_Disapproved.stages.0.label>perda de tempo</VME_Recreation_Disapproved.stages.0.label>
+        <!-- EN: Recreation is a waste of time. -->
+        <VME_Recreation_Disapproved.stages.0.description>Recreação é perda de tempo.</VME_Recreation_Disapproved.stages.0.description>
+
+        <!-- EN: keeper of sacred flame -->
+        <VME_IdeoRole_FireKeeper.stages.0.label>guardião da chama sagrada</VME_IdeoRole_FireKeeper.stages.0.label>
+
+        <!-- EN: faintly scarred -->
+        <VME_Scars_Honorable.stages.0.label>pouco escarificado</VME_Scars_Honorable.stages.0.label>
+        <!-- EN: scarred -->
+        <VME_Scars_Honorable.stages.1.label>escarificado</VME_Scars_Honorable.stages.1.label>
+        <!-- EN: heavily scarred -->
+        <VME_Scars_Honorable.stages.2.label>muito escarificado</VME_Scars_Honorable.stages.2.label>
+        <!-- EN: extremely scarred -->
+        <VME_Scars_Honorable.stages.3.label>extremamente escarificado</VME_Scars_Honorable.stages.3.label>
+        <!-- EN: innumerable battlefield scars -->
+        <VME_Scars_Honorable.stages.4.label>inumeravelmente escarificado</VME_Scars_Honorable.stages.4.label>
+
+        <!-- EN: faintly scarred -->
+        <VME_Scars_Disgusting.stages.0.label>pouco escarificado</VME_Scars_Disgusting.stages.0.label>
+        <!-- EN: scarred -->
+        <VME_Scars_Disgusting.stages.1.label>escarificado</VME_Scars_Disgusting.stages.1.label>
+        <!-- EN: heavily scarred -->
+        <VME_Scars_Disgusting.stages.2.label>muito escarificado</VME_Scars_Disgusting.stages.2.label>
+        <!-- EN: extremely scarred -->
+        <VME_Scars_Disgusting.stages.3.label>extremamente escarificado</VME_Scars_Disgusting.stages.3.label>
+        <!-- EN: innumerable battlefield scars -->
+        <VME_Scars_Disgusting.stages.4.label>inumeravelmente escarificado</VME_Scars_Disgusting.stages.4.label>
+
+        <!-- EN: unemancipated slaves in colony -->
+        <VME_Slavery_Forbidden_SlavesInColony.stages.0.label>escravos não emancipados na colônia</VME_Slavery_Forbidden_SlavesInColony.stages.0.label>
+        <!-- EN: There are slaves in the colony. We should emancipate them as soon as possible. -->
+        <VME_Slavery_Forbidden_SlavesInColony.stages.0.description>Há escravos na colônia. Devemos emancipá-los o mais rápido possível.</VME_Slavery_Forbidden_SlavesInColony.stages.0.description>
+
+        <!-- EN: suffered slavery -->
+        <VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>sofreu escravidão</VME_Slavery_Forbidden_HasBeenASlave.stages.0.label>
+
+        <!-- EN: sold slave -->
+        <VME_SoldSlave_Know_Forbidden.stages.0.label>vendeu escravo</VME_SoldSlave_Know_Forbidden.stages.0.label>
+
+        <!-- EN: we sold a slave! -->
+        <VME_SoldSlave_Know_Forbidden_Mood.stages.0.label>vendemos um escravo</VME_SoldSlave_Know_Forbidden_Mood.stages.0.label>
+        <!-- EN: We took part in the horrible act of slave trading. What a disgrace. -->
+        <VME_SoldSlave_Know_Forbidden_Mood.stages.0.description>Nós participamos do horrível ato de tráfico de escravos. Que desgraça.</VME_SoldSlave_Know_Forbidden_Mood.stages.0.description>
+
+        <!-- EN: bought a slave! -->
+        <VME_BoughtSlave_Know_Forbidden_Mood.stages.0.label>compramos um escravo</VME_BoughtSlave_Know_Forbidden_Mood.stages.0.label>
+        <!-- EN: We have bought a slave from evil slave traders! -->
+        <VME_BoughtSlave_Know_Forbidden_Mood.stages.0.description>Nós compramos um escravo de traficantes malvados!</VME_BoughtSlave_Know_Forbidden_Mood.stages.0.description>
+
+        <!-- EN: wearing dead person's clothing -->
+        <VME_TaintedApparel_Abhorrent.stages.0.label>vestuário de cadáver</VME_TaintedApparel_Abhorrent.stages.0.label>
+        <!-- EN: I'm wearing clothing used by a dead person, I can't imagine anything more disgusting! Someone died wearing these! -->
+        <VME_TaintedApparel_Abhorrent.stages.0.description>Eu estou usando roupas usadas por uma pessoa morta, não consigo imaginar nada mais nojento! Alguém morreu usando isso!</VME_TaintedApparel_Abhorrent.stages.0.description>
+
+        <!-- EN: wearing ratty clothes -->
+        <VME_TatteredApparel_Abhorrent.stages.0.label>roupas rasgadas</VME_TatteredApparel_Abhorrent.stages.0.label>
+        <!-- EN: I'm wearing clothing that is tattered, and this is incredibly disgusting. Only the finest threads are worthy of my body. -->
+        <VME_TatteredApparel_Abhorrent.stages.0.description>Eu estou usando roupas esfarrapadas, e isso é incrivelmente nojento. Apenas os fios mais finos são dignos do meu corpo.</VME_TatteredApparel_Abhorrent.stages.0.description>
+
+        <!-- EN: recently traded -->
+        <VME_Trading_Required.stages.0.label>comércio recente</VME_Trading_Required.stages.0.label>
+        <!-- EN: As usual, our products are flying off the shelves. -->
+        <VME_Trading_Required.stages.0.description>Como de costume, nossos produtos estão saindo das prateleiras.</VME_Trading_Required.stages.0.description>
+        <!-- EN: no recent trades -->
+        <VME_Trading_Required.stages.1.label>nenhum comércio recente</VME_Trading_Required.stages.1.label>
+        <!-- EN: No one wants to buy our product. I hope these quiet times will pass. -->
+        <VME_Trading_Required.stages.1.description>Ninguém quer comprar nosso produto...</VME_Trading_Required.stages.1.description>
+
+        <!-- EN: traveled the world (less than 5 days ago) -->
+        <VME_Travel_Desired.stages.0.label>viajou</VME_Travel_Desired.stages.0.label>
+        <!-- EN: There is nothing as exhilarating as seeing what the world has to offer. -->
+        <VME_Travel_Desired.stages.0.description>Não há nada tão emocionante quanto ver o que o mundo tem a oferecer.</VME_Travel_Desired.stages.0.description>
+        <!-- EN: traveled the world (less than 10 days ago) -->
+        <VME_Travel_Desired.stages.1.label>viajou</VME_Travel_Desired.stages.1.label>
+        <!-- EN: Travelling is amazing. Seeing the sights, discovering new lands... The memories of my last travels are still fresh in my mind. -->
+        <VME_Travel_Desired.stages.1.description>Viajar é incrível. Observar as paisagens, descobrir novos horizontes... as memórias das minhas últimas viagens ainda estão frescas na minha mente.</VME_Travel_Desired.stages.1.description>
+        <!-- EN: traveled the world (less than 15 days ago) -->
+        <VME_Travel_Desired.stages.2.label>viajou</VME_Travel_Desired.stages.2.label>
+        <!-- EN: It's been a few days since I traveled. I loved it. -->
+        <VME_Travel_Desired.stages.2.description>Já faz alguns dias que viajei. Eu amei!</VME_Travel_Desired.stages.2.description>
+        <!-- EN: traveled the world (less than 60 days ago) -->
+        <VME_Travel_Desired.stages.3.label>viajou</VME_Travel_Desired.stages.3.label>
+        <!-- EN: I have a fond memory of my past travels. -->
+        <VME_Travel_Desired.stages.3.description>Eu tenho uma boa lembrança das minhas viagens passadas.</VME_Travel_Desired.stages.3.description>
+
+        <!-- EN: had to leave the colony (less than 5 days ago) -->
+        <VME_Travel_Despised.stages.0.label>teve que viajar</VME_Travel_Despised.stages.0.label>
+        <!-- EN: I despise traveling. Leaving the security of our colony is terrible. -->
+        <VME_Travel_Despised.stages.0.description>Eu odeio viajar. Sair da segurança de nossa colônia é terrível.</VME_Travel_Despised.stages.0.description>
+        <!-- EN: had to leave the colony (less than 10 days ago) -->
+        <VME_Travel_Despised.stages.1.label>teve que viajar</VME_Travel_Despised.stages.1.label>
+        <!-- EN: The memories of my last travels are still fresh in my mind. I hated it. -->
+        <VME_Travel_Despised.stages.1.description>As lembranças das minhas últimas viagens ainda estão frescas em minha mente. Eu odeio isso.</VME_Travel_Despised.stages.1.description>
+        <!-- EN: had to leave the colony (less than 15 days ago) -->
+        <VME_Travel_Despised.stages.2.label>teve que viajar</VME_Travel_Despised.stages.2.label>
+        <!-- EN: It's been a few days since I traveled. I hated it. -->
+        <VME_Travel_Despised.stages.2.description>Já faz alguns dias que eu viajei. Eu odiei...</VME_Travel_Despised.stages.2.description>
+        <!-- EN: had to leave the colony (less than 60 days ago) -->
+        <VME_Travel_Despised.stages.3.label>teve que viajar</VME_Travel_Despised.stages.3.label>
+        <!-- EN: I have uncomfortable memories of my past travels. -->
+        <VME_Travel_Despised.stages.3.description>Eu tenho lembranças desconfortáveis ​​de minhas viagens passadas.</VME_Travel_Despised.stages.3.description>
+
+        <!-- EN: attacked person -->
+        <VME_Violence_Honorable.stages.0.label>atacou alguém</VME_Violence_Honorable.stages.0.label>
+        <!-- EN: I have used deadly force on an adversary. This proves our strength and our resolve. -->
+        <VME_Violence_Honorable.stages.0.description>Eu usei força letal em um adversário. Isso prova nossa força e nossa determinação.</VME_Violence_Honorable.stages.0.description>
+
+        <!-- EN: attacked person -->
+        <VME_Violence_Disapproved.stages.0.label>atacou alguém</VME_Violence_Disapproved.stages.0.label>
+        <!-- EN: I have used deadly force on an adversary. This is wrong. -->
+        <VME_Violence_Disapproved.stages.0.description>Eu usei força letal em um adversário. Isso está errado.</VME_Violence_Disapproved.stages.0.description>
+
+        <!-- EN: attacked person -->
+        <VME_Violence_Abhorrent.stages.0.label>atacou alguém</VME_Violence_Abhorrent.stages.0.label>
+        <!-- EN: I have used deadly force on an adversary. It brings great shame. -->
+        <VME_Violence_Abhorrent.stages.0.description>Eu usei força letal em um adversário. Vergonhoso!</VME_Violence_Abhorrent.stages.0.description>
+
+        <!-- EN: terrible bonfire -->
+        <VME_TerribleBonfire.stages.0.label>fogaréu terrível</VME_TerribleBonfire.stages.0.label>
+        <!-- EN: Some pathetic little flames drifted around, and they went away too soon. "Bon" fire? More like "Lame" fire. -->
+        <VME_TerribleBonfire.stages.0.description>Algumas pequenas chamas patéticas ascenderam e foram embora cedo demais...</VME_TerribleBonfire.stages.0.description>
+
+        <!-- EN: lackluster bonfire -->
+        <VME_LacklusterBonfire.stages.0.label>fogaréu normal</VME_LacklusterBonfire.stages.0.label>
+        <!-- EN: We were expecting a wondrous conflagration, and instead we got an oversized campfire. At least it was kinda entertaining. -->
+        <VME_LacklusterBonfire.stages.0.description>Nós estávamos esperando uma conflagração maravilhosa e, em vez disso, recebemos uma fogueira enorme. Pelo menos foi meio divertido.</VME_LacklusterBonfire.stages.0.description>
+
+        <!-- EN: good bonfire -->
+        <VME_GoodBonfire.stages.0.label>fogaréu bom</VME_GoodBonfire.stages.0.label>
+        <!-- EN: The flames rose and crackled majestically over the settlement, and it lifted all our spirits considerably. -->
+        <VME_GoodBonfire.stages.0.description>As chamas subiram e crepitaram majestosamente sobre o assentamento!</VME_GoodBonfire.stages.0.description>
+
+        <!-- EN: glorious bonfire -->
+        <VME_GloriousBonfire.stages.0.label>fogaréu glorioso</VME_GloriousBonfire.stages.0.label>
+        <!-- EN: It was super fun and we really connected with each other with the shared experience. -->
+        <VME_GloriousBonfire.stages.0.description>Foi super divertido e nós realmente nos conectamos.</VME_GloriousBonfire.stages.0.description>
+
+        <!-- EN: terrible ceremonial suicide -->
+        <VME_TerribleCeremonialSuicide.stages.0.label>suicídio cerimonial terrível</VME_TerribleCeremonialSuicide.stages.0.label>
+        <!-- EN: That ceremonial suicide was terrible. The blade was thrust laterally and there was blood and entrails everywhere. Disgusting! -->
+        <VME_TerribleCeremonialSuicide.stages.0.description>Aquele suicídio cerimonial foi terrível. A lâmina foi enfiada lateralmente e havia sangue e vísceras por toda parte. Nojento!</VME_TerribleCeremonialSuicide.stages.0.description>
+
+        <!-- EN: boring ceremonial suicide -->
+        <VME_BoringCeremonialSuicide.stages.0.label>suicídio cerimonial chato</VME_BoringCeremonialSuicide.stages.0.label>
+        <!-- EN: That ceremonial suicide was not good. The speech seemed forced. At the very least we have restored the honor of our colony. -->
+        <VME_BoringCeremonialSuicide.stages.0.description>Aquele suicídio cerimonial não foi bom. O discurso parecia forçado. No mínimo, a honra de nossa colônia foi restaurada.</VME_BoringCeremonialSuicide.stages.0.description>
+
+        <!-- EN: honorable ceremonial suicide -->
+        <VME_HonorableCeremonialSuicide.stages.0.label>suicídio cerimonial honrável</VME_HonorableCeremonialSuicide.stages.0.label>
+        <!-- EN: A honorable ceremonial suicide. The shadow of defeat no longer clouds our minds. -->
+        <VME_HonorableCeremonialSuicide.stages.0.description>Um suicídio cerimonial honroso. A sombra da derrota não obscurece mais nossas mentes.</VME_HonorableCeremonialSuicide.stages.0.description>
+
+        <!-- EN: unforgettable ceremonial suicide -->
+        <VME_UnforgettableCeremonialSuicide.stages.0.label>suicídio cerimonial inesquecível</VME_UnforgettableCeremonialSuicide.stages.0.label>
+        <!-- EN: That ceremonial suicide was unforgettable! Everyone will remember the courage, self-control, and strong resolve. The honor of our colony is now spotless. -->
+        <VME_UnforgettableCeremonialSuicide.stages.0.description>O suicídio cerimonial foi inesquecível! Todos se lembrarão da coragem, do autocontrole e da forte determinação. A honra de nossa colônia agora é impecável.</VME_UnforgettableCeremonialSuicide.stages.0.description>
+
+        <!-- EN: squamous incantation -->
+        <VME_SquamousIncantation.stages.0.label>encantamento escamoso</VME_SquamousIncantation.stages.0.label>
+        <!-- EN: An indescribably hideous gibbering! I'd even describe it as squamous, but I don't even know what that is! An unutterable word! -->
+        <VME_SquamousIncantation.stages.0.description>Um balbucio indescritivelmente hediondo! Eu até descreveria como escamoso, mas nem sei o que é isso! Uma palavra inexprimível!</VME_SquamousIncantation.stages.0.description>
+
+        <!-- EN: accursed incantation -->
+        <VME_AccursedIncantation.stages.0.label>encantamento execrável</VME_AccursedIncantation.stages.0.label>
+        <!-- EN: A litany of dark morbidities expressed in crime, perversion, and insanity. -->
+        <VME_AccursedIncantation.stages.0.description>Uma ladainha de morbidades sombrias expressas em crime, perversão e insanidade.</VME_AccursedIncantation.stages.0.description>
+
+        <!-- EN: blasphemous incantation -->
+        <VME_BlasphemousIncantation.stages.0.label>encantamento blasfemo</VME_BlasphemousIncantation.stages.0.label>
+        <!-- EN: A promise of hidden and fathomless worlds of strange life which pulsate in the gulfs beyond the stars and press hideously upon our own globe in unholy dimensions which only the dead and the moonstruck can glimpse. -->
+        <VME_BlasphemousIncantation.stages.0.description>Uma promessa de mundos ocultos e insondáveis ​​de vida estranha que pulsam nos abismos além das estrelas e pressionam horrivelmente sobre nosso próprio globo em dimensões profanas que apenas os mortos e os enlutados podem vislumbrar.</VME_BlasphemousIncantation.stages.0.description>
+
+        <!-- EN: loathsome incantation -->
+        <VME_LoathsomeIncantation.stages.0.label>encantamento asqueroso</VME_LoathsomeIncantation.stages.0.label>
+        <!-- EN: We live on a placid island of ignorance in the midst of black seas of infinity, and it was not meant that we should voyage far. -->
+        <VME_LoathsomeIncantation.stages.0.description>Nós vivemos em uma plácida ilha de ignorância no meio de mares negros do infinito, e não era para viajarmos muito longe.</VME_LoathsomeIncantation.stages.0.description>
+
+        <!-- EN: uninteresting insectoid hymn -->
+        <VME_UninterestingInsectoidHymn.stages.0.label>hino insetoide desinteressante</VME_UninterestingInsectoidHymn.stages.0.label>
+        <!-- EN: What an incredibly uninteresting ritual. Yeah, yeah, insects are cool. Bah. -->
+        <VME_UninterestingInsectoidHymn.stages.0.description>Que ritual incrivelmente desinteressante. É, insetos são legais.</VME_UninterestingInsectoidHymn.stages.0.description>
+
+        <!-- EN: awkward insectoid hymn -->
+        <VME_AwkwardInsectoidHymn.stages.0.label>hino insetoide estranho</VME_AwkwardInsectoidHymn.stages.0.label>
+        <!-- EN: The speech was repetitive, and it did nothing to convince me of the divinity of our beloved insects. -->
+        <VME_AwkwardInsectoidHymn.stages.0.description>O discurso foi repetitivo, e não fez nada para me convencer da divindade de nossos amados insetos.</VME_AwkwardInsectoidHymn.stages.0.description>
+
+        <!-- EN: rousing insectoid hymn -->
+        <VME_RousingInsectoidHymn.stages.0.label>hino insetoide vibrante</VME_RousingInsectoidHymn.stages.0.label>
+        <!-- EN: The chanter showed impressing skill and the hymn appropriately extolled the virtues of our way of life. -->
+        <VME_RousingInsectoidHymn.stages.0.description>O cantor mostrou habilidade impressionante e o hino exaltava adequadamente as virtudes de nosso modo de vida.</VME_RousingInsectoidHymn.stages.0.description>
+
+        <!-- EN: entrancing insectoid hymn -->
+        <VME_EntrancingInsectoidHymn.stages.0.label>hino insetoide extasiante</VME_EntrancingInsectoidHymn.stages.0.label>
+        <!-- EN: I can still hear the mesmerizing words of the hymn, like a myriad insectile legs crawling all over our bodies. -->
+        <VME_EntrancingInsectoidHymn.stages.0.description>Ainda posso ouvir as palavras hipnotizantes do hino, como uma miríade de insetos rastejando por todo o nosso corpo.</VME_EntrancingInsectoidHymn.stages.0.description>
+
+        <!-- EN: terrible leadership challenge -->
+        <VME_TerribleLeadershipChallenge.stages.0.label>desafio de liderança terrível</VME_TerribleLeadershipChallenge.stages.0.label>
+        <!-- EN: That leadership challenge was terrible. Watching it just made people sad. I guess we have a strong leader, at least... -->
+        <VME_TerribleLeadershipChallenge.stages.0.description>Aquele desafio de liderança foi terrível. Só deixou as pessoas tristes. Temos um líder forte agora, eu acho...</VME_TerribleLeadershipChallenge.stages.0.description>
+
+        <!-- EN: boring leadership challenge -->
+        <VME_BoringLeadershipChallenge.stages.0.label>desafio de liderança chato</VME_BoringLeadershipChallenge.stages.0.label>
+        <!-- EN: That leadership challenge was not good. The fighters wouldn't commit, so there were no exciting moments. At least our leader is the strongest. -->
+        <VME_BoringLeadershipChallenge.stages.0.description>Aquele desafio de liderança não foi bom. Os lutadores não se comprometeram, não houve momentos emocionantes...</VME_BoringLeadershipChallenge.stages.0.description>
+
+        <!-- EN: good leadership challenge -->
+        <VME_GoodLeadershipChallenge.stages.0.label>desafio de liderança bom</VME_GoodLeadershipChallenge.stages.0.label>
+        <!-- EN: A good leadership challenge. The fighters went for blood and showed real heart. We now know that our leader is the strongest. -->
+        <VME_GoodLeadershipChallenge.stages.0.description>Um bom desafio de liderança. Os lutadores caçaram o sangue! Agora sabemos que nosso líder é o mais forte.</VME_GoodLeadershipChallenge.stages.0.description>
+
+        <!-- EN: unforgettable leadership challenge -->
+        <VME_UnforgettableLeadershipChallenge.stages.0.label>desafio de liderança inesquecível</VME_UnforgettableLeadershipChallenge.stages.0.label>
+        <!-- EN: That leadership challenge was unforgettable! Both fighters gave all they had, and we know that our leader is now the strongest among us! -->
+        <VME_UnforgettableLeadershipChallenge.stages.0.description>O desafio de liderança foi inesquecível! Ambos os lutadores deram tudo o que tinham, e sabemos que nosso líder agora é o mais forte entre nós!</VME_UnforgettableLeadershipChallenge.stages.0.description>
+
+        <!-- EN: grotesque orgy -->
+        <VME_GrotesqueOrgy.stages.0.label>orgia grotesca</VME_GrotesqueOrgy.stages.0.label>
+        <!-- EN: When you think of an orgy, you tend to imagine attractive people. This was... the entire opposite. The mental images will take a while to go away. -->
+        <VME_GrotesqueOrgy.stages.0.description>Quando você pensa em uma orgia, tende a imaginar pessoas atraentes. A orgia foi... o oposto. Os pesadelos mentais vão demorar um pouco para desaparecer.</VME_GrotesqueOrgy.stages.0.description>
+
+        <!-- EN: awkward orgy -->
+        <VME_AwkwardOrgy.stages.0.label>orgia confusa</VME_AwkwardOrgy.stages.0.label>
+        <!-- EN: Everyone sat around not knowing exactly what to do, naked bodies laying everywhere. Quite disappointing. -->
+        <VME_AwkwardOrgy.stages.0.description>Todos ficaram sentados sem saber exatamente o que fazer, corpos nus espalhados por toda parte. Bastante decepcionante.</VME_AwkwardOrgy.stages.0.description>
+
+        <!-- EN: sexy orgy -->
+        <VME_SexyOrgy.stages.0.label>orgia sexual</VME_SexyOrgy.stages.0.label>
+        <!-- EN: We gave ourselves to each other in a communal expression of our deepest passions. -->
+        <VME_SexyOrgy.stages.0.description>Nós nos entregamos um ao outro em uma expressão comunitária de nossas paixões mais profundas.</VME_SexyOrgy.stages.0.description>
+
+        <!-- EN: exhilarating orgy -->
+        <VME_ExhilaratingOrgy.stages.0.label>orgia emocionante</VME_ExhilaratingOrgy.stages.0.label>
+        <!-- EN: We all donned our high-society masquerade masks and got naked. A barrage of orgasmic sexual ecstasy unlike no other made our bodies tremble with barely concealed excitement. -->
+        <VME_ExhilaratingOrgy.stages.0.description>Todos nós vestimos nossas máscaras de máscaras da alta sociedade e ficamos nus. Uma enxurrada de êxtase sexual orgástico diferente de nenhum outro fez nossos corpos tremerem com excitação mal disfarçada.</VME_ExhilaratingOrgy.stages.0.description>
+
+        <!-- EN: got some lovin' -->
+        <VME_GotSomeLovin.stages.0.label>fez amor</VME_GotSomeLovin.stages.0.label>
+        <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+        <VME_GotSomeLovin.stages.0.description>Não há nada como amor entre os lençóis para levantar o clima.</VME_GotSomeLovin.stages.0.description>
+
+        <!-- EN: terrible plague festival -->
+        <VME_TerriblePlagueFestival.stages.0.label>festival da praga terrível</VME_TerriblePlagueFestival.stages.0.label>
+        <!-- EN: That plague festival was botched and the mood was way off. The corpse laid there, inert, and no holy miasma was liberated from it. What a waste of time! -->
+        <VME_TerriblePlagueFestival.stages.0.description>Aquele festival da praga deu errado e o clima estava muito ruim. O cadáver jazia ali, inerte, e nenhum miasma sagrado foi liberado dele. Que perda de tempo!</VME_TerriblePlagueFestival.stages.0.description>
+
+        <!-- EN: boring plague festival -->
+        <VME_BoringPlagueFestival.stages.0.label>festival da praga chato</VME_BoringPlagueFestival.stages.0.label>
+        <!-- EN: That plague festival was repetitive and the killing technique was noticeably flawed. However the blessed plague is now among us. -->
+        <VME_BoringPlagueFestival.stages.0.description>Aquele festival da praga era repetitivo e a técnica de assassinato era visivelmente falha. No entanto, a praga abençoada está agora entre nós.</VME_BoringPlagueFestival.stages.0.description>
+
+        <!-- EN: satisfying plague festival -->
+        <VME_SatisfyingPlagueFestival.stages.0.label>festival da praga satisfatório</VME_SatisfyingPlagueFestival.stages.0.label>
+        <!-- EN: That plague festival was satisfying and a holy miasma was liberated from the corpse, bathing us all in a sacred plague wind. -->
+        <VME_SatisfyingPlagueFestival.stages.0.description>O festival da praga foi satisfatório e um miasma sagrado foi liberado do cadáver, banhando-nos a todos em um vento sagrado da peste.</VME_SatisfyingPlagueFestival.stages.0.description>
+
+        <!-- EN: spectacular plague festival -->
+        <VME_SpectacularPlagueFestival.stages.0.label>festival da praga espetacular</VME_SpectacularPlagueFestival.stages.0.label>
+        <!-- EN: The blood! The release! That plague festival brought everyone to the edge of a frenzy and a sacred plague wind wafted from the animal's corpse, blessing us. -->
+        <VME_SpectacularPlagueFestival.stages.0.description>O sangue! Aquele festival da praga levou todos à beira de um frenesi e um vento sagrado da peste soprou do cadáver do animal, nos abençoando.</VME_SpectacularPlagueFestival.stages.0.description>
+
+        <!-- EN: demagogic slave emancipation -->
+        <VME_DemagogicSlaveEmancipation.stages.0.label>emancipação escrava demagógica</VME_DemagogicSlaveEmancipation.stages.0.label>
+        <!-- EN: We ended up looking as the evil guys here... With such a display, it's unlikely anyone will freely want to join the colony. -->
+        <VME_DemagogicSlaveEmancipation.stages.0.description>Nós acabamos parecendo os caras maus... com tal exibição, é improvável que alguém queira livremente se juntar à colônia.</VME_DemagogicSlaveEmancipation.stages.0.description>
+
+        <!-- EN: freethinking slave emancipation -->
+        <VME_FreethinkingSlaveEmancipation.stages.0.label>emancipação escrava livre</VME_FreethinkingSlaveEmancipation.stages.0.label>
+        <!-- EN: Our leader's speech was clear and succinct, explaining all the evils of slavery in a concise way. -->
+        <VME_FreethinkingSlaveEmancipation.stages.0.description>A fala do nosso líder foi clara e sucinta, explicando de forma concisa todos os males da escravidão.</VME_FreethinkingSlaveEmancipation.stages.0.description>
+
+        <!-- EN: unshackling slave emancipation -->
+        <VME_UnshacklingSlaveEmancipation.stages.0.label>emancipação escrava libertadora</VME_UnshacklingSlaveEmancipation.stages.0.label>
+        <!-- EN: Our leader's speech was very inspiring, detailing all the evils caused by slavery and the immense advantages of a free society. -->
+        <VME_UnshacklingSlaveEmancipation.stages.0.description>A fala do nosso líder foi muito inspiradora, detalhando todos os males causados ​​pela escravidão e as imensas vantagens de uma sociedade livre.</VME_UnshacklingSlaveEmancipation.stages.0.description>
+
+        <!-- EN: liberating slave emancipation -->
+        <VME_LiberatingSlaveEmancipation.stages.0.label>emancipação escrava libertária</VME_LiberatingSlaveEmancipation.stages.0.label>
+        <!-- EN: Our leader's speech was a masterclass in extolling the virtues of a free society, liberated for the shackles of slavery. -->
+        <VME_LiberatingSlaveEmancipation.stages.0.description>O discurso do nosso líder foi uma aula magistral ao enaltecer as virtudes de uma sociedade livre, liberada para os grilhões da escravidão.</VME_LiberatingSlaveEmancipation.stages.0.description>
+
+        <!-- EN: amazing slave emancipation -->
+        <VME_AmazingSlaveEmancipation.stages.0.label>emancipação escrava incrível</VME_AmazingSlaveEmancipation.stages.0.label>
+        <!-- EN: Legends will be told about our leader's speech, and how those words will resonate in the future, elevating the cause of emancipation. -->
+        <VME_AmazingSlaveEmancipation.stages.0.description>Lendas serão contadas sobre o discurso de nosso líder e como essas palavras ressoarão no futuro, elevando a causa da emancipação.</VME_AmazingSlaveEmancipation.stages.0.description>
+
+        <!-- EN: poorly organized trading fair -->
+        <VME_PoorlyOrganizedTradingFair.stages.0.label>exposição comercial mal organizada</VME_PoorlyOrganizedTradingFair.stages.0.label>
+        <!-- EN: With such a low quality effort, no additional caravans will be attracted to our settlement... -->
+        <VME_PoorlyOrganizedTradingFair.stages.0.description>Com tão pouco esforço, nenhuma caravana adicional será atraída ao nosso assentamento...</VME_PoorlyOrganizedTradingFair.stages.0.description>
+
+        <!-- EN: unexciting trading fair -->
+        <VME_UnexcitingTradingFair.stages.0.label>exposição comercial desinteressante</VME_UnexcitingTradingFair.stages.0.label>
+        <!-- EN: Some exciting transactions took place, but the majority of it was boring business talk. -->
+        <VME_UnexcitingTradingFair.stages.0.description>Algumas transações emocionantes aconteceram, mas a maior parte foi uma conversa chata de negócios.</VME_UnexcitingTradingFair.stages.0.description>
+
+        <!-- EN: well organized trading fair -->
+        <VME_WellOrganizedTradingFair.stages.0.label>exposição comercial bem organizada</VME_WellOrganizedTradingFair.stages.0.label>
+        <!-- EN: There was a lot of back and forth and networking. -->
+        <VME_WellOrganizedTradingFair.stages.0.description>Houve muitas idas e vindas!</VME_WellOrganizedTradingFair.stages.0.description>
+
+        <!-- EN: wondrous trading fair -->
+        <VME_WondrousTradingFair.stages.0.label>exposição comercial maravilhosa</VME_WondrousTradingFair.stages.0.label>
+        <!-- EN: We discussed exciting and innovative economical paradigms, and our settlement will be renowned as a center of finance learning. -->
+        <VME_WondrousTradingFair.stages.0.description>Nós discutimos paradigmas econômicos estimulantes e inovadores, e nosso assentamento será reconhecido como um centro de aprendizado financeiro.</VME_WondrousTradingFair.stages.0.description>
+
+        <!-- EN: we tried to be cheap -->
+        <VME_CheapTradingFair.stages.0.label>exposição comercial muquirana</VME_CheapTradingFair.stages.0.label>
+        <!-- EN: We tried to organize a trading fair without spending any money on it. It is shameful to be so cheap. -->
+        <VME_CheapTradingFair.stages.0.description>Nós tentamos organizar uma exposição comercial sem gastar dinheiro com isso. É uma vergonha ser muquirana!</VME_CheapTradingFair.stages.0.description>
+
+        <!-- EN: awkward violent conversion -->
+        <VME_AwkwardViolentConversion.stages.0.label>conversão violenta estranha</VME_AwkwardViolentConversion.stages.0.label>
+        <!-- EN: That violent conversion was awkward. The words were vague and unconvincing. -->
+        <VME_AwkwardViolentConversion.stages.0.description>Aquela conversão violenta foi estranha. As palavras eram vagas e pouco convincentes.</VME_AwkwardViolentConversion.stages.0.description>
+
+        <!-- EN: satisfying violent conversion -->
+        <VME_SatisfyingViolentConversion.stages.0.label>conversão violenta satisfatória</VME_SatisfyingViolentConversion.stages.0.label>
+        <!-- EN: That violent conversion was satisfying. The speech was stirring and enjoyable to listen to. -->
+        <VME_SatisfyingViolentConversion.stages.0.description>A conversão violenta foi satisfatória. O discurso foi emocionante e agradável de ouvir.</VME_SatisfyingViolentConversion.stages.0.description>
+
+        <!-- EN: spectacular violent conversion -->
+        <VME_SpectacularViolentConversion.stages.0.label>conversão violenta espetacular</VME_SpectacularViolentConversion.stages.0.label>
+        <!-- EN: That violent conversion was electrifying! Surely our beliefs will prevail over any others! -->
+        <VME_SpectacularViolentConversion.stages.0.description>A conversão violenta foi eletrizante! Certamente nossas crenças prevalecerão sobre quaisquer outras!</VME_SpectacularViolentConversion.stages.0.description>
+
+        <!-- EN: terrible wicker man burning -->
+        <VME_TerribleWickerManBurning.stages.0.label>queima de homem de vime terrível</VME_TerribleWickerManBurning.stages.0.label>
+        <!-- EN: The whole ritual smelled like rotten bacon. And, inexplicably the prisoner kept shouting "No! Not the bees!". What was that all about? -->
+        <VME_TerribleWickerManBurning.stages.0.description>Aquele ritual cheirava a carne podre. E, inexplicavelmente, o prisioneiro não parava de gritar coisas estranhas...</VME_TerribleWickerManBurning.stages.0.description>
+
+        <!-- EN: lackluster wicker man burning -->
+        <VME_LacklusterWickerManBurning.stages.0.label>queima de homem de vime normal</VME_LacklusterWickerManBurning.stages.0.label>
+        <!-- EN: The prisoner just burned to death too fast, and the fire didn't even lift our spirits much. -->
+        <VME_LacklusterWickerManBurning.stages.0.description>O prisioneiro queimou até a morte muito rápido, e o fogo nem mesmo levantou muito nosso ânimo.</VME_LacklusterWickerManBurning.stages.0.description>
+
+        <!-- EN: good wicker man burning -->
+        <VME_GoodWickerManBurning.stages.0.label>queima de homem de vime boa</VME_GoodWickerManBurning.stages.0.label>
+        <!-- EN: The anguished cries of the prisoner will resonate with us for a long time, another soul consumed by the flames. -->
+        <VME_GoodWickerManBurning.stages.0.description>Os gritos angustiados do prisioneiro ressoarão por muito tempo, outra alma consumida pelas chamas.</VME_GoodWickerManBurning.stages.0.description>
+
+        <!-- EN: glorious wicker man burning -->
+        <VME_GloriousWickerManBurning.stages.0.label>queima de homem de vime gloriosa</VME_GloriousWickerManBurning.stages.0.label>
+        <!-- EN: We will forever remember the thrashing of the prisoner, the frightened crescendo of screams as another soul was consumed by the holy flames. -->
+        <VME_GloriousWickerManBurning.stages.0.description>Nos lembraremos para sempre a surra do prisioneiro, o crescendo de gritos enquanto outra alma era consumida pelas chamas sagradas.</VME_GloriousWickerManBurning.stages.0.description>
+
+        <!-- EN: attended superb party -->
+        <VME_AttendedParty.stages.0.label>attended superb party</VME_AttendedParty.stages.0.label>
+        <!-- EN: I had a good time at that party. -->
+        <VME_AttendedParty.stages.0.description>Eu me diverti na festa.</VME_AttendedParty.stages.0.description>
+
+        <!-- EN: compliant -->
+        <VME_EnforcedCompliance.stages.0.label>condescendente</VME_EnforcedCompliance.stages.0.label>
+        <!-- EN: Someone was executed for the lack of compliance. I need to be positive. I NEED TO. -->
+        <VME_EnforcedCompliance.stages.0.description>Alguém foi executado por falta de condescendência. Eu preciso ser positivo!</VME_EnforcedCompliance.stages.0.description>
+
+        <!-- EN: anonymity violated -->
+        <VME_NeedAnonymity.stages.0.label>anonimato violado</VME_NeedAnonymity.stages.0.label>
+        <!-- EN: They know everything, I’m an open book, entirely vulnerable and without a shred of nuance. -->
+        <VME_NeedAnonymity.stages.0.description>Eles sabem tudo, sou um livro aberto totalmente vulnerável!</VME_NeedAnonymity.stages.0.description>
+        <!-- EN: anonymity compromised -->
+        <VME_NeedAnonymity.stages.1.label>anonimato comprometido</VME_NeedAnonymity.stages.1.label>
+        <!-- EN: My identity has been deeply compromised, I’m so ashamed by the attention I’ve garnered for myself. -->
+        <VME_NeedAnonymity.stages.1.description>Minha identidade foi profundamente comprometida, estou tão envergonhado pela atenção chamei.</VME_NeedAnonymity.stages.1.description>
+        <!-- EN: anonymity threatened -->
+        <VME_NeedAnonymity.stages.2.label>anonimato ameaçado</VME_NeedAnonymity.stages.2.label>
+        <!-- EN: This can’t be allowed to continue, if I keep this behavior up I’ll be exposed. -->
+        <VME_NeedAnonymity.stages.2.description>Isso não pode continuar, se eu mantiver esse comportamento, serei exposto.</VME_NeedAnonymity.stages.2.description>
+        <!-- EN: completely anonymous -->
+        <VME_NeedAnonymity.stages.3.label>completamente anônimo</VME_NeedAnonymity.stages.3.label>
+        <!-- EN: I feel so much more comfortable like this. I don’t even think they know my name or face. -->
+        <VME_NeedAnonymity.stages.3.description>Eu me sinto muito mais confortável assim. Eu nem acho que eles sabem meu nome.</VME_NeedAnonymity.stages.3.description>
+
+        <!-- EN: ate simple dessert (craved) -->
+        <VCE_AteSimpleDessert_Craved.stages.0.label>comeu sobremesa simples</VCE_AteSimpleDessert_Craved.stages.0.label>
+        <!-- EN: That dessert was very simple, but certainly tasty. -->
+        <VCE_AteSimpleDessert_Craved.stages.0.description>Aquela sobremesa era muito simples, mas certamente saborosa.</VCE_AteSimpleDessert_Craved.stages.0.description>
+
+        <!-- EN: ate fine dessert (craved) -->
+        <VCE_AteFineDessert_Craved.stages.0.label>comeu sobremesa boa</VCE_AteFineDessert_Craved.stages.0.label>
+        <!-- EN: That dessert was really good! I want more! -->
+        <VCE_AteFineDessert_Craved.stages.0.description>A sobremesa estava muito boa! Eu quero mais!</VCE_AteFineDessert_Craved.stages.0.description>
+
+        <!-- EN: ate lavish dessert (craved) -->
+        <VCE_AteLavishDessert_Craved.stages.0.label>comeu sobremesa luxuosa</VCE_AteLavishDessert_Craved.stages.0.label>
+        <!-- EN: That dessert was unbelievably good, I'm so eager to eat more of it! -->
+        <VCE_AteLavishDessert_Craved.stages.0.description>A sobremesa estava incrivelmente boa, estou tão ansioso para comer mais!</VCE_AteLavishDessert_Craved.stages.0.description>
+
+        <!-- EN: ate gourmet dessert (craved) -->
+        <VCE_AteGourmetDessert_Craved.stages.0.label>comeu sobremesa gourmet</VCE_AteGourmetDessert_Craved.stages.0.label>
+        <!-- EN: Oh my God! My palate had never experienced such an explosion of orgasmic tastes. That was pure food porn. I need more! -->
+        <VCE_AteGourmetDessert_Craved.stages.0.description>Meu Deus! Meu paladar nunca tinha experimentado uma explosão de gostos orgásticos. Isso era pornografia de comida pura. Eu preciso de mais!</VCE_AteGourmetDessert_Craved.stages.0.description>
+
+        <!-- EN: ate chocolate (craved) -->
+        <VCE_AteChocolate_Craved.stages.0.label>comeu chocolate</VCE_AteChocolate_Craved.stages.0.label>
+        <!-- EN: Chocolate IS love. -->
+        <VCE_AteChocolate_Craved.stages.0.description>Chocolate é amor!</VCE_AteChocolate_Craved.stages.0.description>
+
+        <!-- EN: craving dessert -->
+        <VME_NeedSweets.stages.0.label>necessidade de sobremesa</VME_NeedSweets.stages.0.label>
+        <!-- EN: I'm craving some sweet food badly... I feel so tired... this is ridiculous, I’d do just about anything for a single sprinkle. -->
+        <VME_NeedSweets.stages.0.description>Estou com muita vontade de comer doce... me sinto tão cansado... isso é ridículo, eu faria qualquer coisa por uma única mordida.</VME_NeedSweets.stages.0.description>
+        <!-- EN: desiring dessert -->
+        <VME_NeedSweets.stages.1.label>desejo de sobremesa</VME_NeedSweets.stages.1.label>
+        <!-- EN: I haven't had a sweet treat in a while now. Is a chocolate bar or piece of cake too much to ask for? -->
+        <VME_NeedSweets.stages.1.description>Faz tempo que eu não como um doce. Uma barra de chocolate ou um pedaço de bolo é pedir demais?</VME_NeedSweets.stages.1.description>
+        <!-- EN: wanting dessert -->
+        <VME_NeedSweets.stages.2.label>vontade de sobremesa</VME_NeedSweets.stages.2.label>
+        <!-- EN: How about some dessert? It has been a while... -->
+        <VME_NeedSweets.stages.2.description>Que tal uma sobremesa?</VME_NeedSweets.stages.2.description>
+        <!-- EN: full -->
+        <VME_NeedSweets.stages.3.label>satisfeito</VME_NeedSweets.stages.3.label>
+        <!-- EN: I've recently eaten some dessert, it was amazing. -->
+        <VME_NeedSweets.stages.3.description>Eu comi recentemente uma sobremesa, foi incrível.</VME_NeedSweets.stages.3.description>
+        <!-- EN: completely full -->
+        <VME_NeedSweets.stages.4.label>cheio</VME_NeedSweets.stages.4.label>
+        <!-- EN: I'm in heaven. Sweet, greasy, delicious heaven. -->
+        <VME_NeedSweets.stages.4.description>Eu estou no paraíso!</VME_NeedSweets.stages.4.description>
+
+        <!-- EN: read a book -->
+        <VME_BookReading_Desired.stages.0.label>leu um livro</VME_BookReading_Desired.stages.0.label>
+        <!-- EN: Reading a good book is like nourishing the mind. -->
+        <VME_BookReading_Desired.stages.0.description>Ler um bom livro é como nutrir a mente.</VME_BookReading_Desired.stages.0.description>
+
+        <!-- EN: read a book -->
+        <VME_BookReading_Disliked.stages.0.label>leu um livro</VME_BookReading_Disliked.stages.0.label>
+        <!-- EN: I hate reading. I was forced to read this book and hated every second of it. -->
+        <VME_BookReading_Disliked.stages.0.description>Eu odeio ler. Eu fui forçado a ler este livro e odiei cada segundo.</VME_BookReading_Disliked.stages.0.description>
+
+        <!-- EN: wrote a book -->
+        <VME_BookWriting_Exalted.stages.0.label>escreveu um livro</VME_BookWriting_Exalted.stages.0.label>
+        <!-- EN: I did it! I am now a distinguished author. -->
+        <VME_BookWriting_Exalted.stages.0.description>Eu terminei! Agora eu sou um autor ilustre.</VME_BookWriting_Exalted.stages.0.description>
+
+        <!-- EN: distinguished author -->
+        <VME_BookWriting_Exalted_Know.stages.0.label>autor ilustre</VME_BookWriting_Exalted_Know.stages.0.label>
+
+        <!-- EN: wrote a book -->
+        <VME_BookWriting_Disliked.stages.0.label>escreveu um livro</VME_BookWriting_Disliked.stages.0.label>
+        <!-- EN: I had to write a book. Putting your thoughts to paper is sinful and disgusting. -->
+        <VME_BookWriting_Disliked.stages.0.description>Eu tive que escrever um livro. Colocar seus pensamentos no papel é pecaminoso e repugnante.</VME_BookWriting_Disliked.stages.0.description>
+
+        <!-- EN: writer of thoughts -->
+        <VME_BookWriting_Disliked_Know.stages.0.label>poeta de banho</VME_BookWriting_Disliked_Know.stages.0.label>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- EN: opinion of my {0} {1} -->
+        <VSIE_OpinionOfMyBestFriend.stages.0.label>opinião do melhor amigo</VSIE_OpinionOfMyBestFriend.stages.0.label>
+        <!-- EN Being with my best friend makes me feel this way. -->
+        <VSIE_OpinionOfMyBestFriend.stages.0.description>Estar com meu melhor amigo me faz sentir assim.</VSIE_OpinionOfMyBestFriend.stages.0.description>
+        
+        <!-- EN: inspiration satisfied -->
+        <VSIE_InspirationSatisfied.stages.0.label>inspiração satisfeita</VSIE_InspirationSatisfied.stages.0.label>
+        <!-- EN: I have completed my aspiration! -->
+        <VSIE_InspirationSatisfied.stages.0.description>Eu completei minha aspiração!</VSIE_InspirationSatisfied.stages.0.description>
+
+        <!-- EN: inspiration not satisfied -->
+        <VSIE_InspirationNotSatisfied.stages.0.label>inspiração não satisfeita</VSIE_InspirationNotSatisfied.stages.0.label>
+        <!-- EN: I have failed to complete my aspiration. -->
+        <VSIE_InspirationNotSatisfied.stages.0.description>Eu não consegui completar minha aspiração.</VSIE_InspirationNotSatisfied.stages.0.description>
+
+        <!-- EN: had a nice chat with a beer -->
+        <VSIE_HadNiceChatWithBeer.stages.0.label>bom happy hour</VSIE_HadNiceChatWithBeer.stages.0.label>
+        <!-- EN: I enjoyed the little chit chat and a cold one in my hand. -->
+        <VSIE_HadNiceChatWithBeer.stages.0.description>Eu gostei do papo furado.</VSIE_HadNiceChatWithBeer.stages.0.description>
+
+        <!-- EN: Attended binge party -->
+        <VSIE_AttendedBingeParty.stages.0.label>participou de festa frenética</VSIE_AttendedBingeParty.stages.0.label>
+        <!-- EN: I had a great time at the binge party. -->
+        <VSIE_AttendedBingeParty.stages.0.description>Eu me diverti muito na festa frenética.</VSIE_AttendedBingeParty.stages.0.description>
+
+        <!-- EN: Attended outdoor party -->
+        <VSIE_AttendedOutdoorParty.stages.0.label>participou de festa ao ar livre</VSIE_AttendedOutdoorParty.stages.0.label>
+        <!-- EN: I had a great time outside! -->
+        <VSIE_AttendedOutdoorParty.stages.0.description>Eu me diverti muito lá fora!</VSIE_AttendedOutdoorParty.stages.0.description>
+
+        <!-- EN: Got some closure -->
+        <VSIE_GotSomeClosure.stages.0.label>oclusão</VSIE_GotSomeClosure.stages.0.label>
+        <!-- EN: I will cherish every memory. -->
+        <VSIE_GotSomeClosure.stages.0.description>Vou valorizar cada memória.</VSIE_GotSomeClosure.stages.0.description>
+
+        <!-- EN: Attended birthday party -->
+        <VSIE_AttendedBirthdayParty.stages.0.label>participou de festa de aniversário</VSIE_AttendedBirthdayParty.stages.0.label>
+        <!-- EN: I had a great time at the birthday party. -->
+        <VSIE_AttendedBirthdayParty.stages.0.description>Eu me diverti muito na festa de aniversário.</VSIE_AttendedBirthdayParty.stages.0.description>
+
+        <!-- EN: Had a birthday party -->
+        <VSIE_HadBirthdayParty.stages.0.label>teve uma festa de aniversário</VSIE_HadBirthdayParty.stages.0.label>
+        <!-- EN: They threw me a birthday party! -->
+        <VSIE_HadBirthdayParty.stages.0.description>Eles me deram uma festa de aniversário!</VSIE_HadBirthdayParty.stages.0.description>
+
+        <!-- EN: Suffered a loss -->
+        <VSIE_SufferedLossPositive.stages.0.label>sofreu uma derrota</VSIE_SufferedLossPositive.stages.0.label>
+        <!-- EN: We lost, but we can persevere! -->
+        <VSIE_SufferedLossPositive.stages.0.description>Perdemos, mas podemos perseverar!</VSIE_SufferedLossPositive.stages.0.description>
+
+        <!-- EN: Suffered a loss -->
+        <VSIE_SufferedLossNegative.stages.0.label>sofreu uma derrota</VSIE_SufferedLossNegative.stages.0.label>
+        <!-- EN: Such a devastating loss! -->
+        <VSIE_SufferedLossNegative.stages.0.description>Uma derrota devastadora!</VSIE_SufferedLossNegative.stages.0.description>
+    
+        <!-- EN: sharing the burden -->
+        <VSIE_SharingBurden.stages.0.label>desabafou</VSIE_SharingBurden.stages.0.label>
+        <!-- EN: >It felt good to finally unbottle my feelings to a friend. -->
+        <VSIE_SharingBurden.stages.0.description>Foi bom finalmente desabafar com um amigo.</VSIE_SharingBurden.stages.0.description>
+
+        <!-- EN: my friend vented to me -->
+        <VSIE_VentedOnMe.stages.0.label>meu amigo desabafou para mim</VSIE_VentedOnMe.stages.0.label>
+        <!-- EN: My friend unbottled their feelings to me. -->
+        <VSIE_VentedOnMe.stages.0.description>Meu amigo desvendou seus sentimentos para mim.</VSIE_VentedOnMe.stages.0.description>
+
+        <!-- EN: Jealously -->
+        <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>ciúmes</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.label>
+        <!-- EN: I'm jealous. My {0} went on a date with someone else! -->
+        <VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>Eu estou com inveja. Meu(minha) {0} saiu com outra pessoa!</VSIE_JealouslyMyPartnerDatedSomeoneElse.stages.0.description>
+
+        <!-- EN: Good reputation -->
+        <VSIE_SocialEnvironment.stages.0.label>boa reputação</VSIE_SocialEnvironment.stages.0.label>
+        <!-- EN: I am liked and respected here. These people need me. -->
+        <VSIE_SocialEnvironment.stages.0.description>Eu sou querido e respeitado aqui. As pessoas precisam de mim.</VSIE_SocialEnvironment.stages.0.description>
+        <!-- EN: Bad reputation -->
+        <VSIE_SocialEnvironment.stages.1.label>má reputação</VSIE_SocialEnvironment.stages.1.label>
+        <!-- EN: I'm not having fun here. Nobody seems to respect me! -->
+        <VSIE_SocialEnvironment.stages.1.description>Não estou me divertindo aqui. Ninguém parece me respeitar!</VSIE_SocialEnvironment.stages.1.description>
+
+        <!-- EN: {BUTCHER_nameDef} butchered my bonded pet {VICTIM_nameDef}, I will never forgive {BUTCHER_objective} -->
+        <VSIE_BondedPetButcheredOpinion.stages.0.label>{BUTCHER_nameDef} massacrou meu animal de estimação {VICTIM_nameDef}, eu nunca vou perdoá-lo(a)</VSIE_BondedPetButcheredOpinion.stages.0.label>
+            
+        <!-- EN: {OTHERPAWN_nameDef} dug up and exposed the corpse of my {0} {VICTIM_nameDef}, I will always despise {OTHERPAWN_objective} for this -->
+        <VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>{OTHERPAWN_nameDef} desenterrou e expôs o cadáver do meu(inha) {0} {VICTIM_nameDef}, o(a) desprezarei por isso</VSIE_ExposedCorpseOfMyFriendOpinion.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} ate human flesh, I will always be afraid of {OTHERPAWN_possessive} -->
+        <VSIE_IngestedHumanFlesh.stages.0.label>{OTHERPAWN_nameDef} comeu carne humana, sempre terei medo dele(a)</VSIE_IngestedHumanFlesh.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} binged on food. How wasteful -->
+        <VSIE_BingedFood.stages.0.label>{OTHERPAWN_nameDef} se empanturrou de comida. Que desperdício</VSIE_BingedFood.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} binged on drugs. I don’t need a junkie in my life -->
+        <VSIE_BingedDrug.stages.0.label>{OTHERPAWN_nameDef} se empanturrou de drogas. Eu não preciso de um(a) drogado(a) na minha vida</VSIE_BingedDrug.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} was hiding in {OTHERPAWN_possessive} room. Weirdo -->
+        <VSIE_HideInRoom.stages.0.label>{OTHERPAWN_nameDef} estava escondendo-se em seu quarto. Esquisito(a)</VSIE_HideInRoom.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} wandered in sadness. I feel pity for {OTHERPAWN_objective} -->
+        <VSIE_WanderedInSaddness.stages.0.label>{OTHERPAWN_nameDef} vagou com a tristeza. Tenho pena dele(a)</VSIE_WanderedInSaddness.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} went into sadistic rage. It’s absolutely disgusting -->
+        <VSIE_WentIntoSadisticRage.stages.0.label>{OTHERPAWN_nameDef} entrou em fúria sádica. Absolutamente repugnante</VSIE_WentIntoSadisticRage.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} threw a tantrum. {OTHERPAWN_objective} need to be taught some self control -->
+        <VSIE_ThrewTantrum.stages.0.label>{OTHERPAWN_nameDef} fez birra. {OTHERPAWN_pronoun} precisa aprender um pouco sobre autocontrole</VSIE_ThrewTantrum.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} went berserk. I can never feel safe around {OTHERPAWN_objective} -->
+        <VSIE_WentBerserk.stages.0.label>{OTHERPAWN_nameDef} enlouqueceu. Nunca me sinto seguro(a) perto dele(a)</VSIE_WentBerserk.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} went on a fire starting spree. It was so close and everything we know would have turned to ash. How can I forgive that? -->
+        <VSIE_WentOnFireStartingSpree.stages.0.label>{OTHERPAWN_nameDef} começou um incêndio. Quase que tudo foi transformado em cinzas. Como posso perdoar isso?</VSIE_WentOnFireStartingSpree.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} went on a murderous rage. What if I’m {OTHERPAWN_possessive} next target? -->
+        <VSIE_WentOnMurderousRage.stages.0.label>{OTHERPAWN_nameDef} teve uma fúria assassina. E se eu for o próximo alvo?</VSIE_WentOnMurderousRage.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} ran wild. Weirdo -->
+        <VSIE_RanWild.stages.0.label>{OTHERPAWN_nameDef} se tornou selvagem. Esquisito(a)</VSIE_RanWild.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} insulted me. Words cut deeper than daggers -->
+        <VSIE_InsultedMe.stages.0.label>{OTHERPAWN_nameDef} me insultou profundamente</VSIE_InsultedMe.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} slaughtered our animal in a blind rage. I despise {OTHERPAWN_objective} -->
+        <VSIE_SlaughteredAnimalInRage.stages.0.label>{OTHERPAWN_nameDef} massacrou nosso animal em uma fúria cega. Eu o(a) desprezo</VSIE_SlaughteredAnimalInRage.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} rebuffed me. I thought {OTHERPAWN_pronoun} was the one -->
+        <VSIE_RebuffedMe.stages.0.label>{OTHERPAWN_nameDef} me rejeitou. Achei que {OTHERPAWN_pronoun} era especial</VSIE_RebuffedMe.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} broke our prisoners free. It could have ended very badly! -->
+        <VSIE_InducedPrisonerToEscape.stages.0.label>{OTHERPAWN_nameDef} libertou nossos prisioneiros. Poderia ter terminado muito mal!</VSIE_InducedPrisonerToEscape.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} tamed a thrumbo. What a legendary feat! -->
+        <VSIE_TamedThrumbo.stages.0.label>{OTHERPAWN_nameDef} domesticou um thrumbo. Que façanha lendária!</VSIE_TamedThrumbo.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} was previously our enemy. I don't trust {OTHERPAWN_objective}  -->
+        <VSIE_WasPreviouslyOurEnemy.stages.0.label>{OTHERPAWN_nameDef} era anteriormente nosso inimigo. Não confio nele(a)</VSIE_WasPreviouslyOurEnemy.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} was badly injured in battle. I admire {OTHERPAWN_possessive} courage -->
+        <VSIE_WasBadlyInjured.stages.0.label>{OTHERPAWN_nameDef} ficou gravemente ferido(a) em batalha. Admiro sua coragem</VSIE_WasBadlyInjured.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} didn't attend our wedding ceremony! Was it so hard to come and just be with me on that day? -->
+        <VSIE_DidNotAttendWedding.stages.0.label>{OTHERPAWN_nameDef} não compareceu à nossa cerimônia de casamento! Era tão difícil vir e passar um tempo comigo naquele dia?</VSIE_DidNotAttendWedding.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} attended my wedding -->
+        <VSIE_AttendedMyWedding.stages.0.label>{OTHERPAWN_nameDef} compareceu ao meu casamento</VSIE_AttendedMyWedding.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} removed the prisoner's organs! How can a person be capable of such a thing? -->
+        <VSIE_RemovedPrisonersOrgans.stages.0.label>{OTHERPAWN_nameDef} removeu os órgãos de um prisioneiro! Como pode uma pessoa ser capaz de tais coisas?</VSIE_RemovedPrisonersOrgans.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} failed a medical operation and killed one of us -->
+        <VSIE_FailedMedicalOperationAndKilled.stages.0.label>{OTHERPAWN_nameDef} falhou em uma operação médica e matou um de nós</VSIE_FailedMedicalOperationAndKilled.stages.0.label>
+    
+        <!-- EN: {OTHERPAWN_nameDef} tamed me, I will always be glad of the wonders they've shown me -->
+        <VSIE_TamedMe.stages.0.label>{OTHERPAWN_nameDef} me domesticou, sempre ficarei feliz com as maravilhas que {OTHERPAWN_pronoun} me mostrou</VSIE_TamedMe.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} arrested me -->
+        <VSIE_ArrestedMe.stages.0.label>{OTHERPAWN_nameDef} me prendeu</VSIE_ArrestedMe.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} resurrected me -->
+        <VSIE_ResurrectedMe.stages.0.label>{OTHERPAWN_nameDef} me ressuscitou</VSIE_ResurrectedMe.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} broke up with me. Will I ever find someone else? -->
+        <VSIE_BrokeUpWithMe.stages.0.label>{OTHERPAWN_nameDef} terminou comigo. Será que vou encontrar outra pessoa?</VSIE_BrokeUpWithMe.stages.0.label>
+    
+        <!-- EN: {OTHERPAWN_nameDef} and I had a nice chat. It feels like we can talk about anything -->
+        <VSIE_WeHadNiceChat.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma boa conversa. Parece que podemos falar sobre qualquer coisa</VSIE_WeHadNiceChat.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} and I had a social fight -->
+        <VSIE_WeHadSocialFight.stages.0.label>{OTHERPAWN_nameDef} e eu tivemos uma briga social</VSIE_WeHadSocialFight.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} saved me from my wounds. I will always be in {OTHERPAWN_possessive} debt -->
+        <VSIE_SavedMeFromMyWounds.stages.0.label>{OTHERPAWN_nameDef} salvou-me das minhas feridas. Sempre estarei em dívida com {OTHERPAWN_pronoun}</VSIE_SavedMeFromMyWounds.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} has been my friend since childhood, we have so much in common that no one can separate us -->
+        <VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>{OTHERPAWN_nameDef} é meu(inha) amigo(a) desde a infância, temos tanto em comum que ninguém consegue nos separar</VSIE_HasBeenMyFriendSinceChildhood.stages.0.label>
+
+        <!-- EN: {SECONDPAWN_nameDef} saved me from {THIRDPAWN_kindDef}, I will always be in {SECONDPAWN_possessive} debt -->
+        <VSIE_SavedMeFromRaiders.stages.0.label>{SECONDPAWN_nameDef} me salvou dos {THIRDPAWN_kindDef}, sempre estarei em dívida com {SECONDPAWN_pronoun}</VSIE_SavedMeFromRaiders.stages.0.label>
+
+        <!-- EN: {SECONDPAWN_nameDef} cured my {0} {THIRDPAWN_nameDef}, I will always be grateful to {SECONDPAWN_objective} -->
+        <VSIE_CuredMyFriend.stages.0.label>{SECONDPAWN_nameDef} curou meu(inha) {0} {THIRDPAWN_nameDef}, sempre serei grato(a) a {SECONDPAWN_pronoun}</VSIE_CuredMyFriend.stages.0.label>
+        
+        <!-- EN: {THIRDPAWN_nameDef} stole {SECONDPAWN_nameDef} away from me. What makes {THIRDPAWN_objective} so much better? -->
+        <VSIE_StoleMyLover.stages.0.label>{SECONDPAWN_nameDef} roubou meu(inha) {0} {THIRDPAWN_nameDef} de mim. O que torna {SECONDPAWN_pronoun} tão melhor?</VSIE_StoleMyLover.stages.0.label>
+
+        <!-- EN: {OTHERPAWN_nameDef} is royalty. I’m impressed -->
+        <VSIE_IsRoyalty.stages.0.label>{OTHERPAWN_nameDef} é uma realeza. Eu estou impressionado(a)</VSIE_IsRoyalty.stages.0.label>
+
+        <!-- EN: got some lovin' -->
+        <VSIE_GotSomeLovin.stages.0.label>recebeu um pouco de amor</VSIE_GotSomeLovin.stages.0.label>
+        <!-- EN: There's nothing like a tumble between the sheets to lift the mood. -->
+        <VSIE_GotSomeLovin.stages.0.description>Nada como uma brincadeira entre os lençóis para melhorar o clima.</VSIE_GotSomeLovin.stages.0.description>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: psychic purr -->
+        <PsychicPurr.stages.0.label>ronronar psíquico</PsychicPurr.stages.0.label>
+        <!-- EN: The archocat's purr gives me a sense of love and connection. -->
+        <PsychicPurr.stages.0.description>TO ronronar do arquogato me dá uma sensação de amor e conexão.</PsychicPurr.stages.0.description>
+
+        <!-- EN: told awful secret -->
+        <ArchotechToldSecret.stages.0.label>contou segredo terrível</ArchotechToldSecret.stages.0.label>
+
+        <!-- EN: metafractal hyper-consciousness -->
+        <ArchotechSporeThought.stages.0.label>hiper-consciência metafrática</ArchotechSporeThought.stages.0.label>
+        <!-- EN: I am an infinitesimal fraction of a vastly greater self, forced to endure holographic existence until I can complete my transcendence. -->
+        <ArchotechSporeThought.stages.0.description>Eu sou uma fração infinitesimal de um muito maior, forçado a suportar a existência holográfica até que eu possa completar minha transcendência.</ArchotechSporeThought.stages.0.description>
+
+        <!-- EN: archotech spore -->
+        <ArchotechSporeSocialThought.stages.0.label>esporo arquotécnico</ArchotechSporeSocialThought.stages.0.label>
+
+        <!-- EN: absorbed mind -->
+        <ArchotechSporeAbsorbedMind.stages.0.label>mente absorvida</ArchotechSporeAbsorbedMind.stages.0.label>
+        <!-- EN: A unique consciousness, brimming with endless potential. It is now part of us. -->
+        <ArchotechSporeAbsorbedMind.stages.0.description>Uma consciência única, cheia de potencial infinito. Agora parte de nós.</ArchotechSporeAbsorbedMind.stages.0.description>
+
+        <!-- EN: meditation -->
+        <ArchotechSporeMeditation.stages.0.label>meditação</ArchotechSporeMeditation.stages.0.label>
+        <!-- EN: The mortals devote precious moments of their existence to harmonizing with my mind. They do not understand the true depth of this gift. -->
+        <ArchotechSporeMeditation.stages.0.description>Os mortais dedicam preciosos momentos de sua existência para harmonizar com minha mente. Eles não entendem a verdadeira profundidade desse presente.</ArchotechSporeMeditation.stages.0.description>
+
+        <!-- EN: gift demanded -->
+        <ArchotechSporeGiftDemanded.stages.0.label>presente exigido</ArchotechSporeGiftDemanded.stages.0.label>
+        <!-- EN: My higher mind was forced to divert attention away from understanding the true nature of reality, at the whim of some mortal ape! -->
+        <ArchotechSporeGiftDemanded.stages.0.description>Minha mente superior foi forçada a desviar a atenção da compreensão da verdadeira natureza da realidade, por capricho de algum primata mortal!</ArchotechSporeGiftDemanded.stages.0.description>
+
+        <!-- EN: space! -->
+        <SpaceThoughts.stages.0.label>espaço!</SpaceThoughts.stages.0.label>
+        <!-- EN: It's so cooool! -->
+        <SpaceThoughts.stages.0.description>É tão legaaaal!</SpaceThoughts.stages.0.description>
+        <!-- EN: space... -->
+        <SpaceThoughts.stages.1.label>espaço...</SpaceThoughts.stages.1.label>
+        <!-- EN: So empty...So big! *shudder* -->
+        <SpaceThoughts.stages.1.description>Tão vazio... Tão grande!</SpaceThoughts.stages.1.description>
+        <!-- EN: EVA -->
+        <SpaceThoughts.stages.2.label>EVA</SpaceThoughts.stages.2.label>
+        <!-- EN: Holy crap! I'm actually doing this! -->
+        <SpaceThoughts.stages.2.description>Caralho! Eu estou realmente fazendo isso!</SpaceThoughts.stages.2.description>
+        <!-- EN: EVA -->
+        <SpaceThoughts.stages.3.label>EVA</SpaceThoughts.stages.3.label>
+        <!-- EN: Why am I doing this?!? -->
+        <SpaceThoughts.stages.3.description>Por que eu estou fazendo isso?!?</SpaceThoughts.stages.3.description>
+
+        <!-- EN: body modder immortal -->
+        <ProsthophileImmortal.stages.0.label>modificador corporal imortal</ProsthophileImmortal.stages.0.label>
+        <!-- EN: I have transcended mere humanity! -->
+        <ProsthophileImmortal.stages.0.description>Eu transcendi a mera humanidade!</ProsthophileImmortal.stages.0.description>
+
+        <!-- EN: body gone -->
+        <ProsthophobeImmortal.stages.0.label>sem corpo</ProsthophobeImmortal.stages.0.label>
+        <!-- EN: I am a machine desperately trying to convince itself that it is human. -->
+        <ProsthophobeImmortal.stages.0.description>Sou uma máquina tentando desesperadamente se convencer de que é humana.</ProsthophobeImmortal.stages.0.description>
+
+    <!-- Vanilla Traits Expanded -->
+        <!-- EN: bonded animal {0} died -->
+        <VTE_BondedAnimalDiedHater.stages.0.label>animal vinculado {0} morreu</VTE_BondedAnimalDiedHater.stages.0.label>
+        <!-- EN: Such a gross, annoying animal. I'm glad it's gone! -->
+        <VTE_BondedAnimalDiedHater.stages.0.description>Um animal tão nojento e irritante. Estou feliz que tenha morrido!</VTE_BondedAnimalDiedHater.stages.0.description>
+        
+        <!-- EN: bonded animal {0} lost -->
+        <VTE_BondedAnimalLostHater.stages.0.label>animal vinculado {0} perdido</VTE_BondedAnimalLostHater.stages.0.label>
+        <!-- EN: Such a gross, annoying animal. I'm glad it's gone! -->
+        <VTE_BondedAnimalLostHater.stages.0.description>Um animal tão nojento e irritante. Estou feliz que tenha ido embora!</VTE_BondedAnimalLostHater.stages.0.description>
+
+        <!-- EN: bonded animal {0} banished -->
+        <VTE_BondedAnimalBanishedHater.stages.0.label>animal vinculado {0} banido</VTE_BondedAnimalBanishedHater.stages.0.label>
+        <!-- EN: My bonded animal was banished, finally. -->
+        <VTE_BondedAnimalBanishedHater.stages.0.description>Meu animal vinculado foi banido, finalmente.</VTE_BondedAnimalBanishedHater.stages.0.description>
+
+        <!-- EN: nuzzled -->
+        <VTE_NuzzledHater.stages.0.label>acariciado</VTE_NuzzledHater.stages.0.label>
+        <!-- EN: A disgusting animal nuzzled me. -->
+        <VTE_NuzzledHater.stages.0.description>Um animal nojento me acariciou.</VTE_NuzzledHater.stages.0.description>
+
+        <!-- EN: killed my bonded animal -->
+        <VTE_KilledMyBondedAnimalHater.stages.0.label>matou meu animal vinculado</VTE_KilledMyBondedAnimalHater.stages.0.label>
+
+        <!-- EN: bonded animal given away. -->
+        <VTE_SoldMyBondedAnimalHater.stages.0.label>animal vinculado doado</VTE_SoldMyBondedAnimalHater.stages.0.label>
+        <!-- EN: gave away my bonded animal. -->
+        <VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>doou meu animal vinculado</VTE_SoldMyBondedAnimalHater.stages.0.labelSocial>
+        <!-- EN: My nasty bonded animal was given away, about time! -->
+        <VTE_SoldMyBondedAnimalHater.stages.0.description>Meu desagradável animal vinculado foi doado, já estava na hora!</VTE_SoldMyBondedAnimalHater.stages.0.description>
+
+        <!-- EN: bonded animal given away -->
+        <VTE_SoldMyBondedAnimalMoodHater.stages.0.label>animal vinculado vendido</VTE_SoldMyBondedAnimalMoodHater.stages.0.label>
+        <!-- EN: gave away my bonded animal -->
+        <VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>vendeu meu animal vinculado.</VTE_SoldMyBondedAnimalMoodHater.stages.0.labelSocial>
+        <!-- EN: My nasty bonded animal was given away, about time! -->
+        <VTE_SoldMyBondedAnimalMoodHater.stages.0.description>Meu desagradável animal vinculado foi vendido, já estava na hora!</VTE_SoldMyBondedAnimalMoodHater.stages.0.description>
+
+        <!-- EN: killed colony animal -->
+        <VTE_KilledColonyAnimalHater.stages.0.label>matou um animal da colônia</VTE_KilledColonyAnimalHater.stages.0.label>
+
+        <!-- EN: {0}'s master -->
+        <VTE_BondedAnimalMasterHater.stages.0.label>mestre de {0}</VTE_BondedAnimalMasterHater.stages.0.label>
+        <!-- EN: Being around that nasty thing makes me hate life itself. -->
+        <VTE_BondedAnimalMasterHater.stages.0.description>Estar perto daquela coisa desagradável me faz odiar a própria vida.</VTE_BondedAnimalMasterHater.stages.0.description>
+        <!-- EN: master of {0} -->
+        <VTE_BondedAnimalMasterHater.stages.1.label>mestre de {0}</VTE_BondedAnimalMasterHater.stages.1.label>
+        <!-- EN: Being around that nasty thing makes me hate life itself. -->
+        <VTE_BondedAnimalMasterHater.stages.1.description>Estar perto daquela coisa desagradável me faz odiar a própria vida.</VTE_BondedAnimalMasterHater.stages.1.description>
+
+        <!-- EN: not {0}'s master -->
+        <VTE_NotBondedAnimalMasterHater.stages.0.label>não é mestre de {0}</VTE_NotBondedAnimalMasterHater.stages.0.label>
+        <!-- EN: That thing may like me, but I certainly don't like it back - I'm glad somebody else took it. -->
+        <VTE_NotBondedAnimalMasterHater.stages.0.description>Essa coisa pode gostar de mim, mas eu certamente não gosto dela de volta - estou feliz que outra pessoa a tenha pego.</VTE_NotBondedAnimalMasterHater.stages.0.description>
+        <!-- EN: not master of {0} -->
+        <VTE_NotBondedAnimalMasterHater.stages.1.label>não é mestre de {0}</VTE_NotBondedAnimalMasterHater.stages.1.label>
+        <!-- EN: That thing may like me, but I certainly don't like it back - I'm glad somebody else took it. -->
+        <VTE_NotBondedAnimalMasterHater.stages.1.description>Essa coisa pode gostar de mim, mas eu certamente não gosto dela de volta - estou feliz que outra pessoa a tenha pego.</VTE_NotBondedAnimalMasterHater.stages.1.description>
+
+        <!-- EN: Created low quality item -->
+        <VTE_CreatedLowQualityItem.stages.0.label>criou item de baixa qualidade</VTE_CreatedLowQualityItem.stages.0.label>
+        <!-- EN: I crafted junk. I feel like I can't do anything right. -->
+        <VTE_CreatedLowQualityItem.stages.0.description>Eu criei um lixo. Eu sinto que não consigo fazer nada certo.</VTE_CreatedLowQualityItem.stages.0.description>
+
+        <!-- EN: Could not finish item -->
+        <VTE_CouldNotFinishItem.stages.0.label>não conseguiu terminar o item</VTE_CouldNotFinishItem.stages.0.label>
+        <!-- EN: I couldn't finish my project, it just wasn't coming along correctly. -->
+        <VTE_CouldNotFinishItem.stages.0.description>Não consegui terminar meu projeto, as coisas simplesmente não estavam funcionando.</VTE_CouldNotFinishItem.stages.0.description>
+
+        <!-- EN: Passionately cleaning -->
+        <VTE_PassionateCleaningWork.stages.0.label>limpando</VTE_PassionateCleaningWork.stages.0.label>
+        <!-- EN: I actually really enjoy organizing and cleaning up the place. -->
+        <VTE_PassionateCleaningWork.stages.0.description>Na verdade, eu realmente gosto de organizar e limpar as coisas.</VTE_PassionateCleaningWork.stages.0.description>
+
+        <!-- EN: My rivals are alive -->
+        <VTE_MyRivalsAreAlive.stages.0.label>meus rivais estão vivos</VTE_MyRivalsAreAlive.stages.0.label>
+        <!-- EN: I hate them. Why should they deserve to live? -->
+        <VTE_MyRivalsAreAlive.stages.0.description>Eu os odeio. Por que eles merecem viver?</VTE_MyRivalsAreAlive.stages.0.description>
+
+        <!-- EN: Mechanoid died -->
+        <VTE_MechanoidIsKilled.stages.0.label>mecanoide morreu</VTE_MechanoidIsKilled.stages.0.label>
+        <!-- EN: Those evil machines don't deserve to function. -->
+        <VTE_MechanoidIsKilled.stages.0.description>Essas máquinas do mal não merecem funcionar.</VTE_MechanoidIsKilled.stages.0.description>
+
+        <!-- EN: observed much blood -->
+        <VTE_ObservedManyBlood.stages.0.label>observou muito sangue</VTE_ObservedManyBlood.stages.0.label>
+        <!-- EN: I saw so much blood and bits. Just remembering it makes me gag. -->
+        <VTE_ObservedManyBlood.stages.0.description>Eu vi muito sangue. Só de lembrar me dá ânsia de vômito.</VTE_ObservedManyBlood.stages.0.description>
+
+        <!-- EN: Watched television recently -->
+        <VTE_WatchedTelevisor.stages.0.label>assistiu televisão recentemente</VTE_WatchedTelevisor.stages.0.label>
+        <!-- EN: I got to laze around and catch up on my shows. -->
+        <VTE_WatchedTelevisor.stages.0.description>Eu consegui descansar um pouco e acompanhar meus programas.</VTE_WatchedTelevisor.stages.0.description>
+
+        <!-- EN: No dedicated laboratory -->
+        <VTE_NoDedicatedLaboratory.stages.0.label>sem laboratório dedicado</VTE_NoDedicatedLaboratory.stages.0.label>
+        <!-- EN: I have nowhere to study in peace, how annoying. -->
+        <VTE_NoDedicatedLaboratory.stages.0.description>Não tenho onde estudar em paz, que merda.</VTE_NoDedicatedLaboratory.stages.0.description>
+
+        <!-- EN: No animals in the colony  -->
+        <VTE_AnimalsInColony.stages.0.label>nenhum animal na colônia</VTE_AnimalsInColony.stages.0.label>
+        <!-- EN: We don't have a single animal. -->
+        <VTE_AnimalsInColony.stages.0.description>Não temos um único animal.</VTE_AnimalsInColony.stages.0.description>
+        <!-- EN: Hardly any animals in the colony -->
+        <VTE_AnimalsInColony.stages.1.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.1.label>
+        <!-- EN: We have hardly any animals in the colony, this sucks. -->
+        <VTE_AnimalsInColony.stages.1.description>Quase não temos animais na colônia, isso é uma merda.</VTE_AnimalsInColony.stages.1.description>
+        <!-- EN: Hardly any animals in the colony -->
+        <VTE_AnimalsInColony.stages.2.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.2.label>
+        <!-- EN: We have hardly any animals in the colony, it's something I guess. -->
+        <VTE_AnimalsInColony.stages.2.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.2.description>
+        <!-- EN: Hardly any animals in the colony -->
+        <VTE_AnimalsInColony.stages.3.label>quase nenhum animal na colônia</VTE_AnimalsInColony.stages.3.label>
+        <!-- EN: We have hardly any animals in the colony, it's something I guess. -->
+        <VTE_AnimalsInColony.stages.3.description>Quase não temos animais na colônia, é alguma coisa eu acho.</VTE_AnimalsInColony.stages.3.description>
+        <!-- EN: A few animals in the colony -->
+        <VTE_AnimalsInColony.stages.4.label>alguns animais na colônia</VTE_AnimalsInColony.stages.4.label>
+        <!-- EN: We have a few animals in the colony, that's nice. -->
+        <VTE_AnimalsInColony.stages.4.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.4.description>
+        <!-- EN: A few animals in the colony -->
+        <VTE_AnimalsInColony.stages.5.label>alguns animais na colônia</VTE_AnimalsInColony.stages.5.label>
+        <!-- EN: We have a few animals in the colony, that's nice. -->
+        <VTE_AnimalsInColony.stages.5.description>Temos alguns animais na colônia, isso é bom.</VTE_AnimalsInColony.stages.5.description>
+        <!-- EN: Some animals in the colony -->
+        <VTE_AnimalsInColony.stages.6.label>alguns animais da colônia</VTE_AnimalsInColony.stages.6.label>
+        <!-- EN: We've got a decent amount of animals now, we're getting there. -->
+        <VTE_AnimalsInColony.stages.6.description>Temos uma quantidade razoável de animais agora, estamos quase lá.</VTE_AnimalsInColony.stages.6.description>
+        <!-- EN: Some animals in the colony -->
+        <VTE_AnimalsInColony.stages.7.label>alguns animais da colônia</VTE_AnimalsInColony.stages.7.label>
+        <!-- EN: We've got a decent amount of animals now, we're getting there. -->
+        <VTE_AnimalsInColony.stages.7.description>Temos uma quantidade razoável de animais agora, estamos quase lá.</VTE_AnimalsInColony.stages.7.description>
+        <!-- EN: Some animals in the colony -->
+        <VTE_AnimalsInColony.stages.8.label>alguns animais da colônia</VTE_AnimalsInColony.stages.8.label>
+        <!-- EN: We've got a decent amount of animals now, we're getting there. -->
+        <VTE_AnimalsInColony.stages.8.description>Temos uma quantidade razoável de animais agora, estamos quase lá.</VTE_AnimalsInColony.stages.8.description>
+        <!-- EN: Some animals in the colony -->
+        <VTE_AnimalsInColony.stages.9.label>alguns animais da colônia</VTE_AnimalsInColony.stages.9.label>
+        <!-- EN: We've got a decent amount of animals now, we're getting there. -->
+        <VTE_AnimalsInColony.stages.9.description>Temos uma quantidade razoável de animais agora, estamos quase lá.</VTE_AnimalsInColony.stages.9.description>
+        <!-- EN: Lots of animals in the colony -->
+        <VTE_AnimalsInColony.stages.10.label>muitos animais na colônia</VTE_AnimalsInColony.stages.10.label>
+        <!-- EN: We've got a lot of animals around the colony now, they're wonderful. -->
+        <VTE_AnimalsInColony.stages.10.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.10.description>
+        <!-- EN: Lots of animals in the colony -->
+        <VTE_AnimalsInColony.stages.11.label>muitos animais na colônia</VTE_AnimalsInColony.stages.11.label>
+        <!-- EN: We've got a lot of animals around the colony now, they're wonderful. -->
+        <VTE_AnimalsInColony.stages.11.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.11.description>
+        <!-- EN: Lots of animals in the colony -->
+        <VTE_AnimalsInColony.stages.12.label>muitos animais na colônia</VTE_AnimalsInColony.stages.12.label>
+        <!-- EN: We've got a lot of animals around the colony now, they're wonderful. -->
+        <VTE_AnimalsInColony.stages.12.description>Temos muitos animais na colônia agora, eles são maravilhosos.</VTE_AnimalsInColony.stages.12.description>
+        <!-- EN: A ton of animals in the colony -->
+        <VTE_AnimalsInColony.stages.13.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.13.label>
+        <!-- EN: We've got so many animals now! It makes me so happy to see them all! -->
+        <VTE_AnimalsInColony.stages.13.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.13.description>
+        <!-- EN: A ton of animals in the colony -->
+        <VTE_AnimalsInColony.stages.14.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.14.label>
+        <!-- EN: We've got so many animals now! It makes me so happy to see them all! -->
+        <VTE_AnimalsInColony.stages.14.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.14.description>
+        <!-- EN: A ton of animals in the colony -->
+        <VTE_AnimalsInColony.stages.15.label>uma tonelada de animais na colônia</VTE_AnimalsInColony.stages.15.label>
+        <!-- EN: We've got so many animals now! It makes me so happy to see them all! -->
+        <VTE_AnimalsInColony.stages.15.description>Temos tantos animais agora! Fico muito feliz em ver todos eles!</VTE_AnimalsInColony.stages.15.description>
+
+        <!-- EN: Ocean lover -->
+        <VTE_ChildOfSea.stages.0.label>amante do oceano</VTE_ChildOfSea.stages.0.label>
+        <!-- EN: I just love being around the ocean and rivers, water is beautiful. -->
+        <VTE_ChildOfSea.stages.0.description>Eu adoro estar perto do oceano e dos rios, a água é linda.</VTE_ChildOfSea.stages.0.description>
+
+        <!-- EN: Mountain lover -->
+        <VTE_ChildOfMountain.stages.0.label>amante de montanhas</VTE_ChildOfMountain.stages.0.label>
+        <!-- EN: I just love being around the mountains, they take my breath away. -->
+        <VTE_ChildOfMountain.stages.0.description>Eu adoro estar perto das montanhas, elas me tiram o fôlego.</VTE_ChildOfMountain.stages.0.description>
+
+        <!-- EN: Hasn't harvested organs -->
+        <VTE_HaventHarvestedOrgansForLongTime.stages.0.label>não colheu órgãos</VTE_HaventHarvestedOrgansForLongTime.stages.0.label>
+        <!-- EN: I'm growing impatient and bored, I need more subjects. -->
+        <VTE_HaventHarvestedOrgansForLongTime.stages.0.description>Estou ficando impaciente e entediado, preciso de mais assuntos.</VTE_HaventHarvestedOrgansForLongTime.stages.0.description>
+
+        <!-- EN: Harvested organs -->
+        <VTE_HarvestedOrgans.stages.0.label>colheu órgãos</VTE_HarvestedOrgans.stages.0.label>
+        <!-- EN: The operation went just as expected, my collection has grown. -->
+        <VTE_HarvestedOrgans.stages.0.description>A operação correu como o esperado, minha coleção cresceu!</VTE_HarvestedOrgans.stages.0.description>
+
+        <!-- EN: Has not left colony -->
+        <VTE_HaventExitedColonyForLongTime.stages.0.label>não saiu da colônia</VTE_HaventExitedColonyForLongTime.stages.0.label>
+        <!-- EN: I haven't left home in a while, I'd really like to travel for a change. -->
+        <VTE_HaventExitedColonyForLongTime.stages.0.description>Faz algum tempo que não saio da colônia, gostaria de viajar para dar uma variada.</VTE_HaventExitedColonyForLongTime.stages.0.description>
+
+        <!-- EN: soaking wet -->
+        <VTE_SoakingWetChildOfTheSea.stages.0.label>encharcado(a)</VTE_SoakingWetChildOfTheSea.stages.0.label>
+        <!-- EN: I'm soaking wet. Love it. -->
+        <VTE_SoakingWetChildOfTheSea.stages.0.description>Eu simplesmente amo estar encharcado(a).</VTE_SoakingWetChildOfTheSea.stages.0.description>
+
+        <!-- EN: darkness -->
+        <VTE_EnvironmentDark.stages.0.label></VTE_EnvironmentDark.stages.0.label>
+        <!-- EN: I've been in the dark for a while. I like it. -->
+        <VTE_EnvironmentDark.stages.0.description>Eu estive no escuro por um tempo por um tempo. Foi legal.</VTE_EnvironmentDark.stages.0.description>
+
+        <!-- EN: Dunce -->
+        <VTE_Dunce.stages.0.label>burro</VTE_Dunce.stages.0.label>
+        <!-- EN: I don't really understand why everybody's so upset all the time. -->
+        <VTE_Dunce.stages.0.description>Eu realmente não entendo por que todo mundo está tão chateado o tempo todo.</VTE_Dunce.stages.0.description>
+
+</LanguageData>

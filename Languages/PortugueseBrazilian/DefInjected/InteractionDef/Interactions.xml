@@ -1,0 +1,546 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: attempt interrogation -->
+        <VFEA_InterrogatePrisoner.label>tentativa de interrogação</VFEA_InterrogatePrisoner.label>
+        <!-- EN: 
+            <li>r_logentry->[INITIATOR_nameDef] demanded [information] from [RECIPIENT_nameDef].</li>
+            <li>information->information</li>
+            <li>information->knowledge</li>
+            <li>information->intelligence</li>
+        -->
+        <VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] demandou [informação] de [RECIPIENT_nameDef].</li>
+            <li>informação->dados</li>
+            <li>informação->informações</li>
+        </VFEA_InterrogatePrisoner.logRulesInitiator.rulesStrings>
+
+        <!-- EN: try to intimidate -->
+        <VFEA_Intimidate.label>tentativa de intimidação</VFEA_Intimidate.label>
+        <!-- EN: 
+            <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] [RECIPIENT_pronoun] [negative].</li>
+            <li>r_logentry->[INITIATOR_nameDef] explained that [RECIPIENT_nameDef] [negative].</li>
+            <li>r_logentry->[INITIATOR_nameDef] threatened [RECIPIENT_nameDef] with [threat] if [RECIPIENT_pronoun] [refused].</li>
+            <li>r_logentry->[INITIATOR_nameDef] informed [RECIPIENT_nameDef] that [RECIPIENT_pronoun] [disillusionment].</li>
+            <li>r_logentry->[INITIATOR_nameDef] demanded [RECIPIENT_nameDef] [givein] to the colony.</li>
+            <li>negative->had no future</li>
+            <li>negative->had no way to escape</li>
+            <li>negative->should submit immediately</li>
+            <li>negative->should forget [RECIPIENT_possessive] aspirations</li>
+            <li>negative->should submit to the colony</li>
+            <li>negative->should give up the information</li>
+            <li>threat->torture</li>
+            <li>threat->punishment</li>
+            <li>threat->mutilation</li>
+            <li>threat->starvation</li>
+            <li>threat->lifetime incarceration</li>
+            <li>threat->death</li>
+            <li>threat->isolation</li>
+            <li>threat->dismemberment</li>
+            <li>threat->blunt trauma</li>
+            <li>threat->lacerations</li>
+            <li>threat->cannibalism</li>
+            <li>threat->organ harvesting</li>
+            <li>threat->long confinement</li>
+            <li>refused->tried to escape</li>
+            <li>refused->insulted the colony</li>
+            <li>refused->resisted submitting</li>
+            <li>refused->behaved impertinently</li>
+            <li>disillusionment->should accept [RECIPIENT_possessive] situation</li>
+            <li>disillusionment->had no hope for another future</li>
+            <li>disillusionment->would be best off submitting</li>
+            <li>disillusionment->would not survive on [RECIPIENT_possessive] own</li>
+            <li>disillusionment->had no option but to submit</li>
+            <li>givein->give in</li>
+            <li>givein->submit [RECIPIENT_objective]self</li>
+            <li>givein->surrender [RECIPIENT_objective]self</li>
+            <li>givein->yield [RECIPIENT_objective]self</li>
+        -->
+        <VFEA_Intimidate.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] ameaçou [RECIPIENT_nameDef] com [ameaça].</li>
+            <li>r_logentry->[INITIATOR_nameDef] demandou [RECIPIENT_nameDef] [rendesse] à colônia.</li>
+            <li>r_logentry->[INITIATOR_nameDef] disse que [RECIPIENT_nameDef] [negação].</li>
+            <li>r_logentry->[INITIATOR_nameDef] explicou que [RECIPIENT_nameDef] [negação].</li>
+            <li>r_logentry->[INITIATOR_nameDef] informou [RECIPIENT_nameDef] de que [desilusão].</li>
+            <li>ameaça->canibalismo</li>
+            <li>ameaça->colheita de órgãos</li>
+            <li>ameaça->confinamento eterno</li>
+            <li>ameaça->desmembramento</li>
+            <li>ameaça->desnutrição</li>
+            <li>ameaça->encarceramento eterno</li>
+            <li>ameaça->isolamento</li>
+            <li>ameaça->lacerações</li>
+            <li>ameaça->morte</li>
+            <li>ameaça->mutilação</li>
+            <li>ameaça->punição</li>
+            <li>ameaça->tortura</li>
+            <li>ameaça->traumatismo por contusão</li>
+            <li>desilusão->[RECIPIENT_pronoun] deveria aceitar sua situação</li>
+            <li>desilusão->[RECIPIENT_pronoun] não possuía futuro</li>
+            <li>desilusão->[RECIPIENT_pronoun] não sobreviverá a sós</li>
+            <li>desilusão->[RECIPIENT_pronoun] não teria opção além de submeter-se</li>
+            <li>desilusão->seria melhor submeter-se</li>
+            <li>negação->deveria abrir a porra da boca</li>
+            <li>negação->deveria esquecer seus sonhos</li>
+            <li>negação->deveria submeter-se à colônia</li>
+            <li>negação->deveria submeter-se imediatamente</li>
+            <li>negação->não escaparia</li>
+            <li>negação->não possuía futuro</li>
+            <li>rendesse->cedesse</li>
+            <li>rendesse->se rendesse</li>
+            <li>rendesse->se submetesse</li>
+            <li>rendesse->sucumbisse</li>
+        </VFEA_Intimidate.logRulesInitiator.rulesStrings>
+
+        <!-- EN: romance attempt -->
+        <VFEA_RomanceAttempt_Lustful.label>tentativa de romance</VFEA_RomanceAttempt_Lustful.label>
+        <!-- EN:
+            <li>r_logentry->[INITIATOR_nameDef] [wooed] [RECIPIENT_nameDef] by [wootactic].</li>
+            <li>wooed->tried to flirt with</li>
+            <li>wooed->flirted with</li>
+            <li>wooed->tried to attract</li>
+            <li>wooed->tried to romance</li>
+            <li>wooed->tried to woo</li>
+            <li>wooed->wooed</li>
+            <li>wooed->pursued</li>
+            <li>wooed->charmed</li>
+            <li>wooed->courted</li>
+            <li>wootactic(p=4)->[complimenting] [RECIPIENT_possessive] [PersonalCharacteristic]</li>
+            <li>wootactic->telling a story about [TalkTopicAny]</li>
+            <li>wootactic->telling a tale about [TalkTopicAny]</li>
+            <li>wootactic->joking about [TalkTopicAny]</li>
+            <li>wootactic->making an observation about [TalkTopicAny]</li>
+            <li>wootactic(p=2)->[boasting] [INITIATOR_possessive] own [PersonalCharacteristic]</li>
+            <li>wootactic->comparing [RECIPIENT_objective] to a [romantic_adj] [romantic_noun]</li>
+            <li>wootactic->describing [RECIPIENT_objective] as a [romantic_adj] [romantic_noun]</li>
+            <li>boasting->boasting about</li>
+            <li>boasting->mentioning</li>
+            <li>boasting->implying good things about</li>
+            <li>boasting->exaggerating</li>
+            <li>boasting->talking about</li>
+            <li>boasting->drawing attention to</li>
+            <li>complimenting(p=3)->complimenting</li>
+            <li>complimenting->subtly complimenting</li>
+            <li>complimenting->lauding</li>
+            <li>complimenting->commending</li>
+            <li>complimenting->saying good things about</li>
+            <li>complimenting(p=2)->playfully making fun of</li>
+            <li>complimenting->jokingly poking at</li>
+            <li>complimenting->jokingly half-complimenting</li>
+            <li>complimenting->impishly questioning</li>
+            <li>complimenting->cheerfully making fun of</li>
+            <li>romantic_adj->beautiful</li>
+            <li>romantic_adj->shining</li>
+            <li>romantic_adj->glimmering</li>
+            <li>romantic_adj->heavenly</li>
+            <li>romantic_adj->golden</li>
+            <li>romantic_adj->bright</li>
+            <li>romantic_adj->breathtaking</li>
+            <li>romantic_adj->charming</li>
+            <li>romantic_adj->dazzling</li>
+            <li>romantic_adj->delicate</li>
+            <li>romantic_adj->fine</li>
+            <li>romantic_adj->magnificent</li>
+            <li>romantic_adj->lovely</li>
+            <li>romantic_adj->wonderful</li>
+            <li>romantic_adj(p=3)->[AdjectiveBadass]</li>
+            <li>romantic_noun->flower</li>
+            <li>romantic_noun->spring</li>
+            <li>romantic_noun->river</li>
+            <li>romantic_noun->star</li>
+            <li>romantic_noun->moon</li>
+            <li>romantic_noun->sun</li>
+            <li>romantic_noun->house</li>
+            <li>romantic_noun->aurora</li>
+            <li>romantic_noun->[TreeType] tree</li>
+            <li>romantic_noun(p=2)->[TerrainFeature]</li>
+            <li>romantic_noun(p=2)->[NaturalObject]</li>
+        -->
+        <VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] [seduziu] [RECIPIENT_nameDef] [método_sedução].</li>
+            <li>adj_romântico->amável</li>
+            <li>adj_romântico->belíssima</li>
+            <li>adj_romântico->brilhante</li>
+            <li>adj_romântico->charmosa</li>
+            <li>adj_romântico->cintilante</li>
+            <li>adj_romântico->delicada</li>
+            <li>adj_romântico->deslumbrante</li>
+            <li>adj_romântico->divina</li>
+            <li>adj_romântico->dourada</li>
+            <li>adj_romântico->linda</li>
+            <li>adj_romântico->maravilhosa</li>
+            <li>adj_romântico->resplandescente</li>
+            <li>adj_romântico(p=3)->[AdjectiveBadass]</li>
+            <li>complemento->contemplando sutilmente</li>
+            <li>complemento->elogiando</li>
+            <li>complemento->falando bem sobre</li>
+            <li>complemento(p=3)->contemplando</li>
+            <li>gabando->comentando sobre</li>
+            <li>gabando->exagerando</li>
+            <li>gabando->gabando-se de seu(ua)</li>
+            <li>gabando->insinuando coisas sobre o(a)</li>
+            <li>gabando->mencionando</li>
+            <li>método_sedução->comparando [RECIPIENT_objective] a [substantivo_romântico]</li>
+            <li>método_sedução->contando uma história sobre [TalkTopicAny]</li>
+            <li>método_sedução->descrevendo [RECIPIENT_objective] como [substantivo_romântico]</li>
+            <li>método_sedução->fazendo piadas sobre [TalkTopicAny]</li>
+            <li>método_sedução->fazendo uma observação sobre [TalkTopicAny]</li>
+            <li>método_sedução->narrando um conto sobre [TalkTopicAny]</li>
+            <li>método_sedução(p=2)->[gabando] seu(ua) [PersonalCharacteristic]</li>
+            <li>método_sedução(p=4)->[complemento] seu(ua) [PersonalCharacteristic]</li>
+            <li>seduziu->cortejou</li>
+            <li>seduziu->encantou</li>
+            <li>seduziu->flertou com</li>
+            <li>seduziu->seduziu</li>
+            <li>seduziu->tentou atrair</li>
+            <li>seduziu->tentou flertar com</li>
+            <li>seduziu->tentou seduzir</li>
+            <li>substantivo_romântico->uma aurora [adj_romântico]</li>
+            <li>substantivo_romântico->uma estrela [adj_romântico]</li>
+            <li>substantivo_romântico->uma flor [adj_romântico]</li>
+        </VFEA_RomanceAttempt_Lustful.logRulesInitiator.rulesStrings>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: singing shanties -->
+        <VFEP_Speech_Shanties.label>cantiga</VFEP_Speech_Shanties.label>
+        <!-- EN: 
+            <li>r_logentry->[INITIATOR_nameDef] [spokeof] [speechtopic].</li>
+            <li>speechtopic->searching for [Vegetable]s to avoid scurvy</li>
+            <li>speechtopic->how to be [AdjectiveFriendly] while pillaging your enemies</li>
+            <li>speechtopic->using [AnimalBadass]s as a protein source</li>
+            <li>speechtopic->how [Game] trains you to act as a crew</li>
+            <li>speechtopic->using [Weapon] in a raid</li>
+            <li>speechtopic->pillaging through [TerrainFeature]s and [TerrainFeature]s</li>             
+            <li>speechtopic->how in a crew all are [PersonFamily]s and [PersonFamily]s</li>     
+            <li>speechtopic->the need for [PersonJob]s in a crew</li>
+            <li>speechtopic->confronting [PersonBadass]s</li>
+            <li>speechtopic->defeating [Enemy]s through sticking together</li>
+            <li>speechtopic->relishing [Gore] during combat</li>    
+            <li>speechtopic->the meaning of camaraderie</li>
+            <li>speechtopic->the comradeship of the crew</li>
+            <li>speechtopic->how to be [AdjectiveBadass] without being [AdjectiveBadass]</li>
+            <li>speechtopic->how [AdjectiveBadass] the crew is</li>
+            <li>speechtopic->[AdjectiveNatural] [TerrainFeature]s</li>
+            <li>speechtopic->the crew's [AdjectiveLarge] potential</li>
+            <li>speechtopic->the [PersonalCharacteristic] of every crew member</li>
+            <li>speechtopic->the terrible [PersonalCharacteristic] of the crew's enemies</li>
+            <li>speechtopic(p=0.25)->sticking together as group</li>
+            <li>speechtopic(p=0.25)->the path forward through tragedy, sticking together as a crew</li>
+            <li>speechtopic(p=0.25)->the crew and its importance</li>
+            <li>speechtopic(p=0.25)->survival of the strongest</li>
+            <li>speechtopic(p=0.25)->triumph through shared hardship</li>     
+            <li>speechtopic(p=0.25)->death of your enemies as a motivator</li>
+            <li>speechtopic(p=0.25)->strong hands and hearts, working together</li>
+            <li>speechtopic(p=0.25)->the right to survive and defeat those who are weaker</li>
+        -->
+        <VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] [commentedabout] [speechtopic].</li>
+            <li>commentedabout->comentou sobre</li>
+            <li>commentedabout->disse sobre</li>
+            <li>commentedabout->falou sobre</li>
+            <li>speechtopic->[TerrainFeature]s [AdjectiveNatural]s</li>
+            <li>speechtopic->a camaradagem da equipe</li>
+            <li>speechtopic->a necessidade de [PersonJob]s em uma equipe</li>
+            <li>speechtopic->como [Game] treina você para agir como uma equipe</li>
+            <li>speechtopic->como em uma equipe somos [PersonFamily]s e [PersonFamily]s</li>     
+            <li>speechtopic->como ser [AdjectiveBadass] sem ser [AdjectiveBadass]</li>
+            <li>speechtopic->como ser [AdjectiveFriendly] enquanto saqueia seus inimigos</li>
+            <li>speechtopic->confrontar [PersonBadass]s</li>
+            <li>speechtopic->derrotar [Enemy]s através da união</li>
+            <li>speechtopic->o potencial [AdjectiveLarge] da equipe</li>
+            <li>speechtopic->o quão [AdjectiveBadass] a equipe é</li>
+            <li>speechtopic->o significado de camaradagem</li>
+            <li>speechtopic->procurar [Vegetable]s para evitar escorbuto</li>
+            <li>speechtopic->saborear [Gore] durante combate</li>    
+            <li>speechtopic->saquear em [TerrainFeature]s</li>             
+            <li>speechtopic->utilizar [AnimalBadass]s como uma fonte de proteína</li>
+            <li>speechtopic->utilizar [Weapon]s em uma invasão</li>
+            <li>speechtopic(p=0.25)->a equipe e sua importância</li>
+            <li>speechtopic(p=0.25)->a morte de seus inimigos como motivação</li>
+            <li>speechtopic(p=0.25)->a sobrevivência do mais forte</li>
+            <li>speechtopic(p=0.25)->a união da equipe</li>
+            <li>speechtopic(p=0.25)->o caminho a seguir através da tragédia, mantendo a união</li>
+            <li>speechtopic(p=0.25)->o direito de sobreviver e derrotar aqueles que são mais fracos</li>
+            <li>speechtopic(p=0.25)->triunfo através de dificuldades compartilhadas</li>     
+        </VFEP_Speech_Shanties.logRulesInitiator.rulesStrings>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: drunk chitchat -->
+        <VFEV_DrunkChitchat.label>bate-papo bêbado</VFEV_DrunkChitchat.label>
+        <!-- EN:
+            <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+            <li>talkedabout(p=4)->chatted about</li>
+            <li>talkedabout->shared a word about</li>
+            <li>talkedabout->spoke about</li>
+            <li>talkedabout->gabbed about</li>
+            <li>talkedabout->talked about</li>
+            <li>talkedabout->joked about</li>
+            <li>talkedabout->quipped about</li>
+            <li>commentedabout->said something about</li>
+            <li>commentedabout->said a word about</li>
+            <li>commentedabout->made a comment about</li>
+            <li>commentedabout->commented about</li>
+            <li>commentedabout->told a joke about</li>
+        -->
+        <VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedaboutPlural] [TalkTopicLight].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [talkedaboutSingular] [TalkTopicLight] com [RECIPIENT_nameDef].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] com [RECIPIENT_nameDef].</li>
+            <li>talkedaboutSingular(p=4)->conversou sobre</li>
+            <li>talkedaboutSingular->falou sobre</li>
+            <li>talkedaboutSingular(p=2)->tagarelou sobre</li>
+            <li>talkedaboutSingular(p=2)->brincou com</li>
+            <li>talkedaboutPlural(p=4)->conversaram sobre</li>
+            <li>talkedaboutPlural->falaram sobre</li>
+            <li>talkedaboutPlural(p=2)->tagarelaram sobre</li>
+            <li>talkedaboutPlural(p=2)->brincaram com</li>
+            <li>commentedabout->disse algo sobre</li>
+            <li>commentedabout->disse uma palavra sobre</li>
+            <li>commentedabout->fez um comentário sobre</li>
+            <li>commentedabout->comentou sobre</li>
+            <li>commentedabout->contou uma piada sobre</li>
+        </VFEV_DrunkChitchat.logRulesInitiator.rulesStrings>
+
+        <!-- EN: very drunk chitchat -->
+        <VFEV_VeryDrunkChitchat.label>bate-papo muito bêbado</VFEV_VeryDrunkChitchat.label>
+        <!-- EN:
+            <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+            <li>talkedabout(p=4)->chatted about</li>
+            <li>talkedabout->shared a word about</li>
+            <li>talkedabout->spoke about</li>
+            <li>talkedabout->gabbed about</li>
+            <li>talkedabout->talked about</li>
+            <li>talkedabout->joked about</li>
+            <li>talkedabout->quipped about</li>
+            <li>commentedabout->said something about</li>
+            <li>commentedabout->said a word about</li>
+            <li>commentedabout->made a comment about</li>
+            <li>commentedabout->commented about</li>
+            <li>commentedabout->told a joke about</li>
+        -->
+        <VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedaboutPlural] [TalkTopicLight].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [talkedaboutSingular] [TalkTopicLight] com [RECIPIENT_nameDef].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] com [RECIPIENT_nameDef].</li>
+            <li>talkedaboutSingular(p=4)->conversou sobre</li>
+            <li>talkedaboutSingular->falou sobre</li>
+            <li>talkedaboutSingular(p=2)->tagarelou sobre</li>
+            <li>talkedaboutSingular(p=2)->brincou com</li>
+            <li>talkedaboutPlural(p=4)->conversaram sobre</li>
+            <li>talkedaboutPlural->falaram sobre</li>
+            <li>talkedaboutPlural(p=2)->tagarelaram sobre</li>
+            <li>talkedaboutPlural(p=2)->brincaram com</li>
+            <li>commentedabout->disse algo sobre</li>
+            <li>commentedabout->disse uma palavra sobre</li>
+            <li>commentedabout->fez um comentário sobre</li>
+            <li>commentedabout->comentou sobre</li>
+            <li>commentedabout->contou uma piada sobre</li>
+        </VFEV_VeryDrunkChitchat.logRulesInitiator.rulesStrings>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: chitchat -->
+        <GR_TalkingToHumans.label>bate-papo</GR_TalkingToHumans.label>
+        <!-- EN:
+            <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [animalthings].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] to [RECIPIENT_nameDef].</li>
+            <li>talkedabout(p=4)->chatted about</li>
+            <li>talkedabout->shared a word about</li>
+            <li>talkedabout->spoke about</li>
+            <li>talkedabout->gabbed about</li>
+            <li>talkedabout->talked about</li>
+            <li>talkedabout->mumbled about</li>
+            <li>talkedabout->quipped about</li>
+            <li>commentedabout->said something about</li>
+            <li>commentedabout->stammered about</li>
+            <li>commentedabout->made a comment about</li>
+            <li>commentedabout->commented about</li>
+            <li>commentedabout->mused about</li>
+            <li>animalthings->the futility of the human condition</li>
+            <li>animalthings->rejecting humanity, returning to monkey</li>
+            <li>animalthings->an ancient movie where monkeys inherited the planet</li>
+            <li>animalthings->the transcendental aesthetic of the totality our faculties</li>
+            <li>animalthings->the never-ending regress in the series of empirical conditions</li>
+            <li>animalthings->how enlightenment is man's release from his self-incurred tutelage</li>
+            <li>animalthings->how language is the house of being</li>
+            <li>animalthings->existance being suffering</li>
+            <li>animalthings->the reasons for being created</li>
+            <li>animalthings->release from the constant suffering of life</li>
+            <li>animalthings->fucking magnets, how do they work?</li>
+            <li>animalthings->eating without a table, and the barbarism of Man</li>
+            <li>animalthings->what the deal is with Thrumbos, huh? Are they aliens, or what?</li>
+            <li>animalthings->bloat, as dumb, stupid animals are wont to do</li>
+            <li>animalthings->the necessity of a killbox to protect the colony</li>
+            <li>animalthings->the ethical concerns of human cloning</li>
+            <li>animalthings->all those anime mods. What are people thinking?</li>
+            <li>animalthings->the forbidden mod</li>
+            <li>animalthings->Bearofleets</li>
+        -->
+        <GR_TalkingToHumans.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedaboutPlural] [animalthings].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [talkedaboutSingular] [animalthings] com [RECIPIENT_nameDef].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [animalthings] com [RECIPIENT_nameDef].</li>
+            <li>talkedaboutSingular(p=4)->conversou sobre</li>
+            <li>talkedaboutSingular->falou sobre</li>
+            <li>talkedaboutSingular(p=2)->tagarelou sobre</li>
+            <li>talkedaboutSingular(p=2)->brincou com</li>
+            <li>talkedaboutPlural(p=4)->conversaram sobre</li>
+            <li>talkedaboutPlural->falaram sobre</li>
+            <li>talkedaboutPlural(p=2)->tagarelaram sobre</li>
+            <li>talkedaboutPlural(p=2)->brincaram com</li>
+            <li>commentedabout->disse algo sobre</li>
+            <li>commentedabout->disse uma palavra sobre</li>
+            <li>commentedabout->fez um comentário sobre</li>
+            <li>commentedabout->comentou sobre</li>
+            <li>commentedabout->contou uma piada sobre</li>
+            <li>animalthings->a estética transcendental da totalidade nossas faculdades</li>
+            <li>animalthings->a existência como sofrimento</li>
+            <li>animalthings->a futilidade da condição humana</li>
+            <li>animalthings->a libertação do sofrimento constante da vida</li>
+            <li>animalthings->a modificação proibida</li>
+            <li>animalthings->a necessidade de uma ferramenta em funil construída de pedra e repleta de armadilhas e sacos de areia para desacelerar os inimigos para proteger a colônia</li>
+            <li>animalthings->a porra dos ímãs</li>
+            <li>animalthings->as modificações de anime desse jogo</li>
+            <li>animalthings->as preocupações éticas da clonagem humana</li>
+            <li>animalthings->as razões da vida</li>
+            <li>animalthings->comer sem mesa e a barbárie do homem</li>
+            <li>animalthings->como a iluminação é a libertação do homem de sua tutela auto-incorrida</li>
+            <li>animalthings->como a linguagem é a casa do ser</li>
+            <li>animalthings->o retrocesso sem fim na série de condições empíricas</li>
+            <li>animalthings->rejeitar a humanidade e retornar ao macaco</li>
+            <li>animalthings->trumbos serem alienígenas</li>
+            <li>animalthings->um filme ancestral em que os macacos dominam o planeta</li>
+        </GR_TalkingToHumans.logRulesInitiator.rulesStrings>
+
+        <!-- EN: UwU pounce -->
+        <GR_UwUTalkingToHumans.label>aproximação</GR_UwUTalkingToHumans.label>
+        <!-- EN: 
+            <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] with a playful pounce and [talkedabout] [animalthings].</li>
+            <li>r_logentry->[INITIATOR_nameDef], purring seductively, [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+            <li>r_logentry->[INITIATOR_nameDef] said "UwU, what's this?" and [talkedabout] [animalthings] with [RECIPIENT_nameDef].</li>
+            <li>talkedabout(p=4)->stammered abouwt</li>
+            <li>talkedabout->sputtered abouwt</li>
+            <li>talkedabout->hesitantly mused abouwt</li>
+            <li>talkedabout->tawked abouwt</li>
+            <li>talkedabout->squirmed abouwt</li>
+            <li>talkedabout->shyly conversed abouwt</li>
+            <li>animalthings->if a squiwwew couwd tawk duwu uwu think iwt wouwd have a weawwy high voice ow a weawwy wow voice?</li>
+            <li>animalthings->whawt wouwd youw dweam job combination be? Mine wouwd be a space-cowboy!</li>
+            <li>animalthings->how mozzawewwa iws juwst the best type of cheese</li>
+            <li>animalthings->needing tuwu be punished</li>
+            <li>animalthings->nuzzling a necky wecky</li>
+            <li>animalthings->the x3 nyeccesity fow c-comfowt and secuwity in these t-twying times</li>
+            <li>animalthings->eating without a t-tabwe, and the x3 bawbawism of Man</li>
+            <li>animalthings->the x3 dangews inhewent t-to wiving in a smaww *starts twerking* communyity ;;w;; in the x3 W-W-Wim</li>
+            <li>animalthings->the Empiwe *sweats* and theiw i-incwedibwy advanced technyowogy</li>
+        -->
+        <GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] aproximou-se de [RECIPIENT_nameDef] com um pulinho e [talkedabout] [animalthings].</li>
+            <li>r_logentry->[INITIATOR_nameDef], ronronando sedutoramente, [talkedabout] [animalthings] com [RECIPIENT_nameDef].</li>
+            <li>r_logentry->[INITIATOR_nameDef] disse "QUE COISINHA MAIS FOFINHA?" e [talkedabout] [animalthings] com [RECIPIENT_nameDef].</li>
+            <li>talkedabout(p=4)->gaguejou sobre</li>
+            <li>talkedabout->devaneou hesitantemente sobre</li>
+            <li>talkedabout->falou com vergonha sobre</li>
+            <li>talkedabout->falou cuspindo sobre</li>
+            <li>talkedabout->falou sobre</li>
+            <li>animalthings->como seria a voz de um esquilo se ele pudesse falar</li>
+            <li>animalthings->qual seria o seu trabalho dos sonhos</li>
+            <li>animalthings->como mussarela é o melhor tipo de queijo</li>
+            <li>animalthings->a necessidade de ser punido</li>
+            <li>animalthings->acariciar pescoços</li>
+            <li>animalthings->a necessidade do conforto e da segurança na colônia</li>
+            <li>animalthings->comer sem uma mesa e a barbárie do homem</li>
+            <li>animalthings->a tecnologia incrivelmente avançada do Império</li>
+        </GR_UwUTalkingToHumans.logRulesInitiator.rulesStrings>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- EN: discord -->
+        <VSIE_Discord.label>discórdia</VSIE_Discord.label>
+        <!-- EN:         
+            <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
+            <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
+            <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+            <li>target(p=4)->[RECIPIENT_nameDef]</li>
+            <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+            <li>insulted(p=3)->insulted</li>
+            <li>insulted->openly insulted</li>
+            <li>insulted->loudly insulted</li>
+            <li>insulted->flagrantly insulted</li>
+            <li>insulted->directly insulted</li>
+            <li>insulted->viciously insulted</li>
+            <li>insulted->flagrantly disrespected</li>
+            <li>insulted->slandered</li>
+            <li>insulted->hurled invective about</li>
+            <li>insulted->derided</li>
+            <li>insultcomparison(p=2)->[Animal]</li>
+            <li>insultcomparison->[Enemy]</li>
+        -->
+        <VSIE_Discord.logRulesInitiator.rulesStrings>
+            <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] como [target] tem [PersonalCharacteristic].</li>
+            <li>r_logentry->[INITIATOR_nameDef] comparou [target] com um(a) [insultcomparison].</li>
+            <li>r_logentry->[INITIATOR_nameDef] chamou [target] de [insultcomparison].</li>
+            <li>target(p=4)->[RECIPIENT_nameDef]</li>
+            <li>target->o(a) [PersonFamily] de [RECIPIENT_nameDef]</li>
+            <li>insulted(p=3)->insultou</li>
+            <li>insulted->insultou abertamente</li>
+            <li>insulted->insultou em voz alta</li>
+            <li>insulted->insultou em flagrante</li>
+            <li>insulted->insultou diretamente</li>
+            <li>insulted->insultou viciosamente</li>
+            <li>insulted->desrespeitou em flagrante</li>
+            <li>insulted->caluniou</li>
+            <li>insulted->lançou injúria sobre</li>
+            <li>insulted->ridicularizou</li>
+            <li>insultcomparison(p=2)->[Animal]</li>
+            <li>insultcomparison->[Enemy]</li>
+        </VSIE_Discord.logRulesInitiator.rulesStrings>
+
+        <!-- EN: vent -->
+        <VSIE_Vent.label>desabafo</VSIE_Vent.label>
+        <!-- EN:
+            <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+            <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+            <li>talkedabout(p=4)->chatted about</li>
+            <li>talkedabout->shared a word about</li>
+            <li>talkedabout->spoke about</li>
+            <li>talkedabout->gabbed about</li>
+            <li>talkedabout->talked about</li>
+            <li>talkedabout->joked about</li>
+            <li>talkedabout->quipped about</li>
+            <li>commentedabout->said something about</li>
+            <li>commentedabout->said a word about</li>
+            <li>commentedabout->made a comment about</li>
+            <li>commentedabout->commented about</li>
+            <li>commentedabout->told a joke about</li>
+        -->
+        <VSIE_Vent.logRulesInitiator.rulesStrings>
+            <li>r_logentry->[INITIATOR_nameDef] e [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+            <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] para [RECIPIENT_nameDef].</li>
+            <li>talkedabout(p=4)->conversaram sobre</li>
+            <li>talkedabout(p=2)->falaram sobre</li>
+            <li>talkedabout(p=2)->brincaram com</li>
+            <li>talkedabout->compartilharam sobre</li>
+            <li>talkedabout->tagarelaram sobre</li>
+            <li>commentedabout->disse algo sobre</li>
+            <li>commentedabout->disse uma palavra sobre</li>
+            <li>commentedabout->fez um comentário sobre</li>
+            <li>commentedabout->comentou sobre</li>
+            <li>commentedabout->contou uma piada sobre</li>
+        </VSIE_Vent.logRulesInitiator.rulesStrings>
+
+        <!-- EN: teaching -->
+        <VSIE_Teaching.label>ensino</VSIE_Teaching.label>
+        <!-- EN:
+            <li>r_logentry-&gt;</li>
+        -->
+        <VSIE_Teaching.logRulesInitiator.rulesStrings>
+            <li>r_logentry-&gt;</li>
+        </VSIE_Teaching.logRulesInitiator.rulesStrings>
+
+</LanguageData>

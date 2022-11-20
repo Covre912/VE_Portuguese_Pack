@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: fire breath -->
+        <VFEA_FireBreath.label>sopro de fogo</VFEA_FireBreath.label>
+
+        <!-- EN: ice breath -->
+        <VFEA_IceBreath.label>sopro de gelo</VFEA_IceBreath.label>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: small inferno spewer shot -->
+        <VFE_Bullet_InfernoSpewerSmall.label>tiro de lança-chamas infernal pequeno</VFE_Bullet_InfernoSpewerSmall.label>
+
+        <!-- EN: inferno spewer shot -->
+        <VFE_Bullet_InfernoSpewer.label>tiro de lança-chamas infernal</VFE_Bullet_InfernoSpewer.label>
+
+        <!-- EN: inferno spewer shot -->
+        <VFE_Bullet_AdvancedInfernoSpewer.label>tiro de lança-chamas infernal</VFE_Bullet_AdvancedInfernoSpewer.label>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: warcasket heavy flamer shot -->
+        <VWE_Bullet_WarcasketHeavyFlamer.label>tiro de lança-chamas pesado de guerrataúde</VWE_Bullet_WarcasketHeavyFlamer.label>
+
+        <!-- EN: crypto cannon charge -->
+        <VFE_Bullet_CryptoCannon.label>tiro de cripto-canhão de guerrataúde</VFE_Bullet_CryptoCannon.label>
+
+        <!-- EN: railgun sabot -->
+        <VWE_Bullet_WarcasketRailgun.label>tiro de canhão elétrico de guerrataúde</VWE_Bullet_WarcasketRailgun.label>
+
+    <!-- Vanilla Furniture Expanded - Security -->
+        <!-- EN: flamethrower -->
+        <VFES_Bullet_FlameTurret.label>lança-chamas</VFES_Bullet_FlameTurret.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: flame breath -->
+        <GR_FlameBreathAnimated.label>sopro de fogo</GR_FlameBreathAnimated.label>
+
+        <!-- EN: poison breath -->
+        <GR_PoisonBreathAnimated.label>sopro de veneno</GR_PoisonBreathAnimated.label>
+
+    <!-- Vanilla Weapons Expanded - Frontier -->
+        <!-- EN: gauss revolver sabot -->
+        <VWEFT_Bullet_GaussRevolver.label>tiro de revólver eletromagnético</VWEFT_Bullet_GaussRevolver.label>
+
+        <!-- EN: gauss repeater sabot -->
+        <VWEFT_Bullet_GaussRepeater.label>tiro de rifle de repetição eletromagnético</VWEFT_Bullet_GaussRepeater.label>
+
+    <!-- Vanilla Weapons Expanded - Coilguns -->
+        <!-- EN: gauss rifle sabot -->
+        <VWE_Bullet_GaussRifle.label>tiro de rifle eletromagnético</VWE_Bullet_GaussRifle.label>
+
+        <!-- EN: gauss magnum sabot -->
+        <VWE_Bullet_GaussMagnum.label>tiro de magnum eletromagnética</VWE_Bullet_GaussMagnum.label>
+
+        <!-- EN: gauss lance sabot -->
+        <VWE_Bullet_GaussLance.label>tiro de lança eletromagnética</VWE_Bullet_GaussLance.label>
+
+    <!-- Vanilla Weapons Expanded - Heavy Weapons -->
+        <!-- EN: heavy flamer shot -->
+        <VWE_Bullet_HeavyFlamer.label>tiro de lança-chamas pesado</VWE_Bullet_HeavyFlamer.label>
+
+</LanguageData>

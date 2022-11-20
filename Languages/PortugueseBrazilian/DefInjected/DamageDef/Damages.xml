@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: plagued bite -->
+        <VAE_PlagueBite.label>mordida pestilenta</VAE_PlagueBite.label>
+        <!-- EN: {0} has been killed. -->
+        <VAE_PlagueBite.deathMessage>{0} foi mort{0_gender ? o : a}.</VAE_PlagueBite.deathMessage>
+
+        <!-- EN: virulent toxic bite -->
+        <VAE_VeryToxicBite.label>mordida tóxica virulenta</VAE_VeryToxicBite.label>
+        <!-- EN: {0} died after getting bitten by a poisonous creature. -->
+        <VAE_VeryToxicBite.deathMessage>{0} morreu após ser mordid{0_gender ? o : a} por uma criatura venenosa.</VAE_VeryToxicBite.deathMessage>
+
+        <!-- EN: bleeding wound -->
+        <VAE_ToxicSting.label>ferida sangrando</VAE_ToxicSting.label>
+        <!-- EN: {0} has bled to death. -->
+        <VAE_ToxicSting.deathMessage>{0} sangrou até a morte.</VAE_ToxicSting.deathMessage>
+
+        <!-- EN: uncontrollable bleeding -->
+        <VAE_UncontrollableBleeding.label>sangramento incontrolável</VAE_UncontrollableBleeding.label>
+        <!-- EN: {0} has bled to death. -->
+        <VAE_UncontrollableBleeding.deathMessage>{0} sangrou até a morte.</VAE_UncontrollableBleeding.deathMessage>
+
+        <!-- EN: arm smash -->
+        <VAE_HulkAttack.label>golpe braçal</VAE_HulkAttack.label>
+        <!-- EN: {0} has been killed. -->
+        <VAE_HulkAttack.deathMessage>{0} foi mort{0_gender ? o : a}.</VAE_HulkAttack.deathMessage>
+
+        <!-- EN: two arm slam -->
+        <VAE_HulkDualAttack.label>golpe braçal duplo</VAE_HulkDualAttack.label>
+        <!-- EN: {0} has been killed. -->
+        <VAE_HulkDualAttack.deathMessage>{0} foi mort{0_gender ? o : a}.</VAE_HulkDualAttack.deathMessage>
+
+        <!-- EN: cocoon bite -->
+        <VAE_CocoonBite.label>mordida de casulo</VAE_CocoonBite.label>
+        <!-- EN: {0} has been killed. -->
+        <VAE_CocoonBite.deathMessage>{0} foi mort{0_gender ? o : a}.</VAE_CocoonBite.deathMessage>
+
+        <!-- EN: silk projectile -->
+        <VAE_CocoonRanged.label>projétil de seda</VAE_CocoonRanged.label>
+        <!-- EN: {0} has suffocated due to being covered in sticky silk. -->
+        <VAE_CocoonRanged.deathMessage>{0} sufocou por estar cobert{0_gender ? o : a} de seda pegajosa.</VAE_CocoonRanged.deathMessage>
+
+        <!-- EN: infected mandibles -->
+        <VAE_InfectedMandibles.label>mandíbulas infectadas</VAE_InfectedMandibles.label>
+        <!-- EN: {0} has been killed. -->
+        <VAE_InfectedMandibles.deathMessage>{0} foi mort{0_gender ? o : a}.</VAE_InfectedMandibles.deathMessage>
+
+    <!-- Vanilla Animals Expanded - Desert -->
+        <!-- EN: venomous bite -->
+        <AEXP_GilaToxicBuildUp.label>mordida venenosa</AEXP_GilaToxicBuildUp.label>
+        <!-- EN: {0} has been bitten to death. -->
+        <AEXP_GilaToxicBuildUp.deathMessage>{0} morreu envenenad{0_gender ? o : a}.</AEXP_GilaToxicBuildUp.deathMessage>
+
+    <!-- Vanilla Animals Expanded - Extreme Desert -->
+        <!-- EN: venomous bite -->
+        <AEXP_RattleSnakeToxicBuildUp.label>mordida venenosa</AEXP_RattleSnakeToxicBuildUp.label>
+        <!-- EN: {0} has been bitten to death. -->
+        <AEXP_RattleSnakeToxicBuildUp.deathMessage>{0} morreu envenenad{0_gender ? o : a}.</AEXP_RattleSnakeToxicBuildUp.deathMessage>
+
+        <!-- EN: venomous bite -->
+        <AEXP_MegascorpionToxicBuildUp.label>mordida venenosa</AEXP_MegascorpionToxicBuildUp.label>
+        <!-- EN: {0} has been bitten to death. -->
+        <AEXP_MegascorpionToxicBuildUp.deathMessage>{0} morreu envenenad{0_gender ? o : a}.</AEXP_MegascorpionToxicBuildUp.deathMessage>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: acid burn -->
+        <VEF_SecondaryAcidBurn.label>ácido</VEF_SecondaryAcidBurn.label>
+        <!-- EN: {0} has been corroded to death. -->
+        <VEF_SecondaryAcidBurn.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</VEF_SecondaryAcidBurn.deathMessage>
+
+        <!-- Vanilla Weapons Expanded -->
+        <!-- EN: extinguish -->
+        <VWE_Extinguish.label>extintor</VWE_Extinguish.label>
+        <!-- EN: {0} has been killed. -->
+        <VWE_Extinguish.deathMessage>{0} foi mort{0_gender ? o : a}.</VWE_Extinguish.deathMessage>
+
+        <!-- EN: Toxic Gas -->
+        <Dam_OPToxin.label>gás tóxico</Dam_OPToxin.label>
+        <!-- EN: {0} has been killed. -->
+        <Dam_OPToxin.deathMessage>{0} foi mort{0_gender ? o : a}.</Dam_OPToxin.deathMessage>
+
+        <!-- EN: ARL_ToxicGas -->
+        <VWE_ToxicGas.label>gás tóxico</VWE_ToxicGas.label>
+        <!-- EN: {0} has been killed. -->
+        <VWE_ToxicGas.deathMessage>{0} foi mort{0_gender ? o : a}.</VWE_ToxicGas.deathMessage>
+
+        <!-- EN: shock -->
+        <VWE_Shock.label>choque</VWE_Shock.label>
+        <!-- EN: {0} has been shocked to death. -->
+        <VWE_Shock.deathMessage>{0} foi eletrocutad{0_gender ? o : a} até a morte.</VWE_Shock.deathMessage>
+
+        <!-- EN: flame -->
+        <VWE_HauntingFlame.label>chama</VWE_HauntingFlame.label>
+        <!-- EN: {0} has burned to death. -->
+        <VWE_HauntingFlame.deathMessage>{0} queimou até a morte.</VWE_HauntingFlame.deathMessage>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: acid breath -->
+        <VFEA_AcidBreath.label>sopro ácido</VFEA_AcidBreath.label>
+        <!-- EN: {0} has been dissolved to nothing. -->
+        <VFEA_AcidBreath.deathMessage>{0} foi dissolvid{0_gender ? o : a} em pó.</VFEA_AcidBreath.deathMessage>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: apparel damage -->
+        <VFEC_ApparelDamage.label>dano de vestuário</VFEC_ApparelDamage.label>
+        <!-- EN: {0} has been damaged to death. -->
+        <VFEC_ApparelDamage.deathMessage>{0} foi ferid{0_gender ? o : a} até a morte.</VFEC_ApparelDamage.deathMessage>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: psychic -->
+        <VFEI_PsychicNoDamage.label>psique</VFEI_PsychicNoDamage.label>
+        <!-- EN: {0} has been killed. -->
+        <VFEI_PsychicNoDamage.deathMessage>{0} foi mort{0_gender ? o : a}.</VFEI_PsychicNoDamage.deathMessage>
+
+        <!-- EN: toxic sting -->
+        <VFEI_ToxicSting.label>picada tóxica</VFEI_ToxicSting.label>
+        <!-- EN: {0} has been stung to death. -->
+        <VFEI_ToxicSting.deathMessage>{0} foi picad{0_gender ? o : a} até a morte.</VFEI_ToxicSting.deathMessage>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: cut -->
+        <VFEM_CutBlackKnight.label>corte</VFEM_CutBlackKnight.label>
+        <!-- EN: {0} has been cut to death. -->
+        <VFEM_CutBlackKnight.deathMessage>{0} foi cortad{0_gender ? o : a} até a morte..</VFEM_CutBlackKnight.deathMessage>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: gravity hammer attack -->
+        <VFEP_GravityHammerAttack.label>ataque de martelo gravitacional</VFEP_GravityHammerAttack.label>
+        <!-- EN: {0} has been smashed to death. -->
+        <VFEP_GravityHammerAttack.deathMessage>{0} foi esmagad{0_gender ? o : a} até a morte.</VFEP_GravityHammerAttack.deathMessage>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: cut -->
+        <VFEV_Cut.label>corte</VFEV_Cut.label>
+        <!-- EN: {0} has been cut to death. -->
+        <VFEV_Cut.deathMessage>{0} foi cortad{0_gender ? o : a} até a morte.</VFEV_Cut.deathMessage>
+
+        <!-- EN: bullet -->
+        <VFEV_CryptoDamageBullet.label>tiro</VFEV_CryptoDamageBullet.label>
+        <!-- EN: {0} has been shot to death. -->
+        <VFEV_CryptoDamageBullet.deathMessage>{0} foi mort{0_gender ? o : a} a tiros.</VFEV_CryptoDamageBullet.deathMessage>
+
+        <!-- EN: bolt -->
+        <VFEV_CryptoDamageBolt.label>flecha</VFEV_CryptoDamageBolt.label>
+        <!-- EN: {0} has been shot to death by a crossbow bolt. -->
+        <VFEV_CryptoDamageBolt.deathMessage>{0} foi mort{0_gender ? o : a} a tiros por uma flecha de besta.</VFEV_CryptoDamageBolt.deathMessage>
+
+        <!-- EN: sting -->
+        <VFEV_DamageSting.label>picada</VFEV_DamageSting.label>
+        <!-- EN: {0} has been stung to death. -->
+        <VFEV_DamageSting.deathMessage>{0} foi picad{0_gender ? o : a} até a morte.</VFEV_DamageSting.deathMessage>
+
+    <!-- Vanilla Furniture Expanded - Security -->
+        <!-- EN: splinter -->
+        <VFES_SplinterArrow.label>flecha</VFES_SplinterArrow.label>
+        <!-- EN: {0} has been pierced through to death by a gigantic arrow. -->
+        <VFES_SplinterArrow.deathMessage>{0} foi perfurad{0_gender ? o : a} até a morte por uma flecha gigante.</VFES_SplinterArrow.deathMessage>
+
+        <!-- EN: rock -->
+        <VFES_Rock.label>rocha</VFES_Rock.label>
+        <!-- EN: {0} has been squashed to death by a gigantic rock. -->
+        <VFES_Rock.deathMessage>{0} morreu esmagad{0_gender ? o : a} por uma rocha enorme.</VFES_Rock.deathMessage>
+
+        <!-- EN: flame -->
+        <VFES_HauntingFlame.label>chama</VFES_HauntingFlame.label>
+        <!-- EN: {0} has burned to death. -->
+        <VFES_HauntingFlame.deathMessage>{0} queimou até a morte.</VFES_HauntingFlame.deathMessage>
+
+        <!-- EN: {0} has been killed. -->
+        <VFES_NoDMG.deathMessage>{0} foi mort{0_gender ? o : a}.</VFES_NoDMG.deathMessage>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: vicious slash -->
+        <GR_GoForTheHead.label>golpe vicioso</GR_GoForTheHead.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_GoForTheHead.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_GoForTheHead.deathMessage>
+
+        <!-- EN: vicious peck -->
+        <GR_GoForTheEyes.label>bicada viciosa</GR_GoForTheEyes.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_GoForTheEyes.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_GoForTheEyes.deathMessage>
+
+        <!-- EN: rabid slash -->
+        <GR_RabidSlash.label>golpe raivoso</GR_RabidSlash.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_RabidSlash.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_RabidSlash.deathMessage>
+
+        <!-- EN: double slash -->
+        <GR_DoubleSlash.label>golpe duplo</GR_DoubleSlash.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_DoubleSlash.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_DoubleSlash.deathMessage>
+
+        <!-- EN: devastating bite -->
+        <GR_DevastatingBite.label>mordida devastadora</GR_DevastatingBite.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_DevastatingBite.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_DevastatingBite.deathMessage>
+
+        <!-- EN: acidic chemfuel -->
+        <GR_Acid.label>combustível químico ácido</GR_Acid.label>
+        <!-- EN: {0} has been corroded to death. -->
+        <GR_Acid.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</GR_Acid.deathMessage>
+
+        <!-- EN: blood frenzy -->
+        <GR_BloodFrenzy.label>frenesi sangrento</GR_BloodFrenzy.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_BloodFrenzy.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_BloodFrenzy.deathMessage>
+
+        <!-- EN: virulent toxic bite -->
+        <GR_VeryToxicBite.label>mordida tóxica virulenta</GR_VeryToxicBite.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_VeryToxicBite.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_VeryToxicBite.deathMessage>
+
+        <!-- EN: light toxic bite -->
+        <GR_LightToxicBite.label>mordida tóxica leve</GR_LightToxicBite.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_LightToxicBite.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_LightToxicBite.deathMessage>
+
+        <!-- EN: hairball -->
+        <GR_HairballProjectileDamage.label>bola de pelo</GR_HairballProjectileDamage.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_HairballProjectileDamage.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_HairballProjectileDamage.deathMessage>
+
+        <!-- EN: suffocating attack -->
+        <GR_GreatHairballProjectileDamage.label>ataque sufocante</GR_GreatHairballProjectileDamage.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_GreatHairballProjectileDamage.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_GreatHairballProjectileDamage.deathMessage>
+
+        <!-- EN: toxic explosion -->
+        <GR_ToxicExplosion.label>explosão tóxica</GR_ToxicExplosion.label>
+        <!-- EN: {0} has been poisoned to death. -->
+        <GR_ToxicExplosion.deathMessage>{0} foi envenenad{0_gender ? o : a} até a morte.</GR_ToxicExplosion.deathMessage>
+
+        <!-- EN: toxic explosion -->
+        <GR_ToxicGas.label>explosão tóxica</GR_ToxicGas.label>
+        <!-- EN: {0} has been poisoned to death. -->
+        <GR_ToxicGas.deathMessage>{0} foi envenenad{0_gender ? o : a} até a morte.</GR_ToxicGas.deathMessage>
+
+        <!-- EN: hairball explosion -->
+        <GR_HairballExplosion.label>explosão de bola de pelo</GR_HairballExplosion.label>
+        <!-- EN: {0} has been suffocated by cat hair to death. -->
+        <GR_HairballExplosion.deathMessage>{0} foi sufocad{0_gender ? o : a} até a morte.</GR_HairballExplosion.deathMessage>
+
+        <!-- EN: plagued bite -->
+        <GR_PlagueBite.label>mordida pestilenta</GR_PlagueBite.label>
+        <!-- EN: {0} has been killed. -->
+        <GR_PlagueBite.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_PlagueBite.deathMessage>
+
+        <!-- EN: {0} has been killed. -->
+        <GR_MiniGrain.deathMessage>{0} foi mort{0_gender ? o : a}.</GR_MiniGrain.deathMessage>
+
+        <!-- EN: warping -->
+        <GR_DistortionDamage.label>deformação</GR_DistortionDamage.label>
+        <!-- EN: {0} has succumbed to a warped body. -->
+        <GR_DistortionDamage.deathMessage>{0} sucumbiu.</GR_DistortionDamage.deathMessage>
+
+        <!-- EN: permanent burn -->
+        <GR_PermanentBurn.label>queimadura permanente</GR_PermanentBurn.label>
+        <!-- EN: {0} has been killed by burning. -->
+        <GR_PermanentBurn.deathMessage>{0} foi queimad{0_gender ? o : a} até a morte.</GR_PermanentBurn.deathMessage>
+
+    <!-- Vanilla Ideology Expanded - Dryads -->
+        <!-- EN: acid spit -->
+        <VDE_AcidSpit.label>cuspe ácido</VDE_AcidSpit.label>
+        <!-- EN: {0} has been corroded to death. -->
+        <VDE_AcidSpit.deathMessage>{0} foi corroíd{0_gender ? o : a} até a morte.</VDE_AcidSpit.deathMessage>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: bomb -->
+        <BombACI.label>bomba</BombACI.label>
+        <!-- EN: {0} has died in an explosion. -->
+        <BombACI.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</BombACI.deathMessage>
+
+        <!-- EN: bomb -->
+        <BombACII.label>bomba</BombACII.label>
+        <!-- EN: {0} has died in an explosion. -->
+        <BombACII.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</BombACII.deathMessage>
+
+        <!-- EN: bomb -->
+        <BombACIII.label>bomba</BombACIII.label>
+        <!-- EN: {0} has died in an explosion. -->
+        <BombACIII.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</BombACIII.deathMessage>
+
+        <!-- EN: laser -->
+        <ShipLaserSmall.label>laser</ShipLaserSmall.label>
+        <!-- EN: {0} has been lasered to death. -->
+        <ShipLaserSmall.deathMessage>{0} foi mort{0_gender ? o : a} a laser.</ShipLaserSmall.deathMessage>
+
+        <!-- EN: plasma -->
+        <ShipPlasmaSmall.label>plasma</ShipPlasmaSmall.label>
+        <!-- EN: {0} has been vaporized by plasma. -->
+        <ShipPlasmaSmall.deathMessage>{0} foi vaporizad{0_gender ? o : a} por plasma.</ShipPlasmaSmall.deathMessage>
+
+        <!-- EN: bomb -->
+        <BombKinetic.label>bomba</BombKinetic.label>
+        <!-- EN: {0} has died in an explosion. -->
+        <BombKinetic.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</BombKinetic.deathMessage>
+
+        <!-- EN: laser -->
+        <ShipLaserTwo.label>laser</ShipLaserTwo.label>
+        <!-- EN: {0} has been lasered to death. -->
+        <ShipLaserTwo.deathMessage>{0} foi mort{0_gender ? o : a} a laser.</ShipLaserTwo.deathMessage>
+
+        <!-- EN: plasma -->
+        <ShipPlasmaLarge.label>plasma</ShipPlasmaLarge.label>
+        <!-- EN: {0} has been vaporized by plasma. -->
+        <ShipPlasmaLarge.deathMessage>{0} foi vaporizad{0_gender ? o : a} por plasma.</ShipPlasmaLarge.deathMessage>
+
+        <!-- EN: bomb -->
+        <BombKineticLarge.label>bomba</BombKineticLarge.label>
+        <!-- EN: {0} has died in an explosion. -->
+        <BombKineticLarge.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</BombKineticLarge.deathMessage>
+
+        <!-- EN: Shield -->
+        <ShieldExplosion.label>escudo</ShieldExplosion.label>
+        <!-- EN: {0} has glitched to death. -->
+        <ShieldExplosion.deathMessage>{0} foi mort{0_gender ? o : a}.</ShieldExplosion.deathMessage>
+
+        <!-- EN: psychic trauma -->
+        <PsychicFlayer.label>trauma psíquico</PsychicFlayer.label>
+        <!-- EN: {0} has been psychically obliterated. -->
+        <PsychicFlayer.deathMessage>{0} foi obliterad{0_gender ? o : a} psiquicamente.</PsychicFlayer.deathMessage>
+
+        <!-- EN: bomb -->
+        <BombMechanite.label>bomba</BombMechanite.label>
+        <!-- EN: {0} has died in an explosion. -->
+        <BombMechanite.deathMessage>{0} foi mort{0_gender ? o : a} em uma explosão.</BombMechanite.deathMessage>
+
+        <!-- EN: decompression -->
+        <VacuumDamage.label>descompressão</VacuumDamage.label>
+        <!-- EN: {0} has ruptured. -->
+        <VacuumDamage.deathMessage>{0} foi mort{0_gender ? o : a}.</VacuumDamage.deathMessage>
+
+        <!-- EN: bomb -->
+        <ShipTorpedoBomb.label>bomba</ShipTorpedoBomb.label>
+        <!-- EN: {0} has been killed. -->
+        <ShipTorpedoBomb.deathMessage>{0} foi mort{0_gender ? o : a}.</ShipTorpedoBomb.deathMessage>
+
+        <!-- EN: bomb. -->
+        <ShipTorpedoBombSuper.label>bomba</ShipTorpedoBombSuper.label>
+        <!-- EN: {0} has been killed. -->
+        <ShipTorpedoBombSuper.deathMessage>{0} foi mort{0_gender ? o : a}.</ShipTorpedoBombSuper.deathMessage>
+
+    <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <!-- EN: anaesthetic dart -->
+        <VWE_AnestheticDart.label>dardo anestésico</VWE_AnestheticDart.label>
+        <!-- EN: {0} has been shot to death by an anesthetic dart. -->
+        <VWE_AnestheticDart.deathMessage>{0} foi mort{0_gender ? o : a} por um dardo anestésico.</VWE_AnestheticDart.deathMessage>
+
+        <!-- EN: tear gas -->
+        <VWENL_TearGas.label>gás lacrimogêneo</VWENL_TearGas.label>
+        <!-- EN: {0} has been killed. -->
+        <VWENL_TearGas.deathMessage>{0} foi mort{0_gender ? o : a}.</VWENL_TearGas.deathMessage>
+
+</LanguageData>

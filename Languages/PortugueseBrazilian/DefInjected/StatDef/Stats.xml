@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: ranged cooldown factor -->
+        <VEF_RangedCooldownFactor.label>fator de tempo de recarga de alcance</VEF_RangedCooldownFactor.label>
+        <!-- EN: The cooldown on ranged weapons of the wearer is multiplied by this value. -->
+        <VEF_RangedCooldownFactor.description>O tempo de recarga nas armas de longo alcance do usuário é multiplicado por este valor.</VEF_RangedCooldownFactor.description>
+
+        <!-- EN: verb range factor -->
+        <VEF_VerbRangeFactor.label>fator de alcance</VEF_VerbRangeFactor.label>
+        <!-- EN: verb range factor (people) -->
+        <VEF_VerbRangeFactor.labelForFullStatList>fator de alcance (pessoas)</VEF_VerbRangeFactor.labelForFullStatList>
+        <!-- EN: The range on weapons of the wielder is multiplied by this value. -->
+        <VEF_VerbRangeFactor.description>O alcance das armas do usuário é multiplicado por este valor.</VEF_VerbRangeFactor.description>
+
+        <!-- EN: verb cooldown factor -->
+        <VEF_VerbCooldownFactor.label>fator de tempo de recarga</VEF_VerbCooldownFactor.label>
+        <!-- EN: verb cooldown factor (people) -->
+        <VEF_VerbCooldownFactor.labelForFullStatList>fator de tempo de recarga (pessoas)</VEF_VerbCooldownFactor.labelForFullStatList>
+        <!-- EN: The cooldown on weapons of the wielder is multiplied by this value. -->
+        <VEF_VerbCooldownFactor.description>O tempo de recarga das armas do portador é multiplicado por este valor.</VEF_VerbCooldownFactor.description>
+
+        <!-- EN: Shield max energy offset -->
+        <VEF_EnergyShieldEnergyMaxOffset.label>deslocamento de energia máxima do escudo</VEF_EnergyShieldEnergyMaxOffset.label>
+        <!-- EN: Offset of the maximum shield energy that the user can boost through various means. -->
+        <VEF_EnergyShieldEnergyMaxOffset.description>Deslocamento de energia máxima do escudo que o usuário pode aprimorar.</VEF_EnergyShieldEnergyMaxOffset.description>
+
+        <!-- EN: Shield max energy factor -->
+        <VEF_EnergyShieldEnergyMaxFactor.label>fator de energia máxima do escudo</VEF_EnergyShieldEnergyMaxFactor.label>
+        <!-- EN: Factor of the maximum shield energy that the user can boost through various means. -->
+        <VEF_EnergyShieldEnergyMaxFactor.description>Fator de energia máxima do escudo que o usuário pode aprimorar.</VEF_EnergyShieldEnergyMaxFactor.description>
+
+        <!-- EN: shield max energy -->
+        <VEF_EnergyShieldEnergyMaxApparel.label>energia máxima do escudo</VEF_EnergyShieldEnergyMaxApparel.label>
+        <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+        <VEF_EnergyShieldEnergyMaxApparel.description>A energia máxima que um gerador de escudo pode possuir. Mais energia absorve mais dano.</VEF_EnergyShieldEnergyMaxApparel.description>
+
+        <!-- EN: shield recharge rate -->
+        <VEF_EnergyShieldRechargeRateApparel.label>taxa de recarga do escudo</VEF_EnergyShieldRechargeRateApparel.label>
+        <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+        <VEF_EnergyShieldRechargeRateApparel.description>A taxa em que o escudo ganha energia.</VEF_EnergyShieldRechargeRateApparel.description>
+        <!-- EN: {0}/s -->
+        <VEF_EnergyShieldRechargeRateApparel.formatString>{0}/s</VEF_EnergyShieldRechargeRateApparel.formatString>
+
+        <!-- EN: shield radius -->
+        <VEF_EnergyShieldRadiusApparel.label>raio do escudo</VEF_EnergyShieldRadiusApparel.label>
+        <!-- EN: The area covered when the energy shield is active. -->
+        <VEF_EnergyShieldRadiusApparel.description>A área coberta quando o escudo de energia está ativo.</VEF_EnergyShieldRadiusApparel.description>
+        <!-- EN: {0} c -->
+        <VEF_EnergyShieldRadiusApparel.formatString>{0} c</VEF_EnergyShieldRadiusApparel.formatString>
+
+        <!-- EN: shield max energy -->
+        <VEF_EnergyShieldEnergyMaxPawn.label>energia máxima do escudo</VEF_EnergyShieldEnergyMaxPawn.label>
+        <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+        <VEF_EnergyShieldEnergyMaxPawn.description>A energia máxima que um gerador de escudo pode possuir. Mais energia absorve mais dano.</VEF_EnergyShieldEnergyMaxPawn.description>
+
+        <!-- EN: shield recharge rate -->
+        <VEF_EnergyShieldRechargeRatePawn.label>taxa de recarga do escudo</VEF_EnergyShieldRechargeRatePawn.label>
+        <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+        <VEF_EnergyShieldRechargeRatePawn.description>A taxa em que o escudo ganha energia.</VEF_EnergyShieldRechargeRatePawn.description>
+        <!-- EN: {0}/s -->
+        <VEF_EnergyShieldRechargeRatePawn.formatString>{0}/s</VEF_EnergyShieldRechargeRatePawn.formatString>
+
+        <!-- EN: shield radius -->
+        <VEF_EnergyShieldRadiusPawn.label>raio do escudo</VEF_EnergyShieldRadiusPawn.label>
+        <!-- EN: The area covered when the energy shield is active. -->
+        <VEF_EnergyShieldRadiusPawn.description>A área coberta quando o escudo de energia está ativo.</VEF_EnergyShieldRadiusPawn.description>
+        <!-- EN: {0} c -->
+        <VEF_EnergyShieldRadiusPawn.formatString>{0} c</VEF_EnergyShieldRadiusPawn.formatString>
+
+        <!-- EN: melee attack speed factor -->
+        <VEF_MeleeAttackSpeedFactor.label>fator de velocidade de ataque corpo a corpo</VEF_MeleeAttackSpeedFactor.label>
+        <!-- EN: A multiplier on melee attack speed. -->
+        <VEF_MeleeAttackSpeedFactor.description>Um multiplicador de velocidade de ataque corpo a corpo.</VEF_MeleeAttackSpeedFactor.description>
+
+        <!-- EN: range attack speed factor -->
+        <VEF_RangeAttackSpeedFactor.label>fator de velocidade de ataque à distância</VEF_RangeAttackSpeedFactor.label>
+        <!-- EN: A multiplier on range attack speed. -->
+        <VEF_RangeAttackSpeedFactor.description>Um multiplicador de velocidade de ataque à distância.</VEF_RangeAttackSpeedFactor.description>
+
+        <!-- EN: melee attack damage factor -->
+        <VEF_MeleeAttackDamageFactor.label>fator de dano de ataque corpo a corpo</VEF_MeleeAttackDamageFactor.label>
+        <!-- EN: A multiplier on melee attack damage. -->
+        <VEF_MeleeAttackDamageFactor.description>Um multiplicador de dano de ataque corpo a corpo.</VEF_MeleeAttackDamageFactor.description>
+
+        <!-- EN: range attack damage factor -->
+        <VEF_RangeAttackDamageFactor.label>fator de dano de ataque à distância</VEF_RangeAttackDamageFactor.label>
+        <!-- EN: A multiplier on range attack damage. -->
+        <VEF_RangeAttackDamageFactor.description>Um multiplicador de dano de ataque à distância.</VEF_RangeAttackDamageFactor.description>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: fail chance -->
+        <VFEA_FailChance.label>chance de falha</VFEA_FailChance.label>
+        <!-- EN: The chance that a nanite injecting operation will fail. -->
+        <VFEA_FailChance.description>A chance de uma operação de injeção de nanorrobôs falhar.</VFEA_FailChance.description>
+
+        <!-- EN: injecting time factor -->
+        <VFEA_InjectingTimeFactor.label>fator de tempo de injeção</VFEA_InjectingTimeFactor.label>
+        <!-- EN: A multiplier on the speed of a gene-tailoring pod. It can be lowered by finding and installing super-nanite injector pumps. -->
+        <VFEA_InjectingTimeFactor.description>Um multiplicador da velocidade de uma cápsula de costura genética. Pode ser diminuído ao instalar bombas injetoras de super-nanorrobôs.</VFEA_InjectingTimeFactor.description>
+
+        <!-- EN: ranged cooldown -->
+        <VFEAncients_RangedCooldownFactor.label>tempo de recarga a distância</VFEAncients_RangedCooldownFactor.label>
+        <!-- EN: The cooldown on ranged weapons for this pawn is multiplied by this value. -->
+        <VFEAncients_RangedCooldownFactor.description>O tempo de recarga de armas a distância deste colono será multiplicado por este valor.</VFEAncients_RangedCooldownFactor.description>
+
+        <!-- EN: melee cooldown -->
+        <VFEAncients_MeleeCooldownFactor.label>tempo de recarga corpo a corpo</VFEAncients_MeleeCooldownFactor.label>
+        <!-- EN: The cooldown on melee weapons for this pawn is multiplied by this value. -->
+        <VFEAncients_MeleeCooldownFactor.description>O tempo de recarga de armas corpo a corpo deste colono será multiplicado por este valor.</VFEAncients_MeleeCooldownFactor.description>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: power jump range -->
+        <VFEP_PowerJumpRange.label>distância do super-pulo</VFEP_PowerJumpRange.label>
+        <!-- EN: The maximum distance of a power jump. -->
+        <VFEP_PowerJumpRange.description>A distância máxima de um super-pulo.</VFEP_PowerJumpRange.description>
+
+        <!-- EN: power jump detonation radius -->
+        <VFEP_PowerJumpDetonationRadius.label>raio de detonação do super-pulo</VFEP_PowerJumpDetonationRadius.label>
+        <!-- EN: The radius of the area of detonation. -->
+        <VFEP_PowerJumpDetonationRadius.description>O raio da área de detonação de um super-pulo.</VFEP_PowerJumpDetonationRadius.description>
+
+        <!-- EN: power jump flight speed -->
+        <VFEP_FlightSpeed.label>velocidade de voo do super-pulo</VFEP_FlightSpeed.label>
+        <!-- EN: The speed of a power jump. -->
+        <VFEP_FlightSpeed.description>A velocidade de um super-pulo.</VFEP_FlightSpeed.description>
+
+        <!-- EN: siege mode cooldown -->
+        <VFEP_SiegeModeCooldown.label>tempo de recarga do modo cerco</VFEP_SiegeModeCooldown.label>
+        <!-- EN: How long it takes to activate siege mode again. -->
+        <VFEP_SiegeModeCooldown.description>Quanto tempo é necessário para ativar o modo cerco novamente.</VFEP_SiegeModeCooldown.description>
+        <!-- EN: {0} s -->
+        <VFEP_SiegeModeCooldown.formatString>{0} s</VFEP_SiegeModeCooldown.formatString>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: hearing ability -->
+        <AO_MusicHearingAbility.label>habilidade auditiva</AO_MusicHearingAbility.label>
+        <!-- EN: How effective musical sources of enjoyment are, such as radios. -->
+        <AO_MusicHearingAbility.description>Quão eficazes são as fontes musicais de diversão, como rádios.</AO_MusicHearingAbility.description>
+
+    <!-- Vanilla Furniture Expanded - Security -->
+        <!-- EN: shield max energy -->
+        <VFES_EnergyShieldEnergyMax.label>energia máxima do escudo</VFES_EnergyShieldEnergyMax.label>
+        <!-- EN: The maximum energy a shield generator can have at one time. More energy absorbs more damage. -->
+        <VFES_EnergyShieldEnergyMax.description>A energia máxima que um gerador de escudo pode ter. Mais energia absorve mais dano.</VFES_EnergyShieldEnergyMax.description>
+
+        <!-- EN: shield recharge rate -->
+        <VFES_EnergyShieldRechargeRate.label>taxa de recarga do escudo</VFES_EnergyShieldRechargeRate.label>
+        <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+        <VFES_EnergyShieldRechargeRate.description>A taxa na qual um escudo ganha energia, desde que não esteja quebrado.</VFES_EnergyShieldRechargeRate.description>
+        <!-- EN: {0}/s -->
+        <VFES_EnergyShieldRechargeRate.formatString>{0}/s</VFES_EnergyShieldRechargeRate.formatString>
+
+        <!-- EN: shield radius -->
+        <VFES_EnergyShieldRadius.label>raio do escudo</VFES_EnergyShieldRadius.label>
+        <!-- EN: The area covered when the energy shield is active. -->
+        <VFES_EnergyShieldRadius.description>A área coberta quando o escudo de energia está ativo.</VFES_EnergyShieldRadius.description>
+        <!-- EN: {0} c -->
+        <VFES_EnergyShieldRadius.formatString>{0} c</VFES_EnergyShieldRadius.formatString>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: archotech pillars connected -->
+        <ArchotechPillarsConnected.label>pilares arquotécnicos conectados</ArchotechPillarsConnected.label>
+        <!-- EN: The number of unique pillars connected to this archotech spore. -->
+        <ArchotechPillarsConnected.description>O número de pilares únicos ligados a este esporo arquotécnico.</ArchotechPillarsConnected.description>
+
+</LanguageData>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: vikings -->
+        <Vikings.label>viquingue</Vikings.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: holographic -->
+        <HologramGear.label>holográfico</HologramGear.label>
+
+</LanguageData>

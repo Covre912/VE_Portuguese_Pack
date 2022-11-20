@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: wing -->
+        <VAE_Wing.label>asa</VAE_Wing.label>
+
+        <!-- EN: scorpion tail -->
+        <VAE_ScorpionTail.label>cauda de escorpião</VAE_ScorpionTail.label>
+
+        <!-- EN: arm -->
+        <VAE_InsectArm.label>braço</VAE_InsectArm.label>
+
+        <!-- EN: thorax -->
+        <VAE_Thorax.label>tórax</VAE_Thorax.label>
+
+    <!-- Vanilla Animals Expanded - Ice Sheet --> 
+        <!-- EN: fore-flipper -->
+        <AEXP_ForeFlipper.label>nadadeira</AEXP_ForeFlipper.label>
+
+        <!-- EN: hind-flippers -->
+        <AEXP_HindFlippers.label>nadadeiras</AEXP_HindFlippers.label>
+
+    <!-- Vanilla Animals Expanded - Tundra -->
+        <!-- EN: antlers -->
+        <AEXP_Antlers.label>chifres</AEXP_Antlers.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: explosive sac -->
+        <VFEI_ExplosiveSac.label>saco explosivo</VFEI_ExplosiveSac.label>
+
+        <!-- EN: front claw -->
+        <VFEI_FrontClaw.label>garra dianteira</VFEI_FrontClaw.label>
+        <!-- EN: claw -->
+        <VFEI_FrontClaw.labelShort>garra</VFEI_FrontClaw.labelShort>
+
+        <!-- EN: thorax -->
+        <VFEI_Thorax.label>tórax</VFEI_Thorax.label>
+
+        <!-- EN: tail -->
+        <VFEI_InsectTail.label>cauda</VFEI_InsectTail.label>
+
+        <!-- EN: stinger -->
+        <VFEI_InsectSting.label>ferrão</VFEI_InsectSting.label>
+
+        <!-- EN: left pincer -->
+        <VFEI_LeftPincer.label>pinça esquerda</VFEI_LeftPincer.label>
+
+        <!-- EN: right pincer -->
+        <VFEI_RightPincer.label>pinça direita</VFEI_RightPincer.label>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: joint -->
+        <VFEP_MechanicalJoint.label>articulação</VFEP_MechanicalJoint.label>
+
+        <!-- EN: turret -->
+        <VFEP_Turret.label>torreta</VFEP_Turret.label>
+
+        <!-- EN: propeller -->
+        <VFEP_Propeller.label>propulsor</VFEP_Propeller.label>
+
+        <!-- EN: turret base -->
+        <VFEP_TurretBase.label>base de torreta</VFEP_TurretBase.label>
+
+        <!-- EN: base base -->
+        <VFEP_Base.label>base</VFEP_Base.label>
+
+        <!-- EN: frame -->
+        <VFEP_Frame.label>armação</VFEP_Frame.label>
+
+        <!-- EN: mechanical leg -->
+        <VFEP_MechanicalLeg.label>perna mecânica</VFEP_MechanicalLeg.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: fangs -->
+        <GR_Fangs.label>presas</GR_Fangs.label>
+
+        <!-- EN: body -->
+        <GR_JellyfishMainBody.label>corpo</GR_JellyfishMainBody.label>
+
+        <!-- EN: hydrogen-chemfuel sac -->
+        <GR_HydrogenSac.label>saco de combustível químico hidrogenado</GR_HydrogenSac.label>
+
+        <!-- EN: baby body -->
+        <GR_Nucleus.label>corpo bebê</GR_Nucleus.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: Hull -->
+        <ShuttleBody.label>carcaça</ShuttleBody.label>
+
+        <!-- EN: body ring -->
+        <ShuttleBody.labelShort>anel corporal</ShuttleBody.labelShort>
+
+</LanguageData>

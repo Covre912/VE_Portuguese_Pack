@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: bloodlust -->
+        <VAECaves_Bloodlust.label>sede de sangue</VAECaves_Bloodlust.label>
+        <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+        <VAECaves_Bloodlust.recoveryMessage>A caçada humana sangrenta de {0} chegou ao fim.</VAECaves_Bloodlust.recoveryMessage>
+        <!-- EN: {0} has become a manhunter! -->
+        <VAECaves_Bloodlust.beginLetter>{0} virou caçador de humanos!</VAECaves_Bloodlust.beginLetter>
+        <!-- EN: Maddened: Manhunter -->
+        <VAECaves_Bloodlust.baseInspectLine>Enlouquecido: Caçador de Humanos</VAECaves_Bloodlust.baseInspectLine>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: xenophobic rage -->
+        <VEF_XenophobicRage.label>raiva xenofóbica</VEF_XenophobicRage.label>
+        <!-- EN: {0} is no longer in a xenophobic rage. -->
+        <VEF_XenophobicRage.recoveryMessage>{0} se acalmou.</VEF_XenophobicRage.recoveryMessage>
+        <!-- EN: {0} has flown into a xenophobic rage.\n\n[PAWN_pronoun] has decided to kill {1}. -->
+        <VEF_XenophobicRage.beginLetter>{0} está com uma raiva xenofóbica.\n\n[PAWN_pronoun] decidiu matar {1}.</VEF_XenophobicRage.beginLetter>
+        <!-- EN: Mental state: Xenophobic rage -->
+        <VEF_XenophobicRage.baseInspectLine>Estado Mental: Raiva Xenofóbica</VEF_XenophobicRage.baseInspectLine>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: seeing things -->
+        <VFEA_Hallucinations.label>alucinação</VFEA_Hallucinations.label>
+        <!-- EN: {0} is no longer seeing things. -->
+        <VFEA_Hallucinations.recoveryMessage>{0} não está mais alucinando.</VFEA_Hallucinations.recoveryMessage>
+        <!-- EN: Mental state: Seeing things -->
+        <VFEA_Hallucinations.baseInspectLine>Estado Mental: Alucinação</VFEA_Hallucinations.baseInspectLine>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: enraged -->
+        <VFEV_Enraged.label>fúria</VFEV_Enraged.label>
+        <!-- EN: {0}'s rage has come to an end. -->
+        <VFEV_Enraged.recoveryMessage>A fúria de {0} chegou ao fim.</VFEV_Enraged.recoveryMessage>
+        <!-- EN: {0} has become enraged.\n\n[PAWN_pronoun] will attack any hostiles [PAWN_pronoun] sees, with double attack speed. -->
+        <VFEV_Enraged.beginLetter>{0} enfureceu-se.\n\n[PAWN_pronoun] atacará qualquer hostil que vir, com velocidade de ataque dupla.</VFEV_Enraged.beginLetter>
+        <!-- EN: Mental state: Enraged -->
+        <VFEV_Enraged.baseInspectLine>Estado Mental: Fúria</VFEV_Enraged.baseInspectLine>
+
+
+    <!-- Vanilla Traits Expanded -->
+        <!-- EN: technophobe tantrum -->
+        <VTE_TechnophobeTantrum.label>raiva tecnofóbica</VTE_TechnophobeTantrum.label>
+        <!-- EN: {0} is no longer in a technophobe tantrum. -->
+        <VTE_TechnophobeTantrum.recoveryMessage>{0} se acalmou.</VTE_TechnophobeTantrum.recoveryMessage>
+        <!-- EN: {0} has flown into a technophobe tantrum.\n\n[PAWN_pronoun] is going to vent [PAWN_possessive] anger on technology. -->
+        <VTE_TechnophobeTantrum.beginLetter>{0} está com uma raiva tecnofóbica.\n\n[PAWN_pronoun] descontará sua raiva na tecnologia.</VTE_TechnophobeTantrum.beginLetter>
+        <!-- EN: Mental state: technophobe tantrum -->
+        <VTE_TechnophobeTantrum.baseInspectLine>Estado Mental: Raiva Tecnofóbica</VTE_TechnophobeTantrum.baseInspectLine>
+
+        <!-- EN: panic freezing -->
+        <VTE_PanicFreezing.label>crise de pânico</VTE_PanicFreezing.label>
+        <!-- EN: {0} is no longer freezing in panic. -->
+        <VTE_PanicFreezing.recoveryMessage>{0} se acalmou.</VTE_PanicFreezing.recoveryMessage>
+        <!-- EN: panic attack -->
+        <VTE_PanicFreezing.beginLetterLabel>crise de pânico</VTE_PanicFreezing.beginLetterLabel>
+        <!-- EN: {0} is freezing in panic. -->
+        <VTE_PanicFreezing.beginLetter>{0} está tendo uma crise de pânico.</VTE_PanicFreezing.beginLetter>
+        <!-- EN: Mental state: freezing in panic -->
+        <VTE_PanicFreezing.baseInspectLine>Estado Mental: Crise de Pânico</VTE_PanicFreezing.baseInspectLine>
+
+        <!-- EN: kleptomaniac -->
+        <VTE_Kleptomaniac.label>cleptomania</VTE_Kleptomaniac.label>
+        <!-- EN: {0} is no longer stealing items from visitors. -->
+        <VTE_Kleptomaniac.recoveryMessage>{0} não está mais roubando itens de visitantes.</VTE_Kleptomaniac.recoveryMessage>
+        <!-- EN: Kleptomaniac -->
+        <VTE_Kleptomaniac.beginLetterLabel>cleptomaníaco</VTE_Kleptomaniac.beginLetterLabel>
+        <!-- EN: {0} is stealing items from visitors. -->
+        <VTE_Kleptomaniac.beginLetter>{0} está roubando itens de visitantes.</VTE_Kleptomaniac.beginLetter>
+        <!-- EN: Mental state: Kleptomaniac -->
+        <VTE_Kleptomaniac.baseInspectLine>Estado Mental: Cleptomania</VTE_Kleptomaniac.baseInspectLine>
+
+</LanguageData>

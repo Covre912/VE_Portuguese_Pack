@@ -1,0 +1,1117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Apparel Expanded -->
+        <!-- EN: casual wear -->
+        <VAE_CasualWear.label>vestuário casual</VAE_CasualWear.label>
+        <!-- EN: Craft casual wear with handy features for any life situation. -->
+        <VAE_CasualWear.description>Crie roupas casuais com recursos úteis para qualquer situação.</VAE_CasualWear.description>
+
+        <!-- EN: formal wear -->
+        <VAE_FormalWear.label>vestuário formal</VAE_FormalWear.label>
+        <!-- EN: Craft suits and formal wear. -->
+        <VAE_FormalWear.description>Crie ternos e trajes formais.</VAE_FormalWear.description>
+
+        <!-- EN: work attire -->
+        <VAE_WorkAttire.label>vestuário de trabalho</VAE_WorkAttire.label>
+        <!-- EN: Craft comfortable and and functional attire for any kind of work. -->
+        <VAE_WorkAttire.description>Crie trajes cômodos e funcionais para qualquer tipo de trabalho.</VAE_WorkAttire.description>
+
+        <!-- EN: sterile attire -->
+        <VAE_SterileAttire.label>vestuário estéril</VAE_SterileAttire.label>
+        <!-- EN: Craft sterile attire used by doctors and scientists. -->
+        <VAE_SterileAttire.description>Crie roupas estéreis usadas por médicos e cientistas.</VAE_SterileAttire.description>
+
+        <!-- EN: military clothing -->
+        <VAE_MilitaryClothing.label>vestuário militar</VAE_MilitaryClothing.label>
+        <!-- EN: Craft weatherproof outfits to protect your soldiers. -->
+        <VAE_MilitaryClothing.description>Crie roupas à prova de intempéries para proteger seus soldados.</VAE_MilitaryClothing.description>
+
+    <!-- Vanilla Armour Expanded -->
+        <!-- EN: leather tanning -->
+        <VAE_LeatherTanning.label>curtimento de couro</VAE_LeatherTanning.label>
+        <!-- EN: Learn the process of tanning to craft more thicker and durable armors. -->
+        <VAE_LeatherTanning.description>Aprenda o processo de curtimento para criar armaduras mais grossas e duráveis.</VAE_LeatherTanning.description>
+
+        <!-- EN: hazard protection -->
+        <VAE_HazardProtection.label>vestuário anti-radiação</VAE_HazardProtection.label>
+        <!-- EN: Develop suits resistant to high toxicity and radiation. -->
+        <VAE_HazardProtection.description>Desenvolva trajes resistentes a alta toxicidade e radiação.</VAE_HazardProtection.description>
+
+        <!-- EN: military camouflage -->
+        <VAE_MlitaryCamouflage.label>camuflagem militar</VAE_MlitaryCamouflage.label>
+        <!-- EN: Craft special military apparel allowing users to resemble the background environment such as foliage. -->
+        <VAE_MlitaryCamouflage.description>Crie roupas militares especiais, permitindo que os usuários se pareçam com o ambiente de fundo, como folhagens.</VAE_MlitaryCamouflage.description>
+
+        <!-- EN: siegebreaker armor -->
+        <VAE_SiegebreakerArmor.label>armadura de fuzileiro pesada</VAE_SiegebreakerArmor.label>
+        <!-- EN: Craft siegebreaker armor, heavy powered armor that significantly slows the user but provides advanced protection at range. Note that these also require advanced components. -->
+        <VAE_SiegebreakerArmor.description>Crie uma armadura de fuzileiro pesada que retarda significativamente o usuário, mas fornece proteção avançada.</VAE_SiegebreakerArmor.description>
+
+        <!-- EN: trooper armor -->
+        <VAE_TrooperArmor.label>armadura de soldado</VAE_TrooperArmor.label>
+        <!-- EN: Craft trooper armor, a light semi-powered armor that is lightweight and cheap to produce. Note that these also require advanced components. -->
+        <VAE_TrooperArmor.description>Crie uma armadura de soldado leve e barata.</VAE_TrooperArmor.description>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: writing -->
+        <VBE_Writing.label>escrita</VBE_Writing.label>
+        <!-- EN: Construct a writing desk and have your colonists write books that pass their knowledge to other members of their society. -->
+        <VBE_Writing.description>Construa uma escrivaninha e faça com que seus colonos escrevam livros que transmitam seus conhecimentos a outros membros de sua sociedade.</VBE_Writing.description>
+
+        <!-- EN: printing -->
+        <VBE_Printing.label>impressão</VBE_Printing.label>
+        <!-- EN: Build a typewriter, which allows your colonists to write books significantly faster, as well as create newspapers for temporary joy boost. -->
+        <VBE_Printing.description>Construa uma máquina de escrever, o que permite que seus colonos escrevam livros significativamente mais rápido, bem como criem jornais para um impulso temporário de alegria.</VBE_Printing.description>
+
+    <!-- Vanilla Brewing Expanded -->
+        <!-- EN: mixology -->
+        <VBE_MixologyResearch.label>mixologia</VBE_MixologyResearch.label>
+        <!-- EN: Allows construction of advanced machines that utilize electricity for perfect fermenting, industrial bottling, and the mixing of cocktails at the bar workbench. -->
+        <VBE_MixologyResearch.description>Construa máquinas elétricas avançadas para fermentação e engarrafamento, e bancadas de bar para mistura de coquetéis.</VBE_MixologyResearch.description>
+
+        <!-- EN: liquor brewing -->
+        <VBE_LiquorBrewing.label>fermentação de licores</VBE_LiquorBrewing.label>
+        <!-- EN: Utilize advanced brewing techniques that allow distillation and fermenting of harder spirits with unique effects. -->
+        <VBE_LiquorBrewing.description>Utilize técnicas avançadas de fermentação que permitem a destilação e levedação de destilados mais fortes com efeitos únicos.</VBE_LiquorBrewing.description>
+
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- EN: espresso machine -->
+        <VBE_EspressoMachine.label>máquina de espresso</VBE_EspressoMachine.label>
+        <!-- EN: A more sophisticated method of brewing coffees and teas by using pressurized water. -->
+        <VBE_EspressoMachine.description>Um método mais sofisticado de preparar cafés e chás usando água pressurizada.</VBE_EspressoMachine.description>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: food condiments -->
+        <VCE_CondimentsResearch.label>condimentos alimentares</VCE_CondimentsResearch.label>
+        <!-- EN: A condiment is a spice, sauce, or preparation that is added to food, either after or during cooking, to impart a specific flavor, to enhance the flavor, or to complement the dish. All condiments are created at the condiment prep table. -->
+        <VCE_CondimentsResearch.description>Um condimento é um tempero, molho ou preparação que é adicionado à comida, após ou durante o cozimento, para conferir um sabor específico, para realçar o sabor ou para complementar o prato.</VCE_CondimentsResearch.description>
+
+        <!-- EN: soup cooking -->
+        <VCE_SoupCooking.label>cozimento de sopas</VCE_SoupCooking.label>
+        <!-- EN: Soup is a primarily liquid food, generally served warm or hot, that is made by combining ingredients of meat or vegetables with stock, or water. Hot soups are additionally characterized by boiling solid ingredients in liquids in a pot until the flavors are extracted. This research also gives access to the electric pot necessary to cook soups. -->
+        <VCE_SoupCooking.description>A sopa é um alimento basicamente líquido, geralmente servido quente, feito pela combinação de ingredientes de carne ou vegetais com caldo ou água. As sopas são caracterizadas adicionalmente por ferver ingredientes sólidos em líquidos em uma panela até que os sabores sejam extraídos.</VCE_SoupCooking.description>
+
+        <!-- EN: grilling -->
+        <VCE_Grilling.label>grelhados</VCE_Grilling.label>
+        <!-- EN: Grilling is a form of cooking that involves dry heat applied to the surface of food, commonly from above, below or from the side. Grilling usually involves a significant amount of direct, radiant heat, and tends to be used for cooking meat and vegetables quickly. This research gives access to the grill. -->
+        <VCE_Grilling.description>Grelhar é uma forma de cozinhar que envolve calor seco aplicado à superfície dos alimentos. Grelhar geralmente envolve uma quantidade significativa de calor direto e radiante e tende a ser usado para cozinhar carne e vegetais rapidamente.</VCE_Grilling.description>
+
+        <!-- EN: deep frying -->
+        <VCE_DeepFrying.label>fritura</VCE_DeepFrying.label>
+        <!-- EN: Deep frying (also referred to as deep fat frying) is a cooking method in which food is submerged in hot fat, most commonly oil, as opposed to the shallow oil used in conventional frying done in a frying pan. This research gives access to the deep fryer. -->
+        <VCE_DeepFrying.description>A fritura é um método de cozimento no qual o alimento é submerso em gordura quente, mais comumente óleo.</VCE_DeepFrying.description>
+
+        <!-- EN: canning -->
+        <VCE_Canning.label>enlatamento</VCE_Canning.label>
+        <!-- EN: Canning is a method of preserving food in which the food contents are processed and sealed in an airtight container (jars like Mason jars, and steel and tin cans). Canning provides a shelf life of several years. A freeze-dried canned product, such as canned dried lentils, could last as long as 30 years in an edible state. This research gives access to the canning machine. -->
+        <VCE_Canning.description>Enlatamento é um método de conservação de alimentos no qual o conteúdo é processado e selado em um recipiente hermético. Um produto enlatado liofilizado, como lentilhas secas enlatadas, pode durar até 30 anos em estado comestível.</VCE_Canning.description>
+
+        <!-- EN: cheese making -->
+        <VCE_CheeseMaking.label>queijaria</VCE_CheeseMaking.label>
+        <!-- EN: Cheesemaking (or caseiculture) is the craft of making cheese. The production of cheese, like many other food preservation processes, allows the nutritional and economic value of milk to be preserved in concentrated form. Cheesemaking allows the production of the cheese with diverse flavors and consistencies. This research gives access to the cheese press. -->
+        <VCE_CheeseMaking.description>Queijaria é a arte de fazer queijos. A produção de queijo, como muitos outros processos de conservação de alimentos, permite que o valor nutricional e econômico do leite seja preservado na forma concentrada. A queijaria permite a produção do queijo com diversos sabores e consistências.</VCE_CheeseMaking.description>
+
+    <!-- Vanilla Cooking Expanded - Stews -->
+        <!-- EN: stew cooking -->
+        <VCE_StewCooking.label>cozimento de ensopados</VCE_StewCooking.label>
+        <!-- EN: Stew is a form of a very nourishing meal, cooked in bulk over fire. This research also gives access to the wood-fired pot necessary to cook stews. -->
+        <VCE_StewCooking.description>O ensopado é uma forma de refeição muito nutritiva.</VCE_StewCooking.description>
+
+
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- EN: soybean fermentation -->
+        <VCE_SoyFermentation.label>fermentação de soja</VCE_SoyFermentation.label>
+        <!-- EN: Soybean fermentation is the process by which soybeans are submitted to a chemical breakdown by bacteria, yeasts, or other microorganisms, transforming into new products. This research gives access to the soy sauce fermenter. -->
+        <VCE_SoyFermentation.description>A fermentação da soja é o processo pelo qual a mesma é submetida a uma degradação química por bactérias, leveduras ou outros microrganismos, transformando-se em novos produtos.</VCE_SoyFermentation.description>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: mending -->
+        <VFEA_Mending.label>reparo</VFEA_Mending.label>
+        <!-- EN: Use mending stations to repair apparel and weapons. -->
+        <VFEA_Mending.description>Crie estações de reparo para reparar vestuários e armamentos.</VFEA_Mending.description>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: togas -->
+        <VFEC_Togas.label>togas</VFEC_Togas.label>
+        <!-- EN: Craft togas, everyday wear of the citizens of the republic. -->
+        <VFEC_Togas.description>Crie togas, vestuário diário de cidadãos republicanos.</VFEC_Togas.description>
+
+        <!-- EN: temperature control -->
+        <VFEC_TemperatureControl.label>controle de temperatura</VFEC_TemperatureControl.label>
+        <!-- EN: Make large passive coolers, a way to cool indoor spaces below freezing point without needing electricity, or hot stones, a primitive heater. -->
+        <VFEC_TemperatureControl.description>Construa grandes refrigeradores passivos, uma maneira de resfriar espaços internos abaixo do ponto de congelamento sem precisar de eletricidade; ou uma aquecedor passivo.</VFEC_TemperatureControl.description>
+
+        <!-- EN: meat drying -->
+        <VFEC_MeatDrying.label>secagem de carne</VFEC_MeatDrying.label>
+        <!-- EN: Construct meat drying racks, allowing you to preserve meat and create a roman delicacy. -->
+        <VFEC_MeatDrying.description>Construa secadores de carne, que permitem a preservação da carne e a criação de uma iguaria romana.</VFEC_MeatDrying.description>
+
+        <!-- EN: mosaics -->
+        <VFEC_Mosaics.label>mosaicos</VFEC_Mosaics.label>
+        <!-- EN: Build excellent stone mosaics, utilising different colours and shapes to express beauty. Slow to construct. -->
+        <VFEC_Mosaics.description>Construa excelentes mosaicos de pedra, utilizando diferentes cores e formas para expressar beleza.</VFEC_Mosaics.description>
+
+        <!-- EN: thermaebath -->
+        <VFEC_Thermaebath.label>ofurôs</VFEC_Thermaebath.label>
+        <!-- EN: Construct large thermaebath that uses steam geysers to warm up the water, allowing up to 8 people to bathe together with an occasional chance of group lovin’. -->
+        <VFEC_Thermaebath.description>Construa um grande ofurô que utiliza gêiseres de vapor para aquecer a água, permitindo que até oito pessoas tomem banho juntos com uma chance ocasional de amor em grupo.</VFEC_Thermaebath.description>
+
+        <!-- EN: drama and comedy -->
+        <VFEC_DramaAndComedy.label>drama e comédia</VFEC_DramaAndComedy.label>
+        <!-- EN: Perform various plays on the theatre stage as a recreational activity. -->
+        <VFEC_DramaAndComedy.description>Realize várias peças no palco do teatro como uma atividade recreativa.</VFEC_DramaAndComedy.description>
+
+        <!-- EN: bronze working -->
+        <VFEC_BronzeWorking.label>trabalho com bronze</VFEC_BronzeWorking.label>
+        <!-- EN: Mix steel with stone chunks to create slightly weaker metal in large quantities. -->
+        <VFEC_BronzeWorking.description>Misture aço com pedaços de pedra para criar um metal ligeiramente mais fraco em grandes quantidades.</VFEC_BronzeWorking.description>
+
+        <!-- EN: crafting bench -->
+        <VFEC_CraftingBench.label>mesa de trabalho</VFEC_CraftingBench.label>
+        <!-- EN: Build a workbench for crafting simple things like clubs or bows. -->
+        <VFEC_CraftingBench.description>Construa mesas de trabalho para criar coisas simples, como porretes ou arcos.</VFEC_CraftingBench.description>
+
+        <!-- EN: cement making -->
+        <VFEC_CementMaking.label>fabricação de cimento</VFEC_CementMaking.label>
+        <!-- EN: Construct a cement press, which allows you to create extremely durable stone material out of stone chunks. -->
+        <VFEC_CementMaking.description>Construa prensas de cimento, que permitem a criação de um material de pedra extremamente durável a partir de pedaços de pedra.</VFEC_CementMaking.description>
+
+        <!-- EN: wood-fired crematorium -->
+        <VFEC_WoodfiredCrematorium.label>crematório abastecido</VFEC_WoodfiredCrematorium.label>
+        <!-- EN: Build a huge, wood-fired stone crematorium which vaporizes corpses with high temperatures. -->
+        <VFEC_WoodfiredCrematorium.description>Construa um enorme crematório de pedra a lenha que vaporiza cadáveres com altas temperaturas.</VFEC_WoodfiredCrematorium.description>
+
+        <!-- EN: tyrian production -->
+        <VFEC_TyrianProduction.label>produção de tíria</VFEC_TyrianProduction.label>
+        <!-- EN: Create a tyrian farm - a river-bank structure that dyes cloth, which can then be extracted in the form of extremely valuable royal fabric. -->
+        <VFEC_TyrianProduction.description>Crie um tear de tíria - uma estrutura que tinge tecidos, que podem ser extraídos na forma de tecidos reais extremamente valiosos.</VFEC_TyrianProduction.description>
+
+        <!-- EN: road building -->
+        <VFEC_RoadBuilding.label>construção de estradas</VFEC_RoadBuilding.label>
+        <!-- EN: Construct paths, dirt roads and stone roads directly on the world map, allowing for faster caravan travel. -->
+        <VFEC_RoadBuilding.description>Construa caminhos, estradas de terra e estradas de pedra diretamente no mundo, permitindo viagens de caravana mais rápidas.</VFEC_RoadBuilding.description>
+
+        <!-- EN: heavy shield making -->
+        <VFEC_HeavyShieldMaking.label>escudos pesados</VFEC_HeavyShieldMaking.label>
+        <!-- EN: Create heavy scuta shields typically associated with legionnaires. -->
+        <VFEC_HeavyShieldMaking.description>Crie escudos longos pesados ​​normalmente associados a legionários.</VFEC_HeavyShieldMaking.description>
+
+        <!-- EN: legionary armaments -->
+        <VFEC_LegionaryArmaments.label>armamentos legionários</VFEC_LegionaryArmaments.label>
+        <!-- EN: Craft tents, javelins, spathas and daggers, constituting towards the legionary armory. -->
+        <VFEC_LegionaryArmaments.description>Crie tendas, dardos, espatas e punhais que constituem o arsenal legionário.</VFEC_LegionaryArmaments.description>
+
+        <!-- EN: legionary armor -->
+        <VFEC_LegionnaireArmor.label>armadura de legionário</VFEC_LegionnaireArmor.label>
+        <!-- EN: Create heavy armor of legionaries, capable of withstanding a high degree of sharp damage. -->
+        <VFEC_LegionnaireArmor.description>Crie armaduras pesadas de legionários, capazes de suportar um alto grau de dano agudo.</VFEC_LegionnaireArmor.description>
+
+        <!-- EN: centurion armor -->
+        <VFEC_CenturionArmor.label>armadura de centurião</VFEC_CenturionArmor.label>
+        <!-- EN: Smith suits of centurion armor, excellent for leading men into heroic battles. -->
+        <VFEC_CenturionArmor.description>Fabrique armaduras de centurião, excelentes para liderar homens em batalhas heroicas.</VFEC_CenturionArmor.description>
+
+        <!-- EN: scorpion -->
+        <VFEC_Scorpion.label>escorpião</VFEC_Scorpion.label>
+        <!-- EN: Construct scorpions, a portable field artillery piece which doubles as a semi-automatic heavy crossbow. -->
+        <VFEC_Scorpion.description>Construa escorpiões, uma peça de artilharia de campo portátil que funciona como uma besta pesada semiautomática.</VFEC_Scorpion.description>
+
+        <!-- EN: beacons -->
+        <VFEC_Beacons.label>faróis</VFEC_Beacons.label>
+        <!-- EN: Build large wooden pyres, that when lit on fire are guaranteed to summon friendly reinforcements. -->
+        <VFEC_Beacons.description>Construa grandes piras de madeira, que quando acesas garantem a convocação de reforços aliados.</VFEC_Beacons.description>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: factory basics -->
+        <VFE_FactoryBasics.label>fundamentos de fábrica</VFE_FactoryBasics.label>
+        <!-- EN: Gain a basic fundamental understanding of factory utilization and unlock factory hoppers and terrain capable of supporting heavy machinery. -->
+        <VFE_FactoryBasics.description>Obtenha uma compreensão básica dos fundamentos da utilização da fábrica e desbloqueie funis e o terreno capaz de suportar máquinas pesadas.</VFE_FactoryBasics.description>
+
+        <!-- EN: electronics fabrication factory -->
+        <VFE_ElectronicsFabricationFactory.label>fabricação de eletrônicos</VFE_ElectronicsFabricationFactory.label>
+        <!-- EN: Research a series of machines that grant the ability to automatically harness small amounts of steel from loose rock chunks and forge them into both simple mechanical components and higher tech electronic components. -->
+        <VFE_ElectronicsFabricationFactory.description>Pesquise uma série de máquinas que possuem a capacidade de aproveitar automaticamente pequenas quantidades de aço e transformá-los em componentes mecânicos simples e componentes eletrônicos de alta tecnologia.</VFE_ElectronicsFabricationFactory.description>
+
+        <!-- EN: masonry and metallic factory -->
+        <VFE_MasonryandMetallicsFactory.label>alvenaria e metalurgia</VFE_MasonryandMetallicsFactory.label>
+        <!-- EN: Research a series of machines that grant the ability to automatically mine surface-level rock chunks as well as process them into bricks and further refine them into an advanced material indistinguishable from plasteel. -->
+        <VFE_MasonryandMetallicsFactory.description>Pesquise uma série de máquinas que possuem a capacidade de minerar automaticamente pedaços de rocha no nível da superfície, bem como processá-los em tijolos e refiná-los ainda mais em um material avançado indistinguível do plastiaço.</VFE_MasonryandMetallicsFactory.description>
+
+        <!-- EN: munitions and armaments factory -->
+        <VFE_MunitionsandArmamentsFactory.label>munições e armamentos</VFE_MunitionsandArmamentsFactory.label>
+        <!-- EN: Research a series of machines that grant the ability to automatically refine and clarify chemfuel from organic matter as well as process it further into weaponry and large-scale mortar shells. -->
+        <VFE_MunitionsandArmamentsFactory.description>Pesquise uma série de máquinas que possuem a capacidade de refinar e clarificar automaticamente o combustível químico da matéria orgânica, bem como processá-lo em armamentos e projéteis em grande escala.</VFE_MunitionsandArmamentsFactory.description>
+
+        <!-- EN: wearables and textiles factory -->
+        <VFE_WearablesandTextilesFactory.label>vestuário e têxteis</VFE_WearablesandTextilesFactory.label>
+        <!-- EN: Research a series of machines that grant the ability to automatically recycle old apparel into salvaged scrap as well as assemble new apparel from the aforementioned scraps. Additionally unlocks a machine capable of molecularly reconfiguring apparel to mimic the properties of synthread. -->
+        <VFE_WearablesandTextilesFactory.description>Pesquise uma série de máquinas que possuem a capacidade de reciclar automaticamente roupas velhas em sucata recuperada, bem como costurar novas roupas a partir das sobras mencionadas. Além disso, desbloqueia uma máquina capaz de reconfigurar em nível molecular o vestuário para imitar as propriedades da fibra sintética.</VFE_WearablesandTextilesFactory.description>
+
+        <!-- EN: provisions packaging factory -->
+        <VFE_ProvisionsPackagingFactory.label>embalagem de provisões</VFE_ProvisionsPackagingFactory.label>
+        <!-- EN: Research a series of machines that grant the ability to automatically and efficiently harvest animal meat trimmings, cook, and package them into a variety of survival meals, kibble, and canned goods. -->
+        <VFE_ProvisionsPackagingFactory.description>Pesquise uma série de máquinas que possuem a capacidade de colher de forma automática e eficiente carne animal, cozinhá-las e empacotá-las em uma variedade de refeições de sobrevivência, ração e enlatados.</VFE_ProvisionsPackagingFactory.description>
+
+        <!-- EN: medicinal compounding factory -->
+        <VFE_MedicinalCompoundingFactory.label>manipulação de medicamentos</VFE_MedicinalCompoundingFactory.label>
+        <!-- EN: Research a series of machines that grant the ability to automatically refine a thick glycerol extremely similar to that of neutroamine, also allows the further refining into a variety of medicines or illicit drugs. -->
+        <VFE_MedicinalCompoundingFactory.description>Pesquise uma série de máquinas que possuem a capacidade de refinar automaticamente glicerol espesso extremamente semelhante ao da neutroamina, também permite o refino posterior em uma variedade de medicamentos ou drogas ilícitas.</VFE_MedicinalCompoundingFactory.description>
+
+        <!-- EN: basic drone assembly -->
+        <VFE_BasicDroneAssembly.label>montagem básica de drones</VFE_BasicDroneAssembly.label>
+        <!-- EN: Research a machine that allows the assembly of rudimentary automated rechargeable drones capable of hauling, mining, and cleaning. -->
+        <VFE_BasicDroneAssembly.description>Pesquise uma máquina que permite a montagem de drones recarregáveis automatizados rudimentares, capazes de transportar, minerar e limpar.</VFE_BasicDroneAssembly.description>
+
+        <!-- EN: automated defensive measures -->
+        <VFE_AutomatedDefensiveMeasures.label>medidas defensivas automatizadas</VFE_AutomatedDefensiveMeasures.label>
+        <!-- EN: Research the ability to weaponize automated drones for a variety of purposes including mobile turret platforms, mortars, riot control and other defensive countermeasures. -->
+        <VFE_AutomatedDefensiveMeasures.description>Pesquise a capacidade de transformar drones automatizados em armas para uma variedade de propósitos, incluindo plataformas móveis de torre, morteiros e outras contramedidas defensivas.</VFE_AutomatedDefensiveMeasures.description>
+
+        <!-- EN: mechanoid structures -->
+        <VFE_MechanoidStructures.label>estruturas mecanoides</VFE_MechanoidStructures.label>
+        <!-- EN: Research the ability to utilize mechanoid tech for different kind of structures, at a high cost. -->
+        <VFE_MechanoidStructures.description>Pesquise a capacidade de utilizar tecnologia mecanoide em diferentes estruturas.</VFE_MechanoidStructures.description>
+
+        <!-- EN: advanced drone assembly -->
+        <VFE_AdvancedDroneAssembly.label>montagem avançada de drones</VFE_AdvancedDroneAssembly.label>
+        <!-- EN: Research more advanced drones, capable of analyzing and processing complex information. -->
+        <VFE_AdvancedDroneAssembly.description>Pesquise drones mais avançados, capazes de análise e processamento de informações complexas.</VFE_AdvancedDroneAssembly.description>
+
+        <!-- EN: industrial roasting -->
+        <VFE_IndustrialRoasting.label>torrefação industrial</VFE_IndustrialRoasting.label>
+        <!-- EN: Research an industrial-sized oven that deeply roasts coffee beans before dispensing them to a quern that grinds them into grounds. Boiling water is then forced and filtered through the grounds into a mass amount of coffee. Nearby hoppers can also hold other products for processing a number of coffee-related drinks. -->
+        <VFE_IndustrialRoasting.description>Pesquise um forno de que torra grãos de café antes de dispensá-los a um moinho que os tritura em pó. Água fervente é então forçada e filtrada através do pó em uma grande quantidade de café.</VFE_IndustrialRoasting.description>
+
+        <!-- EN: industrial cheesemaking -->
+        <VFE_CheeseMaking.label>queijaria industrial</VFE_CheeseMaking.label>
+        <!-- EN: Research a tank capable of rapidly heating milk until curds begin to form, then automatically straining and pressing them into multiple wheels of cheese at once. Nearby hoppers can hold enough milk to make several wheels and finished wheels will automatically be dispensed. -->
+        <VFE_CheeseMaking.description>Pesquise um tanque capaz de aquecer rapidamente o leite até que a coalhada comece a se formar e, em seguida, filtrá-los e pressioná-los automaticamente em várias rodas de queijo ao mesmo tempo.</VFE_CheeseMaking.description>
+
+        <!-- EN: industrial soups -->
+        <VFE_IndustrialSoups.label>cozimento de sopa industrial</VFE_IndustrialSoups.label>
+        <!-- EN: Research a very large vat with a series of mounted, spinning blades towards the top. Attached hoppers can be filled with a variety of raw food products. Thereafter they are vacuumed through the top, sliced and simmered deeply into a variety of soups. Finished soups will be dispensed to an opposing hopper without the need of processing steps. Input and output both are done en masse and require much less management than traditional slow cooking. -->
+        <VFE_IndustrialSoups.description>Pesquise um tanque muito grande com uma série de lâminas giratórias montadas em direção ao topo. Os funis acoplados podem ser preenchidos com uma variedade de produtos alimentícios crus. Depois disso, eles são aspirados pela parte superior, fatiados e fervidos profundamente em uma variedade de sopas.</VFE_IndustrialSoups.description>
+
+        <!-- EN: industrial beekeeping -->
+        <VFE_IndustrialBeekeeping.label>apicultura industrial</VFE_IndustrialBeekeeping.label>
+        <!-- EN: Research a robot-handled artificial apiary that will allow beekeepers to extract honey from bees much faster than usual. -->
+        <VFE_IndustrialBeekeeping.description>Pesquise um apiário artificial controlado por um robô que permitirá aos apicultores extrair mel muito mais rápido do que o normal.</VFE_IndustrialBeekeeping.description>
+
+        <!-- EN: aquaponics -->
+        <VFE_Aquaponics.label>aquaponia</VFE_Aquaponics.label>
+        <!-- EN: Research a deep water filled basin capable of processing vegetable matter into an algae-like paste for continuous feeding of fish living within. Fish within live in optimal water conditions and temperature and therefore breed quite quickly. Matured fish will occasionally be deposited to a nearby output hopper. -->
+        <VFE_Aquaponics.description>Pesquise uma bacia cheia de águas profundas capaz de processar matéria vegetal em uma pasta semelhante a algas para alimentação contínua de peixes. Os peixes vivem em condições de água e temperatura ideais e, portanto, reproduzem-se muito rapidamente.</VFE_Aquaponics.description>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: heavy crossbow -->
+        <VFEM_HeavyCrossbow.label>besta pesada</VFEM_HeavyCrossbow.label>
+        <!-- EN: Construct heavy crossbows, capable of firing a projectile unstoppable by most man-made armors. -->
+        <VFEM_HeavyCrossbow.description>Crie bestas pesadas capazes de disparar um projétil que não pode ser detido pela maioria das armaduras.</VFEM_HeavyCrossbow.description>
+
+        <!-- EN: medieval noble apparel -->
+        <VFEM_NobleMedievalApparel.label>vestuário medieval nobre</VFEM_NobleMedievalApparel.label>
+        <!-- EN: Make noble apparel that brings a certain degree of authority to the wearer. -->
+        <VFEM_NobleMedievalApparel.description>Crie vestuário nobre que concede um certo grau de autoridade ao usuário.</VFEM_NobleMedievalApparel.description>
+
+        <!-- EN: plague mask -->
+        <VFEM_PlagueMask.label>máscara da peste</VFEM_PlagueMask.label>
+        <!-- EN: Make masks filled with herbal medicine to prevent wearers from catching plague and spreading the black plague. -->
+        <VFEM_PlagueMask.description>Crie máscaras preenchidas com medicina natural que previne que o usuário infecte-se com a peste ou a espalhe.</VFEM_PlagueMask.description>
+
+        <!-- EN: healroot tree -->
+        <VFEM_TreeHealroot.label>árvore de raiz de cura</VFEM_TreeHealroot.label>
+        <!-- EN: Grow healroot trees that yield medicine and emit antiseptic smell. -->
+        <VFEM_TreeHealroot.description>Cultive árvores de raiz de cura que fornece medicina e emite um cheiro anti-séptico.</VFEM_TreeHealroot.description>
+
+        <!-- EN: meat smoking -->
+        <VFEM_MeatSmoking.label>defumação de carne</VFEM_MeatSmoking.label>
+        <!-- EN: Smoke meat to preserve it for a long amount of time. -->
+        <VFEM_MeatSmoking.description>Defume carne para preservá-la por um longo período de tempo.</VFEM_MeatSmoking.description>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: warcaskets -->
+        <VFEP_Warcaskets.label>warcaskets</VFEP_Warcaskets.label>
+        <!-- EN: Build warcasket foundries to manufacture basic warcasket parts and outfit pawns to utilize said warcaskets. -->
+        <VFEP_Warcaskets.description>Construa fundações de guerrataúdes para fabricar equipamentos básicos de guerrataúde.</VFEP_Warcaskets.description>
+
+        <!-- EN: advanced warcaskets -->
+        <VFEP_AdvancedWarcaskets.label>guerrataúdes avançados</VFEP_AdvancedWarcaskets.label>
+        <!-- EN: Construct improved variations of warcaskets which lean towards speed, protection or a balanced approach. -->
+        <VFEP_AdvancedWarcaskets.description>Fabrique variações aprimoradas de guerrataúdes que aprimoram velocidade ou proteção.</VFEP_AdvancedWarcaskets.description>
+
+        <!-- EN: specialized warcaskets -->
+        <VFEP_SpecialisedWarcaskets.label>guerrataúdes especializados</VFEP_SpecialisedWarcaskets.label>
+        <!-- EN: Manufacture warcaskets designed to fit specialized roles. -->
+        <VFEP_SpecialisedWarcaskets.description>Fabrique guerrataúdes projetados para atender a funções especializadas.</VFEP_SpecialisedWarcaskets.description>
+
+        <!-- EN: spacer warcaskets -->
+        <VFEP_SpacerWarcaskets.label>guerrataúdes espaciais</VFEP_SpacerWarcaskets.label>
+        <!-- EN: Manufacture Spacer-era warcaskets - a pinnacle of war technology. -->
+        <VFEP_SpacerWarcaskets.description>Fabrique guerrataúdes da era espacial - um pináculo da tecnologia bélica.</VFEP_SpacerWarcaskets.description>
+
+        <!-- EN: warcasket removal -->
+        <VFEP_WarcasketRemoval.label>remoção de guerrataúdes</VFEP_WarcasketRemoval.label>
+        <!-- EN: Unlocks the operation “remove warcasket” to remove a pawn from a warcasket, losing both their arms and legs, and reducing the warcasket to slag. -->
+        <VFEP_WarcasketRemoval.description>Desbloqueie a operação de remoção de guerrataúdes, que resulta na perda dos braços e pernas do colono, além da redução do guerrataúde a escória.</VFEP_WarcasketRemoval.description>
+
+        <!-- EN: warcasket weaponry -->
+        <VFEP_WarcasketWeaponry.label>armamento de guerrataúde</VFEP_WarcasketWeaponry.label>
+        <!-- EN: Build upscaled weapons designed to be mounted on warcaskets. -->
+        <VFEP_WarcasketWeaponry.description>Construa armas aprimoradas projetadas para serem utilizadas por guerrataúdes.</VFEP_WarcasketWeaponry.description>
+
+        <!-- EN: spacer warcasket weaponry -->
+        <VFEP_SpacerWarcasketWeaponry.label>armamento espacial de guerrataúde</VFEP_SpacerWarcasketWeaponry.label>
+        <!-- EN: Utilize new spacer technologies to create upscaled weapons designed to be mounted on warcaskets. -->
+        <VFEP_SpacerWarcasketWeaponry.description>Utilize novas tecnologias espaciais para fabricar armas aprimoradas projetadas para serem utilizadas por guerrataúdes.</VFEP_SpacerWarcasketWeaponry.description>
+
+        <!-- EN: sweat fermentation -->
+        <VFEP_SweatFermentation.label>fermentação de suor</VFEP_SweatFermentation.label>
+        <!-- EN: Craft suits which combine alcohol distillation and nutrient paste synthesis to produce rum from recycled human waste. -->
+        <VFEP_SweatFermentation.description>Fabrique trajes que combinam destilação de álcool e síntese de pasta de nutrientes para produzir rum a partir de dejetos humanos reciclados.</VFEP_SweatFermentation.description>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: bee keeping -->
+        <VFEV_Beekeeping.label>apicultura</VFEV_Beekeeping.label>
+        <!-- EN: Learn how to keep bees to produce honey from nearby plants. -->
+        <VFEV_Beekeeping.description>Aprenda como manter as abelhas para produzir mel.</VFEV_Beekeeping.description>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: basic furniture -->
+        <MF_BasicFurniture.label>mobília básica</MF_BasicFurniture.label>
+        <!-- EN: Build simple furniture like simple beds, basic tables, stools, benches and more. -->
+        <MF_BasicFurniture.description>Construa móveis simples, como camas simples, mesas básicas, bancos e muito mais.</MF_BasicFurniture.description>
+
+        <!-- EN: complex furniture -->
+        <ComplexFurniture.label>mobília complexa</ComplexFurniture.label>
+        <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+        <ComplexFurniture.description>Construa móveis complexos como camas, mesas de canto, cadeiras de jantar, poltronas, cômodas, armários de ferramentas, mesas de bilhar e mesas de pôquer, saídas de ventilação, sarcófagos e muito mais.</ComplexFurniture.description>
+
+        <!-- EN: artisan furniture -->
+        <MF_RoyalFurniture.label>mobília artesanal</MF_RoyalFurniture.label>
+        <!-- EN: Build luxury furniture focused strongly on aesthetics and beauty over practicality, usually only seen in the houses of the wealthy elite. Including poster beds, royal chairs, tables and armchairs. -->
+        <MF_RoyalFurniture.description>Construa móveis de luxo dedicados a estética e beleza em detrimento da praticidade, normalmente vistos apenas nas casas de elite. Inclui camas com dossel, cadeiras, mesas e poltronas reais.</MF_RoyalFurniture.description>
+
+        <!-- EN: modern furniture -->
+        <MF_ModernFurniture.label>mobília moderna</MF_ModernFurniture.label>
+        <!-- EN: Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds. -->
+        <MF_ModernFurniture.description>Learn to build furniture of the modern day that is focused on practicality over beauty, such as roulette tables, wardrobes, dart boards, punching bags and ergonomic beds.</MF_ModernFurniture.description>
+
+        <!-- EN: waste disposal -->
+        <MF_WasteDisposal.label>depósito de lixo</MF_WasteDisposal.label>
+        <!-- EN: Learn to build small and large bins, objects that slowly clean the environment they are in. -->
+        <MF_WasteDisposal.description>Aprenda a construir lixeiras pequenas e grandes, objetos que limpam lentamente o ambiente em que estão.</MF_WasteDisposal.description>
+
+        <!-- EN: basic electronics -->
+        <TubeTelevision.label>eletrônicos básicos</TubeTelevision.label>
+        <!-- EN: Build basic electronic joy sources such as tube televisions, industrial radios, arcades and more. -->
+        <TubeTelevision.description>Construa eletrônicos básicos, como televisores de tubo, rádios industriais, fliperamas e muito mais.</TubeTelevision.description>
+
+        <!-- EN: complex electronics -->
+        <FlatscreenTelevision.label>eletrônicos complexos</FlatscreenTelevision.label>
+        <!-- EN: Build complex electronic joy sources such as flatscreen televisions, longwave radios and more. -->
+        <FlatscreenTelevision.description>Construa eletrônicos complexos, como televisões de tela plana, rádios de ondas longas e muito mais.</FlatscreenTelevision.description>
+
+    <!-- Vanilla Furniture Expanded - Art -->
+        <!-- EN: obelisks -->
+        <VFE_Res_Obelisk.label>obeliscos</VFE_Res_Obelisk.label>
+        <!-- EN: Learn how to sculpt tall, narrow shaped obelisks to commemorate important events. -->
+        <VFE_Res_Obelisk.description>Esculpa obeliscos altos e estreitos para comemorar eventos importantes.</VFE_Res_Obelisk.description>
+
+        <!-- EN: pottery -->
+        <VFE_Res_Pottery.label>cerâmica</VFE_Res_Pottery.label>
+        <!-- EN: Learn how to create beautiful vases and other vessels from simple materials. -->
+        <VFE_Res_Pottery.description>Crie lindos vasos de materiais simples.</VFE_Res_Pottery.description>
+
+        <!-- EN: carvings -->
+        <VFE_Res_WallCarvings.label>gravuras</VFE_Res_WallCarvings.label>
+        <!-- EN: Master the techniques of wall carving to create beautiful pillars and reliefs. -->
+        <VFE_Res_WallCarvings.description>Domine as técnicas de escultura de parede para criar belos pilares e relevos.</VFE_Res_WallCarvings.description>
+
+        <!-- EN: artful display -->
+        <VFE_Res_ArtfulDisplay.label>exibição artística</VFE_Res_ArtfulDisplay.label>
+        <!-- EN: Create beautiful ways to display artifacts and important colony goods. -->
+        <VFE_Res_ArtfulDisplay.description>Crie belas maneiras de exibir artefatos e bens importantes da colônia.</VFE_Res_ArtfulDisplay.description>
+
+        <!-- EN: statues -->
+        <VFE_Res_Statues.label>estátuas</VFE_Res_Statues.label>
+        <!-- EN: Sculpt accurate character-shaped sculptures, inscribed with artistic illustrations. -->
+        <VFE_Res_Statues.description>Esculpa esculturas precisas em forma de personagens, inscritas com ilustrações artísticas.</VFE_Res_Statues.description>
+
+        <!-- EN: monuments -->
+        <VFE_Res_Monuments.label>monumentos</VFE_Res_Monuments.label>
+        <!-- EN: Create massive monuments, centerpieces of your colony, to commemorate those who passed and give inspiration to those still struggling. -->
+        <VFE_Res_Monuments.description>Crie monumentos massivos, peças centrais de sua colônia, para homenagear aqueles que morreram e inspirar aqueles que ainda lutam.</VFE_Res_Monuments.description>
+
+        <!-- EN: rugs -->
+        <VFE_Res_Rugs.label>tapetes</VFE_Res_Rugs.label>
+        <!-- EN: Learn how to create beautiful rugs to decorate your colony. -->
+        <VFE_Res_Rugs.description>Crie lindos tapetes para decorar sua colônia.</VFE_Res_Rugs.description>
+
+        <!-- EN: wallpapers -->
+        <VFE_Res_Wallpapers.label>papeis de parede</VFE_Res_Wallpapers.label>
+        <!-- EN: Construct beautiful walls covered in wallpaper of your desired colour. -->
+        <VFE_Res_Wallpapers.description>Construa lindas paredes forradas com papel de parede.</VFE_Res_Wallpapers.description>
+
+        <!-- EN: holograms -->
+        <VFE_Res_Holograms.label>hologramas</VFE_Res_Holograms.label>
+        <!-- EN: Adapt advanced display techniques to showcase three-dimensional models around your colony. -->
+        <VFE_Res_Holograms.description>Adapte técnicas de exibição avançadas para mostrar modelos tridimensionais em sua colônia.</VFE_Res_Holograms.description>
+
+    <!-- Vanilla Furniture Expanded - Farming -->
+        <!-- EN: artificial ecosystems -->
+        <VFE_Res_AdvancedHydroponics.label>ecossistemas artificiais</VFE_Res_AdvancedHydroponics.label>
+        <!-- EN: Learn to construct artificial ecosystems, highly advanced terraria which vastly improve upon hydroponics. -->
+        <VFE_Res_AdvancedHydroponics.description>Aprenda a construir ecossistemas artificiais altamente avançados que melhoram amplamente a hidroponia.</VFE_Res_AdvancedHydroponics.description>
+
+        <!-- EN: sprinklers -->
+        <VFE_Res_Sprinkler.label>irrigadores</VFE_Res_Sprinkler.label>
+        <!-- EN: Assemble schematics for a device which can automatically water fields, increasing the speed at which crops grow. -->
+        <VFE_Res_Sprinkler.description>Construa um dispositivo que pode regar campos automaticamente, aumentando a velocidade de crescimento das safras.</VFE_Res_Sprinkler.description>
+
+        <!-- EN: farming techniques -->
+        <VFE_Res_FarmingTechniques.label>técnicas de cultivo</VFE_Res_FarmingTechniques.label>
+        <!-- EN: Develop a theoretical basis for larger-scale farming operations, including centralized feeding and dedicated scarecrows to keep your crops uneaten. -->
+        <VFE_Res_FarmingTechniques.description>Desenvolva uma base teórica para operações agrícolas em larga escala, incluindo alimentação centralizada e espantalhos dedicados para manter suas plantações intactas.</VFE_Res_FarmingTechniques.description>
+
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- EN: industrial generators -->
+        <VFE_IndustrialGenerators.label>geradores industriais</VFE_IndustrialGenerators.label>
+        <!-- EN: Build industrial-grade generators, capable of storing significantly more fuel and producing higher power. -->
+        <VFE_IndustrialGenerators.description>Construa geradores industriais, capazes de armazenar significativamente mais combustível e produzir mais energia.</VFE_IndustrialGenerators.description>
+
+        <!-- EN: advanced battery -->
+        <VFE_AdvancedBatteries.label>baterias avançadas</VFE_AdvancedBatteries.label>
+        <!-- EN: Build spacertech batteries, capable of efficiently storing large amounts of energy. -->
+        <VFE_AdvancedBatteries.description>Construa baterias espaciais, capazes de armazenar com eficiência grandes quantidades de energia.</VFE_AdvancedBatteries.description>
+
+        <!-- EN: advanced power sources -->
+        <VFE_AdvancedPowerSources.label>fontes de energia avançadas</VFE_AdvancedPowerSources.label>
+        <!-- EN: Construct spacertech green power generators, including advanced solar panels and wind turbines. -->
+        <VFE_AdvancedPowerSources.description>Construa geradores de energia verde como avançados painéis solares e turbinas eólicas.</VFE_AdvancedPowerSources.description>
+
+        <!-- EN: nuclear power -->
+        <VFE_NuclearPower.label>energia nuclear</VFE_NuclearPower.label>
+        <!-- EN: The ultimate power generation method, nuclear power is as sufficient as it is deadly. -->
+        <VFE_NuclearPower.description>O método de geração de energia, a energia nuclear é tão suficiente quanto mortal.</VFE_NuclearPower.description>
+
+        <!-- EN: tidal power -->
+        <VFE_TidalPower.label>energia maremotriz</VFE_TidalPower.label>
+        <!-- EN: Build tidal generators on water to produce a large volume of sustainable green energy. -->
+        <VFE_TidalPower.description>Construa geradores hidráulicos na água para produzir um grande volume de energia verde sustentável.</VFE_TidalPower.description>
+
+        <!-- EN: gas extraction -->
+        <VFE_GasExtraction.label>extração de gás</VFE_GasExtraction.label>
+        <!-- EN: Research the helixien gas and it's ability to act as a combustible fuel. -->
+        <VFE_GasExtraction.description>Aprenda sobre o gás helixieno e sua capacidade de agir como combustível.</VFE_GasExtraction.description>
+
+    <!-- Vanilla Furniture Expanded - Production -->
+        <!-- EN: Manufacturing -->
+        <VFE_Manufacturing.label>manufatura</VFE_Manufacturing.label>
+        <!-- EN: Build manufacturing benches and efficient work center. -->
+        <VFE_Manufacturing.description>Construa bancadas de manufatura e centros de trabalho eficientes.</VFE_Manufacturing.description>
+
+    <!-- Vanilla Furniture Expanded - Props And Decor -->
+        <!-- EN: industrial props -->
+        <IndustrialProps.label>decorações industriais</IndustrialProps.label>
+        <!-- EN: Unlocks industrial props and decorations. -->
+        <IndustrialProps.description>Desbloqueia adereços e decorações industriais.</IndustrialProps.description>
+
+        <!-- EN: vehicle props -->
+        <VehicleProps.label>decorações automotivas</VehicleProps.label>
+        <!-- EN: Unlocks a wide selection of land vehicle props. -->
+        <VehicleProps.description>Desbloqueia uma ampla seleção de decorações de veículos terrestres.</VehicleProps.description>
+
+        <!-- EN: plant props -->
+        <PlantProps.label>decorações vegetais</PlantProps.label>
+        <!-- EN: Unlocks a selection of fake plants and trees. -->
+        <PlantProps.description>Desbloqueia uma seleção de plantas e árvores falsas.</PlantProps.description>
+
+        <!-- EN: medieval props -->
+        <MedievalProps.label>decorações medievais</MedievalProps.label>
+        <!-- EN: Unlocks a number of medieval inspired decorations. -->
+        <MedievalProps.description>Desbloqueia uma série de decorações de inspiração medieval.</MedievalProps.description>
+
+        <!-- EN: farm props -->
+        <FarmProps.label>decorações agrícolas</FarmProps.label>
+        <!-- EN: Grants access to a selection of farming related props. -->
+        <FarmProps.description>Concede acesso a uma seleção de decorações relacionadas à agricultura.</FarmProps.description>
+
+        <!-- EN: power props -->
+        <PowerProps.label>decorações enérgicas</PowerProps.label>
+        <!-- EN: Unlocks a number of generators and other power-based props. -->
+        <PowerProps.description>Desbloqueia uma série de geradores e outras decorações baseadas em energia.</PowerProps.description>
+
+        <!-- EN: kitchen props -->
+        <KitchenProps.label>decorações culinárias</KitchenProps.label>
+        <!-- EN: Unlocks a selection of kitchen-based props. -->
+        <KitchenProps.description>Desbloqueia uma seleção de decorações baseadas em cozinha.</KitchenProps.description>
+
+        <!-- EN: decals -->
+        <DecalsProps.label>decalques</DecalsProps.label>
+        <!-- EN: Unlocks a large number of customizable floor decals. -->
+        <DecalsProps.description>Desbloqueia um grande número de decalques personalizáveis.</DecalsProps.description>
+
+        <!-- EN: furniture -->
+        <FurnitureProps.label>decorações mobiliárias</FurnitureProps.label>
+        <!-- EN: Gives access too a variety of furniture props. -->
+        <FurnitureProps.description>Desbloqueia uma variedade de decorações de móveis.</FurnitureProps.description>
+
+        <!-- EN: spaceship props -->
+        <SpaceshipProps.label>decorações de espaçonaves</SpaceshipProps.label>
+        <!-- EN: Unlocks a selection of spaceship props. -->
+        <SpaceshipProps.description>Desbloqueia uma seleção de decorações de espaçonaves.</SpaceshipProps.description>
+
+        <!-- EN: spacer props -->
+        <SpacerProps.label>decorações espaciais</SpacerProps.label>
+        <!-- EN: Unlocks a large number of spacer inspired props and decorations. -->
+        <SpacerProps.description>Desbloqueia um grande número de adereços e decorações espaciais.</SpacerProps.description>
+
+    <!-- Vanilla Furniture Expanded - Security -->
+        <!-- EN: siege equipment -->
+        <VFES_SiegeEquipment.label>equipamento de cerco</VFES_SiegeEquipment.label>
+        <!-- EN: Construct medieval siege equipment. -->
+        <VFES_SiegeEquipment.description>Construa equipamento de cerco medieval.</VFES_SiegeEquipment.description>
+
+        <!-- EN: artillery -->
+        <VFES_Artillery.label>artilharia</VFES_Artillery.label>
+        <!-- EN: Learn how to construct field artillery capable of bombarding distant targets within a location's region on the world. -->
+        <VFES_Artillery.description>Aprenda a construir artilharias capazes de bombardear alvos distantes no mundo.</VFES_Artillery.description>
+
+        <!-- EN: sentry guns -->
+        <VFES_SentryGuns.label>sentinelas</VFES_SentryGuns.label>
+        <!-- EN: Craft self-powered, reliable sentry guns to be utilised in the field. -->
+        <VFES_SentryGuns.description>Crie sentinelas confiáveis ​​para serem utilizados no campo de batalha.</VFES_SentryGuns.description>
+
+        <!-- EN: metal alloy barricades -->
+        <VFES_MetalAlloysBarricades.label>barricadas de ligas metálicas</VFES_MetalAlloysBarricades.label>
+        <!-- EN: Construct reinforced metal barricades. -->
+        <VFES_MetalAlloysBarricades.description>Construa barricadas de metal reforçado.</VFES_MetalAlloysBarricades.description>
+
+        <!-- EN: concealed defenses -->
+        <VFES_ConcealedDefenses.label>defesas submersíveis</VFES_ConcealedDefenses.label>
+        <!-- EN: Construct submersible barriers and turrets, perfect for indoor defenses. -->
+        <VFES_ConcealedDefenses.description>Construa barreiras e torres submersíveis, perfeitas para defesas internas.</VFES_ConcealedDefenses.description>
+
+        <!-- EN: missile turret -->
+        <VFES_MissileBarrage.label>torreta de mísseis</VFES_MissileBarrage.label>
+        <!-- EN: Adapt explosive technology in a form of surface-to-surface missile launcher. -->
+        <VFES_MissileBarrage.description>Adapte a tecnologia explosiva em um lançador de mísseis.</VFES_MissileBarrage.description>
+
+        <!-- EN: pulse-charged defenses -->
+        <VFES_PulseChargedDefenses.label>defesas de pulso de carga</VFES_PulseChargedDefenses.label>
+        <!-- EN: Develop advanced charge cannons capable of keeping consistent firing speed. -->
+        <VFES_PulseChargedDefenses.description>Desenvolva canhões de carga avançados capazes de manter uma velocidade de tiro consistente.</VFES_PulseChargedDefenses.description>
+
+        <!-- EN: railgun -->
+        <VFES_Railgun.label>canhão elétrico</VFES_Railgun.label>
+        <!-- EN: Adapt spacecraft weaponry as part of your defensive systems. -->
+        <VFES_Railgun.description>Adapte o armamento espacial como parte de seus sistemas defensivos.</VFES_Railgun.description>
+
+        <!-- EMP Cannon -->
+        <VFES_EMPCannon.label>canhão PEM</VFES_EMPCannon.label>
+        <!-- EN: Develop EMP cannons, useful throughout the galaxy with it's ability to stun mechanoids. -->
+        <VFES_EMPCannon.description>Desenvolva canhões PEM, úteis com sua capacidade de atordoar mecanoides.</VFES_EMPCannon.description>
+
+        <!-- EN: repulsor technology -->
+        <VFES_RepulsorTechnology.label>tecnologia repulsora</VFES_RepulsorTechnology.label>
+        <!-- EN: Build shield generators that project energy fields capable of repelling projectiles. -->
+        <VFES_RepulsorTechnology.description>Construa geradores de escudo que projetem campos de energia capazes de repelir projéteis.</VFES_RepulsorTechnology.description>
+
+    <!-- Vanilla Furniture Expanded - Spacer Module -->
+        <!-- EN: spacer furniture -->
+        <SpacerFurniture.label>mobília espacial</SpacerFurniture.label>
+        <!-- EN: Build advanced furniture usually only seen in advanced colonies and glitterworld buildings. -->
+        <SpacerFurniture.description>Construa móveis espaciais, normalmente vistos apenas em colônias avançadas e edifícios do mundo brilhante.</SpacerFurniture.description>
+
+        <!-- EN: spacer electronics  -->
+        <SpacerElectronics.label>eletrônicos espaciais</SpacerElectronics.label>
+        <!-- EN: Build advanced electronics usually only seen in advanced colonies and glitterworld buildings. -->
+        <SpacerElectronics.description>Construa eletrônicos espaciais, normalmente vistos apenas em colônias avançadas e edifícios do mundo brilhante.</SpacerElectronics.description>
+
+        <!-- EN: mechanite restoration -->
+        <MechaniteRestoration.label>meca-restauração</MechaniteRestoration.label>
+        <!-- EN: Use ultratech mechanites to aid in restoration of objects by constructing a mechanite repair shelf. -->
+        <MechaniteRestoration.description>Construa uma prateleira de reparo com mecanitos ultratecnológicas que auxiliam na restauração de objetos.</MechaniteRestoration.description>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: genetic alteration -->
+        <GR_GeneticAlteration.label>alteração genética</GR_GeneticAlteration.label>
+        <!-- EN: Craft the Tissue Grinder and Genome Extractor Table to create genoframes and genomes respectively. -->
+        <GR_GeneticAlteration.description>Construa moedores de tecidos e mesas de extração de genomas para criar genostrutas e genomas, respectivamente.</GR_GeneticAlteration.description>
+
+        <!-- EN: genetic creation -->
+        <GR_GeneticEngineering.label>criação genética</GR_GeneticEngineering.label>
+        <!-- EN: Create new hybrids with the Genomorpher, gestate them in an Electrowomb and create boosters at the Genetics Tinkering Table. -->
+        <GR_GeneticEngineering.description>Crie novos híbridos com genoformadores, gere-os em um eletroventre e crie impulsionadores em mesas de ajuste genético.</GR_GeneticEngineering.description>
+
+        <!-- EN: genetic duplication -->
+        <GR_GeneticDuplication.label>duplicação genética</GR_GeneticDuplication.label>
+        <!-- EN: Manufacture Template Genomes through the Genome Recombinator and duplicate existing Genomes. -->
+        <GR_GeneticDuplication.description>Fabrique genomas de modelo através de recombinadores de genomas e duplique genomas existentes.</GR_GeneticDuplication.description>
+
+        <!-- EN: genetic augmentation -->
+        <GR_HybridImplantology.label>acréscimo genético</GR_HybridImplantology.label>
+        <!-- EN: Grow bio-engineered implants for hybrids and animals alike on the Implant augmentator. -->
+        <GR_HybridImplantology.description>Cultive implantes de bio-engenharia para híbridos e animais em acrescentadores de implantes.</GR_HybridImplantology.description>
+
+        <!-- EN: genetic compatibility -->
+        <GR_GeneticCompatibility.label>compatibilidade genética</GR_GeneticCompatibility.label>
+        <!-- EN: Grow bio-engineered implants for humans on the Implant augmentator. -->
+        <GR_GeneticCompatibility.description>Cultive implantes de bio-engenharia para humanos em acrescentadores de implantes.</GR_GeneticCompatibility.description>
+
+        <!-- EN: genetic mechahybridization -->
+        <GR_GeneticMechahybridization.label>meca-hibridização genética</GR_GeneticMechahybridization.label>
+        <!-- EN: Create Biomechanical Lab beacons to find mechahybridizers, and construct mechahybrid antennas to support more mechanoid hybrids. -->
+        <GR_GeneticMechahybridization.description>Construa faróis de laboratórios biomecânicos para encontrar meca-hibridizadores e construa antenas mecha-híbridas para suportar mais híbridos mecanoides.</GR_GeneticMechahybridization.description>
+
+    <!-- Vanilla Plants Expanded - Succulents -->
+        <!-- EN: succulent sowing -->
+        <VCE_SucculentSowing.label>cultivo de suculentas</VCE_SucculentSowing.label>
+        <!-- EN: Sow the beautiful, long lasting succulents. -->
+        <VCE_SucculentSowing.description>Semeie as lindas e duradouras suculentas.</VCE_SucculentSowing.description>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: mechanite assembly -->
+        <ArchotechMechanites.label>montagem de mecanitos</ArchotechMechanites.label>
+        <!-- EN: Design simple mechanites to assemble or repair objects, atom-by-atom. -->
+        <ArchotechMechanites.description>Projete mecanitos simples que montam e reparam objetos, átomo por átomo.</ArchotechMechanites.description>
+
+        <!-- EN: bio-mechanite integration -->
+        <ArchotechBioMechanites.label>integração de bio-mecanitos</ArchotechBioMechanites.label>
+        <!-- EN: Design more specialized mechanites to interface with, and improve upon, biology. -->
+        <ArchotechBioMechanites.description>Projete mecanitos especializados em interagir e melhorar a biologia.</ArchotechBioMechanites.description>
+
+        <!-- EN: swarm intelligence -->
+        <ArchotechBioMechanitesTwo.label>inteligência de mecanitos</ArchotechBioMechanitesTwo.label>
+        <!-- EN: Grant a gestalt intelligence to mechanite swarms, allowing them to collectively diagnose and repair injuries - or even death. -->
+        <ArchotechBioMechanitesTwo.description>Conceda uma inteligência gestáltica aos mecanitos, permitindo que diagnostiquem e reparem coletivamente ferimentos.</ArchotechBioMechanitesTwo.description>
+
+        <!-- EN: organ redesign -->
+        <SoSArchotechOrgans.label>reprojeto de órgãos</SoSArchotechOrgans.label>
+        <!-- EN: Reinvent biology from the molecular level upward, creating vastly superior organs. -->
+        <SoSArchotechOrgans.description>Reinvente a biologia do nível molecular para cima, capaz da criação de órgãos muito superiores.</SoSArchotechOrgans.description>
+
+        <!-- EN: animal redesign -->
+        <ArchotechAnimals.label>reprojeto de animais</ArchotechAnimals.label>
+        <!-- EN: Surpass natural evolution, creating an ecosystem of purpose-built creatures which need not kill, die, or suffer - and which provide great benefits to their human companions. -->
+        <ArchotechAnimals.description>Supere a evolução natural, criando um ecossistema de criaturas que não matam, morrem ou sofrem - e que proporcionam grandes benefícios aos seus companheiros humanos.</ArchotechAnimals.description>
+
+        <!-- EN: plant redesign -->
+        <ArchotechPlants.label>reprojeto de plantas</ArchotechPlants.label>
+        <!-- EN: Surpass natural evolution, creating an ecosystem of purpose-built plants which provide great benefits to humans. -->
+        <ArchotechPlants.description>Supere a evolução natural, criando um ecossistema de plantas que proporcionam grandes benefícios aos seres humanos.</ArchotechPlants.description>
+
+        <!-- EN: mechanite disassembly -->
+        <ArchotechMechaniteWeapon.label>desmontagem de mecanitos</ArchotechMechaniteWeapon.label>
+        <!-- EN: Design mechanites which break down matter atom-by-atom - useful for recycling unwanted items, or "recycling" enemy ships. -->
+        <ArchotechMechaniteWeapon.description>Projete mecanitos que decompõem a matéria átomo por átomo - úteis em reciclagem.</ArchotechMechaniteWeapon.description>
+
+        <!-- EN: matter optimization -->
+        <ArchotechHullConversion.label>otimização de matéria</ArchotechHullConversion.label>
+        <!-- EN: Automatically upgrade ship hull to archotech hull. This will not affect large structures such as heatsinks or shield generators. -->
+        <ArchotechHullConversion.description>Atualize automaticamente a carcaça da espaçonave à carcaça arquotécnica. Isso não afetará grandes estruturas, como dissipadores de calor ou geradores de blindagem.</ArchotechHullConversion.description>
+
+        <!-- EN: psychic field formation -->
+        <ArchotechPsychicField.label>formação de campo psíquico</ArchotechPsychicField.label>
+        <!-- EN: Discover the basic principles of psychic interaction, allowing your archotech spore to begin generating a psychic field. -->
+        <ArchotechPsychicField.description>Descubra os princípios básicos da interação psíquica, permitindo que seu esporo arquotécnico comece a gerar um campo psíquico.</ArchotechPsychicField.description>
+        <!-- EN: Your archotech spore has begun generating a psychic field. Once you have accumulated enough Field Strength and completed the necessary research, you can request your archotech spore to perform certain psychic feats. Field Strength grows slowly on its own, and is slightly increased by having colonists meditate nearby, but can be greatly boosted by installing archotech pillars. -->
+        <ArchotechPsychicField.discoveredLetterText>Seu esporo arquotécnico começou a gerar um campo psíquico. Uma vez que você tenha acumulado força de campo suficiente e completado a pesquisa necessária, você pode solicitar ao seu esporo arquotécnico para realizar certas façanhas psíquicas. A força do campo cresce lentamente por conta própria e é ligeiramente aumentada ao fazer os colonos meditarem nas proximidades, mas pode ser bastante aumentada com a instalação de pilares arquotécnico.</ArchotechPsychicField.discoveredLetterText>
+        <!-- EN: About: Psychic Field -->
+        <ArchotechPsychicField.discoveredLetterTitle>Sobre: Campo psíquico</ArchotechPsychicField.discoveredLetterTitle>
+
+        <!-- EN: psychic field manipulation -->
+        <ArchotechPsychicManipulation.label>manipulação de campo psíquico</ArchotechPsychicManipulation.label>
+        <!-- EN: Utilize your psychic field to generate simple sensations, soothing an entire region or overwhelming a single individual. -->
+        <ArchotechPsychicManipulation.description>Utilize seu campo psíquico para gerar sensações simples, acalmando uma região inteira ou sobrecarregando um único indivíduo.</ArchotechPsychicManipulation.description>
+
+        <!-- EN: broad manipulation -->
+        <ArchotechBroadManipulation.label>manipulação ampla</ArchotechBroadManipulation.label>
+        <!-- EN: Psychically transmit messages and dreams to thousands of individuals, influencing a faction's opinion of you. Contact them using a comms console to use this ability. -->
+        <ArchotechBroadManipulation.description>Transmita psiquicamente mensagens e sonhos para milhares de indivíduos, influenciando a opinião de uma facção sobre você através de um console de comunicações.</ArchotechBroadManipulation.description>
+
+        <!-- EN: psylink -->
+        <ArchotechPsylink.label>psínculo</ArchotechPsylink.label>
+        <!-- EN: Enable your archotech spore to grant psylink to colonists. This consumes a considerable amount of Field Strength. -->
+        <ArchotechPsylink.description>Ative seu esporo arquotécnico para conceder psínculo aos colonos, consumindo uma quantidade considerável de força de campo.</ArchotechPsylink.description>
+
+        <!-- EN: psychic effectors -->
+        <ArchotechPsychicEffectors.label>efeitos psíquicos</ArchotechPsychicEffectors.label>
+        <!-- EN: Design limited-use psychic effectors such as shock lances and animal pulsers. -->
+        <ArchotechPsychicEffectors.description>Projete efeitos psíquicos de uso limitado, como lanças de choque e pulsadores de animais.</ArchotechPsychicEffectors.description>
+
+        <!-- EN: psychic weaponry -->
+        <ArchotechPsychicWeapon.label>armamento psíquico</ArchotechPsychicWeapon.label>
+        <!-- EN: Design ship weaponry which utilizes psychic phenomena to incapacitate enemy crew. -->
+        <ArchotechPsychicWeapon.description>Projete armamentos que utilizam fenômenos psíquicos para incapacitar a tripulação inimiga.</ArchotechPsychicWeapon.description>
+
+        <!-- EN: exotic particles -->
+        <ArchotechExotics.label>partículas exóticas</ArchotechExotics.label>
+        <!-- EN: Expand on the commonly-understood laws of physics, discovering a variety of particles with exotic behaviors. -->
+        <ArchotechExotics.description>Expanda as leis da física comumente compreendidas, descobrindo uma variedade de partículas com comportamentos exóticos.</ArchotechExotics.description>
+
+        <!-- EN: vanometrics -->
+        <ArchotechVanometrics.label>vanometria</ArchotechVanometrics.label>
+        <!-- EN: Design vanometric power cells, which generate free energy without using fuel. -->
+        <ArchotechVanometrics.description>Projete células de energia vanométricas, que geram energia sem utilizar combustível.</ArchotechVanometrics.description>
+
+        <!-- EN: advanced shields -->
+        <ArchotechShields.label>escudos avançados</ArchotechShields.label>
+        <!-- EN: Utilize exotic particles to improve the efficiency of your ship's shields. -->
+        <ArchotechShields.description>Utilize partículas exóticas para melhorar a eficiência dos escudos de sua espaçonave.</ArchotechShields.description>
+
+        <!-- EN: anti-entropics -->
+        <ArchotechHeatsink.label>anti-entrópicos</ArchotechHeatsink.label>
+        <!-- EN: Utilize exotic particles to construct heatsinks which eliminate heat altogether, rather than venting it into your ship. -->
+        <ArchotechHeatsink.description>Utilize partículas exóticas para construir dissipadores de calor que eliminam completamente o calor, em vez de exalá-lo em sua espaçonave.</ArchotechHeatsink.description>
+
+        <!-- EN: matter inversion -->
+        <ArchotechAntimatter.label>inversão de matéria</ArchotechAntimatter.label>
+        <!-- EN: Develop a method for efficiently producing antigrain shells from exotic particles. -->
+        <ArchotechAntimatter.description>Desenvolva um método para a produção eficiente de projéteis antigrãos a partir de partículas exóticas.</ArchotechAntimatter.description>
+
+        <!-- EN: antimatter thruster -->
+        <ArchotechEngine.label>propulsor de antimatéria</ArchotechEngine.label>
+        <!-- EN: Utilize exotic particles for thrust in combat. -->
+        <ArchotechEngine.description>Utilize partículas exóticas para impulso em combate.</ArchotechEngine.description>
+
+        <!-- EN: antimatter reactor -->
+        <ArchotechReactor.label>reator de antimatéria</ArchotechReactor.label>
+        <!-- EN: Utilize exotic particles to quickly generate vast amounts of power. -->
+        <ArchotechReactor.description>Utilize partículas exóticas para gerar rapidamente grandes quantidades de energia.</ArchotechReactor.description>
+
+        <!-- EN: locate alpha pillar -->
+        <ArchotechPillarA.label>localização de pilar alfa</ArchotechPillarA.label>
+        <!-- EN: Discover the location of an archotech pillar. This particular specimen is somewhere in orbit. -->
+        <ArchotechPillarA.description>Descubra a localização de um pilar arquotécnico. Este em particular está em órbita.</ArchotechPillarA.description>
+        <!-- EN: You have managed to discern the location of an archotech pillar! This specimen resides aboard the KSS Horizon, an ancient terraforming station.\n\nScans indicate the station's dome section has maintained a functioning ecosystem for thousands of years. However, it is currently occupied by a clan of space pirates - and, given the number of heavy armaments they have mounted on the station's hull, they intend to discourage visitors.\n\nYou will need to engage the Horizon in ship combat from your bridge. -->
+        <ArchotechPillarA.discoveredLetterText>Você conseguiu discernir a localização de um pilar arquotécnico! Este espécime reside a bordo da CSS Horizontes, uma antiga estação de terraformação.\n\nAs varreduras indicam que a seção da cúpula da estação mantém um ecossistema em funcionamento há milhares de anos. No entanto, ela está atualmente ocupada por um clã de piratas espaciais - e, dado o número de armamentos pesados que montaram na carcaça da estação, eles pretendem desencorajar os visitantes.\n\nVocê precisará enfrentar o Horizontes em combate de espaçonaves a partir do seu porte.</ArchotechPillarA.discoveredLetterText>
+        <!-- EN: Archotech pillar detected -->
+        <ArchotechPillarA.discoveredLetterTitle>Pilar arquotécnico detectado</ArchotechPillarA.discoveredLetterTitle>
+
+        <!-- EN: locate beta pillar -->
+        <ArchotechPillarB.label>localização de pilar beta</ArchotechPillarB.label>
+        <!-- EN: Discover the location of an archotech pillar. This particular specimen is somewhere on one of the planet's moons. -->
+        <ArchotechPillarB.description>Descubra a localização de um pilar arquotécnico. Este em particular está em uma lua.</ArchotechPillarB.description>
+        <!-- EN: You have managed to discern the location of an archotech pillar! This specimen is apparently being studied by a mechanoid hive on one of the planet's moons.\n\nScans indicate the hive is defended by a very large mechanoid warship.\n\nYou will need to load a shuttle with your raiding party, then select the "Moon Hive" option - at which point you will have to fight two simultaneous battles, one on the surface and one against the warship. Be sure your shuttle is fully fueled. -->
+        <ArchotechPillarB.discoveredLetterText>Você conseguiu discernir a localização de um pilar arquotécnico! Este espécime aparentemente está sendo estudado por uma colmeia mecanoide em uma lua.\n\nAs varreduras indicam que a colmeia é defendida por uma espaçonave de guerra mecanoide muito grande.\n\nVocê precisará carregar uma espaçonave com seu grupo invasor e, em seguida, selecionar a opção "Colmeia Lunar" - nesse ponto você terá que lutar duas batalhas simultâneas, uma na superfície e outra contra a espaçonave de guerra. Certifique-se de que seu transporte esteja totalmente abastecido.</ArchotechPillarB.discoveredLetterText>
+        <!-- EN: Archotech pillar detected -->
+        <ArchotechPillarB.discoveredLetterTitle>Pilar arquotécnico detectado</ArchotechPillarB.discoveredLetterTitle>
+
+        <!-- EN: locate gamma pillar -->
+        <ArchotechPillarC.label>localização de pilar gama</ArchotechPillarC.label>
+        <!-- EN: Discover the location of an archotech pillar. This particular specimen is somewhere on the planet's surface. -->
+        <ArchotechPillarC.description>Descubra a localização de um pilar arquotécnico. Este em particular está na superfície do planeta.</ArchotechPillarC.description>
+        <!-- EN: You have managed to discern the location of an archotech pillar! This specimen is the most sacred artifact of the planet's tribal cultures, referred to as the Star Totem.\n\nIt was once a sacred meeting place where rival tribes spoke under a banner of peace, but has been captured and defiled by a savage berserker clan.\n\nWhen your raiding party arrives at the site, they will be joined by allies from any tribes you have befriended, eager to see the sacred totem return to friendly hands. -->
+        <ArchotechPillarC.discoveredLetterText>Você conseguiu discernir a localização de um pilar arquotécnico! Este espécime é o artefato mais sagrado das culturas tribais do planeta, conhecido como Totem Estelar.\n\nEle já foi um local de encontro sagrado onde tribos rivais falavam sob a bandeira da paz, mas foi capturado e profanado por um clã selvagem e assassino.\n\nQuando seu grupo de invasores chegar ao local, eles serão acompanhados por aliados de qualquer tribo que você fez amizade, ansiosos para ver o totem sagrado retornar a seu controle.</ArchotechPillarC.discoveredLetterText>
+        <!-- EN: Archotech pillar detected -->
+        <ArchotechPillarC.discoveredLetterTitle>Pilar arquotécnico detectado</ArchotechPillarC.discoveredLetterTitle>
+
+        <!-- EN: locate delta pillar -->
+        <ArchotechPillarD.label>localização de pilar delta</ArchotechPillarD.label>
+        <!-- EN: Discover the location of an archotech pillar. This particular specimen is somewhere beneath the planet's crust. -->
+        <ArchotechPillarD.description>Descubra a localização de um pilar arquotécnico. Este em particular está abaixo da crosta do planeta.</ArchotechPillarD.description>
+        <!-- EN: You have managed to discern the location of an archotech pillar! This specimen sits deep underground, at the center of a colossal insect hive.\n\nScans detect a large breeding population of Sorne Geneline insects as well as several anomalous readings - perhaps archospiders or something even worse.\n\nYour raiding party is advised to train in close-quarters combat... -->
+        <ArchotechPillarD.discoveredLetterText>Você conseguiu discernir a localização de um pilar arquotécnico! Este espécime fica no subsolo, no centro de uma colmeia de insetos colossal.\n\nAs varreduras detectam uma grande população reprodutora de insetos Sorne Geneline, bem como várias leituras anômalas - talvez arquoranhas ou algo ainda pior.\n\nSua equipe de ataque é aconselhada treinar combate corpo a corpo...</ArchotechPillarD.discoveredLetterText>
+        <!-- EN: Archotech pillar detected -->
+        <ArchotechPillarD.discoveredLetterTitle>Pilar arquotécnico detectado</ArchotechPillarD.discoveredLetterTitle>
+
+        <!-- EN: starflight basics -->
+        <ShipBasics.label>noções básicas de voo estelar</ShipBasics.label>
+        <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+        <ShipBasics.description>Construa os elementos estruturais e de suporte de uma espaçonave estelar. Este é o primeiro passo na construção de uma espaçonave para deixar este sistema estelar.</ShipBasics.description>
+
+        <!-- EN: ship fission reactor -->
+        <ShipReactor.label>reator de fissão de espaçonave</ShipReactor.label>
+        <!-- EN: Burn uranium fuel pods for long-term power. -->
+        <ShipReactor.description>Queime cápsulas de combustível de urânio para obter energia a longo prazo.</ShipReactor.description>
+
+        <!-- EN: rocket propulsion -->
+        <ShipEngine.label>propulsão de foguete</ShipEngine.label>
+        <!-- EN: Construct chemical engines for a ship. These can reach orbit, but no further. -->
+        <ShipEngine.description>Construa motores de combustível químicos para uma espaçonave.</ShipEngine.description>
+
+        <!-- EN: Johnson-Tanaka Drive -->
+        <SoSJTDrive.label>motor João-Tales</SoSJTDrive.label>
+        <!-- EN: Understand the principles behind the reactionless Johnson-Tanaka drive, capable of interplanetary and interstellar travel.\nNote: Actually constructing the drive will require an Entanglement Manifold, a very rare artifact. -->
+        <SoSJTDrive.description>Entenda os princípios por trás da unidade de motor João-Tales, capaz de viagens interplanetárias e interestelares.</SoSJTDrive.description>
+
+        <!-- EN: ship computer core -->
+        <ShipComputerCore.label>núcleo do computador de espaçonave</ShipComputerCore.label>
+        <!-- EN: Allows coercing an existing AI persona into a usable ship computer core for long-range guidance. -->
+        <ShipComputerCore.description>Permite coagir uma persona IA existente em um núcleo de computador de espaçonave utilizável para orientação de longo alcance.</ShipComputerCore.description>
+
+        <!-- EN: basic ship sensors -->
+        <ShipSensorCluster.label>sensores básicos de espaçonave</ShipSensorCluster.label>
+        <!-- EN: Construct sensors for a ship, capable of basic navigation and observing areas from orbit. -->
+        <ShipSensorCluster.description>Construa sensores para uma espaçonave, capaz de navegação básica e observação de áreas em órbita.</ShipSensorCluster.description>
+
+        <!-- EN: advanced ship sensors -->
+        <ShipSensorClusterAdv.label>sensores avançados de espaçonave</ShipSensorClusterAdv.label>
+        <!-- EN: Construct advanced sensors for a ship, capable of scanning the interior of enemy ships. -->
+        <ShipSensorClusterAdv.description>Construa sensores avançados para uma espaçonave, capazes de escanear o interior de espaçonaves inimigas.</ShipSensorClusterAdv.description>
+
+        <!-- EN: ship navigation -->
+        <ShipPilotSeat.label>navegação de espaçonave</ShipPilotSeat.label>
+        <!-- EN: Allow your colonists to pilot a ship, with basic computer assistance. -->
+        <ShipPilotSeat.description>Permita que seus colonos pilotem uma espaçonave, com assistência básica de um computador.</ShipPilotSeat.description>
+
+        <!-- EN: shuttle bay -->
+        <ShipShuttleBay.label>baia de transporte</ShipShuttleBay.label>
+        <!-- EN: Construct shuttle docking bays, for ferrying cargo to and from a ship. -->
+        <ShipShuttleBay.description>Construa docas para transportar carga a uma espaçonave.</ShipShuttleBay.description>
+
+        <!-- EN: ship life support -->
+        <ShipLifeSupport.label>suporte de vida de espaçonave</ShipLifeSupport.label>
+        <!-- EN: Recycle oxygen to keep non-cryptosleeping colonists alive. -->
+        <ShipLifeSupport.description>Recicle oxigênio para manter vivos os colonos que não utilizam a cripto-tecnologia.</ShipLifeSupport.description>
+
+        <!-- EN: EVA suits -->
+        <ShipSpaceSuits.label>trajes de EVA</ShipSpaceSuits.label>
+        <!-- EN: Self-contained life support systems allow colonists to survive in outer space. -->
+        <ShipSpaceSuits.description>Sistemas autônomos de suporte à vida permitem que os colonos sobrevivam no espaço sideral.</ShipSpaceSuits.description>
+
+        <!-- EN: EVA powered armor -->
+        <ShipSpaceSuitsHeavy.label>armadura de EVA</ShipSpaceSuitsHeavy.label>
+        <!-- EN: Apply life-support technology to powered armor, producing an armored suit which allows its occupant to survive in outer space. -->
+        <ShipSpaceSuitsHeavy.description>Aplique tecnologia de suporte à vida em armaduras, produzindo um traje blindado que permite que seu ocupante sobreviva no espaço sideral.</ShipSpaceSuitsHeavy.description>
+
+        <!-- EN: crittersleep caskets -->
+        <Crittersleep.label>caixas de criptosono</Crittersleep.label>
+        <!-- EN: Construct crittersleep caskets, which can hold multiple small animals, and cryptonests for holding eggs. -->
+        <Crittersleep.description>Construa caixas de criptosono, que podem conter vários pequenos animais.</Crittersleep.description>
+
+        <!-- EN: capacitor arrays -->
+        <ShipCapacitor.label>matrizes de capacitores</ShipCapacitor.label>
+        <!-- EN: Utilize the dielectric properties of plasteel for efficient, high-capacity energy storage. -->
+        <ShipCapacitor.description>Utilize as propriedades dielétricas do plastiaço para armazenamento de energia eficiente e de alta capacidade.</ShipCapacitor.description>
+
+        <!-- EN: automatic ejection -->
+        <ShipCryptosleep.label>ejeção automática</ShipCryptosleep.label>
+        <!-- EN: Construct a specialized cryptosleep casket which does not need to be opened manually and can function as an escape pod. It would be a good idea to have at least one aboard a starship. -->
+        <ShipCryptosleep.description>Construa um sarcófago de criptosono especializado que não precisa ser aberto manualmente e pode funcionar como uma cápsula de escape.</ShipCryptosleep.description>
+
+        <!-- EN: Personal Shuttle -->
+        <ShuttlePersonal.label>transporte pessoal</ShuttlePersonal.label>
+        <!-- EN: Construct personal shuttles, which act much like reusable transport pods. -->
+        <ShuttlePersonal.description>Construa transportes pessoais, que agem como cápsulas de transporte reutilizáveis.</ShuttlePersonal.description>
+
+        <!-- EN: Cargo Shuttle -->
+        <ShuttleCargo.label>transporte de carga</ShuttleCargo.label>
+        <!-- EN: Miniaturized ship components allow cargo shuttles to carry much more weight than simpler models. -->
+        <ShuttleCargo.description>Componentes de espaçonaves miniaturizados permitem que os transportes de carga carreguem muito mais peso do que os modelos mais simples.</ShuttleCargo.description>
+
+        <!-- EN: Heavy Cargo Shuttle -->
+        <ShuttleHeavy.label>super-transporte de carga</ShuttleHeavy.label>
+        <!-- EN: Quickly transport a caravan's worth of goods with this advanced cargo shuttle. -->
+        <ShuttleHeavy.description>Transporte rapidamente o valor de uma caravana de mercadorias com este avançado transporte de carga.</ShuttleHeavy.description>
+
+        <!-- EN: Superheavy Dropship -->
+        <ShuttleDropship.label>super-transporte de desembarque</ShuttleDropship.label>
+        <!-- EN: Deliver tonnes of goods, or an entire battalion of marines, with this superheavy shuttle. -->
+        <ShuttleDropship.description>Entregue toneladas de mercadorias, ou um batalhão inteiro de fuzileiros navais, com este avançado transporte.</ShuttleDropship.description>
+
+        <!-- EN: salvage bay -->
+        <ShipSalvageBay.label>baía de recuperação</ShipSalvageBay.label>
+        <!-- EN: Utilize an automated gantry and swarms of tug drones to quickly retrieve salvage after a space battle. -->
+        <ShipSalvageBay.description>Utilize um pórtico automatizado e drones rebocadores para recuperar rapidamente objetos após uma batalha espacial.</ShipSalvageBay.description>
+
+        <!-- EN: laser turrets -->
+        <ShipTurretLaser.label>torretas laser</ShipTurretLaser.label>
+        <!-- EN: Construct small lasers for ship-to-ship combat. Highly damaging but only usable at short range. Can intercept torpedoes. -->
+        <ShipTurretLaser.description>Construa pequenos lasers para combate de espaçonaves. Apenas utilizável a curto alcance.</ShipTurretLaser.description>
+
+        <!-- EN: plasma turrets -->
+        <ShipTurretPlasma.label>torretas de plasma</ShipTurretPlasma.label>
+        <!-- EN: Construct small plasma cannons for ship-to-ship combat. These weapons are balanced and most effective at intermediate range. -->
+        <ShipTurretPlasma.description>Construa pequenos canhões de plasma para combate de espaçonaves. Essas armas são equilibradas e mais eficazes em alcance intermediário.</ShipTurretPlasma.description>
+
+        <!-- EN: railgun turrets -->
+        <ShipTurretKinetic.label>torretas de canhões elétricos</ShipTurretKinetic.label>
+        <!-- EN: Construct small railguns for ship-to-ship combat. Most effective at long range. -->
+        <ShipTurretKinetic.description>Construa pequenos canhões elétricos para combate de espaçonaves. Eficazes a longa distância.</ShipTurretKinetic.description>
+
+        <!-- EN: heatsinks -->
+        <ShipHeatsink.label>dissipadores de calor</ShipHeatsink.label>
+        <!-- EN: Keep your ship's weapons and shields operational longer by channeling their heat into a heatsink. -->
+        <ShipHeatsink.description>Mantenha as armas e escudos de sua espaçonaves operacionais por mais tempo canalizando seu calor a um dissipador de calor.</ShipHeatsink.description>
+
+        <!-- EN: cruiser armaments -->
+        <ShipTurretMedium.label>armamentos de cruzador</ShipTurretMedium.label>
+        <!-- EN: Construct larger versions of ship turrets, suitable for a mid-sized cruiser. -->
+        <ShipTurretMedium.description>Construa versões maiores de torretas de espaçonaves, adequadas para um cruzador de tamanho médio.</ShipTurretMedium.description>
+
+        <!-- EN: ship shields -->
+        <ShipShields.label>escudos de espaçonave</ShipShields.label>
+        <!-- EN: Protect your ship with a momentum-repulsor field. Be aware that while shields are up, radiators cannot disperse heat. -->
+        <ShipShields.description>Proteja sua espaçonave com um campo repulsor de impulso. Esteja ciente de que, enquanto os escudos estão levantados, os radiadores não podem dispersar o calor.</ShipShields.description>
+
+        <!-- EN: capital ship armaments -->
+        <ShipTurretLarge.label>armamentos de espaçonaves capitais</ShipTurretLarge.label>
+        <!-- EN: Construct modular spinal-mount weapons, typically seen only on capital ships. -->
+        <ShipTurretLarge.description>Construa armas modulares de montagem espinhal, normalmente vistas apenas em espaçonaves capitais.</ShipTurretLarge.description>
+
+        <!-- EN: ship torpedoes -->
+        <ShipTorpedoes.label>torpedos de espaçonave</ShipTorpedoes.label>
+        <!-- EN: Launch powerful torpedoes at enemy ships. Effective at overwhelming shields. -->
+        <ShipTorpedoes.description>Lance torpedos poderosos em espaçonaves inimigas. Eficazes em escudos.</ShipTorpedoes.description>
+
+        <!-- EN: ship cannons -->
+        <ShipTurretAC.label>canhões de espaçonave</ShipTurretAC.label>
+        <!-- EN: Construct ballistic slugthrowers for ship-to-ship combat. Unlike energy weapons, these require ammo but need almost no cooling. -->
+        <ShipTurretAC.description>Construa canhões balísticos para combate de espaçonaves. Ao contrário das armas de energia, elas exigem munição, mas quase não precisam de resfriamento.</ShipTurretAC.description>
+
+        <!-- EN: hullfoam -->
+        <HullFoam.label>carcaça-espuma</HullFoam.label>
+        <!-- EN: Craft hullfoam, a sprayable substance that hardens into airtight barriers. Useful for quickly patching holes in starships. -->
+        <HullFoam.description>Crie carcaça-espuma, uma substância pulverizável que endurece em barreiras herméticas. Úteis para corrigir rapidamente buracos em espaçonaves estelares.</HullFoam.description>
+
+        <!-- EN: cloaking device -->
+        <ShipCloaking.label>dispositivo de camuflagem</ShipCloaking.label>
+        <!-- EN: Hide your ship's heat emissions, preventing enemies from noticing you. -->
+        <ShipCloaking.description>Oculte as emissões de calor de sua espaçonave, evitando que os inimigos percebam você.</ShipCloaking.description>
+
+        <!-- EN: basic holodeck -->
+        <Holodeck_Basic.label>holoverso básico</Holodeck_Basic.label>
+        <!-- EN: Improvise a holodeck from simple components. -->
+        <Holodeck_Basic.description>Improvise um holodeck a partir de componentes simples.</Holodeck_Basic.description>
+
+        <!-- EN: advanced holodeck -->
+        <Holodeck_Standard.label>holoverso avançado</Holodeck_Standard.label>
+        <!-- EN: Construct an improved holodeck with modern, high-resolution projectors. -->
+        <Holodeck_Standard.description>Construa um holoverso aprimorado com projetores modernos e de alta resolução.</Holodeck_Standard.description>
+
+        <!-- EN: sapient holodeck -->
+        <Holodeck_AI.label>holoverso sapiente</Holodeck_AI.label>
+        <!-- EN: Coerce a machine persona into creating endlessly entertaining simulations for your colonists. -->
+        <Holodeck_AI.description>Coaja uma máquina persona a criar simulações infinitamente divertidas para seus colonos.</Holodeck_AI.description>
+
+        <!-- EN: active radiator -->
+        <ShipAdvRadiator.label>radiador ativo</ShipAdvRadiator.label>
+        <!-- EN: Utilize quantum phenomena to more quickly vent heat into space. -->
+        <ShipAdvRadiator.description>Utilize fenômenos quânticos para liberar calor mais rapidamente no espaço.</ShipAdvRadiator.description>
+
+        <!-- EN: heat manifold -->
+        <ShipHeatManifold.label>coletor de calor</ShipHeatManifold.label>
+        <!-- EN: Construct a specialized heatsink which rapidly bleeds stored heat into the surrounding room. -->
+        <ShipHeatManifold.description>Construa um dissipador de calor especializado que esvazie rapidamente o calor armazenado na sala ao redor.</ShipHeatManifold.description>
+
+        <!-- EN: afterlife casket -->
+        <ShipAvatarCasket.label>cápsula póstuma</ShipAvatarCasket.label>
+        <!-- EN: Construct a life-support system capable of reviving deceased brains, allowing dead colonists to live again as holographic avatars. -->
+        <ShipAvatarCasket.description>Construa um sistema de suporte à vida capaz de reviver cérebros falecidos, permitindo que colonos mortos vivam novamente como avatares holográficos.</ShipAvatarCasket.description>
+
+        <!-- EN: holographic avatars -->
+        <ShipAIHologram.label>avatares holográficos</ShipAIHologram.label>
+        <!-- EN: Allow your ship's computer core to manifest a holographic avatar. -->
+        <ShipAIHologram.description>Permita que o núcleo do computador de sua espaçonave manifeste um avatar holográfico.</ShipAIHologram.description>
+
+        <!-- EN: holographic repeaters -->
+        <ShipHologramRepeater.label>repetidores holográficos</ShipHologramRepeater.label>
+        <!-- EN: Project holograms across maps with either stationary or portable repeaters. -->
+        <ShipHologramRepeater.description>Projete hologramas em mapas com repetidores estacionários ou portáteis.</ShipHologramRepeater.description>
+
+    <!-- Vanilla Weapons Expanded -->
+        <!-- EN: longbow -->
+        <VWE_Longbow.label>arco longo</VWE_Longbow.label>
+        <!-- EN: Craft longbows, a neolithic equivalent to the sniper rifle. -->
+        <VWE_Longbow.description>Crie arcos longos, um equivalente neolítico ao rifle de precisão.</VWE_Longbow.description>
+
+        <!-- EN: crossbow -->
+        <VWE_Crossbow.label>besta</VWE_Crossbow.label>
+        <!-- EN: Construct crossbows, a medieval ranged weapon effective against armored enemies. -->
+        <VWE_Crossbow.description>Crie bestas, uma arma medieval de longo alcance eficaz contra inimigos blindados.</VWE_Crossbow.description>
+
+        <!-- EN: compound bow -->
+        <VWE_CompoundBow.label>arco composto</VWE_CompoundBow.label>
+        <!-- EN: Construct compound bows, which use industrial-era components to silently fire arrows with greater efficiency. -->
+        <VWE_CompoundBow.description>Crie arcos compostos, que usam componentes para disparar flechas silenciosamente com maior eficiência.</VWE_CompoundBow.description>
+
+        <!-- EN: tools -->
+        <VWE_Tools.label>ferramentas</VWE_Tools.label>
+        <!-- EN: Smith worker's tools to assist with manual labor. -->
+        <VWE_Tools.description>Crie ferramentas para auxílio no trabalho manual.</VWE_Tools.description>
+
+        <!-- EN: gunpowder -->
+        <VWE_Gunpowder.label>pólvora</VWE_Gunpowder.label>
+        <!-- EN: Synthesize gunpowder, the earliest known chemical explosive. -->
+        <VWE_Gunpowder.description>Sintetize pólvora, o mais antigo explosivo químico conhecido.</VWE_Gunpowder.description>
+
+        <!-- EN: trench warfare -->
+        <VWE_TrenchWarfare.label>guerra de trincheiras</VWE_TrenchWarfare.label>
+        <!-- EN: Adapt a trench warfare doctrine with a selection of weapons for close-quarters combat. -->
+        <VWE_TrenchWarfare.description>Adapte uma doutrina de guerra de trincheiras com uma seleção de armas para combate corpo a corpo.</VWE_TrenchWarfare.description>
+
+        <!-- EN: heavy weapons -->
+        <VWE_HeavyWeapons.label>armas pesadas</VWE_HeavyWeapons.label>
+        <!-- EN: Construct heavy weapons that offer superior firepower, at the cost of being very physically demanding. -->
+        <VWE_HeavyWeapons.description>Crie armas pesadas que oferecem grande poder de fogo, ao custo de exigência física.</VWE_HeavyWeapons.description>
+
+        <!-- EN: flamethrower -->
+        <VWE_Flamethrower.label>lança-chamas</VWE_Flamethrower.label>
+        <!-- EN: Construct flamethrowers, weapons that project a long, controllable stream of fire. Their lethality has lead to bans on many civilized worlds. -->
+        <VWE_Flamethrower.description>Construa lanças-chamas, armas que projetam um longo e controlável fluxo de fogo.</VWE_Flamethrower.description>
+
+        <!-- EN: specialized firearms -->
+        <VWE_SpecializedFirearms.label>armas de fogo especializadas</VWE_SpecializedFirearms.label>
+        <!-- EN: Craft specialized guns for demanding combat scenarios. -->
+        <VWE_SpecializedFirearms.description>Crie armas especializadas para cenários de combate exigentes.</VWE_SpecializedFirearms.description>
+
+        <!-- EN: marksman rifle -->
+        <VWE_DesignatedMarksmanRifle.label>rifle de atirador</VWE_DesignatedMarksmanRifle.label>
+        <!-- EN: Construct semi-automatic marksman rifles, for use in long-distance engagements. -->
+        <VWE_DesignatedMarksmanRifle.description>Crie rifles de atirador semiautomáticos, para uso em combates de longa distância.</VWE_DesignatedMarksmanRifle.description>
+
+        <!-- EN: tactical grenades -->
+        <VWE_TacticalGrenades.label>granadas táticas</VWE_TacticalGrenades.label>
+        <!-- EN: Craft specialized grenades, useful in a variety of engagements. -->
+        <VWE_TacticalGrenades.description>Crie granadas especializadas, úteis em uma variedade de situações.</VWE_TacticalGrenades.description>
+
+        <!-- EN: laser targeting systems -->
+        <VWE_LaserTargetingSystems.label>sistemas de mira laser</VWE_LaserTargetingSystems.label>
+        <!-- EN: Adapt laser targeting systems for accurate and swift delivery of charged warheads. -->
+        <VWE_LaserTargetingSystems.description>Adapte os sistemas de mira laser para uma entrega rápida e precisa de ogivas carregadas.</VWE_LaserTargetingSystems.description>
+
+    <!-- Vanilla Weapons Expanded - Coilguns -->
+        <!-- EN: mass drivers -->
+        <VWE_MassDrivers.label>fatores de magnitude</VWE_MassDrivers.label>
+        <!-- EN: Assemble weapons which utilize electromagnets to catapult sabots up to hyper-velocity, penetrating thick armor and piercing through targets alike. Note that these also require advanced components. -->
+        <VWE_MassDrivers.description>Crie armas que utilizam eletroímãs para alavancar o tiro até a hipervelocidade, penetrando armaduras grossas e perfurando alvos semelhantes. Note que as armas requerem componentes avançados.</VWE_MassDrivers.description>
+
+    <!-- Vanilla Weapons Expanded - Frontier -->
+        <!-- EN: frontier weapons-->
+        <VWEFT_FrontierWeapons.label>armas de infantaria</VWEFT_FrontierWeapons.label>
+        <!-- EN: Craft frontier guns like revolvers, rifles, and shotguns. -->
+        <VWEFT_FrontierWeapons.description>Crie armas de infantaria como revólveres, rifles e espingardas.</VWEFT_FrontierWeapons.description>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- EN: salvaged laser weapons -->
+        <VWE_LaserWeapons.label>armas laser recuperadas</VWE_LaserWeapons.label>
+        <!-- EN: Learn to break down and salvage advanced components into unstable, experimental laser weaponry. -->
+        <VWE_LaserWeapons.description>Aprenda a decompor e recuperar componentes avançados em armamento laser experimental e instável.</VWE_LaserWeapons.description>
+
+        <!-- EN: ultratech laser weapons -->
+        <VWE_UltratechLaserWeapons.label>armas laser ultratecnológicas</VWE_UltratechLaserWeapons.label>
+        <!-- EN: Learn to create advanced laser weapons, the pinnacle of ultratech warfare. -->
+        <VWE_UltratechLaserWeapons.description>Crie armas laser avançadas, o apogeu da tecnologia ultratecnológica.</VWE_UltratechLaserWeapons.description>
+
+    <!-- Vanilla Weapons Expanded - Makeshift -->
+        <!-- EN: makeshift weapons -->
+        <VWE_MakeshiftWeapons.label>armas improvisadas</VWE_MakeshiftWeapons.label>
+        <!-- EN: Assemble very crude makeshift weapons, prone to jamming and very unreliable. -->
+        <VWE_MakeshiftWeapons.description>Crie armas improvisadas muito pouco confiáveis, propensas a emperramento.</VWE_MakeshiftWeapons.description>
+
+    <!-- Vanilla Weapons Expanded - Non-Lethal -->
+        <!-- EN: non-lethal weapons -->
+        <VWE_NonLethal.label>armas não letais</VWE_NonLethal.label>
+        <!-- EN: Craft a selection of non-lethal weapons, including tear gas launchers and tasers. -->
+        <VWE_NonLethal.description>Crie uma seleção de armas não letais, incluindo lançadores de gás lacrimogêneo e tasers.</VWE_NonLethal.description>
+
+    <!-- Vanilla Weapons Expanded - Quickdraw -->
+        <!-- EN: quick draw -->
+        <VWE_Quickdraw.label>saque rápido</VWE_Quickdraw.label>
+        <!-- EN: Create lightweight, fast to draw and fire weapons. -->
+        <VWE_Quickdraw.description>Crie armas leves e rápidas para sacar e atirar.</VWE_Quickdraw.description>
+
+</LanguageData>

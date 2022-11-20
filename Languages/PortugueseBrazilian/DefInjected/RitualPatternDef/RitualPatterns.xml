@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: Once a {IDEO} member is defeated twice in honorable combat with a hostile enemy, other {MEMBERS} expect {RITUAL_labelDef} to take place to cleanse the dishonor upon the colony. -->
+        <VME_CeremonialSuicideRitual.ritualExpectedDesc>Uma vez que um membro de {IDEO} é derrotado duas vezes em um combate honroso com um inimigo hostil, outros {MEMBERS} esperam que {RITUAL_labelDef} ocorra para limpar a desonra da colônia.</VME_CeremonialSuicideRitual.ritualExpectedDesc>
+
+        <!-- EN: Ritual will increase the participants' corruption need by 10%. If the need gets over 100%, they risk going mad from the eldritch incantations. -->
+        <VME_IncantationPattern.ritualExplanation>O ritual aumentará a necessidade de corrupção dos participantes em 10%. Se a necessidade for superior a 100%, eles correm o risco de enlouquecerem com os encantamentos sobrenaturais.</VME_IncantationPattern.ritualExplanation>
+
+        <!-- EN: In case of success, their certainty will be reduced or they will convert immediately. If it backfires, their certainty in own beliefs will increase. -->
+        <VME_LeaderConversionPattern.ritualExplanation>Em caso de sucesso, seu arbítrio será reduzido ou ele(a) se converterá imediatamente. Se o tiro sair pela culatra, sua certeza nas próprias crenças aumentará.</VME_LeaderConversionPattern.ritualExplanation>
+
+        <!-- EN: A {IDEO} member has better melee skill than the current leader, other {MEMBERS} expect {RITUAL_labelDef} to take place so only the strongest leader can rule them. -->
+        <VME_LeadershipChallengeRitual.ritualExpectedDesc>Um membro de {IDEO} possui melhor habilidade corpo a corpo do que o líder atual, outros {MEMBERS} esperam que {RITUAL_labelDef} ocorra para que apenas o líder mais forte possa governá-los.</VME_LeadershipChallengeRitual.ritualExpectedDesc>
+
+        <!-- EN: Ritual will emancipate all participating slaves. Depending on outcome, a growing percentage of slaves will decide to join the colony, or leave. -->
+        <VME_SlaveEmancipationPattern.ritualExplanation>O ritual emancipará todos os escravos participantes. Dependendo do resultado, uma porcentagem crescente de escravos decidirá se juntar à colônia ou sair.</VME_SlaveEmancipationPattern.ritualExplanation>
+
+</LanguageData>

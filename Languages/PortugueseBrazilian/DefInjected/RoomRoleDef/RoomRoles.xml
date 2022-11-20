@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: library room -->
+        <VBE_Library.label>livraria</VBE_Library.label>
+
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- EN: Reactor Room -->
+        <VPE_ReactorRoom.label>sala do reator</VPE_ReactorRoom.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: genetic laboratory -->
+        <GR_GenLab.label>laboratório genético</GR_GenLab.label>
+
+</LanguageData>

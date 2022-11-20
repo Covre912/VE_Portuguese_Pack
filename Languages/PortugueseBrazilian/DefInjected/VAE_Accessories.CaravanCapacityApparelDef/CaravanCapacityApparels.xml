@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Apparel Expanded - Accessories -->
+        <!-- EN: backpack -->
+        <VAEA_Apparel_Backpack.label>mochila</VAEA_Apparel_Backpack.label>
+        <!-- EN: A simple roomy backpack. Greatly increases the carry weight of the wearer. -->
+        <VAEA_Apparel_Backpack.description>Uma mochila simples e espaçosa. Aumenta capacidade de suporte do usuário.</VAEA_Apparel_Backpack.description>
+
+</LanguageData>

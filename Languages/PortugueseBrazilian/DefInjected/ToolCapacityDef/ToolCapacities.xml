@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: plagued bite -->
+        <VAE_PlagueBite.label>mordida pestilenta</VAE_PlagueBite.label>
+
+        <!-- EN: very toxic bite -->
+        <VAE_VeryToxicBite.label>mordida tóxica</VAE_VeryToxicBite.label>
+
+        <!-- EN: toxic sting -->
+        <VAE_ToxicSting.label>picada tóxica</VAE_ToxicSting.label>
+
+        <!-- EN: hulk attack -->
+        <VAE_HulkAttack.label>ataque brutal</VAE_HulkAttack.label>
+
+        <!-- EN: two arm slam -->
+        <VAE_HulkDualAttack.label>golpe braçal duplo</VAE_HulkDualAttack.label>
+
+        <!-- EN: cocoon bite -->
+        <VAE_CocoonBite.label>mordida de casulo</VAE_CocoonBite.label>
+
+        <!-- EN: infected mandibles -->
+        <VAE_InfectedMandibles.label>mandíbulas infectadas</VAE_InfectedMandibles.label>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: toxic stinging -->
+        <VFEI_ToxicSting.label>picada tóxica</VFEI_ToxicSting.label>
+
+        <!-- EN: spit acid on pawn -->
+        <SpittingOnPawn.label>cuspe ácido</SpittingOnPawn.label>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: gravity hammer attack -->
+        <VFEP_GravityHammerAttack.label>ataque de martelo gravitacional</VFEP_GravityHammerAttack.label>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: vicious slash -->
+        <GR_GoForTheHead.label>golpe vicioso</GR_GoForTheHead.label>
+
+        <!-- EN: rabid slash -->
+        <GR_RabidSlash.label>golpe raivoso</GR_RabidSlash.label>
+        
+        <!-- EN: peck at the eyes -->
+        <GR_GoForTheEyes.label>bicada</GR_GoForTheEyes.label>
+
+        <!-- EN: blood frenzy -->
+        <GR_BloodFrenzy.label>frenesi sangrento</GR_BloodFrenzy.label>
+
+        <!-- EN: double slash -->
+        <GR_DoubleSlash.label>golpe duplo</GR_DoubleSlash.label>
+
+        <!-- EN: devastating bite -->
+        <GR_DevastatingBite.label>mordida devastadora</GR_DevastatingBite.label>
+
+        <!-- EN: virulent toxic bite -->
+        <GR_VeryToxicBite.label>mordida tóxica virulenta</GR_VeryToxicBite.label>
+
+        <!-- EN: light toxic bite -->
+        <GR_LightToxicBite.label>mordida tóxica leve</GR_LightToxicBite.label>
+
+        <!-- EN: toxic explosion -->
+        <GR_ToxicExplosion.label>explosão tóxica</GR_ToxicExplosion.label>
+
+        <!-- EN: plagued bite -->
+        <GR_PlagueBite.label>mordida pestilenta</GR_PlagueBite.label>
+
+        <!-- EN: suffocating bite -->
+        <GR_HairballBite.label>mordida sufocante</GR_HairballBite.label>
+
+</LanguageData>

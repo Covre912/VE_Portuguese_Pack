@@ -1,0 +1,583 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: sandstone mosaics -->
+        <VFEC_MosaicsSandstone.label>mosaicos de arenito</VFEC_MosaicsSandstone.label>
+        <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+        <VFEC_MosaicsSandstone.description>Pisos meticulosamente esculpidos e colocados, muito bonitos de se ver.</VFEC_MosaicsSandstone.description>
+
+        <!-- EN: granite mosaics -->
+        <VFEC_MosaicsGranite.label>mosaicos de granito</VFEC_MosaicsGranite.label>
+        <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+        <VFEC_MosaicsGranite.description>Pisos meticulosamente esculpidos e colocados, muito bonitos de se ver.</VFEC_MosaicsGranite.description>
+
+        <!-- EN: limestone mosaics -->
+        <VFEC_MosaicsLimestone.label>mosaicos de calcário</VFEC_MosaicsLimestone.label>
+        <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+        <VFEC_MosaicsLimestone.description>Pisos meticulosamente esculpidos e colocados, muito bonitos de se ver.</VFEC_MosaicsLimestone.description>
+
+        <!-- EN: slate mosaics -->
+        <VFEC_MosaicsSlate.label>mosaicos de ardósia</VFEC_MosaicsSlate.label>
+        <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+        <VFEC_MosaicsSlate.description>Pisos meticulosamente esculpidos e colocados, muito bonitos de se ver.</VFEC_MosaicsSlate.description>
+
+        <!-- EN: marble mosaics -->
+        <VFEC_MosaicsMarble.label>mosaicos de mármore</VFEC_MosaicsMarble.label>
+        <!-- EN: Painstakingly carved and laid floors, very beautiful to look at. -->
+        <VFEC_MosaicsMarble.description>Pisos meticulosamente esculpidos e colocados, muito bonitos de se ver.</VFEC_MosaicsMarble.description>
+
+        <!-- EN: bronze tile -->
+        <VFEC_BronzeTile.label>ladrilho de bronze</VFEC_BronzeTile.label>
+        <!-- EN: Bronze tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+        <VFEC_BronzeTile.description>Ladrilhos de bronze com propriedades especiais de limpeza. Salas extra-limpas melhoram os resultados em hospitais e laboratórios de pesquisa. Este ladrilho demora para ser construído.</VFEC_BronzeTile.description>
+
+        <!-- EN: concrete tile -->
+        <VFEC_TileConcrete.label>ladrilho de bronze</VFEC_TileConcrete.label>
+        <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+        <VFEC_TileConcrete.description>Ladrilhos de pedra refinadas e cuidadosamente cortadas para um sentimento de castelo. Bonito de se olhar, mas eles levam um longo tempo para serem colocados.</VFEC_TileConcrete.description>
+
+        <!-- EN: concrete flagstone -->
+        <VFEC_FlagstoneConcrete.label>laje de concreto</VFEC_FlagstoneConcrete.label>
+        <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+        <VFEC_FlagstoneConcrete.description>Ladrilhos de pedra grosseiramente cortados. Não é muito bonito, mas eles fazem boa superfícies para estradas e passarelas ao ar livre. Desconstruir laje não produz recursos.</VFEC_FlagstoneConcrete.description>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: factory floor -->
+        <VFE_FactoryFloor.label>chão de fábrica</VFE_FactoryFloor.label>
+        <!-- EN: Reinforced steel tiles, capable of holding heavy, complex machinery in place. Not the prettiest to look at. -->
+        <VFE_FactoryFloor.description>Ladrilhos de aço reforçados, capazes de manter no lugar máquinas pesadas e complexas. Não é o mais bonito de se olhar.</VFE_FactoryFloor.description>
+
+        <!-- EN: factory path -->
+        <VFE_FactoryPath.label>pavimento de fábrica</VFE_FactoryPath.label>
+        <!-- EN: A designated, safe to traverse factory path. Increases the movement speed, but needs to be placed on the factory floor. -->
+        <VFE_FactoryPath.description>Um pavimento de fábrica designado e seguro. Aumenta a velocidade de movimento, mas precisa ser colocado em um chão de fábrica.</VFE_FactoryPath.description>
+
+    <!-- Vanilla Furniture Expanded - Architect -->
+        <!-- EN: asphalt -->
+        <VFEArch_Asphalt.label>asfalto</VFEArch_Asphalt.label>
+        <!-- EN: Industrial-style asphalt used to create roads and streets. Very easy to traverse for people and vehicles alike. -->
+        <VFEArch_Asphalt.description>Asfalto de estilo industrial usado para criar estradas e ruas. Muito fácil de atravessar para pessoas e veículos.</VFEArch_Asphalt.description>
+
+        <!-- EN: wooden parquet -->
+        <VFEArch_WoodenParquet.label>parquete de madeira</VFEArch_WoodenParquet.label>
+        <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+        <VFEArch_WoodenParquet.description>Piso de madeira suavemente colocado para uma sensação elegante e sofisticada. Embora bonito, leva muito tempo para construir e também é muito inflamável.</VFEArch_WoodenParquet.description>
+
+        <!-- EN: walnut wooden parquet -->
+        <VFEArch_WoodenParquetWalnut.label>parquete de madeira de nogueira</VFEArch_WoodenParquetWalnut.label>
+        <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+        <VFEArch_WoodenParquetWalnut.description>Piso de madeira suavemente colocado para uma sensação elegante e sofisticada. Embora bonito, leva muito tempo para construir e também é muito inflamável.</VFEArch_WoodenParquetWalnut.description>
+
+        <!-- EN: birch wooden parquet -->
+        <VFEArch_WoodenParquetBirch.label>parquete de madeira de bétula</VFEArch_WoodenParquetBirch.label>
+        <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+        <VFEArch_WoodenParquetBirch.description>Piso de madeira suavemente colocado para uma sensação elegante e sofisticada. Embora bonito, leva muito tempo para construir e também é muito inflamável.</VFEArch_WoodenParquetBirch.description>
+
+        <!-- EN: mahogany wooden parquet -->
+        <VFEArch_WoodenParquetMahogany.label>parquete de madeira de mogno</VFEArch_WoodenParquetMahogany.label>
+        <!-- EN: Beautifully laid down wooden flooring for that posh, fancy feeling. Whilst beautiful, it takes a long time to lay down and is also very flammable. -->
+        <VFEArch_WoodenParquetMahogany.description>Piso de madeira suavemente colocado para uma sensação elegante e sofisticada. Embora bonito, leva muito tempo para construir e também é muito inflamável.</VFEArch_WoodenParquetMahogany.description>
+
+        <!-- EN: walnut wood floor-->
+        <VFEArch_WoodPlankFloorWalnut.label>piso de madeira de nogueira</VFEArch_WoodPlankFloorWalnut.label>
+        <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+        <VFEArch_WoodPlankFloorWalnut.description>Piso de tábuas de madeira para uma sensação aconchegante e caseira. Embora seja rápido de construir, também é muito inflamável.</VFEArch_WoodPlankFloorWalnut.description>
+
+        <!-- EN: birch wood floor -->
+        <VFEArch_WoodPlankFloorBirch.label>piso de madeira de bétula</VFEArch_WoodPlankFloorBirch.label>
+        <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+        <VFEArch_WoodPlankFloorBirch.description>Piso de tábuas de madeira para uma sensação aconchegante e caseira. Embora seja rápido de construir, também é muito inflamável.</VFEArch_WoodPlankFloorBirch.description>
+
+        <!-- EN: mahogany wood floor -->
+        <VFEArch_WoodPlankFloorMahogany.label>piso de madeira de mogno</VFEArch_WoodPlankFloorMahogany.label>
+        <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+        <VFEArch_WoodPlankFloorMahogany.description>Piso de tábuas de madeira para uma sensação aconchegante e caseira. Embora seja rápido de construir, também é muito inflamável.</VFEArch_WoodPlankFloorMahogany.description>
+
+        <!-- EN: sandstone cobblestone floor -->
+        <VFEArch_CobblestoneFloorSandstone.label>piso de paralelepípedo de arenito</VFEArch_CobblestoneFloorSandstone.label>
+        <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+        <VFEArch_CobblestoneFloorSandstone.description>Ladrilhos de pedra de tamanho aleatório para uma sensação rústica. Leva menos tempo para construir do que ladrilhos comuns e não requer experiência em corte, mas falta a beleza do projeto polido.</VFEArch_CobblestoneFloorSandstone.description>
+        
+        <!-- EN: granite cobblestone floor -->
+        <VFEArch_CobblestoneFloorGranite.label>piso de paralelepípedo de granito</VFEArch_CobblestoneFloorGranite.label>
+        <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+        <VFEArch_CobblestoneFloorGranite.description>Ladrilhos de pedra de tamanho aleatório para uma sensação rústica. Leva menos tempo para construir do que ladrilhos comuns e não requer experiência em corte, mas falta a beleza do projeto polido.</VFEArch_CobblestoneFloorGranite.description>
+
+        <!-- EN: limestone cobblestone floor -->
+        <VFEArch_CobblestoneFloorLimestone.label>piso de paralelepípedo de calcário</VFEArch_CobblestoneFloorLimestone.label>
+        <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+        <VFEArch_CobblestoneFloorLimestone.description>Ladrilhos de pedra de tamanho aleatório para uma sensação rústica. Leva menos tempo para construir do que ladrilhos comuns e não requer experiência em corte, mas falta a beleza do projeto polido.</VFEArch_CobblestoneFloorLimestone.description>
+
+        <!-- EN: slate cobblestone floor -->
+        <VFEArch_CobblestoneFloorSlate.label>piso de paralelepípedo de ardósia</VFEArch_CobblestoneFloorSlate.label>
+        <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+        <VFEArch_CobblestoneFloorSlate.description>Ladrilhos de pedra de tamanho aleatório para uma sensação rústica. Leva menos tempo para construir do que ladrilhos comuns e não requer experiência em corte, mas falta a beleza do projeto polido.</VFEArch_CobblestoneFloorSlate.description>
+
+        <!-- EN: marble cobblestone floor -->
+        <VFEArch_CobblestoneFloorMarble.label>piso de paralelepípedo de mármore</VFEArch_CobblestoneFloorMarble.label>
+        <!-- EN: Random-size stone tiles for a rustical, castle feeling. Take less time to construct than ordinary stone tiles and don’t require stone cutting expertise, but lack the beauty of the polished design. -->
+        <VFEArch_CobblestoneFloorMarble.description>Ladrilhos de pedra de tamanho aleatório para uma sensação rústica. Leva menos tempo para construir do que ladrilhos comuns e não requer experiência em corte, mas falta a beleza do projeto polido.</VFEArch_CobblestoneFloorMarble.description>
+
+        <!-- EN: sandstone polished stone floor -->
+        <VFEArch_PolishedStoneFloorSandstone.label>piso de arenito polido</VFEArch_PolishedStoneFloorSandstone.label>
+        <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+        <VFEArch_PolishedStoneFloorSandstone.description>Ladrilhos de pedra elegantes e polidos para uma aparência elegante. Não demora tanto para construir quanto os pisos mais luxuosos, mas requer muitos recursos. Incrivelmente bonitos de se olhar.</VFEArch_PolishedStoneFloorSandstone.description>
+
+        <!-- EN: granite polished stone floor -->
+        <VFEArch_PolishedStoneFloorGranite.label>piso de granito polido</VFEArch_PolishedStoneFloorGranite.label>
+        <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+        <VFEArch_PolishedStoneFloorGranite.description>Ladrilhos de pedra elegantes e polidos para uma aparência elegante. Não demora tanto para construir quanto os pisos mais luxuosos, mas requer muitos recursos. Incrivelmente bonitos de se olhar.</VFEArch_PolishedStoneFloorGranite.description>
+
+        <!-- EN: sandstone polished stone floor -->
+        <VFEArch_PolishedStoneFloorLimestone.label>piso de calcário polido</VFEArch_PolishedStoneFloorLimestone.label>
+        <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+        <VFEArch_PolishedStoneFloorLimestone.description>Ladrilhos de pedra elegantes e polidos para uma aparência elegante. Não demora tanto para construir quanto os pisos mais luxuosos, mas requer muitos recursos. Incrivelmente bonitos de se olhar.</VFEArch_PolishedStoneFloorLimestone.description>
+
+        <!-- EN: slate polished stone floor -->
+        <VFEArch_PolishedStoneFloorSlate.label>piso de ardósia polida</VFEArch_PolishedStoneFloorSlate.label>
+        <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+        <VFEArch_PolishedStoneFloorSlate.description>Ladrilhos de pedra elegantes e polidos para uma aparência elegante. Não demora tanto para construir quanto os pisos mais luxuosos, mas requer muitos recursos. Incrivelmente bonitos de se olhar.</VFEArch_PolishedStoneFloorSlate.description>
+
+        <!-- EN: marble polished stone floor -->
+        <VFEArch_PolishedStoneFloorMarble.label>piso de mármore polido</VFEArch_PolishedStoneFloorMarble.label>
+        <!-- EN: Fancy, polished stone tiles for an elegant, mansion-like look. Don’t take nearly as long to lay down as the finer stone floors, but require a lot of resources. They are incredibly beautiful to look at. -->
+        <VFEArch_PolishedStoneFloorMarble.description>Ladrilhos de pedra elegantes e polidos para uma aparência elegante. Não demora tanto para construir quanto os pisos mais luxuosos, mas requer muitos recursos. Incrivelmente bonitos de se olhar.</VFEArch_PolishedStoneFloorMarble.description>
+
+        <!-- EN: sandstone slabs -->
+        <VFEArch_SlabsSandstone.label>lajes de arenito</VFEArch_SlabsSandstone.label>
+        <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+        <VFEArch_SlabsSandstone.description>Grandes lajes de pedra colocadas aleatoriamente para aparência templária. Lindo de se ver, dá muito trabalho para ser construído e usa grandes quantidades de recursos.</VFEArch_SlabsSandstone.description>
+
+        <!-- EN: granite slabs -->
+        <VFEArch_SlabsGranite.label>lajes de granito</VFEArch_SlabsGranite.label>
+        <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+        <VFEArch_SlabsGranite.description>Grandes lajes de pedra colocadas aleatoriamente para aparência templária. Lindo de se ver, dá muito trabalho para ser construído e usa grandes quantidades de recursos.</VFEArch_SlabsGranite.description>
+
+        <!-- EN: limestone slabs -->
+        <VFEArch_SlabsLimestone.label>lajes de calcário</VFEArch_SlabsLimestone.label>
+        <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+        <VFEArch_SlabsLimestone.description>Grandes lajes de pedra colocadas aleatoriamente para aparência templária. Lindo de se ver, dá muito trabalho para ser construído e usa grandes quantidades de recursos.</VFEArch_SlabsLimestone.description>
+
+        <!-- EN: slate slabs -->
+        <VFEArch_SlabsSlate.label>lajes de ardósia</VFEArch_SlabsSlate.label>
+        <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+        <VFEArch_SlabsSlate.description>Grandes lajes de pedra colocadas aleatoriamente para aparência templária. Lindo de se ver, dá muito trabalho para ser construído e usa grandes quantidades de recursos.</VFEArch_SlabsSlate.description>
+
+        <!-- EN: marble slabs -->
+        <VFEArch_SlabsMarble.label>lajes de mármore</VFEArch_SlabsMarble.label>
+        <!-- EN: Large slabs of stone laid at random for that temple-like look. Beautiful to look at, they take a lot of work to place down and use up large amounts of resources. -->
+        <VFEArch_SlabsMarble.description>Grandes lajes de pedra colocadas aleatoriamente para aparência templária. Lindo de se ver, dá muito trabalho para ser construído e usa grandes quantidades de recursos.</VFEArch_SlabsMarble.description>
+
+        <!-- EN: grass -->
+        <VFEArch_Grass.label>grama</VFEArch_Grass.label>
+        <!-- EN: Field of grass with patches of soil here and there. Very pleasant to look at, it requires no resources to construct. -->
+        <VFEArch_Grass.description>Campo de grama com algumas manchas de terra. Muito agradável de olhar, não requer recursos para a sua construção.</VFEArch_Grass.description>
+        <!-- EN: dirt -->
+        <VFEArch_Grass.tools.dirt.label>terra</VFEArch_Grass.tools.dirt.label>
+
+        <!-- EN: lawn plot -->
+        <VFEArch_LawnPlot.label>gramado</VFEArch_LawnPlot.label>
+        <!-- EN: Beautifully trimmed grass with very high beauty value. Requires tremendous amounts of work to construct. -->
+        <VFEArch_LawnPlot.description>Grama bem aparada com alto valor de beleza. Requer uma quantidade enorme de trabalho para ser construído.</VFEArch_LawnPlot.description>
+        <!-- EN: dirt -->
+        <VFEArch_LawnPlot.tools.dirt.label>terra</VFEArch_LawnPlot.tools.dirt.label>
+
+        <!-- EN: broken asphalt -->
+        <VFEArch_PlayerBrokenAsphalt.label>asfalto fragmentado</VFEArch_PlayerBrokenAsphalt.label>
+        <!-- EN: Old, broken apart asphalt, often found in the form of ancient highways around abandoned locations. Very easy to traverse for people and vehicles alike. -->
+        <VFEArch_PlayerBrokenAsphalt.description>Asfalto velho e fragmentado, frequentemente encontrado na forma de estradas antigas em torno de locais abandonados. Muito fácil de atravessar.</VFEArch_PlayerBrokenAsphalt.description>
+
+        <!-- EN: packed dirt -->
+        <VFEArch_PlayerPackedDirt.label>terra batida</VFEArch_PlayerPackedDirt.label>
+        <!-- EN: Packed dirt, slightly enhancing movement speed, often forming paths around places of interest. -->
+        <VFEArch_PlayerPackedDirt.description>Terra compactada, aumentando ligeiramente a velocidade de movimento, muitas vezes formando caminhos ao redor de locais de interesse.</VFEArch_PlayerPackedDirt.description>
+
+        <!-- EN: sandstone bridge -->
+        <VFEArch_BridgeSandstone.label>ponte de arenito</VFEArch_BridgeSandstone.label>
+        <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes. Floors may not be built atop bridges.\n\nCan be made out of any stone blocks. -->
+        <VFEArch_BridgeSandstone.description>Pontes de pedra são estruturas que podem ser construídas sobre água. Uma vez construídas, podem suportar muitas estruturas, incluindo pesadas e qualquer tipo de parede. As pontes permitem uma construção mais fácil em biomas pantanosos. Pisos não podem ser construídos sobre pontes.\n\nPodem ser construídas de quaisquer blocos de pedra.</VFEArch_BridgeSandstone.description>
+
+        <!-- EN: granite bridge -->
+        <VFEArch_BridgeGranite.label>ponte de granito</VFEArch_BridgeGranite.label>
+        <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes. Floors may not be built atop bridges.\n\nCan be made out of any stone blocks. -->
+        <VFEArch_BridgeGranite.description>Pontes de pedra são estruturas que podem ser construídas sobre água. Uma vez construídas, podem suportar muitas estruturas, incluindo pesadas e qualquer tipo de parede. As pontes permitem uma construção mais fácil em biomas pantanosos. Pisos não podem ser construídos sobre pontes.\n\nPodem ser construídas de quaisquer blocos de pedra.</VFEArch_BridgeGranite.description>
+
+        <!-- EN: limestone bridge -->
+        <VFEArch_BridgeLimestone.label>ponte de calcário</VFEArch_BridgeLimestone.label>
+        <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes. Floors may not be built atop bridges.\n\nCan be made out of any stone blocks. -->
+        <VFEArch_BridgeLimestone.description>Pontes de pedra são estruturas que podem ser construídas sobre água. Uma vez construídas, podem suportar muitas estruturas, incluindo pesadas e qualquer tipo de parede. As pontes permitem uma construção mais fácil em biomas pantanosos. Pisos não podem ser construídos sobre pontes.\n\nPodem ser construídas de quaisquer blocos de pedra.</VFEArch_BridgeLimestone.description>
+
+        <!-- EN: slate bridge -->
+        <VFEArch_BridgeSlate.label>ponte de ardósia</VFEArch_BridgeSlate.label>
+        <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes. Floors may not be built atop bridges.\n\nCan be made out of any stone blocks. -->
+        <VFEArch_BridgeSlate.description>Pontes de pedra são estruturas que podem ser construídas sobre água. Uma vez construídas, podem suportar muitas estruturas, incluindo pesadas e qualquer tipo de parede. As pontes permitem uma construção mais fácil em biomas pantanosos. Pisos não podem ser construídos sobre pontes.\n\nPodem ser construídas de quaisquer blocos de pedra.</VFEArch_BridgeSlate.description>
+
+        <!-- EN: marble bridge -->
+        <VFEArch_BridgeMarble.label>ponte de mármore</VFEArch_BridgeMarble.label>
+        <!-- EN: Stone Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any type of wall. Bridges allow for easier building in swampy biomes. Floors may not be built atop bridges.\n\nCan be made out of any stone blocks. -->
+        <VFEArch_BridgeMarble.description>Pontes de pedra são estruturas que podem ser construídas sobre água. Uma vez construídas, podem suportar muitas estruturas, incluindo pesadas e qualquer tipo de parede. As pontes permitem uma construção mais fácil em biomas pantanosos. Pisos não podem ser construídos sobre pontes.\n\nPodem ser construídas de quaisquer blocos de pedra.</VFEArch_BridgeMarble.description>
+
+        <!-- EN: steel bridge -->
+        <VFEArch_BridgeSteel.label>ponte de aço</VFEArch_BridgeSteel.label>
+        <!-- EN: Steel Bridges are structures that can be built on water. Bridges allow more rapid movement across water. Once built, they can support many structures, including heavy structures and any other type of wall. Steel bridges are extremely durable. Bridges allow for easier building in swampy biomes. Floors may not be built atop bridges. -->
+        <VFEArch_BridgeSteel.description>Pontes de aço são estruturas que podem ser construídas sobre a água. Uma vez construídas, podem suportar muitas estruturas, incluindo pesadas e qualquer outro tipo de parede. As pontes de aço são extremamente duráveis. As pontes permitem uma construção mais fácil em biomas pantanosos. Pisos não podem ser construídos sobre pontes.</VFEArch_BridgeSteel.description>
+
+        <!-- EN: concrete foundation -->
+        <VFEArch_ConcreteFoundation.label>fundação de concreto</VFEArch_ConcreteFoundation.label>
+        <!-- EN: Foundations are structures that can be built on mud, quicksand etc. Foundation allows more rapid movement across these normally slowing ground types. Once built, they can support many structures, including heavy structures and any other type of wall. Foundations allow for easier building in desert and swampy biomes. Floors may be built atop foundations. -->
+        <VFEArch_ConcreteFoundation.description>Fundações são estruturas que podem ser construídas sobre lama, areia movediça, etc. Permite um movimento mais rápido através desses tipos de solo. Uma vez construídas, podem suportar muitas estruturas, incluindo pesadas e qualquer outro tipo de parede. As fundações permitem uma construção mais fácil em biomas desérticos e pantanosos. Pisos podem ser construídos sobre fundações.</VFEArch_ConcreteFoundation.description>
+
+        <!-- EN: red wooly carpet -->
+        <VFEArch_WoolCarpetRed.label>carpete de lã vermelho</VFEArch_WoolCarpetRed.label>
+        <!-- EN: Wooly carpet in a lovely rose hue. -->
+        <VFEArch_WoolCarpetRed.description>Carpete de lã em um lindo tom rosa.</VFEArch_WoolCarpetRed.description>
+
+        <!-- EN: green wooly carpet -->
+        <VFEArch_WoolCarpetGreen.label>carpete de lã verde</VFEArch_WoolCarpetGreen.label>
+        <!-- EN: Naturalistic-feeling green wooly carpet. Earth tones, dude. -->
+        <VFEArch_WoolCarpetGreen.description>Carpete de lã verde com um toque naturalista.</VFEArch_WoolCarpetGreen.description>
+
+        <!-- EN: blue wooly carpet -->
+        <VFEArch_WoolCarpetBlue.label>carpete de lã azul</VFEArch_WoolCarpetBlue.label>
+        <!-- EN: Toe-hugging wooly carpet in a cool blue color. -->
+        <VFEArch_WoolCarpetBlue.description>Carpete de lã que abraça o corpo, em uma cor azul fria.</VFEArch_WoolCarpetBlue.description>
+
+        <!-- EN: red wooly cream -->
+        <VFEArch_WoolCarpetCream.label>carpete de lã creme</VFEArch_WoolCarpetCream.label>
+        <!-- EN: Inviting cream-colored wooly carpet. -->
+        <VFEArch_WoolCarpetCream.description>Carpete de lã de cor creme convidativo.</VFEArch_WoolCarpetCream.description>
+
+        <!-- EN: red wooly carpet -->
+        <VFEArch_WoolCarpetDark.label>carpete de lã escuro</VFEArch_WoolCarpetDark.label>
+        <!-- EN: Professional-looking dark gray wooly carpet. -->
+        <VFEArch_WoolCarpetDark.description>Carpete de lã cinza escuro com aparência profissional.</VFEArch_WoolCarpetDark.description>
+
+        <!-- EN: yellow wooly carpet -->
+        <VFEArch_WoolCarpetYellow.label>carpete de lã amarelo</VFEArch_WoolCarpetYellow.label>
+        <!-- EN: Eye-catching yellow wooly carpet. -->
+        <VFEArch_WoolCarpetYellow.description>Carpete de lã amarelo atraente.</VFEArch_WoolCarpetYellow.description>
+
+        <!-- EN: purple wooly carpet -->
+        <VFEArch_WoolCarpetPurple.label>carpete de lã roxo</VFEArch_WoolCarpetPurple.label>
+        <!-- EN: Soft purple carpet for the cozy bedroom look. -->
+        <VFEArch_WoolCarpetPurple.description>Carpete roxo macio para um visual aconchegante.</VFEArch_WoolCarpetPurple.description>
+
+        <!-- EN: white wooly carpet -->
+        <VFEArch_WoolCarpetWhite.label>carpete de lã branco</VFEArch_WoolCarpetWhite.label>
+        <!-- EN: Corporate, hard to clean white wooly carpet. -->
+        <VFEArch_WoolCarpetWhite.description>Carpete de lã branco corporativo, difícil de limpar.</VFEArch_WoolCarpetWhite.description>
+
+        <!-- EN: dark red wooly carpet -->
+        <VFEArch_WoolCarpetDarkRed.label>carpete de lã vermelho escuro</VFEArch_WoolCarpetDarkRed.label>
+        <!-- EN: Wooly carpet in a cozy dark shade of red. -->
+        <VFEArch_WoolCarpetDarkRed.description>Carpete de lã em um aconchegante tom de vermelho escuro.</VFEArch_WoolCarpetDarkRed.description>
+
+        <!-- EN: orange wooly carpet -->
+        <VFEArch_WoolCarpetOrange.label>carpete de lã laranja</VFEArch_WoolCarpetOrange.label>
+        <!-- EN: Eccentric orange carpet for the business board rooms. -->
+        <VFEArch_WoolCarpetOrange.description>Carpete laranja excêntrico para as salas de reuniões de negócios.</VFEArch_WoolCarpetOrange.description>
+
+        <!-- EN: greenish wooly carpet -->
+        <VFEArch_WoolCarpetGreenish.label>carpete de lã esverdeado</VFEArch_WoolCarpetGreenish.label>
+        <!-- EN: Neutral green carpet, excellent for hotels and beds and breakfasts. -->
+        <VFEArch_WoolCarpetGreenish.description>Carpete verde neutro, excelente para hotéis e pousadas.</VFEArch_WoolCarpetGreenish.description>
+
+        <!-- EN: brown wooly carpet -->
+        <VFEArch_WoolCarpetBrown.label>carpete de lã marrom</VFEArch_WoolCarpetBrown.label>
+        <!-- EN: Cheap looking, industry standard carpets for not-so-fancy places. -->
+        <VFEArch_WoolCarpetBrown.description>Carpetes padrão da indústria barata para lugares não tão sofisticados.</VFEArch_WoolCarpetBrown.description>
+
+        <!-- EN: yellow wooly carpet -->
+        <VFEArch_CarpetYellow.label>carpete amarelo</VFEArch_CarpetYellow.label>
+        <!-- EN: Eye-catching yellow carpet. -->
+        <VFEArch_CarpetYellow.description>Carpete amarelo atraente.</VFEArch_CarpetYellow.description>
+
+        <!-- EN: purple carpet -->
+        <VFEArch_CarpetPurple.label>carpete roxo</VFEArch_CarpetPurple.label>
+        <!-- EN: Soft purple carpet for the cozy bedroom look. -->
+        <VFEArch_CarpetPurple.description>Carpete roxo macio para um visual aconchegante.</VFEArch_CarpetPurple.description>
+
+        <!-- EN: white carpet -->
+        <VFEArch_CarpetWhite.label>carpete branco</VFEArch_CarpetWhite.label>
+        <!-- EN: Corporate, hard to clean white carpet. -->
+        <VFEArch_CarpetWhite.description>Carpete branco corporativo, difícil de limpar.</VFEArch_CarpetWhite.description>
+
+        <!-- EN: dark red carpet -->
+        <VFEArch_CarpetDarkRed.label>carpete vermelho escuro</VFEArch_CarpetDarkRed.label>
+        <!-- EN: Wooly carpet in a cozy dark shade of red. -->
+        <VFEArch_CarpetDarkRed.description>Carpete em um aconchegante tom de vermelho escuro.</VFEArch_CarpetDarkRed.description>
+
+        <!-- EN: orange carpet -->
+        <VFEArch_CarpetOrange.label>carpete laranja</VFEArch_CarpetOrange.label>
+        <!-- EN: Eccentric orange carpet for the business board rooms. -->
+        <VFEArch_CarpetOrange.description>Carpete laranja excêntrico para as salas de reuniões de negócios.</VFEArch_CarpetOrange.description>
+
+        <!-- EN: greenish carpet -->
+        <VFEArch_CarpetGreenish.label>carpete esverdeado</VFEArch_CarpetGreenish.label>
+        <!-- EN: Neutral green carpet, excellent for hotels and beds and breakfasts. -->
+        <VFEArch_CarpetGreenish.description>Carpete verde neutro, excelente para hotéis e pousadas.</VFEArch_CarpetGreenish.description>
+
+        <!-- EN: brown carpet -->
+        <VFEArch_CarpetBrown.label>carpete marrom</VFEArch_CarpetBrown.label>
+        <!-- EN: Cheap looking, industry standard carpets for not-so-fancy places. -->
+        <VFEArch_CarpetBrown.description>Carpetes padrão da indústria barata para lugares não tão sofisticados.</VFEArch_CarpetBrown.description>
+
+        <!-- EN: fine azure carpet -->
+        <VFEArch_CarpetFineAzure.label>carpete fino azul-celeste</VFEArch_CarpetFineAzure.label>
+        <!-- EN: Exquisite, sea-colored carpet for the high-tier professional environment. -->
+        <VFEArch_CarpetFineAzure.description>Carpete requintado da cor do mar para o ambiente profissional de alto nível.</VFEArch_CarpetFineAzure.description>
+
+        <!-- EN: fine viridescent carpet -->
+        <VFEArch_CarpetFineViridescent.label>carpete fino viridescente</VFEArch_CarpetFineViridescent.label>
+        <!-- EN: Natural and posh green carpet with beautiful patterns. -->
+        <VFEArch_CarpetFineViridescent.description>Carpete verde natural e elegante com belos padrões.</VFEArch_CarpetFineViridescent.description>
+
+        <!-- EN: fine crimson carpet -->
+        <VFEArch_CarpetFineCrimson.label>carpete fino carmesim</VFEArch_CarpetFineCrimson.label>
+        <!-- EN: Rich red carpet with deep crimson hue. -->
+        <VFEArch_CarpetFineCrimson.description>Carpete vermelho culto com matiz carmesim profundo.</VFEArch_CarpetFineCrimson.description>
+
+        <!-- EN: fine milky carpet -->
+        <VFEArch_CarpetFineMilky.label>carpete fino esbranquiçado</VFEArch_CarpetFineMilky.label>
+        <!-- EN: A tender, soft fine carpet in a milky tone. -->
+        <VFEArch_CarpetFineMilky.description>Um carpete macio, macio e fino em um tom esbranquiçado.</VFEArch_CarpetFineMilky.description>
+
+        <!-- EN: fine ashen carpet -->
+        <VFEArch_CarpetFineAshen.label>carpete fino cinza</VFEArch_CarpetFineAshen.label>
+        <!-- EN: Fancy dark shade of carpet for the secret evil lair. -->
+        <VFEArch_CarpetFineAshen.description>Um tom escuro e elegante de carpete para um covil secreto do mal.</VFEArch_CarpetFineAshen.description>
+
+        <!-- EN: fine blonde carpet -->
+        <VFEArch_CarpetFineBlonde.label>carpete fino mel</VFEArch_CarpetFineBlonde.label>
+        <!-- EN: Eccentric, glowing yellow carpet, shining bright in daylight. -->
+        <VFEArch_CarpetFineBlonde.description>Excêntrico, carpete amarelo brilhante à luz do dia.</VFEArch_CarpetFineBlonde.description>
+
+        <!-- EN: fine amber carpet -->
+        <VFEArch_CarpetFineAmber.label>carpete fino âmbar</VFEArch_CarpetFineAmber.label>
+        <!-- EN: Rich orange carpet symbolizing wealth and prosperity. -->
+        <VFEArch_CarpetFineAmber.description>Carpete laranja culto simbolizando riqueza e prosperidade.</VFEArch_CarpetFineAmber.description>
+
+        <!-- EN: fine feldgrau carpet -->
+        <VFEArch_CarpetFineFeldgrau.label>carpete fino cinza esverdeado</VFEArch_CarpetFineFeldgrau.label>
+        <!-- EN: Deep green carpet with blue hues, for the natural yet exquisite look. -->
+        <VFEArch_CarpetFineFeldgrau.description>Carpete verde profundo com tons de azul, para um visual natural e requintado.</VFEArch_CarpetFineFeldgrau.description>
+    
+        <!-- EN: fine hazel carpet -->
+        <VFEArch_CarpetFineHazel.label>carpete fino avelã</VFEArch_CarpetFineHazel.label>
+        <!-- EN: Nutty, dark carpet that brings detailed memories of home. -->
+        <VFEArch_CarpetFineHazel.description>Carpete escuro e saboroso que traz lembranças detalhadas de sua casa.</VFEArch_CarpetFineHazel.description>
+
+        <!-- EN: fine steel tile -->
+        <VFEArch_FineSteelTile.label>ladrilho fino de aço</VFEArch_FineSteelTile.label>
+        <!-- EN: Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineSteelTile.description>Ladrilhos de metal requintados, feitos sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineSteelTile.description>
+
+        <!-- EN: fine silver tile -->
+        <VFEArch_FineSilverTile.label>ladrilho fino de prata</VFEArch_FineSilverTile.label>
+        <!-- EN: Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineSilverTile.description>Ladrilhos de metal requintados, feitos sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineSilverTile.description>
+
+        <!-- EN: fine gold tile -->
+        <VFEArch_FineGoldTile.label>ladrilho fino de ouro</VFEArch_FineGoldTile.label>
+        <!-- EN: Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineGoldTile.description>Ladrilhos de metal requintados, feitos sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineGoldTile.description>
+
+        <!-- EN: fine steel tile -->
+        <VFEArch_FineSteelTile.label>ladrilho fino de aço</VFEArch_FineSteelTile.label>
+        <!-- EN: Exquisite metal tiles, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineSteelTile.description>Ladrilhos de metal requintados, feitos sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineSteelTile.description>
+
+        <!-- EN: walnut fine wooden floor -->
+        <VFEArch_FineWoodenFloor.label>piso fino de madeira de nogueira</VFEArch_FineWoodenFloor.label>
+        <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineWoodenFloor.description>Lindo parquete de madeira, feito sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineWoodenFloor.description>
+
+        <!-- EN: walnut fine wooden floor -->
+        <VFEArch_FineWoodenFloorWalnut.label>piso fino de madeira de nogueira</VFEArch_FineWoodenFloorWalnut.label>
+        <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineWoodenFloorWalnut.description>Lindo parquete de madeira, feito sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineWoodenFloorWalnut.description>
+
+        <!-- EN: birch fine wooden floor -->
+        <VFEArch_FineWoodenFloorBirch.label>piso fino de madeira de bétula</VFEArch_FineWoodenFloorBirch.label>
+        <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineWoodenFloorBirch.description>Lindo parquete de madeira, feito sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineWoodenFloorBirch.description>
+
+        <!-- EN: mahogany fine wooden floor -->
+        <VFEArch_FineWoodenFloorMahogany.label>piso fino de madeira de mogno</VFEArch_FineWoodenFloorMahogany.label>
+        <!-- EN: Beautiful wooden parquet, made with no compromises, for expressing economic status. Slow to construct. -->
+        <VFEArch_FineWoodenFloorMahogany.description>Lindo parquete de madeira, feito sem concessões, para expressar posição econômica. Lento para construir.</VFEArch_FineWoodenFloorMahogany.description>
+
+        <!-- EN: Old, broken apart asphalt, often found in the form of ancient highways around abandoned locations. Very easy to traverse for people and vehicles alike. -->
+        <BrokenAsphalt.description>Asfalto velho e fragmentado, frequentemente encontrado na forma de estradas antigas em torno de locais abandonados. Muito fácil de atravessar para pessoas e veículos.</BrokenAsphalt.description>
+
+        <!-- EN: Packed dirt, slightly enhancing movement speed, often forming paths around places of interest. -->
+        <PackedDirt.description>Terra batida, aumentando ligeiramente a velocidade de movimento, muitas vezes formando caminhos ao redor de locais de interesse.</PackedDirt.description>
+
+    <!-- Vanilla Furniture Expanded - Security -->
+        <!-- EN: trench floor -->
+        <VFES_TrenchTerrain.label>trincheira</VFES_TrenchTerrain.label>
+
+        <!-- EN: platform -->
+        <VFES_PlatformTerrain.label>plataforma</VFES_PlatformTerrain.label>
+
+    <!-- Vanilla Genetics Expanded -->  
+        <!-- EN: cracked concrete -->
+        <GR_CrackedConcrete.label>concreto rachado</GR_CrackedConcrete.label>
+        <!-- EN: Rough concrete. Broken due to lack of maintenance. -->
+        <GR_CrackedConcrete.description>Concreto bruto. Quebrado por falta de manutenção.</GR_CrackedConcrete.description>
+
+        <!-- EN: rusted laboratory tile -->
+        <GR_PavedTile.label>ladrilho de laboratório enferrujado</GR_PavedTile.label>
+        <!-- EN: Rusted metallic tiles. -->
+        <GR_PavedTile.description>Ladrilhos metálicos enferrujados.</GR_PavedTile.description>
+
+        <!-- EN: laboratory tile -->
+        <GR_PavedTileClean.label>ladrilho de laboratório</GR_PavedTileClean.label>
+        <!-- EN: Clean metallic tiles. -->
+        <GR_PavedTileClean.description>Ladrilhos metálicos limpos.</GR_PavedTileClean.description>
+
+        <!-- EN: white laboratory tile -->
+        <GR_WhiteTile.label>ladrilho de laboratório branco</GR_WhiteTile.label>
+        <!-- EN: White clean tiles. -->
+        <GR_WhiteTile.description>Ladrilhos limpos brancos.</GR_WhiteTile.description>
+
+        <!-- EN: mech laboratory tile -->
+        <GR_MechTile.label>ladrilho de laboratório mecanoide</GR_MechTile.label>
+        <!-- EN: Mech lab tiles. -->
+        <GR_MechTile.description>Ladrilhos de laboratória.</GR_MechTile.description>
+
+        <!-- EN: rusted mech laboratory tile -->
+        <GR_RustedMechTile.label>ladrilho de laboratório mecanoide enferrujado</GR_RustedMechTile.label>
+        <!-- EN: Rusted mech lab tiles. -->
+        <GR_RustedMechTile.description>Ladrilhos de laboratório mecanoides enferrujados.</GR_RustedMechTile.description>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: corporate fine sandstone tile -->
+        <VME_CorporateFineTileSandstone.label>ladrilho de arenito corporativo</VME_CorporateFineTileSandstone.label>
+        <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+        <VME_CorporateFineTileSandstone.description>Ladrilhos de pedra fina em estilo corporativo.</VME_CorporateFineTileSandstone.description>
+
+        <!-- EN: corporate fine granite tile -->
+        <VME_CorporateFineTileGranite.label>ladrilho de granito corporativo</VME_CorporateFineTileGranite.label>
+        <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+        <VME_CorporateFineTileGranite.description>Ladrilhos de pedra fina em estilo corporativo.</VME_CorporateFineTileGranite.description>
+
+        <!-- EN: corporate fine limestone tile -->
+        <VME_CorporateFineTileLimestone.label>ladrilho de calcário corporativo</VME_CorporateFineTileLimestone.label>
+        <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+        <VME_CorporateFineTileLimestone.description>Ladrilhos de pedra fina em estilo corporativo.</VME_CorporateFineTileLimestone.description>
+
+        <!-- EN: corporate fine slate tile -->
+        <VME_CorporateFineTileSlate.label>ladrilho de ardósia corporativo</VME_CorporateFineTileSlate.label>
+        <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+        <VME_CorporateFineTileSlate.description>Ladrilhos de pedra fina em estilo corporativo.</VME_CorporateFineTileSlate.description>
+
+        <!-- EN: corporate fine marble tile -->
+        <VME_CorporateFineTileMarble.label>ladrilho de mármore corporativo</VME_CorporateFineTileMarble.label>
+        <!-- EN: Fine stone tiles in a corporate style for expressing economic status. Slow to construct. -->
+        <VME_CorporateFineTileMarble.description>Ladrilhos de pedra fina em estilo corporativo.</VME_CorporateFineTileMarble.description>
+
+        <!-- EN: shintao fine sandstone tile -->
+        <VME_ShintaoFineTileSandstone.label>ladrilho de arenito xintoísta</VME_ShintaoFineTileSandstone.label>
+        <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+        <VME_ShintaoFineTileSandstone.description>Ladrilhos de pedra fina em estilo xintoísta.</VME_ShintaoFineTileSandstone.description>
+
+        <!-- EN: shintao fine granite tile -->
+        <VME_ShintaoFineTileGranite.label>ladrilho de granito xintoísta</VME_ShintaoFineTileGranite.label>
+        <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+        <VME_ShintaoFineTileGranite.description>Ladrilhos de pedra fina em estilo xintoísta.</VME_ShintaoFineTileGranite.description>
+
+        <!-- EN: shintao fine limestone tile -->
+        <VME_ShintaoFineTileLimestone.label>ladrilho de calcário xintoísta</VME_ShintaoFineTileLimestone.label>
+        <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+        <VME_ShintaoFineTileLimestone.description>Ladrilhos de pedra fina em estilo xintoísta.</VME_ShintaoFineTileLimestone.description>
+
+        <!-- EN: shintao fine slate tile -->
+        <VME_ShintaoFineTileSlate.label>ladrilho de ardósia xintoísta</VME_ShintaoFineTileSlate.label>
+        <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+        <VME_ShintaoFineTileSlate.description>Ladrilhos de pedra fina em estilo xintoísta.</VME_ShintaoFineTileSlate.description>
+
+        <!-- EN: shintao fine marble tile -->
+        <VME_ShintaoFineTileMarble.label>ladrilho xintoísta</VME_ShintaoFineTileMarble.label>
+        <!-- EN: Fine stone tiles in a shintao style for expressing economic status. Slow to construct. -->
+        <VME_ShintaoFineTileMarble.description>Ladrilhos de pedra fina em estilo xintoísta.</VME_ShintaoFineTileMarble.description>
+
+        <!-- EN: shintao red carpet -->
+        <VME_ShintaoCarpetRed.label>carpete vermelho xintoísta</VME_ShintaoCarpetRed.label>
+        <!-- EN: Plush carpet in a lovely rose hue. -->
+        <VME_ShintaoCarpetRed.description>Carpete em um lindo tom rosa.</VME_ShintaoCarpetRed.description>
+
+        <!-- EN: shintao green carpet -->
+        <VME_ShintaoCarpetGreen.label>carpete verde xintoísta</VME_ShintaoCarpetGreen.label>
+        <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+        <VME_ShintaoCarpetGreen.description>Carpete verde com um toque naturalista.</VME_ShintaoCarpetGreen.description>
+
+        <!-- EN: shintao blue carpet -->
+        <VME_ShintaoCarpetBlue.label>carpete azul xintoísta</VME_ShintaoCarpetBlue.label>
+        <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+        <VME_ShintaoCarpetBlue.description>Carpete que abraça o corpo, em uma cor azul fria.</VME_ShintaoCarpetBlue.description>
+
+        <!-- EN: shintao cream carpet -->
+        <VME_ShintaoCarpetCream.label>carpete creme xintoísta</VME_ShintaoCarpetCream.label>
+        <!-- EN: Inviting cream-colored carpet. -->
+        <VME_ShintaoCarpetCream.description>Carpete de cor creme convidativo.</VME_ShintaoCarpetCream.description>
+
+        <!-- EN: shintao dark carpet -->
+        <VME_ShintaoCarpetDark.label>carpete escuro xintoísta</VME_ShintaoCarpetDark.label>
+        <!-- EN: Professional-looking dark gray carpet. -->
+        <VME_ShintaoCarpetDark.description>Carpete cinza escuro com aparência profissional.</VME_ShintaoCarpetDark.description>
+
+        <!-- EN: fine shintao burgundy carpet -->
+        <VME_ShintaoCarpetFineBurgundy.label>carpete borgonha xintoísta</VME_ShintaoCarpetFineBurgundy.label>
+        <!-- EN: Classic burgundy carpet for that classic rich look. -->
+        <VME_ShintaoCarpetFineBurgundy.description>Clássico carpete borgonha para aquele visual clássico rico.</VME_ShintaoCarpetFineBurgundy.description>
+
+        <!-- EN: fine shintao indigo carpet -->
+        <VME_ShintaoCarpetFineIndigo.label>carpete índigo xintoísta</VME_ShintaoCarpetFineIndigo.label>
+        <!-- EN: Soft and silky indigo carpet, for that extra sense of pomp. -->
+        <VME_ShintaoCarpetFineIndigo.description>Carpete índigo macio e sedoso, para uma sensação extra de ostentação.</VME_ShintaoCarpetFineIndigo.description>
+
+        <!-- EN: fine shintao white carpet -->
+        <VME_ShintaoCarpetFineWhite.label>carpete branco xintoísta</VME_ShintaoCarpetFineWhite.label>
+        <!-- EN: Sublime white carpet, glimmering with subtle patterns. -->
+        <VME_ShintaoCarpetFineWhite.description>Carpete branco sublime, brilhando com padrões sutis.</VME_ShintaoCarpetFineWhite.description>
+
+    <!-- Vanilla Plants Expanded -->
+        <!-- EN: tilled soil -->
+        <VCE_TilledSoil.label>solo arado</VCE_TilledSoil.label>
+        <!-- EN: Tillage is the agricultural preparation of soil by mechanical agitation of various types, increasing terrain fertility. Tilling soil can only be done on normal soil (not rich soil). When a plant is harvested on a plowed soil, the floor becomes a normal soil again and needs to be plowed again manually. -->
+        <VCE_TilledSoil.description>O preparo do solo é o processo agrícola por agitação mecânica de vários tipos, aumentando a fertilidade do terreno. Quando uma planta é colhida em um solo arado, este se torna normal e precisa ser arado manualmente novamente.</VCE_TilledSoil.description>
+        <!-- EN: dirt -->
+        <VCE_TilledSoil.tools.dirt.label>terra</VCE_TilledSoil.tools.dirt.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: vacuum -->
+        <EmptySpace.label>vácuo</EmptySpace.label>
+
+        <!-- EN: ship -->
+        <FakeFloorInsideShip.label>espaçonave</FakeFloorInsideShip.label>
+
+        <!-- EN: wreckage -->
+        <ShipWreckageTerrain.label>destroços</ShipWreckageTerrain.label>
+
+        <!-- EN: mechanoid ship -->
+        <FakeFloorInsideShipMech.label>espaçonave mecanoide</FakeFloorInsideShipMech.label>
+
+        <!-- EN: archotech ship -->
+        <FakeFloorInsideShipArchotech.label>espaçonave arquotécnica</FakeFloorInsideShipArchotech.label>
+
+        <!-- EN: artificial soil substrate -->
+        <SoilShip.label>substrato de solo artificial</SoilShip.label>
+        <!-- EN: Synthetic soil laced with catalysts and micro-organisms, theoretically self-sustaining even aboard a starship. -->
+        <SoilShip.description>Solo sintético misturado com catalisadores e micro-organismos, teoricamente autossustentável mesmo a bordo de uma espaçonave estelar.</SoilShip.description>
+        <!-- EN: dirt -->
+        <SoilShip.tools.0.label>terra</SoilShip.tools.0.label>
+
+        <!-- EN: hullfoam -->
+        <FakeFloorInsideShipFoam.label>carcaça-espuma</FakeFloorInsideShipFoam.label>
+
+        <!-- EN: plasma exhaust -->
+        <ShipEngine.label>exaustão de plasma</ShipEngine.label>
+
+</LanguageData>

@@ -1,0 +1,2387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Arid Shrubland -->
+        <!-- EN: coyote -->
+        <AEXP_Coyote.label>coiote</AEXP_Coyote.label>
+        <!-- EN: coyotes -->
+        <AEXP_Coyote.labelPlural>coiotes</AEXP_Coyote.labelPlural>
+        <!-- EN: coyote puppy -->
+        <AEXP_Coyote.lifeStages.0.label>filhote de coiote</AEXP_Coyote.lifeStages.0.label>
+        <!-- EN: coyote puppies -->
+        <AEXP_Coyote.lifeStages.0.labelPlural>filhotes de coiote</AEXP_Coyote.lifeStages.0.labelPlural>
+
+        <!-- EN: giraffe -->
+        <AEXP_Giraffe.label>girafa</AEXP_Giraffe.label>
+        <!-- EN: giraffes -->
+        <AEXP_Giraffe.labelPlural>girafas</AEXP_Giraffe.labelPlural>
+        <!-- EN: giraffe calf -->
+        <AEXP_Giraffe.lifeStages.0.label>filhote de girafa</AEXP_Giraffe.lifeStages.0.label>
+        <!-- EN: giraffe calves -->
+        <AEXP_Giraffe.lifeStages.0.labelPlural>filhotes de girafa</AEXP_Giraffe.lifeStages.0.labelPlural>
+
+        <!-- EN: hippopotamus -->
+        <AEXP_Hippopotamus.label>hipopótamo</AEXP_Hippopotamus.label>
+        <!-- EN: hippopotami -->
+        <AEXP_Hippopotamus.labelPlural>hipopótamos</AEXP_Hippopotamus.labelPlural>
+        <!-- EN: hippopotamus calf -->
+        <AEXP_Hippopotamus.lifeStages.0.label>filhote de hipopótamo</AEXP_Hippopotamus.lifeStages.0.label>
+        <!-- EN: hippopotamus calves -->
+        <AEXP_Hippopotamus.lifeStages.0.labelPlural>filhotes de hipopótamo</AEXP_Hippopotamus.lifeStages.0.labelPlural>
+
+        <!-- EN: zebra -->
+        <AEXP_Zebra.label>zebra</AEXP_Zebra.label>
+        <!-- EN: zebras -->
+        <AEXP_Zebra.labelPlural>zebras</AEXP_Zebra.labelPlural>
+        <!-- EN: zebra foal -->
+        <AEXP_Zebra.lifeStages.0.label>filhote de zebra</AEXP_Zebra.lifeStages.0.label>
+        <!-- EN: zebra foals -->
+        <AEXP_Zebra.lifeStages.0.labelPlural>filhotes de zebra</AEXP_Zebra.lifeStages.0.labelPlural>
+
+        <!-- EN: wildebeest -->
+        <AEXP_Wildebeest.label>gnu</AEXP_Wildebeest.label>
+        <!-- EN: wildebeests -->
+        <AEXP_Wildebeest.labelPlural>gnus</AEXP_Wildebeest.labelPlural>
+        <!-- EN: wildebeest bull -->
+        <AEXP_Wildebeest.labelMale>gnu</AEXP_Wildebeest.labelMale>
+        <!-- EN: wildebeest bulls -->
+        <AEXP_Wildebeest.labelMalePlural>gnus</AEXP_Wildebeest.labelMalePlural>
+        <!-- EN: wildebeest bull -->
+        <AEXP_Wildebeest.labelFemale>gnu</AEXP_Wildebeest.labelFemale>
+        <!-- EN: wildebeest bulls -->
+        <AEXP_Wildebeest.labelFemalePlural>gnus</AEXP_Wildebeest.labelFemalePlural>
+        <!-- EN: wildebeest calf -->
+        <AEXP_Wildebeest.lifeStages.0.label>filhote de gnu</AEXP_Wildebeest.lifeStages.0.label>
+        <!-- EN: wildebeest calves -->
+        <AEXP_Wildebeest.lifeStages.0.labelPlural>filhotes de gnu</AEXP_Wildebeest.lifeStages.0.labelPlural>
+
+        <!-- EN: crocodile -->
+        <AEXP_Crocodile.label>crocodilo</AEXP_Crocodile.label>
+        <!-- EN: crocodiles -->
+        <AEXP_Crocodile.labelPlural>crocodilos</AEXP_Crocodile.labelPlural>
+
+        <!-- EN: cheetah -->
+        <AEXP_Cheetah.label>guepardo</AEXP_Cheetah.label>
+        <!-- EN: cheetahs -->
+        <AEXP_Cheetah.labelPlural>guepardos</AEXP_Cheetah.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Australia -->
+        <!-- EN: boombat -->
+        <AEXP_Boombat.label>bumbate</AEXP_Boombat.label>
+        <!-- EN: boombats -->
+        <AEXP_Boombat.labelPlural>bumbates</AEXP_Boombat.labelPlural>
+
+        <!-- EN: kangaroo -->
+        <AEXP_Kangaroo.label>canguru</AEXP_Kangaroo.label>
+        <!-- EN: kangaroos -->
+        <AEXP_Kangaroo.labelPlural>cangurus</AEXP_Kangaroo.labelPlural>
+
+        <!-- EN: koala -->
+        <AEXP_Koala.label>coala</AEXP_Koala.label>
+        <!-- EN: koalas -->
+        <AEXP_Koala.labelPlural>coalas</AEXP_Koala.labelPlural>
+
+        <!-- EN: platypus -->
+        <AEXP_Platypus.label>ornitorrinco</AEXP_Platypus.label>
+        <!-- EN: platypuss -->
+        <AEXP_Platypus.labelPlural>ornitorrincos</AEXP_Platypus.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Boreal Forest -->
+        <!-- EN: otter -->
+        <AEXP_Otter.label>lontra</AEXP_Otter.label>
+        <!-- EN: otters -->
+        <AEXP_Otter.labelPlural>lontras</AEXP_Otter.labelPlural>
+
+        <!-- EN: arctic coyote -->
+        <AEXP_ArcticCoyote.label>coiote do ártico</AEXP_ArcticCoyote.label>
+        <!-- EN: arctic coyotes -->
+        <AEXP_ArcticCoyote.labelPlural>coiotes do ártico</AEXP_ArcticCoyote.labelPlural>
+        <!-- EN: arctic coyote puppy -->
+        <AEXP_ArcticCoyote.lifeStages.0.label>filhote de coiote do ártico</AEXP_ArcticCoyote.lifeStages.0.label>
+        <!-- EN: arctic coyote puppies -->
+        <AEXP_ArcticCoyote.lifeStages.0.labelPlural>filhotes de coiote do ártico</AEXP_ArcticCoyote.lifeStages.0.labelPlural>
+
+        <!-- EN: black bear -->
+        <AEXP_BlackBear.label>urso-negro</AEXP_BlackBear.label>
+        <!-- EN: black bears -->
+        <AEXP_BlackBear.labelPlural>ursos-negros</AEXP_BlackBear.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Cats and Dogs -->
+        <!-- EN: abyssinian cat -->
+        <AEXP_CatAbyssinian.label>gato abissínio</AEXP_CatAbyssinian.label>
+        <!-- EN: abyssinian kitten -->
+        <AEXP_CatAbyssinian.lifeStages.0.label>gatinho abissínio</AEXP_CatAbyssinian.lifeStages.0.label>
+
+        <!-- EN: bengal cat -->
+        <AEXP_CatBengal.label>gato-de-bengala</AEXP_CatBengal.label>
+        <!-- EN: bengal kitten -->
+        <AEXP_CatBengal.lifeStages.0.label>gatinho-de-bengala</AEXP_CatBengal.lifeStages.0.label>
+
+        <!-- EN: british shorthair cat -->
+        <AEXP_CatBritishShorthair.label>gato de pelo curto inglês</AEXP_CatBritishShorthair.label>
+        <!-- EN: british shorthair kitten -->
+        <AEXP_CatBritishShorthair.lifeStages.0.label>gatinho de pelo curto inglês</AEXP_CatBritishShorthair.lifeStages.0.label>
+
+        <!-- EN: maine coon -->
+        <AEXP_CatMaineCoon.label>maine coon</AEXP_CatMaineCoon.label>
+        <!-- EN: maine coon kitten -->
+        <AEXP_CatMaineCoon.lifeStages.0.label>maine coon filhote</AEXP_CatMaineCoon.lifeStages.0.label>
+
+        <!-- EN: munchkin cat -->
+        <AEXP_CatMunchkin.label>gato munchkin</AEXP_CatMunchkin.label>
+        <!-- EN: munchkin kitten -->
+        <AEXP_CatMunchkin.lifeStages.0.label>gatinho munchkin</AEXP_CatMunchkin.lifeStages.0.label>
+
+        <!-- EN: norwegian forest cat -->
+        <AEXP_CatNorwegianForest.label>gato norueguês da floresta</AEXP_CatNorwegianForest.label>
+        <!-- EN: norwegian forest kitten -->
+        <AEXP_CatNorwegianForest.lifeStages.0.label>gatinho norueguês da floresta</AEXP_CatNorwegianForest.lifeStages.0.label>
+
+        <!-- EN: persian cat -->
+        <AEXP_CatPersian.label>gato persa</AEXP_CatPersian.label>
+        <!-- EN: persian kitten -->
+        <AEXP_CatPersian.lifeStages.0.label>gatinho persa</AEXP_CatPersian.lifeStages.0.label>
+
+        <!-- EN: siamese cat -->
+        <AEXP_CatSiamese.label>gato siamês</AEXP_CatSiamese.label>
+        <!-- EN: siamese kitten -->
+        <AEXP_CatSiamese.lifeStages.0.label>gatinho siamês</AEXP_CatSiamese.lifeStages.0.label>
+
+        <!-- EN: somali cat -->
+        <AEXP_CatSomali.label>gato somali</AEXP_CatSomali.label>
+        <!-- EN: somali kitten -->
+        <AEXP_CatSomali.lifeStages.0.label>gatinho somali</AEXP_CatSomali.lifeStages.0.label>
+
+        <!-- EN: sphynx cat -->
+        <AEXP_CatSphynx.label>gato sphynx</AEXP_CatSphynx.label>
+        <!-- EN: sphynx kitten -->
+        <AEXP_CatSphynx.lifeStages.0.label>gatinho sphynx</AEXP_CatSphynx.lifeStages.0.label>
+
+        <!-- EN: beagle -->
+        <AEXP_Beagle.label>beagle</AEXP_Beagle.label>
+        <!-- EN: beagles -->
+        <AEXP_Beagle.labelPlural>beagles</AEXP_Beagle.labelPlural>
+        <!-- EN: beagle puppy -->
+        <AEXP_Beagle.lifeStages.0.label>beagle filhote</AEXP_Beagle.lifeStages.0.label>
+        <!-- EN: beagle puppies -->
+        <AEXP_Beagle.lifeStages.0.labelPlural>beagles filhotes</AEXP_Beagle.lifeStages.0.labelPlural>
+
+        <!-- EN: chihuahua -->
+        <AEXP_Chihuahua.label>chihuahua</AEXP_Chihuahua.label>
+        <!-- EN: chihuahuas -->
+        <AEXP_Chihuahua.labelPlural>chihuahuas</AEXP_Chihuahua.labelPlural>
+        <!-- EN: chihuahua puppy -->
+        <AEXP_Chihuahua.lifeStages.0.label>chihuahua filhote</AEXP_Chihuahua.lifeStages.0.label>
+        <!-- EN: chihuahua puppies -->
+        <AEXP_Chihuahua.lifeStages.0.labelPlural>chihuahuas filhotes</AEXP_Chihuahua.lifeStages.0.labelPlural>
+
+        <!-- EN: corgi -->
+        <AEXP_Corgi.label>corgi</AEXP_Corgi.label>
+        <!-- EN: corgis -->
+        <AEXP_Corgi.labelPlural>corgis</AEXP_Corgi.labelPlural>
+        <!-- EN: corgi puppy -->
+        <AEXP_Corgi.lifeStages.0.label>corgi filhote</AEXP_Corgi.lifeStages.0.label>
+        <!-- EN: corgi puppies -->
+        <AEXP_Corgi.lifeStages.0.labelPlural>corgis filhotes</AEXP_Corgi.lifeStages.0.labelPlural>
+
+        <!-- EN: french bulldog -->
+        <AEXP_FrenchBulldog.label>bulldog francês</AEXP_FrenchBulldog.label>
+        <!-- EN: french bulldogs -->
+        <AEXP_FrenchBulldog.labelPlural>bulldogs franceses</AEXP_FrenchBulldog.labelPlural>
+        <!-- EN: french bulldog puppy -->
+        <AEXP_FrenchBulldog.lifeStages.0.label>bulldog francês filhote</AEXP_FrenchBulldog.lifeStages.0.label>
+        <!-- EN: french bulldog puppies -->
+        <AEXP_FrenchBulldog.lifeStages.0.labelPlural>bulldogs franceses filhotes</AEXP_FrenchBulldog.lifeStages.0.labelPlural>
+
+        <!-- EN: german shepherd -->
+        <AEXP_GermanShepherd.label>pastor-alemão</AEXP_GermanShepherd.label>
+        <!-- EN: german shepherd puppy -->
+        <AEXP_GermanShepherd.lifeStages.0.label>pastor-alemão filhote</AEXP_GermanShepherd.lifeStages.0.label>
+        <!-- EN: german shepherd puppies -->
+        <AEXP_GermanShepherd.lifeStages.0.labelPlural>pastores-alemães filhotes</AEXP_GermanShepherd.lifeStages.0.labelPlural>
+
+        <!-- EN: great dane -->
+        <AEXP_GreatDane.label>dogue alemão</AEXP_GreatDane.label>
+        <!-- EN: great dane puppy -->
+        <AEXP_GreatDane.lifeStages.0.label>dogue alemão filhote</AEXP_GreatDane.lifeStages.0.label>
+        <!-- EN: great dane puppies -->
+        <AEXP_GreatDane.lifeStages.0.labelPlural>dogues alemães filhotes</AEXP_GreatDane.lifeStages.0.labelPlural>
+
+        <!-- EN: poodle -->
+        <AEXP_Poodle.label>poodle</AEXP_Poodle.label>
+        <!-- EN: poodle puppy -->
+        <AEXP_Poodle.lifeStages.0.label>poodle filhote</AEXP_Poodle.lifeStages.0.label>
+        <!-- EN: poodle puppies -->
+        <AEXP_Poodle.lifeStages.0.labelPlural>poodles filhotes</AEXP_Poodle.lifeStages.0.labelPlural>
+
+        <!-- EN: pug -->
+        <AEXP_Pug.label>pug</AEXP_Pug.label>
+        <!-- EN: pugs -->
+        <AEXP_Pug.labelPlural>pugs</AEXP_Pug.labelPlural>
+        <!-- EN: pug puppy -->
+        <AEXP_Pug.lifeStages.0.label>pug filhote</AEXP_Pug.lifeStages.0.label>
+        <!-- EN: pug puppies -->
+        <AEXP_Pug.lifeStages.0.labelPlural>pugs filhotes</AEXP_Pug.lifeStages.0.labelPlural>
+
+        <!-- EN: rottweiler -->
+        <AEXP_Rottweiler.label>rottweiler</AEXP_Rottweiler.label>
+        <!-- EN: rottweiler puppy -->
+        <AEXP_Rottweiler.lifeStages.0.label>rottweiler filhote</AEXP_Rottweiler.lifeStages.0.label>
+        <!-- EN: rottweiler puppies -->
+        <AEXP_Rottweiler.lifeStages.0.labelPlural>rottweilers filhotes</AEXP_Rottweiler.lifeStages.0.labelPlural>
+
+        <!-- EN: shih-tzu -->
+        <AEXP_Shih-Tzu.label>shih-tzu</AEXP_Shih-Tzu.label>
+        <!-- EN: shih-tzus -->
+        <AEXP_Shih-Tzu.labelPlural>shih-tzus</AEXP_Shih-Tzu.labelPlural>
+        <!-- EN: shih-tzu puppy -->
+        <AEXP_Shih-Tzu.lifeStages.0.label>shih-tzu filhote</AEXP_Shih-Tzu.lifeStages.0.label>
+        <!-- EN: shih-tzu puppies -->
+        <AEXP_Shih-Tzu.lifeStages.0.labelPlural>shih-tzus filhotes</AEXP_Shih-Tzu.lifeStages.0.labelPlural>
+
+        <!-- EN: welsh terrier -->
+        <AEXP_WelshTerrier.label>welsh terrier</AEXP_WelshTerrier.label>
+        <!-- EN: welsh terriers -->
+        <AEXP_WelshTerrier.labelPlural>welsh terriers</AEXP_WelshTerrier.labelPlural>
+        <!-- EN: welsh terrier puppy -->
+        <AEXP_WelshTerrier.lifeStages.0.label>welsh terrier filhote</AEXP_WelshTerrier.lifeStages.0.label>
+        <!-- EN: welsh terrier puppies -->
+        <AEXP_WelshTerrier.lifeStages.0.labelPlural>welsh terriers filhotes</AEXP_WelshTerrier.lifeStages.0.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: ancient giant spider -->
+        <VAECaves_AncientGiantSpider.label>aranha gigante ancestral</VAECaves_AncientGiantSpider.label>
+        <!-- EN: ancient giant spiders -->
+        <VAECaves_AncientGiantSpider.labelPlural>aranhas gigantes ancestrais</VAECaves_AncientGiantSpider.labelPlural>
+
+        <!-- EN: blind salamander -->
+        <VAECaves_BlindSalamander.label>salamandra-cega</VAECaves_BlindSalamander.label>
+        <!-- EN: blind salamanders -->
+        <VAECaves_BlindSalamander.labelPlural>salamandras-cegas</VAECaves_BlindSalamander.labelPlural>
+
+        <!-- EN: cave bear -->
+        <VAECaves_CaveBear.label>urso-das-cavernas</VAECaves_CaveBear.label>
+        <!-- EN: cave bears -->
+        <VAECaves_CaveBear.labelPlural>ursos-das-cavernas</VAECaves_CaveBear.labelPlural>
+
+        <!-- EN: cave crawler -->
+        <VAECaves_CaveCrawler.label>rastejador</VAECaves_CaveCrawler.label>
+        <!-- EN: cave crawlers -->
+        <VAECaves_CaveCrawler.labelPlural>rastejadores</VAECaves_CaveCrawler.labelPlural>
+
+        <!-- EN: giant spider -->
+        <VAECaves_GiantSpider.label>aranha gigante</VAECaves_GiantSpider.label>
+        <!-- EN: giant spiders -->
+        <VAECaves_GiantSpider.labelPlural>aranhas gigantes</VAECaves_GiantSpider.labelPlural>
+
+        <!-- EN: giant spider hatching -->
+        <VAECaves_GiantSpiderHatchling.label>filhote de aranha gigante</VAECaves_GiantSpiderHatchling.label>
+        <!-- EN: giant spider hatchings -->
+        <VAECaves_GiantSpiderHatchling.labelPlural>filhotes de aranha gigante</VAECaves_GiantSpiderHatchling.labelPlural>
+
+        <!-- EN: insectoid hulk -->
+        <VAECaves_InsectoidHulk.label>brutamonte insetoide</VAECaves_InsectoidHulk.label>
+        <!-- EN: insectoid hulks -->
+        <VAECaves_InsectoidHulk.labelPlural>brutamontes insetoides</VAECaves_InsectoidHulk.labelPlural>
+
+        <!-- EN: wyrm -->
+        <VAECaves_Wyrm.label>serpe</VAECaves_Wyrm.label>
+        <!-- EN: wyrms -->
+        <VAECaves_Wyrm.labelPlural>serpes</VAECaves_Wyrm.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Desert -->
+        <!-- EN: hyena -->
+        <AEXP_Hyena.label>hiena</AEXP_Hyena.label>
+        <!-- EN: hyenas -->
+        <AEXP_Hyena.labelPlural>hienas</AEXP_Hyena.labelPlural>
+        <!-- EN: hyena cub -->
+        <AEXP_Hyena.lifeStages.0.label>filhote de hiena</AEXP_Hyena.lifeStages.0.label>
+        <!-- EN: hyena cubs -->
+        <AEXP_Hyena.lifeStages.0.labelPlural>filhotes de hiena</AEXP_Hyena.lifeStages.0.labelPlural>
+
+        <!-- EN: desert tortoise -->
+        <AEXP_DesertTortoise.label>tartaruga do deserto</AEXP_DesertTortoise.label>
+        <!-- EN: desert tortoises -->
+        <AEXP_DesertTortoise.labelPlural>tartarugas do deserto</AEXP_DesertTortoise.labelPlural>
+
+        <!-- EN: lion -->
+        <AEXP_Lion.label>leão</AEXP_Lion.label>
+        <!-- EN: lions -->
+        <AEXP_Lion.labelPlural>leões</AEXP_Lion.labelPlural>
+        <!-- EN: lion -->
+        <AEXP_Lion.labelMale>leão</AEXP_Lion.labelMale>
+        <!-- EN: lions -->
+        <AEXP_Lion.labelMalePlural>leões</AEXP_Lion.labelMalePlural>
+        <!-- EN: lion -->
+        <AEXP_Lion.labelFemale>leoa</AEXP_Lion.labelFemale>
+        <!-- EN: lions -->
+        <AEXP_Lion.labelFemalePlural>leoas</AEXP_Lion.labelFemalePlural>
+        <!-- EN: lion cub -->
+        <AEXP_Lion.lifeStages.0.label>filhote de leão</AEXP_Lion.lifeStages.0.label>
+        <!-- EN: lion cubs -->
+        <AEXP_Lion.lifeStages.0.labelPlural>filhotes de leão</AEXP_Lion.lifeStages.0.labelPlural>
+        <!-- EN: lion cub -->
+        <AEXP_Lion.lifeStages.0.labelMale>filhote de leão</AEXP_Lion.lifeStages.0.labelMale>
+        <!-- EN: lion cubs -->
+        <AEXP_Lion.lifeStages.0.labelMalePlural>filhotes de leão</AEXP_Lion.lifeStages.0.labelMalePlural>
+        <!-- EN: lion cub -->
+        <AEXP_Lion.lifeStages.0.labelFemale>filhote de leão</AEXP_Lion.lifeStages.0.labelFemale>
+        <!-- EN: lion cubs -->
+        <AEXP_Lion.lifeStages.0.labelFemalePlural>filhotes de leão</AEXP_Lion.lifeStages.0.labelFemalePlural>
+
+        <!-- EN: gila monster -->
+        <AEXP_GilaMonster.label>monstro-de-gila</AEXP_GilaMonster.label>
+        <!-- EN: gila monsters -->
+        <AEXP_GilaMonster.labelPlural>monstros-de-gila</AEXP_GilaMonster.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- EN: black-footed ferret -->
+        <AEXP_BlackFootedFerret.label>doninha-de-patas-pretas</AEXP_BlackFootedFerret.label>
+        <!-- EN: black-footed ferrets -->
+        <AEXP_BlackFootedFerret.labelPlural>doninhas-de-patas-pretas</AEXP_BlackFootedFerret.labelPlural>
+
+        <!-- EN: black rhinoceros -->
+        <AEXP_BlackRhino.label>rinoceronte-negro</AEXP_BlackRhino.label>
+        <!-- EN: black rhinoceroses -->
+        <AEXP_BlackRhino.labelPlural>rinocerontes-negros</AEXP_BlackRhino.labelPlural>
+
+        <!-- EN: bonobo -->
+        <AEXP_Bonobo.label>bonobo</AEXP_Bonobo.label>
+        <!-- EN: bonobos -->
+        <AEXP_Bonobo.labelPlural>bonobos</AEXP_Bonobo.labelPlural>
+
+        <!-- EN: moa -->
+        <AEXP_Moa.label>moa</AEXP_Moa.label>
+        <!-- EN: moas -->
+        <AEXP_Moa.labelPlural>moas</AEXP_Moa.labelPlural>
+
+        <!-- EN: giant panda -->
+        <AEXP_Panda.label>panda-gigante</AEXP_Panda.label>
+        <!-- EN: giant pandas -->
+        <AEXP_Panda.labelPlural>pandas-gigantes</AEXP_Panda.labelPlural>
+
+        <!-- EN: quagga -->
+        <AEXP_Quagga.label>quaga</AEXP_Quagga.label>
+        <!-- EN: quaggas -->
+        <AEXP_Quagga.labelPlural>quagas</AEXP_Quagga.labelPlural>
+        <!-- EN: quagga foal -->
+        <AEXP_Quagga.lifeStages.0.label>filhote de quaga</AEXP_Quagga.lifeStages.0.label>
+        <!-- EN: quagga foals -->
+        <AEXP_Quagga.lifeStages.0.labelPlural>filhotes de quaga</AEXP_Quagga.lifeStages.0.labelPlural>
+
+        <!-- EN: rockhopper penguin -->
+        <AEXP_RockhopperPenguin.label>pinguim-saltador-da-rocha</AEXP_RockhopperPenguin.label>
+        <!-- EN: rockhopper penguin -->
+        <AEXP_RockhopperPenguin.labelPlural>pinguins-saltadores-da-rocha</AEXP_RockhopperPenguin.labelPlural>
+
+        <!-- EN: tasmanian devil -->
+        <AEXP_TasmanianDevil.label>diabo-da-tasmânia</AEXP_TasmanianDevil.label>
+        <!-- EN: tasmanian devils -->
+        <AEXP_TasmanianDevil.labelPlural>diabos-da-tasmânia</AEXP_TasmanianDevil.labelPlural>
+
+        <!-- EN: thylacine -->
+        <AEXP_Thylacine.label>tilacino</AEXP_Thylacine.label>
+        <!-- EN: thylacines -->
+        <AEXP_Thylacine.labelPlural>tilacinos</AEXP_Thylacine.labelPlural>
+
+        <!-- EN: african wild dog -->
+        <AEXP_AfricanWildDog.label>mabeco</AEXP_AfricanWildDog.label>
+        <!-- EN: african wild dogs -->
+        <AEXP_AfricanWildDog.labelPlural>mabecos</AEXP_AfricanWildDog.labelPlural>
+        <!-- EN: african wild dog puppy -->
+        <AEXP_AfricanWildDog.lifeStages.0.label>filhote de mabeco</AEXP_AfricanWildDog.lifeStages.0.label>
+        <!-- EN: african wild dog puppies -->
+        <AEXP_AfricanWildDog.lifeStages.0.labelPlural>filhotes de mabeco</AEXP_AfricanWildDog.lifeStages.0.labelPlural>
+
+        <!-- EN: giant pangolin -->
+        <AEXP_Pangolin.label>pangolim-gigante</AEXP_Pangolin.label>
+        <!-- EN: giant pangolins -->
+        <AEXP_Pangolin.labelPlural>pangolins-gigantes</AEXP_Pangolin.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Extreme Desert -->
+        <!-- EN: camel -->
+        <AEXP_Camel.label>camelo</AEXP_Camel.label>
+        <!-- EN: camels -->
+        <AEXP_Camel.labelPlural>camelos</AEXP_Camel.labelPlural>
+        <!-- EN: camel calf -->
+        <AEXP_Camel.lifeStages.0.label>filhote de camelo</AEXP_Camel.lifeStages.0.label>
+        <!-- EN: camel calves -->
+        <AEXP_Camel.lifeStages.0.labelPlural>filhotes de camelo</AEXP_Camel.lifeStages.0.labelPlural>
+
+        <!-- EN: rattlesnake -->
+        <AEXP_Rattlesnake.label>cascavel</AEXP_Rattlesnake.label>
+        <!-- EN: rattlesnakes -->
+        <AEXP_Rattlesnake.labelPlural>cascavéis</AEXP_Rattlesnake.labelPlural>
+
+        <!-- EN: megascorpion -->
+        <AEXP_Megascorpion.label>megascorpião</AEXP_Megascorpion.label>
+        <!-- EN: megascorpions -->
+        <AEXP_Megascorpion.labelPlural>megascorpiões</AEXP_Megascorpion.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Ice Sheet -->
+        <!-- EN: penguin -->
+        <AEXP_Penguin.label>pinguim</AEXP_Penguin.label>
+        <!-- EN: penguins -->
+        <AEXP_Penguin.labelPlural>pinguins</AEXP_Penguin.labelPlural>
+
+        <!-- EN: seal -->
+        <AEXP_Seal.label>foca</AEXP_Seal.label>
+        <!-- EN: seal -->
+        <AEXP_Seal.labelPlural>focas</AEXP_Seal.labelPlural>
+
+        <!-- EN: walrus -->
+        <AEXP_Walrus.label>morsa</AEXP_Walrus.label>
+        <!-- EN: walruss -->
+        <AEXP_Walrus.labelPlural>morsas</AEXP_Walrus.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Temperate Forest -->
+        <!-- EN: red panda -->
+        <AEXP_RedPanda.label>panda-vermelho</AEXP_RedPanda.label>
+        <!-- EN: red pandas -->
+        <AEXP_RedPanda.labelPlural>pandas-vermelhos</AEXP_RedPanda.labelPlural>
+
+        <!-- EN: badger -->
+        <AEXP_Badger.label>texugo</AEXP_Badger.label>
+        <!-- EN: badgers -->
+        <AEXP_Badger.labelPlural>texugos</AEXP_Badger.labelPlural>
+
+        <!-- EN: wild goose -->
+        <AEXP_WildGoose.label>ganso selvagem</AEXP_WildGoose.label>
+        <!-- EN: wild geese -->
+        <AEXP_WildGoose.labelPlural>gansos selvagens</AEXP_WildGoose.labelPlural>
+        <!-- EN: wild gander -->
+        <AEXP_WildGoose.labelMale>ganso selvagem</AEXP_WildGoose.labelMale>
+        <!-- EN: wild geese -->
+        <AEXP_WildGoose.labelMalePlural>gansos selvagens</AEXP_WildGoose.labelMalePlural>
+        <!-- EN: wild goose -->
+        <AEXP_WildGoose.labelFemale>ganso selvagem</AEXP_WildGoose.labelFemale>
+        <!-- EN: wild geese -->
+        <AEXP_WildGoose.labelFemalePlural>gansos selvagens</AEXP_WildGoose.labelFemalePlural>
+        <!-- EN: gosling -->
+        <AEXP_WildGoose.lifeStages.0.label>filhote de ganso</AEXP_WildGoose.lifeStages.0.label>
+        <!-- EN: goslings -->
+        <AEXP_WildGoose.lifeStages.0.labelPlural>filhotes de ganso</AEXP_WildGoose.lifeStages.0.labelPlural>
+
+        <!-- EN: beaver -->
+        <AEXP_Beaver.label>castor</AEXP_Beaver.label>
+        <!-- EN: beavers -->
+        <AEXP_Beaver.labelPlural>castores</AEXP_Beaver.labelPlural>
+
+        <!-- EN: hedgehog -->
+        <AEXP_Hedgehog.label>ouriço</AEXP_Hedgehog.label>
+        <!-- EN: hedgehogs -->
+        <AEXP_Hedgehog.labelPlural>ouriços</AEXP_Hedgehog.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Tropical Rainforest -->
+        <!-- EN: gorilla -->
+        <AEXP_Gorilla.label>gorila</AEXP_Gorilla.label>
+        <!-- EN: gorillas -->
+        <AEXP_Gorilla.labelPlural>gorilas</AEXP_Gorilla.labelPlural>
+
+        <!-- EN: jaguar -->
+        <AEXP_Jaguar.label>onça-pintada</AEXP_Jaguar.label>
+        <!-- EN: jaguars -->
+        <AEXP_Jaguar.labelPlural>onças-pintadas</AEXP_Jaguar.labelPlural>
+
+        <!-- EN: lemur -->
+        <AEXP_Lemur.label>lêmure</AEXP_Lemur.label>
+        <!-- EN: lemurs -->
+        <AEXP_Lemur.labelPlural>lêmures</AEXP_Lemur.labelPlural>
+
+        <!-- EN: mandrill -->
+        <AEXP_Mandrill.label>mandril</AEXP_Mandrill.label>
+        <!-- EN: mandrills -->
+        <AEXP_Mandrill.labelPlural>mandris</AEXP_Mandrill.labelPlural>
+
+        <!-- EN: tapir -->
+        <AEXP_Tapir.label>anta</AEXP_Tapir.label>
+        <!-- EN: tapirs -->
+        <AEXP_Tapir.labelPlural>antas</AEXP_Tapir.labelPlural>
+
+        <!-- EN: tiger -->
+        <AEXP_Tiger.label>tigre</AEXP_Tiger.label>
+        <!-- EN: tigers -->
+        <AEXP_Tiger.labelPlural>tigres</AEXP_Tiger.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Tropical Swamp -->
+        <!-- EN: alligator -->
+        <AEXP_Alligator.label>jacaré</AEXP_Alligator.label>
+        <!-- EN: alligators -->
+        <AEXP_Alligator.labelPlural>jacarés</AEXP_Alligator.labelPlural>
+
+        <!-- EN: anaconda -->
+        <AEXP_Anaconda.label>sucuri</AEXP_Anaconda.label>
+        <!-- EN: anacondas -->
+        <AEXP_Anaconda.labelPlural>sucuris</AEXP_Anaconda.labelPlural>
+
+        <!-- EN: indian elephant -->
+        <AEXP_IndianElephant.label>elefante-indiano</AEXP_IndianElephant.label>
+        <!-- EN: indian elephants -->
+        <AEXP_IndianElephant.labelPlural>elefantes-indianos</AEXP_IndianElephant.labelPlural>
+        <!-- EN: indian elephant calf -->
+        <AEXP_IndianElephant.lifeStages.0.label>filhote de elefante-indiano</AEXP_IndianElephant.lifeStages.0.label>
+        <!-- EN: indian elephant calves -->
+        <AEXP_IndianElephant.lifeStages.0.labelPlural>filhotes de elefante-indiano</AEXP_IndianElephant.lifeStages.0.labelPlural>
+
+    <!-- Vanilla Animals Expanded - Tundra -->
+        <!-- EN: musk ox -->
+        <AEXP_Muskox.label>boi-almiscarado</AEXP_Muskox.label>
+        <!-- EN: musk oxen -->
+        <AEXP_Muskox.labelPlural>bois-almiscarados</AEXP_Muskox.labelPlural>
+        <!-- EN: musk ox calf -->
+        <AEXP_Muskox.lifeStages.0.label>filhote de boi-almiscarado</AEXP_Muskox.lifeStages.0.label>
+        <!-- EN: musk ox calves -->
+        <AEXP_Muskox.lifeStages.0.labelPlural>filhotes de boi-almiscarado</AEXP_Muskox.lifeStages.0.labelPlural>
+
+        <!-- EN: moose -->
+        <AEXP_Moose.label>alce</AEXP_Moose.label>
+        <!-- EN: moose -->
+        <AEXP_Moose.labelPlural>alces</AEXP_Moose.labelPlural>
+        <!-- EN: moose calf -->
+        <AEXP_Moose.lifeStages.0.label>filhote de alce</AEXP_Moose.lifeStages.0.label>
+        <!-- EN: moose calves -->
+        <AEXP_Moose.lifeStages.0.labelPlural>filhotes de alce</AEXP_Moose.lifeStages.0.labelPlural>
+
+        <!-- EN: megawolverine -->
+        <AEXP_MegaWolverine.label>megaglutão</AEXP_MegaWolverine.label>
+        <!-- EN: megawolverines -->
+        <AEXP_MegaWolverine.labelPlural>megaglutões</AEXP_MegaWolverine.labelPlural>
+
+        <!-- EN: porcupine -->
+        <AEXP_Porcupine.label>porco-espinho</AEXP_Porcupine.label>
+        <!-- EN: porcupines -->
+        <AEXP_Porcupine.labelPlural>porcos-espinhos</AEXP_Porcupine.labelPlural>
+
+    <!-- Vanilla Events Expanded -->
+        <!-- EN: hunter -->
+        <VEE_TribalHunter.label>caçador</VEE_TribalHunter.label>
+        <!-- EN: hunters -->
+        <VEE_TribalHunter.labelPlural>caçadores</VEE_TribalHunter.labelPlural>
+        <!-- EN: hunter -->
+        <VEE_TribalHunter.labelMale>caçador</VEE_TribalHunter.labelMale>
+        <!-- EN: hunters -->
+        <VEE_TribalHunter.labelMalePlural>caçadores</VEE_TribalHunter.labelMalePlural>
+        <!-- EN: hunter -->
+        <VEE_TribalHunter.labelFemale>caçadora</VEE_TribalHunter.labelFemale>
+        <!-- EN: hunters -->
+        <VEE_TribalHunter.labelFemalePlural>caçadoras</VEE_TribalHunter.labelFemalePlural>
+
+        <!-- EN: hunter -->
+        <Hunter.label>caçador</Hunter.label>
+        <!-- EN: hunters -->
+        <Hunter.labelPlural>caçadores</Hunter.labelPlural>
+        <!-- EN: hunter -->
+        <Hunter.labelMale>caçador</Hunter.labelMale>
+        <!-- EN: hunters -->
+        <Hunter.labelMalePlural>caçadores</Hunter.labelMalePlural>
+        <!-- EN: hunter -->
+        <Hunter.labelFemale>caçadora</Hunter.labelFemale>
+        <!-- EN: hunters -->
+        <Hunter.labelFemalePlural>caçadoras</Hunter.labelFemalePlural>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: ancient soldier -->
+        <VFEA_PlayerAncientSoldierOneAbility.label>soldado ancestral</VFEA_PlayerAncientSoldierOneAbility.label>
+        <!-- EN: ancient soldiers -->
+        <VFEA_PlayerAncientSoldierOneAbility.labelPlural>soldados ancestrais</VFEA_PlayerAncientSoldierOneAbility.labelPlural>
+        <!-- EN: ancient soldier -->
+        <VFEA_PlayerAncientSoldierOneAbility.labelMale>soldado ancestral</VFEA_PlayerAncientSoldierOneAbility.labelMale>
+        <!-- EN: ancient soldiers -->
+        <VFEA_PlayerAncientSoldierOneAbility.labelMalePlural>soldados ancestrais</VFEA_PlayerAncientSoldierOneAbility.labelMalePlural>
+        <!-- EN: ancient soldier -->
+        <VFEA_PlayerAncientSoldierOneAbility.labelFemale>soldada ancestral</VFEA_PlayerAncientSoldierOneAbility.labelFemale>
+        <!-- EN: ancient soldiers -->
+        <VFEA_PlayerAncientSoldierOneAbility.labelFemalePlural>soldadas ancestrais</VFEA_PlayerAncientSoldierOneAbility.labelFemalePlural>
+
+        <!-- EN: ancient super-soldier -->
+        <VFEA_AncientSoldierOneAbility.label>super-soldado ancestral</VFEA_AncientSoldierOneAbility.label>
+        <!-- EN: ancient super-soldiers -->
+        <VFEA_AncientSoldierOneAbility.labelPlural>super-soldados ancestrais</VFEA_AncientSoldierOneAbility.labelPlural>
+        <!-- EN: ancient super-soldier -->
+        <VFEA_AncientSoldierOneAbility.labelMale>super-soldado ancestral</VFEA_AncientSoldierOneAbility.labelMale>
+        <!-- EN: ancient super-soldiers -->
+        <VFEA_AncientSoldierOneAbility.labelMalePlural>super-soldados ancestrais</VFEA_AncientSoldierOneAbility.labelMalePlural>
+        <!-- EN: ancient super-soldier -->
+        <VFEA_AncientSoldierOneAbility.labelFemale>super-soldada ancestral</VFEA_AncientSoldierOneAbility.labelFemale>
+        <!-- EN: ancient super-soldiers -->
+        <VFEA_AncientSoldierOneAbility.labelFemalePlural>super-soldadas ancestrais</VFEA_AncientSoldierOneAbility.labelFemalePlural>
+
+        <!-- EN: ancient super-soldier -->
+        <VFEA_AncientSoldierTwoAbilities.label>super-soldado ancestral</VFEA_AncientSoldierTwoAbilities.label>
+        <!-- EN: ancient super-soldiers -->
+        <VFEA_AncientSoldierTwoAbilities.labelPlural>super-soldados ancestrais</VFEA_AncientSoldierTwoAbilities.labelPlural>
+        <!-- EN: ancient super-soldier -->
+        <VFEA_AncientSoldierTwoAbilities.labelMale>super-soldado ancestral</VFEA_AncientSoldierTwoAbilities.labelMale>
+        <!-- EN: ancient super-soldiers -->
+        <VFEA_AncientSoldierTwoAbilities.labelMalePlural>super-soldados ancestrais</VFEA_AncientSoldierTwoAbilities.labelMalePlural>
+        <!-- EN: ancient super-soldier -->
+        <VFEA_AncientSoldierTwoAbilities.labelFemale>super-soldada ancestral</VFEA_AncientSoldierTwoAbilities.labelFemale>
+        <!-- EN: ancient super-soldiers -->
+        <VFEA_AncientSoldierTwoAbilities.labelFemalePlural>super-soldadas ancestrais</VFEA_AncientSoldierTwoAbilities.labelFemalePlural>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: member -->
+        <VFEC_Plebeian.label>membro</VFEC_Plebeian.label>
+        <!-- EN: members -->
+        <VFEC_Plebeian.labelPlural>membros</VFEC_Plebeian.labelPlural>
+        <!-- EN: member -->
+        <VFEC_Plebeian.labelMale>membro</VFEC_Plebeian.labelMale>
+        <!-- EN: members -->
+        <VFEC_Plebeian.labelMalePlural>membros</VFEC_Plebeian.labelMalePlural>
+        <!-- EN: member -->
+        <VFEC_Plebeian.labelFemale>membra</VFEC_Plebeian.labelFemale>
+        <!-- EN: members -->
+        <VFEC_Plebeian.labelFemalePlural>membras</VFEC_Plebeian.labelFemalePlural>
+
+        <!-- EN: villager -->
+        <VFEC_RepublicVillager.label>aldeão</VFEC_RepublicVillager.label>
+        <!-- EN: villagers -->
+        <VFEC_RepublicVillager.labelPlural>aldeões</VFEC_RepublicVillager.labelPlural>
+        <!-- EN: villager -->
+        <VFEC_RepublicVillager.labelMale>aldeão</VFEC_RepublicVillager.labelMale>
+        <!-- EN: villagers -->
+        <VFEC_RepublicVillager.labelMalePlural>aldeões</VFEC_RepublicVillager.labelMalePlural>
+        <!-- EN: villager -->
+        <VFEC_RepublicVillager.labelFemale>aldeã</VFEC_RepublicVillager.labelFemale>
+        <!-- EN: villagers -->
+        <VFEC_RepublicVillager.labelFemalePlural>aldeãs</VFEC_RepublicVillager.labelFemalePlural>
+
+        <!-- EN: trader -->
+        <VFEC_RepublicTrader.label>comerciante</VFEC_RepublicTrader.label>
+        <!-- EN: traders -->
+        <VFEC_RepublicTrader.labelPlural>comerciantes</VFEC_RepublicTrader.labelPlural>
+        <!-- EN: trader -->
+        <VFEC_RepublicTrader.labelMale>comerciante</VFEC_RepublicTrader.labelMale>
+        <!-- EN: traders -->
+        <VFEC_RepublicTrader.labelMalePlural>comerciantes</VFEC_RepublicTrader.labelMalePlural>
+        <!-- EN: trader -->
+        <VFEC_RepublicTrader.labelFemale>comerciante</VFEC_RepublicTrader.labelFemale>
+        <!-- EN: traders -->
+        <VFEC_RepublicTrader.labelFemalePlural>comerciantes</VFEC_RepublicTrader.labelFemalePlural>
+
+        <!-- EN: town guard -->
+        <VFEC_TownGuard.label>guarda</VFEC_TownGuard.label>
+        <!-- EN: town guards -->
+        <VFEC_TownGuard.labelPlural>guardas</VFEC_TownGuard.labelPlural>
+        <!-- EN: town guard -->
+        <VFEC_TownGuard.labelMale>guarda</VFEC_TownGuard.labelMale>
+        <!-- EN: town guards -->
+        <VFEC_TownGuard.labelMalePlural>guardas</VFEC_TownGuard.labelMalePlural>
+        <!-- EN: town guard -->
+        <VFEC_TownGuard.labelFemale>guarda</VFEC_TownGuard.labelFemale>
+        <!-- EN: town guards -->
+        <VFEC_TownGuard.labelFemalePlural>guardas</VFEC_TownGuard.labelFemalePlural>
+
+        <!-- EN: archer -->
+        <VFEC_RepublicArcher.label>arqueiro</VFEC_RepublicArcher.label>
+        <!-- EN: archers -->
+        <VFEC_RepublicArcher.labelPlural>arqueiros</VFEC_RepublicArcher.labelPlural>
+        <!-- EN: archer -->
+        <VFEC_RepublicArcher.labelMale>arqueiro</VFEC_RepublicArcher.labelMale>
+        <!-- EN: archers -->
+        <VFEC_RepublicArcher.labelMalePlural>arqueiros</VFEC_RepublicArcher.labelMalePlural>
+        <!-- EN: archer -->
+        <VFEC_RepublicArcher.labelFemale>arqueira</VFEC_RepublicArcher.labelFemale>
+        <!-- EN: archers -->
+        <VFEC_RepublicArcher.labelFemalePlural>arqueiras</VFEC_RepublicArcher.labelFemalePlural>
+
+        <!-- EN: auxilia -->
+        <VFEC_RepublicAuxilia.label>auxiliar</VFEC_RepublicAuxilia.label>
+        <!-- EN: auxilias -->
+        <VFEC_RepublicAuxilia.labelPlural>auxiliares</VFEC_RepublicAuxilia.labelPlural>
+        <!-- EN: auxilia -->
+        <VFEC_RepublicAuxilia.labelMale>auxiliar</VFEC_RepublicAuxilia.labelMale>
+        <!-- EN: auxilias -->
+        <VFEC_RepublicAuxilia.labelMalePlural>auxiliares</VFEC_RepublicAuxilia.labelMalePlural>
+        <!-- EN: auxilia -->
+        <VFEC_RepublicAuxilia.labelFemale>auxiliar</VFEC_RepublicAuxilia.labelFemale>
+        <!-- EN: auxilias -->
+        <VFEC_RepublicAuxilia.labelFemalePlural>auxiliares</VFEC_RepublicAuxilia.labelFemalePlural>
+
+        <!-- EN: senator -->
+        <VFEC_RepublicSenator.label>senador</VFEC_RepublicSenator.label>
+        <!-- EN: senators -->
+        <VFEC_RepublicSenator.labelPlural>senadores</VFEC_RepublicSenator.labelPlural>
+        <!-- EN: senator -->
+        <VFEC_RepublicSenator.labelMale>senador</VFEC_RepublicSenator.labelMale>
+        <!-- EN: senators -->
+        <VFEC_RepublicSenator.labelMalePlural>senadores</VFEC_RepublicSenator.labelMalePlural>
+        <!-- EN: senator -->
+        <VFEC_RepublicSenator.labelFemale>senadora</VFEC_RepublicSenator.labelFemale>
+        <!-- EN: senators -->
+        <VFEC_RepublicSenator.labelFemalePlural>senadoras</VFEC_RepublicSenator.labelFemalePlural>
+
+        <!-- EN: legionnaire -->
+        <VFEC_Legionnaire.label>legionário</VFEC_Legionnaire.label>
+        <!-- EN: legionnaires -->
+        <VFEC_Legionnaire.labelPlural>legionários</VFEC_Legionnaire.labelPlural>
+        <!-- EN: legionnaire -->
+        <VFEC_Legionnaire.labelMale>legionário</VFEC_Legionnaire.labelMale>
+        <!-- EN: legionnaires -->
+        <VFEC_Legionnaire.labelMalePlural>legionários</VFEC_Legionnaire.labelMalePlural>
+        <!-- EN: legionnaire -->
+        <VFEC_Legionnaire.labelFemale>legionária</VFEC_Legionnaire.labelFemale>
+        <!-- EN: legionnaire -->
+        <VFEC_Legionnaire.labelFemalePlural>legionárias</VFEC_Legionnaire.labelFemalePlural>
+
+        <!-- EN: scorpion operator -->
+        <VFEC_ScorpionOperator.label>operador</VFEC_ScorpionOperator.label>
+        <!-- EN: scorpion operators -->
+        <VFEC_ScorpionOperator.labelPlural>operadores</VFEC_ScorpionOperator.labelPlural>
+        <!-- EN: scorpion operator -->
+        <VFEC_ScorpionOperator.labelMale>operador</VFEC_ScorpionOperator.labelMale>
+        <!-- EN: scorpion operators -->
+        <VFEC_ScorpionOperator.labelMalePlural>operadores</VFEC_ScorpionOperator.labelMalePlural>
+        <!-- EN: scorpion operator -->
+        <VFEC_ScorpionOperator.labelFemale>operadora</VFEC_ScorpionOperator.labelFemale>
+        <!-- EN: scorpion operators -->
+        <VFEC_ScorpionOperator.labelFemalePlural>operadoras</VFEC_ScorpionOperator.labelFemalePlural>
+
+        <!-- EN: centurion -->
+        <VFEC_Centurion.label>centurião</VFEC_Centurion.label>
+        <!-- EN: centurions -->
+        <VFEC_Centurion.labelPlural>centuriões</VFEC_Centurion.labelPlural>
+        <!-- EN: centurion -->
+        <VFEC_Centurion.labelMale>centurião</VFEC_Centurion.labelMale>
+        <!-- EN: centurions -->
+        <VFEC_Centurion.labelMalePlural>centuriões</VFEC_Centurion.labelMalePlural>
+        <!-- EN: centurion -->
+        <VFEC_Centurion.labelFemale>centúria</VFEC_Centurion.labelFemale>
+        <!-- EN: centurions -->
+        <VFEC_Centurion.labelFemalePlural>centúrias</VFEC_Centurion.labelFemalePlural>
+
+        <!-- EN: praetorian -->
+        <VFEC_Praetorian.label>pretoriano</VFEC_Praetorian.label>
+        <!-- EN: praetorians -->
+        <VFEC_Praetorian.labelPlural>pretorianos</VFEC_Praetorian.labelPlural>
+        <!-- EN: centurion -->
+        <VFEC_Praetorian.labelMale>pretoriano</VFEC_Praetorian.labelMale>
+        <!-- EN: centurions -->
+        <VFEC_Praetorian.labelMalePlural>pretorianos</VFEC_Praetorian.labelMalePlural>
+        <!-- EN: centurion -->
+        <VFEC_Praetorian.labelFemale>pretoriana</VFEC_Praetorian.labelFemale>
+        <!-- EN: centurions -->
+        <VFEC_Praetorian.labelFemalePlural>pretorianas</VFEC_Praetorian.labelFemalePlural>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: anti-riot unit -->
+        <VFEI_RiotUnit.label>unidade anti-choque</VFEI_RiotUnit.label>
+        <!-- EN: anti-riot units -->
+        <VFEI_RiotUnit.labelPlural>unidades anti-choque</VFEI_RiotUnit.labelPlural>
+        <!-- EN: anti-riot unit -->
+        <VFEI_RiotUnit.labelMale>unidade anti-choque</VFEI_RiotUnit.labelMale>
+        <!-- EN: anti-riot units -->
+        <VFEI_RiotUnit.labelMalePlural>unidades anti-choque</VFEI_RiotUnit.labelMalePlural>
+        <!-- EN: anti-riot unit -->
+        <VFEI_RiotUnit.labelFemale>unidade anti-choque</VFEI_RiotUnit.labelFemale>
+        <!-- EN: anti-riot units -->
+        <VFEI_RiotUnit.labelFemalePlural>unidades anti-choque</VFEI_RiotUnit.labelFemalePlural>
+
+        <!-- EN: mercenary -->
+        <VFE_Mercenary.label>mercenário</VFE_Mercenary.label>
+        <!-- EN: mercenaries -->
+        <VFE_Mercenary.labelPlural>mercenários</VFE_Mercenary.labelPlural>
+        <!-- EN: mercenary -->
+        <VFE_Mercenary.labelMale>mercenário</VFE_Mercenary.labelMale>
+        <!-- EN: mercenaries -->
+        <VFE_Mercenary.labelMalePlural>mercenários</VFE_Mercenary.labelMalePlural>
+        <!-- EN: mercenary -->
+        <VFE_Mercenary.labelFemale>mercenária</VFE_Mercenary.labelFemale>
+        <!-- EN: mercenaries -->
+        <VFE_Mercenary.labelFemalePlural>mercenárias</VFE_Mercenary.labelFemalePlural>
+
+        <!-- EN: insectoid queen -->
+        <VFEI_Insectoid_Queen.label>rainha insetoide</VFEI_Insectoid_Queen.label>
+        <!-- EN: insectoid queens -->
+        <VFEI_Insectoid_Queen.labelPlural>rainhas insetoides</VFEI_Insectoid_Queen.labelPlural>
+        <!-- EN: insectoid queen -->
+        <VFEI_Insectoid_Queen.labelMale>rainha insetoide</VFEI_Insectoid_Queen.labelMale>
+        <!-- EN: insectoid queens -->
+        <VFEI_Insectoid_Queen.labelMalePlural>rainhas insetoides</VFEI_Insectoid_Queen.labelMalePlural>
+        <!-- EN: insectoid queen -->
+        <VFEI_Insectoid_Queen.labelFemale>rainha insetoide</VFEI_Insectoid_Queen.labelFemale>
+        <!-- EN: insectoid queens -->
+        <VFEI_Insectoid_Queen.labelFemalePlural>rainhas insetoides</VFEI_Insectoid_Queen.labelFemalePlural>
+
+        <!-- EN: royal megaspider -->
+        <VFEI_Insectoid_RoyalMegaspider.label>megaranha real</VFEI_Insectoid_RoyalMegaspider.label>
+        <!-- EN: royal megaspiders -->
+        <VFEI_Insectoid_RoyalMegaspider.labelPlural>megaranhas reais</VFEI_Insectoid_RoyalMegaspider.labelPlural>
+        <!-- EN: royal megaspider -->
+        <VFEI_Insectoid_RoyalMegaspider.labelMale>megaranha real</VFEI_Insectoid_RoyalMegaspider.labelMale>
+        <!-- EN: royal megaspiders -->
+        <VFEI_Insectoid_RoyalMegaspider.labelMalePlural>megaranhas reais</VFEI_Insectoid_RoyalMegaspider.labelMalePlural>
+        <!-- EN: royal megaspider -->
+        <VFEI_Insectoid_RoyalMegaspider.labelFemale>megaranha real</VFEI_Insectoid_RoyalMegaspider.labelFemale>
+        <!-- EN: royal megaspiders -->
+        <VFEI_Insectoid_RoyalMegaspider.labelFemalePlural>megaranhas reais</VFEI_Insectoid_RoyalMegaspider.labelFemalePlural>
+
+        <!-- EN: gigalocust -->
+        <VFEI_Insectoid_Gigalocust.label>gigafanhoto</VFEI_Insectoid_Gigalocust.label>
+        <!-- EN: gigalocusts -->
+        <VFEI_Insectoid_Gigalocust.labelPlural>gigafanhotos</VFEI_Insectoid_Gigalocust.labelPlural>
+        <!-- EN: gigalocust -->
+        <VFEI_Insectoid_Gigalocust.labelMale>gigafanhoto</VFEI_Insectoid_Gigalocust.labelMale>
+        <!-- EN: gigalocusts -->
+        <VFEI_Insectoid_Gigalocust.labelMalePlural>gigafanhotos</VFEI_Insectoid_Gigalocust.labelMalePlural>
+        <!-- EN: gigalocust -->
+        <VFEI_Insectoid_Gigalocust.labelFemale>gigafanhoto</VFEI_Insectoid_Gigalocust.labelFemale>
+        <!-- EN: gigalocusts -->
+        <VFEI_Insectoid_Gigalocust.labelFemalePlural>gigafanhotos</VFEI_Insectoid_Gigalocust.labelFemalePlural>
+
+        <!-- EN: megapede -->
+        <VFEI_Insectoid_Megapede.label>megapeia</VFEI_Insectoid_Megapede.label>
+        <!-- EN: megapedes -->
+        <VFEI_Insectoid_Megapede.labelPlural>megapeias</VFEI_Insectoid_Megapede.labelPlural>
+        <!-- EN: megapede -->
+        <VFEI_Insectoid_Megapede.labelMale>megapeia</VFEI_Insectoid_Megapede.labelMale>
+        <!-- EN: megapedes -->
+        <VFEI_Insectoid_Megapede.labelMalePlural>megapeias</VFEI_Insectoid_Megapede.labelMalePlural>
+        <!-- EN: megapede -->
+        <VFEI_Insectoid_Megapede.labelFemale>megapeia</VFEI_Insectoid_Megapede.labelFemale>
+        <!-- EN: megapedes -->
+        <VFEI_Insectoid_Megapede.labelFemalePlural>megapeias</VFEI_Insectoid_Megapede.labelFemalePlural>
+
+        <!-- EN: larvae -->
+        <VFEI_Insectoid_Larvae.label>larva</VFEI_Insectoid_Larvae.label>
+        <!-- EN: larvae -->
+        <VFEI_Insectoid_Larvae.labelPlural>larvas</VFEI_Insectoid_Larvae.labelPlural>
+        <!-- EN: larvae -->
+        <VFEI_Insectoid_Megapede.labelMale>larva</VFEI_Insectoid_Megapede.labelMale>
+        <!-- EN: larvae -->
+        <VFEI_Insectoid_Megapede.labelMalePlural>larvas</VFEI_Insectoid_Megapede.labelMalePlural>
+        <!-- EN: larvae -->
+        <VFEI_Insectoid_Megapede.labelFemale>larva</VFEI_Insectoid_Megapede.labelFemale>
+        <!-- EN: larvae -->
+        <VFEI_Insectoid_Megapede.labelFemalePlural>larvas</VFEI_Insectoid_Megapede.labelFemalePlural>
+
+        <!-- EN: Vat-grown boomtick -->
+        <VFEI_VatgrownBoomtick.label>carrabum</VFEI_VatgrownBoomtick.label>
+        <!-- EN: Vat-grown boomticks -->
+        <VFEI_VatgrownBoomtick.labelPlural>carrabuns</VFEI_VatgrownBoomtick.labelPlural>
+        <!-- EN: Vat-grown boomtick -->
+        <VFEI_VatgrownBoomtick.labelMale>carrabum</VFEI_VatgrownBoomtick.labelMale>
+        <!-- EN: Vat-grown boomticks -->
+        <VFEI_VatgrownBoomtick.labelMalePlural>carrabuns</VFEI_VatgrownBoomtick.labelMalePlural>
+        <!-- EN: Vat-grown boomtick -->
+        <VFEI_VatgrownBoomtick.labelFemale>carrabum</VFEI_VatgrownBoomtick.labelFemale>
+        <!-- EN: Vat-grown boomticks -->
+        <VFEI_VatgrownBoomtick.labelFemalePlural>carrabuns</VFEI_VatgrownBoomtick.labelFemalePlural>
+
+        <!-- EN: Vat-grown cuterpillar -->
+        <VFEI_VatGrownCuterpillar.label>lagraciosa</VFEI_VatGrownCuterpillar.label>
+        <!-- EN: Vat-grown cuterpillars -->
+        <VFEI_VatGrownCuterpillar.labelPlural>lagraciosas</VFEI_VatGrownCuterpillar.labelPlural>
+        <!-- EN: Vat-grown cuterpillar -->
+        <VFEI_VatGrownCuterpillar.labelMale>lagraciosa</VFEI_VatGrownCuterpillar.labelMale>
+        <!-- EN: Vat-grown cuterpillars -->
+        <VFEI_VatGrownCuterpillar.labelMalePlural>lagraciosas</VFEI_VatGrownCuterpillar.labelMalePlural>
+        <!-- EN: Vat-grown cuterpillar -->
+        <VFEI_VatGrownCuterpillar.labelFemale>lagraciosa</VFEI_VatGrownCuterpillar.labelFemale>
+        <!-- EN: Vat-grown cuterpillars -->
+        <VFEI_VatGrownCuterpillar.labelFemalePlural>lagraciosas</VFEI_VatGrownCuterpillar.labelFemalePlural>
+
+        <!-- EN: Vat-grown gigascorpion -->
+        <VFEI_VatGrownGigascorpion.label>grandescorpião</VFEI_VatGrownGigascorpion.label>
+        <!-- EN: Vat-grown gigascorpions -->
+        <VFEI_VatGrownGigascorpion.labelPlural>grandescorpiões</VFEI_VatGrownGigascorpion.labelPlural>
+        <!-- EN: Vat-grown gigascorpion -->
+        <VFEI_VatGrownGigascorpion.labelMale>grandescorpião</VFEI_VatGrownGigascorpion.labelMale>
+        <!-- EN: Vat-grown gigascorpions -->
+        <VFEI_VatGrownGigascorpion.labelMalePlural>grandescorpiões</VFEI_VatGrownGigascorpion.labelMalePlural>
+        <!-- EN: Vat-grown gigascorpion -->
+        <VFEI_VatGrownGigascorpion.labelFemale>grandescorpião</VFEI_VatGrownGigascorpion.labelFemale>
+        <!-- EN: Vat-grown gigascorpions -->
+        <VFEI_VatGrownGigascorpion.labelFemalePlural>grandescorpiões</VFEI_VatGrownGigascorpion.labelFemalePlural>
+
+        <!-- EN: Vat-grown gigawig -->
+        <VFEI_VatGrownGigawig.label>penorme</VFEI_VatGrownGigawig.label>
+        <!-- EN: Vat-grown gigawigs -->
+        <VFEI_VatGrownGigawig.labelPlural>penormes</VFEI_VatGrownGigawig.labelPlural>
+        <!-- EN: Vat-grown gigawig -->
+        <VFEI_VatGrownGigawig.labelMale>penorme</VFEI_VatGrownGigawig.labelMale>
+        <!-- EN: Vat-grown gigawigs -->
+        <VFEI_VatGrownGigawig.labelMalePlural>penormes</VFEI_VatGrownGigawig.labelMalePlural>
+        <!-- EN: Vat-grown gigawig -->
+        <VFEI_VatGrownGigawig.labelFemale>penorme</VFEI_VatGrownGigawig.labelFemale>
+        <!-- EN: Vat-grown gigawigs -->
+        <VFEI_VatGrownGigawig.labelFemalePlural>penormes</VFEI_VatGrownGigawig.labelFemalePlural>
+
+        <!-- EN: Vat-grown megacricket -->
+        <VFEI_VatGrownMegacricket.label>grilossal</VFEI_VatGrownMegacricket.label>
+        <!-- EN: Vat-grown megacrickets -->
+        <VFEI_VatGrownMegacricket.labelPlural>grilossais</VFEI_VatGrownMegacricket.labelPlural>
+        <!-- EN: Vat-grown megacricket -->
+        <VFEI_VatGrownGigawig.labelMale>grilossal</VFEI_VatGrownGigawig.labelMale>
+        <!-- EN: Vat-grown megacrickets -->
+        <VFEI_VatGrownGigawig.labelMalePlural>grilossais</VFEI_VatGrownGigawig.labelMalePlural>
+        <!-- EN: Vat-grown megacricket -->
+        <VFEI_VatGrownGigawig.labelFemale>grilossal</VFEI_VatGrownGigawig.labelFemale>
+        <!-- EN: Vat-grown megacrickets -->
+        <VFEI_VatGrownGigawig.labelFemalePlural>grilossais</VFEI_VatGrownGigawig.labelFemalePlural>
+
+        <!-- EN: Vat-grown milkbeetle -->
+        <VFEI_VatGrownMilkbeetle.label>leitesouro</VFEI_VatGrownMilkbeetle.label>
+        <!-- EN: Vat-grown milkbeetles -->
+        <VFEI_VatGrownMilkbeetle.labelPlural>leitesouros</VFEI_VatGrownMilkbeetle.labelPlural>
+        <!-- EN: Vat-grown milkbeetle -->
+        <VFEI_VatGrownMilkbeetle.labelMale>leitesouro</VFEI_VatGrownMilkbeetle.labelMale>
+        <!-- EN: Vat-grown milkbeetles -->
+        <VFEI_VatGrownMilkbeetle.labelMalePlural>leitesouros</VFEI_VatGrownMilkbeetle.labelMalePlural>
+        <!-- EN: Vat-grown milkbeetle -->
+        <VFEI_VatGrownMilkbeetle.labelFemale>leitesouro</VFEI_VatGrownMilkbeetle.labelFemale>
+        <!-- EN: Vat-grown milkbeetles -->
+        <VFEI_VatGrownMilkbeetle.labelFemalePlural>leitesouros</VFEI_VatGrownMilkbeetle.labelFemalePlural>
+
+        <!-- EN: Vat-grown monstrosity -->
+        <VFEI_VatGrownMonstrosity.label>monstruosidade</VFEI_VatGrownMonstrosity.label>
+        <!-- EN: Vat-grown monstrosities -->
+        <VFEI_VatGrownMonstrosity.labelPlural>monstruosidades</VFEI_VatGrownMonstrosity.labelPlural>
+        <!-- EN: Vat-grown monstrosity -->
+        <VFEI_VatGrownMilkbeetle.labelMale>monstruosidade</VFEI_VatGrownMilkbeetle.labelMale>
+        <!-- EN: Vat-grown monstrosities -->
+        <VFEI_VatGrownMilkbeetle.labelMalePlural>monstruosidades</VFEI_VatGrownMilkbeetle.labelMalePlural>
+        <!-- EN: Vat-grown monstrosity -->
+        <VFEI_VatGrownMilkbeetle.labelFemale>monstruosidade</VFEI_VatGrownMilkbeetle.labelFemale>
+        <!-- EN: Vat-grown monstrosities -->
+        <VFEI_VatGrownMilkbeetle.labelFemalePlural>monstruosidades</VFEI_VatGrownMilkbeetle.labelFemalePlural>
+
+        <!-- EN: Vat-grown princess -->
+        <VFEI_VatGrownPrincess.label>princesa</VFEI_VatGrownPrincess.label>
+        <!-- EN: Vat-grown princesses -->
+        <VFEI_VatGrownPrincess.labelPlural>princesas</VFEI_VatGrownPrincess.labelPlural>
+        <!-- EN: Vat-grown princess -->
+        <VFEI_VatGrownPrincess.labelMale>princesa</VFEI_VatGrownPrincess.labelMale>
+        <!-- EN: Vat-grown princesses -->
+        <VFEI_VatGrownPrincess.labelMalePlural>princesas</VFEI_VatGrownPrincess.labelMalePlural>
+        <!-- EN: Vat-grown princess -->
+        <VFEI_VatGrownPrincess.labelFemale>princesa</VFEI_VatGrownPrincess.labelFemale>
+        <!-- EN: Vat-grown princesses -->
+        <VFEI_VatGrownPrincess.labelFemalePlural>princesas</VFEI_VatGrownPrincess.labelFemalePlural>
+
+        <!-- EN: Vat-grown royal larva -->
+        <VFEI_VatgrownRoyalLarva.label>larva real</VFEI_VatgrownRoyalLarva.label>
+        <!-- EN: Vat-grown royal larvas -->
+        <VFEI_VatgrownRoyalLarva.labelPlural>larvas reais</VFEI_VatgrownRoyalLarva.labelPlural>
+        <!-- EN: Vat-grown royal larva -->
+        <VFEI_VatgrownRoyalLarva.labelMale>larva real</VFEI_VatgrownRoyalLarva.labelMale>
+        <!-- EN: Vat-grown royal larvas -->
+        <VFEI_VatgrownRoyalLarva.labelMalePlural>larvas reais</VFEI_VatgrownRoyalLarva.labelMalePlural>
+        <!-- EN: Vat-grown royal larva -->
+        <VFEI_VatgrownRoyalLarva.labelFemale>larva real</VFEI_VatgrownRoyalLarva.labelFemale>
+        <!-- EN: Vat-grown royal larvas -->
+        <VFEI_VatgrownRoyalLarva.labelFemalePlural>larvas reais</VFEI_VatgrownRoyalLarva.labelFemalePlural>
+
+        <!-- EN: Vat-grown royal maggot -->
+        <VFEI_VatGrownRoyalMaggot.label>verme real</VFEI_VatGrownRoyalMaggot.label>
+        <!-- EN: Vat-grown royal maggots -->
+        <VFEI_VatGrownRoyalMaggot.labelPlural>vermes reais</VFEI_VatGrownRoyalMaggot.labelPlural>
+        <!-- EN: Vat-grown royal maggot -->
+        <VFEI_VatGrownRoyalMaggot.labelMale>verme real</VFEI_VatGrownRoyalMaggot.labelMale>
+        <!-- EN: Vat-grown royal maggots -->
+        <VFEI_VatGrownRoyalMaggot.labelMalePlural>vermes reais</VFEI_VatGrownRoyalMaggot.labelMalePlural>
+        <!-- EN: Vat-grown royal maggot -->
+        <VFEI_VatGrownRoyalMaggot.labelFemale>verme real</VFEI_VatGrownRoyalMaggot.labelFemale>
+        <!-- EN: Vat-grown royal maggots -->
+        <VFEI_VatGrownRoyalMaggot.labelFemalePlural>vermes reais</VFEI_VatGrownRoyalMaggot.labelFemalePlural>
+
+        <!-- EN: Vat-grown spiderweaver -->
+        <VFEI_VatGrownSpiderweaver.label>tecelaranha</VFEI_VatGrownSpiderweaver.label>
+        <!-- EN: Vat-grown spiderweavers -->
+        <VFEI_VatGrownSpiderweaver.labelPlural>tecelaranhas</VFEI_VatGrownSpiderweaver.labelPlural>
+        <!-- EN: Vat-grown spiderweaver -->
+        <VFEI_VatGrownSpiderweaver.labelMale>tecelaranha</VFEI_VatGrownSpiderweaver.labelMale>
+        <!-- EN: Vat-grown spiderweavers -->
+        <VFEI_VatGrownSpiderweaver.labelMalePlural>tecelaranhas</VFEI_VatGrownSpiderweaver.labelMalePlural>
+        <!-- EN: Vat-grown spiderweaver -->
+        <VFEI_VatGrownSpiderweaver.labelFemale>tecelaranha</VFEI_VatGrownSpiderweaver.labelFemale>
+        <!-- EN: Vat-grown spiderweavers -->
+        <VFEI_VatGrownSpiderweaver.labelFemalePlural>tecelaranhas</VFEI_VatGrownSpiderweaver.labelFemalePlural>
+
+        <!-- EN: Vat-grown titanbeetle -->
+        <VFEI_VatGrownTitanbeetle.label>tisouro</VFEI_VatGrownTitanbeetle.label>
+        <!-- EN: Vat-grown titanbeetles -->
+        <VFEI_VatGrownTitanbeetle.labelPlural>tisouros</VFEI_VatGrownTitanbeetle.labelPlural>
+        <!-- EN: Vat-grown titanbeetle -->
+        <VFEI_VatGrownTitanbeetle.labelMale>tisouro</VFEI_VatGrownTitanbeetle.labelMale>
+        <!-- EN: Vat-grown titanbeetles -->
+        <VFEI_VatGrownTitanbeetle.labelMalePlural>tisouros</VFEI_VatGrownTitanbeetle.labelMalePlural>
+        <!-- EN: Vat-grown titanbeetle -->
+        <VFEI_VatGrownTitanbeetle.labelFemale>tisouro</VFEI_VatGrownTitanbeetle.labelFemale>
+        <!-- EN: Vat-grown titanbeetles -->
+        <VFEI_VatGrownTitanbeetle.labelFemalePlural>tisouros</VFEI_VatGrownTitanbeetle.labelFemalePlural>
+
+        <!-- EN: Vat-grown gigalocust -->
+        <VFEI_VatGrownGigalocust.label>gigafanhoto</VFEI_VatGrownGigalocust.label>
+        <!-- EN: Vat-grown gigalocusts -->
+        <VFEI_VatGrownGigalocust.labelPlural>gigafanhotos</VFEI_VatGrownGigalocust.labelPlural>
+        <!-- EN: Vat-grown gigalocust -->
+        <VFEI_VatGrownGigalocust.labelMale>gigafanhoto</VFEI_VatGrownGigalocust.labelMale>
+        <!-- EN: Vat-grown gigalocusts -->
+        <VFEI_VatGrownGigalocust.labelMalePlural>gigafanhotos</VFEI_VatGrownGigalocust.labelMalePlural>
+        <!-- EN: Vat-grown gigalocust -->
+        <VFEI_VatGrownGigalocust.labelFemale>gigafanhoto</VFEI_VatGrownGigalocust.labelFemale>
+        <!-- EN: Vat-grown gigalocusts -->
+        <VFEI_VatGrownGigalocust.labelFemalePlural>gigafanhotos</VFEI_VatGrownGigalocust.labelFemalePlural>
+
+        <!-- EN: Vat-grown megapede -->
+        <VFEI_VatGrownMegapede.label>megapeia</VFEI_VatGrownMegapede.label>
+        <!-- EN: Vat-grown megapedes -->
+        <VFEI_VatGrownMegapede.labelPlural>megapeias</VFEI_VatGrownMegapede.labelPlural>
+        <!-- EN: Vat-grown megapede -->
+        <VFEI_VatGrownTitanbeetle.labelMale>megapeia</VFEI_VatGrownTitanbeetle.labelMale>
+        <!-- EN: Vat-grown megapedes -->
+        <VFEI_VatGrownTitanbeetle.labelMalePlural>megapeias</VFEI_VatGrownTitanbeetle.labelMalePlural>
+        <!-- EN: Vat-grown megapede -->
+        <VFEI_VatGrownTitanbeetle.labelFemale>megapeia</VFEI_VatGrownTitanbeetle.labelFemale>
+        <!-- EN: Vat-grown megapedes -->
+        <VFEI_VatGrownTitanbeetle.labelFemalePlural>megapeias</VFEI_VatGrownTitanbeetle.labelFemalePlural>
+
+        <!-- EN: Vat-grown megascarab -->
+        <VFEI_VatGrownMegascarab.label>megaescaravelho</VFEI_VatGrownMegascarab.label>
+        <!-- EN: Vat-grown megascarabs -->
+        <VFEI_VatGrownMegascarab.labelPlural>megaescaravelhos</VFEI_VatGrownMegascarab.labelPlural>
+        <!-- EN: Vat-grown megascarab -->
+        <VFEI_VatGrownMegascarab.labelMale>megapeia</VFEI_VatGrownMegascarab.labelMale>
+        <!-- EN: Vat-grown megascarabs -->
+        <VFEI_VatGrownMegascarab.labelMalePlural>megapeias</VFEI_VatGrownMegascarab.labelMalePlural>
+        <!-- EN: Vat-grown megascarab -->
+        <VFEI_VatGrownMegascarab.labelFemale>megapeia</VFEI_VatGrownMegascarab.labelFemale>
+        <!-- EN: Vat-grown megascarabs -->
+        <VFEI_VatGrownMegascarab.labelFemalePlural>megapeias</VFEI_VatGrownMegascarab.labelFemalePlural>
+
+        <!-- EN: Vat-grown megaspider -->
+        <VFEI_VatgrownMegaspider.label>megaranha</VFEI_VatgrownMegaspider.label>
+        <!-- EN: Vat-grown megaspiders -->
+        <VFEI_VatgrownMegaspider.labelPlural>megaranhas</VFEI_VatgrownMegaspider.labelPlural>
+        <!-- EN: Vat-grown megaspider -->
+        <VFEI_VatgrownMegaspider.labelMale>megaranha</VFEI_VatgrownMegaspider.labelMale>
+        <!-- EN: Vat-grown megaspiders -->
+        <VFEI_VatgrownMegaspider.labelMalePlural>megaranhas</VFEI_VatgrownMegaspider.labelMalePlural>
+        <!-- EN: Vat-grown megaspider -->
+        <VFEI_VatgrownMegaspider.labelFemale>megaranha</VFEI_VatgrownMegaspider.labelFemale>
+        <!-- EN: Vat-grown megaspiders -->
+        <VFEI_VatgrownMegaspider.labelFemalePlural>megaranhas</VFEI_VatgrownMegaspider.labelFemalePlural>
+
+        <!-- EN: Vat-grown spelopede -->
+        <VFEI_VatGrownSpelopede.label>espelópede</VFEI_VatGrownSpelopede.label>
+        <!-- EN: Vat-grown spelopedes -->
+        <VFEI_VatGrownSpelopede.labelPlural>espelópedes</VFEI_VatGrownSpelopede.labelPlural>
+        <!-- EN: Vat-grown spelopede -->
+        <VFEI_VatgrownMegaspider.labelMale>espelópede</VFEI_VatgrownMegaspider.labelMale>
+        <!-- EN: Vat-grown spelopedes -->
+        <VFEI_VatgrownMegaspider.labelMalePlural>espelópedes</VFEI_VatgrownMegaspider.labelMalePlural>
+        <!-- EN: Vat-grown spelopede -->
+        <VFEI_VatgrownMegaspider.labelFemale>espelópede</VFEI_VatgrownMegaspider.labelFemale>
+        <!-- EN: Vat-grown spelopedes -->
+        <VFEI_VatgrownMegaspider.labelFemalePlural>espelópedes</VFEI_VatgrownMegaspider.labelFemalePlural>
+
+        <!-- EN: Vat-grown wargling -->
+        <VFEI_VatGrownWargling.label>marigul</VFEI_VatGrownWargling.label>
+        <!-- EN: Vat-grown warglings -->
+        <VFEI_VatGrownWargling.labelPlural>mariguis</VFEI_VatGrownWargling.labelPlural>
+        <!-- EN: Vat-grown wargling -->
+        <VFEI_VatgrownMegaspider.labelMale>marigul</VFEI_VatgrownMegaspider.labelMale>
+        <!-- EN: Vat-grown warglings -->
+        <VFEI_VatgrownMegaspider.labelMalePlural>mariguis</VFEI_VatgrownMegaspider.labelMalePlural>
+        <!-- EN: Vat-grown wargling -->
+        <VFEI_VatgrownMegaspider.labelFemale>marigul</VFEI_VatgrownMegaspider.labelFemale>
+        <!-- EN: Vat-grown warglings -->
+        <VFEI_VatgrownMegaspider.labelFemalePlural>mariguis</VFEI_VatgrownMegaspider.labelFemalePlural>
+
+        <!-- EN: Vat-grown worker ant -->
+        <VFEI_VatGrownWorkerAnt.label>formigartífice</VFEI_VatGrownWorkerAnt.label>
+        <!-- EN: Vat-grown worker ants -->
+        <VFEI_VatGrownWorkerAnt.labelPlural>formigartífices</VFEI_VatGrownWorkerAnt.labelPlural>
+        <!-- EN: Vat-grown worker ant -->
+        <VFEI_VatGrownWorkerAnt.labelMale>formigartífice</VFEI_VatGrownWorkerAnt.labelMale>
+        <!-- EN: Vat-grown worker ants -->
+        <VFEI_VatGrownWorkerAnt.labelMalePlural>formigartífices</VFEI_VatGrownWorkerAnt.labelMalePlural>
+        <!-- EN: Vat-grown worker ant -->
+        <VFEI_VatGrownWorkerAnt.labelFemale>formigartífice</VFEI_VatGrownWorkerAnt.labelFemale>
+        <!-- EN: Vat-grown worker ants -->
+        <VFEI_VatGrownWorkerAnt.labelFemalePlural>formigartífices</VFEI_VatGrownWorkerAnt.labelFemalePlural>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: advanced centipede -->
+        <VFE_Mech_AdvancedCentipede.label>centopeia avançada</VFE_Mech_AdvancedCentipede.label>
+        <!-- EN: advanced centipedes -->
+        <VFE_Mech_AdvancedCentipede.labelPlural>centopeias avançadas</VFE_Mech_AdvancedCentipede.labelPlural>
+
+        <!-- EN: advanced lancer -->
+        <VFE_Mech_AdvancedLancer.label>lanceiro avançado</VFE_Mech_AdvancedLancer.label>
+        <!-- EN: advanced lancers -->
+        <VFE_Mech_AdvancedCentipede.labelPlural>lanceiros avançados</VFE_Mech_AdvancedCentipede.labelPlural>
+
+        <!-- EN: advanced knight -->
+        <VFE_Mech_AdvancedKnight.label>cavaleiro avançado</VFE_Mech_AdvancedKnight.label>
+        <!-- EN: advanced knights -->
+        <VFE_Mech_AdvancedKnight.labelPlural>cavaleiros avançados</VFE_Mech_AdvancedKnight.labelPlural>
+
+        <!-- EN: advanced inquisitor -->
+        <VFE_Mech_AdvancedInquisitor.label>inquisidor avançado</VFE_Mech_AdvancedInquisitor.label>
+        <!-- EN: advanced inquisitors -->
+        <VFE_Mech_AdvancedInquisitor.labelPlural>inquisidores avançados</VFE_Mech_AdvancedInquisitor.labelPlural>
+
+        <!-- EN: advanced scyther -->
+        <VFE_Mech_AdvancedScyther.label>ceifador avançado</VFE_Mech_AdvancedScyther.label>
+        <!-- EN: advanced scythers -->
+        <VFE_Mech_AdvancedScyther.labelPlural>ceifadores avançados</VFE_Mech_AdvancedScyther.labelPlural>
+
+        <!-- EN: advanced pikeman -->
+        <VFE_Mech_AdvancedPikeman.label>piqueiro avançado</VFE_Mech_AdvancedPikeman.label>
+        <!-- EN: advanced pikemen -->
+        <VFE_Mech_AdvancedPikeman.labelPlural>piqueiros avançados</VFE_Mech_AdvancedPikeman.labelPlural>
+
+        <!-- EN: advanced carpenter -->
+        <VFE_Mech_AdvancedCarpenter.label>carpinteiro avançado</VFE_Mech_AdvancedCarpenter.label>
+        <!-- EN: advanced carpenters -->
+        <VFE_Mech_AdvancedCarpenter.labelPlural>carpinteiros avançados</VFE_Mech_AdvancedCarpenter.labelPlural>
+
+        <!-- EN: advanced termite -->
+        <VFE_Mech_AdvTermite.label>cupim avançado</VFE_Mech_AdvTermite.label>
+        <!-- EN: termites -->
+        <VFE_Mech_AdvTermite.labelPlural>cupins avançados</VFE_Mech_AdvTermite.labelPlural>
+
+        <!-- EN: carpenter -->
+        <VFE_AncientMech_AncientCarpenter.label>carpinteiro</VFE_AncientMech_AncientCarpenter.label>
+        <!-- EN: carpenters -->
+        <VFE_AncientMech_AncientCarpenter.labelPlural>carpinteiros</VFE_AncientMech_AncientCarpenter.labelPlural>
+
+        <!-- EN: autocleaner --> 
+        <VFE_Mechanoids_Autocleaner.label>aspirador automático</VFE_Mechanoids_Autocleaner.label>
+        <!-- EN: autocleaners --> 
+        <VFE_Mechanoids_Autocleaner.labelPlural>aspiradores automáticos</VFE_Mechanoids_Autocleaner.labelPlural>
+
+        <!-- EN: autohauler -->
+        <VFE_Mechanoids_Autohauler.label>transportador automático</VFE_Mechanoids_Autohauler.label>
+        <!-- EN: autohaulers -->
+        <VFE_Mechanoids_Autohauler.labelPlural>transportadores automáticos</VFE_Mechanoids_Autohauler.labelPlural>
+
+        <!-- EN: autominer -->
+        <VFE_Mechanoids_Autominer.label>minerador automático</VFE_Mechanoids_Autominer.label>
+        <!-- EN: autominers -->
+        <VFE_Mechanoids_Autominer.labelPlural>mineradores automáticos</VFE_Mechanoids_Autominer.labelPlural>
+
+        <!-- EN: combat mechanoid -->
+        <VFE_Mechanoids_Combat.label>mecanoide de combate</VFE_Mechanoids_Combat.label>
+        <!-- EN: combat mechanoids -->
+        <VFE_Mechanoids_Combat.labelPlural>mecanoides de combate</VFE_Mechanoids_Combat.labelPlural>
+
+        <!-- EN: riot mechanoid -->
+        <VFE_Mechanoids_Riot.label>mecanoide de rinha</VFE_Mechanoids_Riot.label>
+        <!-- EN: riot mechanoids -->
+        <VFE_Mechanoids_Riot.labelPlural>mecanoides de rinha</VFE_Mechanoids_Riot.labelPlural>
+
+        <!-- EN: mobile turret -->
+        <VFE_Mechanoids_Turret.label>torreta móvel</VFE_Mechanoids_Turret.label>
+        <!-- EN: mobile turrets -->
+        <VFE_Mechanoids_Turret.labelPlural>torretas móveis</VFE_Mechanoids_Turret.labelPlural>
+
+        <!-- EN: autostrider -->
+        <VFE_Mechanoids_Autostrider.label>andarilho automático</VFE_Mechanoids_Autostrider.label>
+        <!-- EN: autostriders -->
+        <VFE_Mechanoids_Autostrider.labelPlural>andarilhos automáticos</VFE_Mechanoids_Autostrider.labelPlural>
+
+        <!-- EN: auto-medic -->
+        <VFE_Mechanoids_AutoMedic.label>médico automático</VFE_Mechanoids_AutoMedic.label>
+        <!-- EN: auto-medics -->
+        <VFE_Mechanoids_AutoMedic.labelPlural>médicos automáticos</VFE_Mechanoids_AutoMedic.labelPlural>
+
+        <!-- EN: raider mechanoid -->
+        <VFE_Mechanoids_Raider.label>mecanoide invasor</VFE_Mechanoids_Raider.label>
+        <!-- EN: raider mechanoids -->
+        <VFE_Mechanoids_Raider.labelPlural>mecanoides invasores</VFE_Mechanoids_Raider.labelPlural>
+
+        <!-- EN: pyro mechanoid -->
+        <VFE_Mechanoids_Pyro.label>mecanoide pirómano</VFE_Mechanoids_Pyro.label>
+        <!-- EN: pyro mechanoids -->
+        <VFE_Mechanoids_Pyro.labelPlural>mecanoides pirómanos</VFE_Mechanoids_Pyro.labelPlural>
+
+        <!-- EN: autobroadcaster -->
+        <VFE_Mechanoids_Autobroadcaster.label>emissor automático</VFE_Mechanoids_Autobroadcaster.label>
+        <!-- EN: autobroadcasters -->
+        <VFE_Mechanoids_Autobroadcaster.labelPlural>emissores automáticos</VFE_Mechanoids_Autobroadcaster.labelPlural>
+
+        <!-- EN: centipede -->
+        <VFE_Mech_Centipede.label>centopeia</VFE_Mech_Centipede.label>
+        <!-- EN: autobroadcasters -->
+        <VFE_Mech_Centipede.labelPlural>centopeias</VFE_Mech_Centipede.labelPlural>
+
+        <!-- EN: lancer -->
+        <VFE_Mech_Lancer.label>lanceiro</VFE_Mech_Lancer.label>
+        <!-- EN: lancers -->
+        <VFE_Mech_Lancer.labelPlural>lanceiros</VFE_Mech_Lancer.labelPlural>
+
+        <!-- EN: knight -->
+        <VFE_Mech_Knight.label>cavaleiro</VFE_Mech_Knight.label>
+        <!-- EN: knights -->
+        <VFE_Mech_Knight.labelPlural>cavaleiro</VFE_Mech_Knight.labelPlural>
+
+        <!-- EN: inquisitor -->
+        <VFE_Mech_Inquisitor.label>inquisidor</VFE_Mech_Inquisitor.label>
+        <!-- EN: inquisitors -->
+        <VFE_Mech_Inquisitor.labelPlural>inquisidores</VFE_Mech_Inquisitor.labelPlural>
+
+        <!-- EN: scyther -->
+        <VFE_Mech_Scyther.label>ceifador</VFE_Mech_Scyther.label>
+        <!-- EN: scythers -->
+        <VFE_Mech_Scyther.labelPlural>ceifadores</VFE_Mech_Scyther.labelPlural>
+
+        <!-- EN: pikeman -->
+        <VFE_Mech_Pikeman.label>piqueiro</VFE_Mech_Pikeman.label>
+        <!-- EN: pikemen -->
+        <VFE_Mech_Pikeman.labelPlural>piqueiros</VFE_Mech_Pikeman.labelPlural>
+
+        <!-- EN: carpenter -->
+        <VFE_Mech_Carpenter.label>carpinteiro</VFE_Mech_Carpenter.label>
+        <!-- EN: carpenters -->
+        <VFE_Mech_Carpenter.labelPlural>carpinteiros</VFE_Mech_Carpenter.labelPlural>
+
+        <!-- EN: termite -->
+        <VFE_Mech_Termite.label>cupim</VFE_Mech_Termite.label>
+        <!-- EN: termites -->
+        <VFE_Mech_Termite.labelPlural>cupins</VFE_Mech_Termite.labelPlural>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: peasant -->
+        <VFEM_Medieval_Peasant.label>camponês</VFEM_Medieval_Peasant.label>
+        <!-- EN: peasants -->
+        <VFEM_Medieval_Peasant.labelPlural>camponeses</VFEM_Medieval_Peasant.labelPlural>
+        <!-- EN: peasant -->
+        <VFEM_Medieval_Peasant.labelMale>camponês</VFEM_Medieval_Peasant.labelMale>
+        <!-- EN: peasants -->
+        <VFEM_Medieval_Peasant.labelMalePlural>camponeses</VFEM_Medieval_Peasant.labelMalePlural>
+        <!-- EN: peasant -->
+        <VFEM_Medieval_Peasant.labelFemale>camponesa</VFEM_Medieval_Peasant.labelFemale>
+        <!-- EN: peasants -->
+        <VFEM_Medieval_Peasant.labelFemalePlural>camponesas</VFEM_Medieval_Peasant.labelFemalePlural>
+
+        <!-- EN: merchant -->
+        <VFEM_Medieval_Merchant.label>comerciante</VFEM_Medieval_Merchant.label>
+        <!-- EN: merchants -->
+        <VFEM_Medieval_Merchant.labelPlural>comerciantes</VFEM_Medieval_Merchant.labelPlural>
+        <!-- EN: merchant -->
+        <VFEM_Medieval_Merchant.labelMale>comerciante</VFEM_Medieval_Merchant.labelMale>
+        <!-- EN: merchants -->
+        <VFEM_Medieval_Merchant.labelMalePlural>comerciantes</VFEM_Medieval_Merchant.labelMalePlural>
+        <!-- EN: merchant -->
+        <VFEM_Medieval_Merchant.labelFemale>comerciante</VFEM_Medieval_Merchant.labelFemale>
+        <!-- EN: merchants -->
+        <VFEM_Medieval_Merchant.labelFemalePlural>comerciantes</VFEM_Medieval_Merchant.labelFemalePlural>
+
+        <!-- EN: squire  -->
+        <VFEM_Medieval_Squire.label>escudeiro</VFEM_Medieval_Squire.label>
+        <!-- EN: squires -->
+        <VFEM_Medieval_Squire.labelPlural>escudeiros</VFEM_Medieval_Squire.labelPlural>
+        <!-- EN: squire -->
+        <VFEM_Medieval_Squire.labelMale>escudeiro</VFEM_Medieval_Squire.labelMale>
+        <!-- EN: squires -->
+        <VFEM_Medieval_Squire.labelMalePlural>escudeiros</VFEM_Medieval_Squire.labelMalePlural>
+        <!-- EN: squire -->
+        <VFEM_Medieval_Squire.labelFemale>escudeira</VFEM_Medieval_Squire.labelFemale>
+        <!-- EN: squires -->
+        <VFEM_Medieval_Squire.labelFemalePlural>escudeiras</VFEM_Medieval_Squire.labelFemalePlural>
+
+        <!-- EN: bowman -->
+        <VFEM_Medieval_Bowman.label>arqueiro</VFEM_Medieval_Bowman.label>
+        <!-- EN: bowmen -->
+        <VFEM_Medieval_Bowman.labelPlural>arqueiros</VFEM_Medieval_Bowman.labelPlural>
+        <!-- EN: bowman -->
+        <VFEM_Medieval_Bowman.labelMale>arqueiro</VFEM_Medieval_Bowman.labelMale>
+        <!-- EN: bowmen -->
+        <VFEM_Medieval_Bowman.labelMalePlural>arqueiros</VFEM_Medieval_Bowman.labelMalePlural>
+        <!-- EN: bowman -->
+        <VFEM_Medieval_Bowman.labelFemale>arqueira</VFEM_Medieval_Bowman.labelFemale>
+        <!-- EN: bowmen -->
+        <VFEM_Medieval_Bowman.labelFemalePlural>arqueiras</VFEM_Medieval_Bowman.labelFemalePlural>
+
+        <!-- EN: footsoldier -->
+        <VFEM_Medieval_Footsoldier.label>soldado de infantaria</VFEM_Medieval_Footsoldier.label>
+        <!-- EN: footsoldiers -->
+        <VFEM_Medieval_Footsoldier.labelPlural>soldados de infantaria</VFEM_Medieval_Footsoldier.labelPlural>
+        <!-- EN: footsoldier -->
+        <VFEM_Medieval_Footsoldier.labelMale>soldado de infantaria</VFEM_Medieval_Footsoldier.labelMale>
+        <!-- EN: footsoldiers -->
+        <VFEM_Medieval_Footsoldier.labelMalePlural>soldados de infantaria</VFEM_Medieval_Footsoldier.labelMalePlural>
+        <!-- EN: footsoldier -->
+        <VFEM_Medieval_Footsoldier.labelFemale>soldada de infantaria</VFEM_Medieval_Footsoldier.labelFemale>
+        <!-- EN: footsoldiers -->
+        <VFEM_Medieval_Footsoldier.labelFemalePlural>soldadas de infantaria</VFEM_Medieval_Footsoldier.labelFemalePlural>
+
+        <!-- EN: knight -->
+        <VFEM_Medieval_Knight.label>cavaleiro</VFEM_Medieval_Knight.label>
+        <!-- EN: knights -->
+        <VFEM_Medieval_Knight.labelPlural>cavaleiros</VFEM_Medieval_Knight.labelPlural>
+        <!-- EN: knight -->
+        <VFEM_Medieval_Knight.labelMale>cavaleiro</VFEM_Medieval_Knight.labelMale>
+        <!-- EN: knights -->
+        <VFEM_Medieval_Knight.labelMalePlural>cavaleiros</VFEM_Medieval_Knight.labelMalePlural>
+        <!-- EN: knight -->
+        <VFEM_Medieval_Knight.labelFemale>cavaleira</VFEM_Medieval_Knight.labelFemale>
+        <!-- EN: knights -->
+        <VFEM_Medieval_Knight.labelFemalePlural>cavaleiras</VFEM_Medieval_Knight.labelFemalePlural>
+
+        <!-- EN: lord -->
+        <VFEM_Medieval_Lord.label>lorde</VFEM_Medieval_Lord.label>
+        <!-- EN: lords -->
+        <VFEM_Medieval_Lord.labelPlural>lordes</VFEM_Medieval_Lord.labelPlural>
+        <!-- EN: lord -->
+        <VFEM_Medieval_Lord.labelMale>lorde</VFEM_Medieval_Lord.labelMale>
+        <!-- EN: lords -->
+        <VFEM_Medieval_Lord.labelMalePlural>lordes</VFEM_Medieval_Lord.labelMalePlural>
+        <!-- EN: lord -->
+        <VFEM_Medieval_Lord.labelFemale>lorde</VFEM_Medieval_Lord.labelFemale>
+        <!-- EN: lords -->
+        <VFEM_Medieval_Lord.labelFemalePlural>lordes</VFEM_Medieval_Lord.labelFemalePlural>
+
+        <!-- EN: jester -->
+        <VFEM_Medieval_Jester.label>bobo da corte</VFEM_Medieval_Jester.label>
+        <!-- EN: jesters -->
+        <VFEM_Medieval_Jester.labelPlural>bobos da corte</VFEM_Medieval_Jester.labelPlural>
+        <!-- EN: jester -->
+        <VFEM_Medieval_Jester.labelMale>bobo da corte</VFEM_Medieval_Jester.labelMale>
+        <!-- EN: jesters -->
+        <VFEM_Medieval_Jester.labelMalePlural>bobos da corte</VFEM_Medieval_Jester.labelMalePlural>
+        <!-- EN: jester -->
+        <VFEM_Medieval_Jester.labelFemale>boba da corte</VFEM_Medieval_Jester.labelFemale>
+        <!-- EN: jesters -->
+        <VFEM_Medieval_Jester.labelFemalePlural>bobas da corte</VFEM_Medieval_Jester.labelFemalePlural>
+
+        <!-- EN: dame -->
+        <VFEM_Medieval_Dame.label>cavalheiro</VFEM_Medieval_Dame.label>
+        <!-- EN: dames -->
+        <VFEM_Medieval_Dame.labelPlural>cavalheiros</VFEM_Medieval_Dame.labelPlural>
+        <!-- EN: dame -->
+        <VFEM_Medieval_Dame.labelMale>cavalheiro</VFEM_Medieval_Dame.labelMale>
+        <!-- EN: dames -->
+        <VFEM_Medieval_Dame.labelMalePlural>cavalheiros</VFEM_Medieval_Dame.labelMalePlural>
+        <!-- EN: dame -->
+        <VFEM_Medieval_Dame.labelFemale>dama</VFEM_Medieval_Dame.labelFemale>
+        <!-- EN: dames -->
+        <VFEM_Medieval_Dame.labelFemalePlural>damas</VFEM_Medieval_Dame.labelFemalePlural>
+
+        <!-- EN: king -->
+        <VFEM_Medieval_King.label>rei</VFEM_Medieval_King.label>
+        <!-- EN: kings -->
+        <VFEM_Medieval_King.labelPlural>reis</VFEM_Medieval_King.labelPlural>
+        <!-- EN: king -->
+        <VFEM_Medieval_King.labelMale>rei</VFEM_Medieval_King.labelMale>
+        <!-- EN: kings -->
+        <VFEM_Medieval_King.labelMalePlural>reis</VFEM_Medieval_King.labelMalePlural>
+        <!-- EN: queen -->
+        <VFEM_Medieval_King.labelFemale>rainha</VFEM_Medieval_King.labelFemale>
+        <!-- EN: queens -->
+        <VFEM_Medieval_King.labelFemalePlural>rainhas</VFEM_Medieval_King.labelFemalePlural>
+
+        <!-- EN: subject -->
+        <VFEM_Subject.label>súdito</VFEM_Subject.label>
+        <!-- EN: subjects -->
+        <VFEM_Subject.labelPlural>súditos</VFEM_Subject.labelPlural>
+        <!-- EN: subject -->
+        <VFEM_Subject.labelMale>súdito</VFEM_Subject.labelMale>
+        <!-- EN: subjects -->
+        <VFEM_Subject.labelMalePlural>súditos</VFEM_Subject.labelMalePlural>
+        <!-- EN: subject -->
+        <VFEM_Subject.labelFemale>súdita</VFEM_Subject.labelFemale>
+        <!-- EN: subjects -->
+        <VFEM_Subject.labelFemalePlural>súditas</VFEM_Subject.labelFemalePlural>
+
+        <!-- EN: sellsword -->
+        <VFEM_SellSword.label>mercenário</VFEM_SellSword.label>
+        <!-- EN: sellswords -->
+        <VFEM_SellSword.labelPlural>mercenários</VFEM_SellSword.labelPlural>
+        <!-- EN: sellsword -->
+        <VFEM_SellSword.labelMale>mercenário</VFEM_SellSword.labelMale>
+        <!-- EN: sellswords -->
+        <VFEM_SellSword.labelMalePlural>mercenários</VFEM_SellSword.labelMalePlural>
+        <!-- EN: sellsword -->
+        <VFEM_SellSword.labelFemale>mercenária</VFEM_SellSword.labelFemale>
+        <!-- EN: sellswords -->
+        <VFEM_SellSword.labelFemalePlural>mercenárias</VFEM_SellSword.labelFemalePlural>
+
+        <!-- EN: black knight -->
+        <VFEM_BlackKnight.label>cavaleiro negro</VFEM_BlackKnight.label>
+        <!-- EN: black knights -->
+        <VFEM_BlackKnight.labelPlural>cavaleiros negros</VFEM_BlackKnight.labelPlural>
+        <!-- EN: black knight -->
+        <VFEM_BlackKnight.labelMale>cavaleiro negro</VFEM_BlackKnight.labelMale>
+        <!-- EN: black knights -->
+        <VFEM_BlackKnight.labelMalePlural>cavaleiros negros</VFEM_BlackKnight.labelMalePlural>
+        <!-- EN: black knight -->
+        <VFEM_BlackKnight.labelFemale>cavaleira negra</VFEM_BlackKnight.labelFemale>
+        <!-- EN: black knights -->
+        <VFEM_BlackKnight.labelFemalePlural>cavaleiras negras</VFEM_BlackKnight.labelFemalePlural>
+
+        <!-- EN: knight in the black -->
+        <VFEM_KnightInBlack.label>cavaleiro sombrio</VFEM_KnightInBlack.label>
+        <!-- EN: knights in the black -->
+        <VFEM_KnightInBlack.labelPlural>cavaleiros sombrios</VFEM_KnightInBlack.labelPlural>
+        <!-- EN: knight in the black -->
+        <VFEM_KnightInBlack.labelMale>cavaleiro sombrio</VFEM_KnightInBlack.labelMale>
+        <!-- EN: knights in the black -->
+        <VFEM_KnightInBlack.labelMalePlural>cavaleiros sombrios</VFEM_KnightInBlack.labelMalePlural>
+        <!-- EN: knight in the black -->
+        <VFEM_KnightInBlack.labelFemale>cavaleira sombria</VFEM_KnightInBlack.labelFemale>
+        <!-- EN: knights in the black -->
+        <VFEM_KnightInBlack.labelFemalePlural>cavaleiras sombrias</VFEM_KnightInBlack.labelFemalePlural>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: scrapper -->
+        <VFEP_Scrapper.label>sucateador</VFEP_Scrapper.label>
+        <!-- EN: scrappers -->
+        <VFEP_Scrapper.labelPlural>sucateadores</VFEP_Scrapper.labelPlural>
+        <!-- EN: scrapper -->
+        <VFEP_Scrapper.labelMale>sucateador</VFEP_Scrapper.labelMale>
+        <!-- EN: scrappers -->
+        <VFEP_Scrapper.labelMalePlural>sucateadores</VFEP_Scrapper.labelMalePlural>
+        <!-- EN: scrapper -->
+        <VFEP_Scrapper.labelFemale>sucateadora</VFEP_Scrapper.labelFemale>
+        <!-- EN: scrappers -->
+        <VFEP_Scrapper.labelFemalePlural>sucateadoras</VFEP_Scrapper.labelFemalePlural>
+
+        <!-- EN: footsoldier -->
+        <VFEP_Footsoldier.label>soldado de infantaria</VFEP_Footsoldier.label>
+        <!-- EN: footsoldiers -->
+        <VFEP_Footsoldier.labelPlural>soldados de infantaria</VFEP_Footsoldier.labelPlural>
+        <!-- EN: footsoldier -->
+        <VFEP_Footsoldier.labelMale>soldado de infantaria</VFEP_Footsoldier.labelMale>
+        <!-- EN: footsoldiers -->
+        <VFEP_Footsoldier.labelMalePlural>soldados de infantaria</VFEP_Footsoldier.labelMalePlural>
+        <!-- EN: footsoldier -->
+        <VFEP_Footsoldier.labelFemale>soldada de infantaria</VFEP_Footsoldier.labelFemale>
+        <!-- EN: footsoldiers -->
+        <VFEP_Footsoldier.labelFemalePlural>soldadas de infantaria</VFEP_Footsoldier.labelFemalePlural>
+
+        <!-- EN: veteran -->
+        <VFEP_Veteran.label>ex-combatente</VFEP_Veteran.label>
+        <!-- EN: veterans -->
+        <VFEP_Veteran.labelPlural>ex-combatentes</VFEP_Veteran.labelPlural>
+        <!-- EN: veteran -->
+        <VFEP_Veteran.labelMale>ex-combatente</VFEP_Veteran.labelMale>
+        <!-- EN: veterans -->
+        <VFEP_Veteran.labelMalePlural>ex-combatentes</VFEP_Veteran.labelMalePlural>
+        <!-- EN: veteran -->
+        <VFEP_Veteran.labelFemale>ex-combatente</VFEP_Veteran.labelFemale>
+        <!-- EN: veterans -->
+        <VFEP_Veteran.labelFemalePlural>ex-combatentes</VFEP_Veteran.labelFemalePlural>
+
+        <!-- EN: heavy weapons platform -->
+        <VFEP_HeavyWeaponsPlatform.label>armeiro pesado</VFEP_HeavyWeaponsPlatform.label>
+        <!-- EN: heavy weapons platforms -->
+        <VFEP_HeavyWeaponsPlatform.labelPlural>armeiros pesados</VFEP_HeavyWeaponsPlatform.labelPlural>
+        <!-- EN: heavy weapons platform -->
+        <VFEP_HeavyWeaponsPlatform.labelMale>armeiro pesado</VFEP_HeavyWeaponsPlatform.labelMale>
+        <!-- EN: heavy weapons platforms -->
+        <VFEP_HeavyWeaponsPlatform.labelMalePlural>armeiros pesados</VFEP_HeavyWeaponsPlatform.labelMalePlural>
+        <!-- EN: heavy weapons platform -->
+        <VFEP_HeavyWeaponsPlatform.labelFemale>armeira pesada</VFEP_HeavyWeaponsPlatform.labelFemale>
+        <!-- EN: heavy weapons platforms -->
+        <VFEP_HeavyWeaponsPlatform.labelFemalePlural>armeiras pesadas</VFEP_HeavyWeaponsPlatform.labelFemalePlural>
+
+        <!-- EN: hussar -->
+        <VFEP_Hussar.label>hussardo</VFEP_Hussar.label>
+        <!-- EN: hussars -->
+        <VFEP_Hussar.labelPlural>hussardos</VFEP_Hussar.labelPlural>
+        <!-- EN: hussar -->
+        <VFEP_Hussar.labelMale>hussardo</VFEP_Hussar.labelMale>
+        <!-- EN: hussars -->
+        <VFEP_Hussar.labelMalePlural>hussardos</VFEP_Hussar.labelMalePlural>
+        <!-- EN: hussar -->
+        <VFEP_Hussar.labelFemale>hussarda</VFEP_Hussar.labelFemale>
+        <!-- EN: hussars -->
+        <VFEP_Hussar.labelFemalePlural>hussardas</VFEP_Hussar.labelFemalePlural>
+
+        <!-- EN: pyro -->
+        <VFEP_Pyro.label>pirómano</VFEP_Pyro.label>
+        <!-- EN: pyros -->
+        <VFEP_Pyro.labelPlural>pirómanos</VFEP_Pyro.labelPlural>
+        <!-- EN: pyro -->
+        <VFEP_Pyro.labelMale>pirómano</VFEP_Pyro.labelMale>
+        <!-- EN: pyros -->
+        <VFEP_Pyro.labelMalePlural>pirómanos</VFEP_Pyro.labelMalePlural>
+        <!-- EN: pyro -->
+        <VFEP_Pyro.labelFemale>pirómano</VFEP_Pyro.labelFemale>
+        <!-- EN: pyros -->
+        <VFEP_Pyro.labelFemalePlural>pirómanos</VFEP_Pyro.labelFemalePlural>
+
+        <!-- EN: artillery -->
+        <VFEP_Artillery.label>artilheiro</VFEP_Artillery.label>
+        <!-- EN: artilleries -->
+        <VFEP_Artillery.labelPlural>artilheiros</VFEP_Artillery.labelPlural>
+        <!-- EN: artillery -->
+        <VFEP_Artillery.labelMale>artilheiro</VFEP_Artillery.labelMale>
+        <!-- EN: artilleries -->
+        <VFEP_Artillery.labelMalePlural>artilheiros</VFEP_Artillery.labelMalePlural>
+        <!-- EN: artillery -->
+        <VFEP_Artillery.labelFemale>artilheira</VFEP_Artillery.labelFemale>
+        <!-- EN: artilleries -->
+        <VFEP_Artillery.labelFemalePlural>artilheiras</VFEP_Artillery.labelFemalePlural>
+
+        <!-- EN: private -->
+        <VFEP_Private.label>corsário</VFEP_Private.label>
+        <!-- EN: privates -->
+        <VFEP_Private.labelPlural>corsários</VFEP_Private.labelPlural>
+        <!-- EN: private -->
+        <VFEP_Private.labelMale>corsário</VFEP_Private.labelMale>
+        <!-- EN: privates -->
+        <VFEP_Private.labelMalePlural>corsários</VFEP_Private.labelMalePlural>
+        <!-- EN: private -->
+        <VFEP_Private.labelFemale>corsário</VFEP_Private.labelFemale>
+        <!-- EN: privates -->
+        <VFEP_Private.labelFemalePlural>corsários</VFEP_Private.labelFemalePlural>
+
+        <!-- EN: corporal -->
+        <VFEP_Corporal.label>cabo</VFEP_Corporal.label>
+        <!-- EN: corporals -->
+        <VFEP_Corporal.labelPlural>cabos</VFEP_Corporal.labelPlural>
+        <!-- EN: corporal -->
+        <VFEP_Corporal.labelMale>cabo</VFEP_Corporal.labelMale>
+        <!-- EN: corporals -->
+        <VFEP_Corporal.labelMalePlural>cabos</VFEP_Corporal.labelMalePlural>
+        <!-- EN: corporal -->
+        <VFEP_Corporal.labelFemale>caba</VFEP_Corporal.labelFemale>
+        <!-- EN: corporals -->
+        <VFEP_Corporal.labelFemalePlural>cabas</VFEP_Corporal.labelFemalePlural>
+
+        <!-- EN: sergeant -->
+        <VFEP_Sergeant.label>sargento</VFEP_Sergeant.label>
+        <!-- EN: sergeants -->
+        <VFEP_Sergeant.labelPlural>sargentos</VFEP_Sergeant.labelPlural>
+        <!-- EN: sergeant -->
+        <VFEP_Sergeant.labelMale>sargento</VFEP_Sergeant.labelMale>
+        <!-- EN: sergeants -->
+        <VFEP_Sergeant.labelMalePlural>sargentos</VFEP_Sergeant.labelMalePlural>
+        <!-- EN: sergeant -->
+        <VFEP_Sergeant.labelFemale>sargenta</VFEP_Sergeant.labelFemale>
+        <!-- EN: sergeants -->
+        <VFEP_Sergeant.labelFemalePlural>sargentas</VFEP_Sergeant.labelFemalePlural>
+
+        <!-- EN: sergeant major -->
+        <VFEP_SergeantMajor.label>sargento-mor</VFEP_SergeantMajor.label>
+        <!-- EN: sergeant majors -->
+        <VFEP_SergeantMajor.labelPlural>sargentos-mor</VFEP_SergeantMajor.labelPlural>
+        <!-- EN: sergeant major -->
+        <VFEP_SergeantMajor.labelMale>sargento-mor</VFEP_SergeantMajor.labelMale>
+        <!-- EN: sergeant majors -->
+        <VFEP_SergeantMajor.labelMalePlural>sargentos-mor</VFEP_SergeantMajor.labelMalePlural>
+        <!-- EN: sergeant major -->
+        <VFEP_SergeantMajor.labelFemale>sargenta-mor</VFEP_SergeantMajor.labelFemale>
+        <!-- EN: sergeant majors -->
+        <VFEP_SergeantMajor.labelFemalePlural>sargentas-mor</VFEP_SergeantMajor.labelFemalePlural>
+
+        <!-- EN: lieutenant -->
+        <VFEP_Lieutenant.label>tenente</VFEP_Lieutenant.label>
+        <!-- EN: lieutenants -->
+        <VFEP_Lieutenant.labelPlural>tenentes</VFEP_Lieutenant.labelPlural>
+        <!-- EN: lieutenant -->
+        <VFEP_Lieutenant.labelMale>tenente</VFEP_Lieutenant.labelMale>
+        <!-- EN: lieutenants -->
+        <VFEP_Lieutenant.labelMalePlural>tenentes</VFEP_Lieutenant.labelMalePlural>
+        <!-- EN: lieutenant -->
+        <VFEP_Lieutenant.labelFemale>tenente</VFEP_Lieutenant.labelFemale>
+        <!-- EN: lieutenants -->
+        <VFEP_Lieutenant.labelFemalePlural>tenentes</VFEP_Lieutenant.labelFemalePlural>
+
+        <!-- EN: captain -->
+        <VFEP_Captain.label>capitão</VFEP_Captain.label>
+        <!-- EN: captains -->
+        <VFEP_Captain.labelPlural>capitães</VFEP_Captain.labelPlural>
+        <!-- EN: captain -->
+        <VFEP_Captain.labelMale>capitão</VFEP_Captain.labelMale>
+        <!-- EN: captains -->
+        <VFEP_Captain.labelMalePlural>capitães</VFEP_Captain.labelMalePlural>
+        <!-- EN: captain -->
+        <VFEP_Captain.labelFemale>capitã</VFEP_Captain.labelFemale>
+        <!-- EN: captains -->
+        <VFEP_Captain.labelFemalePlural>capitãs</VFEP_Captain.labelFemalePlural>
+
+        <!-- EN: major -->
+        <VFEP_Major.label>major</VFEP_Major.label>
+        <!-- EN: majors -->
+        <VFEP_Major.labelPlural>majors</VFEP_Major.labelPlural>
+        <!-- EN: major -->
+        <VFEP_Major.labelMale>major</VFEP_Major.labelMale>
+        <!-- EN: majors -->
+        <VFEP_Major.labelMalePlural>majors</VFEP_Major.labelMalePlural>
+        <!-- EN: major -->
+        <VFEP_Major.labelFemale>major</VFEP_Major.labelFemale>
+        <!-- EN: majors -->
+        <VFEP_Major.labelFemalePlural>majors</VFEP_Major.labelFemalePlural>
+
+        <!-- EN: general -->
+        <VFEP_General.label>general</VFEP_General.label>
+        <!-- EN: generals -->
+        <VFEP_General.labelPlural>generais</VFEP_General.labelPlural>
+        <!-- EN: general -->
+        <VFEP_General.labelMale>general</VFEP_General.labelMale>
+        <!-- EN: generals -->
+        <VFEP_General.labelMalePlural>generais</VFEP_General.labelMalePlural>
+        <!-- EN: general -->
+        <VFEP_General.labelFemale>general</VFEP_General.labelFemale>
+        <!-- EN: generals -->
+        <VFEP_General.labelFemalePlural>generais</VFEP_General.labelFemalePlural>
+
+        <!-- EN: pirate -->
+        <VFEP_PirateColonist.label>pirata</VFEP_PirateColonist.label>
+        <!-- EN: pirates -->
+        <VFEP_PirateColonist.labelPlural>piratas</VFEP_PirateColonist.labelPlural>
+        <!-- EN: pirate -->
+        <VFEP_PirateColonist.labelMale>pirata</VFEP_PirateColonist.labelMale>
+        <!-- EN: pirates -->
+        <VFEP_PirateColonist.labelMalePlural>piratas</VFEP_PirateColonist.labelMalePlural>
+        <!-- EN: pirate -->
+        <VFEP_PirateColonist.labelFemale>pirata</VFEP_PirateColonist.labelFemale>
+        <!-- EN: pirates -->
+        <VFEP_PirateColonist.labelFemalePlural>piratas</VFEP_PirateColonist.labelFemalePlural>
+
+        <!-- EN: wardrone -->
+        <VFEP_Mech_Wardrone.label>drone bélico</VFEP_Mech_Wardrone.label>
+        <!-- EN: wardrones -->
+        <VFEP_Mech_Wardrone.labelPlural>drones bélicos</VFEP_Mech_Wardrone.labelPlural>
+
+        <!-- EN: spidermine -->
+        <VFEP_Mech_Spidermine.label>minaranha</VFEP_Mech_Spidermine.label>
+        <!-- EN: spidermines -->
+        <VFEP_Mech_Spidermine.labelPlural>minaranhas</VFEP_Mech_Spidermine.labelPlural>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: bandit -->
+        <Bandit.label>bandido</Bandit.label>
+        <!-- EN: bandits -->
+        <Bandit.labelPlural>bandidos</Bandit.labelPlural>
+        <!-- EN: bandit -->
+        <Bandit.labelMale>bandido</Bandit.labelMale>
+        <!-- EN: bandits -->
+        <Bandit.labelMalePlural>bandidos</Bandit.labelMalePlural>
+        <!-- EN: bandit -->
+        <Bandit.labelFemale>bandida</Bandit.labelFemale>
+        <!-- EN: bandits -->
+        <Bandit.labelFemalePlural>bandidas</Bandit.labelFemalePlural>
+
+        <!-- EN: bounty hunter -->
+        <BountyHunter.label>caçador de recompensas</BountyHunter.label>
+        <!-- EN: bounty hunters -->
+        <BountyHunter.labelPlural>caçadores de recompensas</BountyHunter.labelPlural>
+        <!-- EN: bounty hunter -->
+        <BountyHunter.labelMale>caçador de recompensas</BountyHunter.labelMale>
+        <!-- EN: bounty hunters -->
+        <BountyHunter.labelMalePlural>caçadores de recompensas</BountyHunter.labelMalePlural>
+        <!-- EN: bounty hunter -->
+        <BountyHunter.labelFemale>caçadora de recompensas</BountyHunter.labelFemale>
+        <!-- EN: bounty hunters -->
+        <BountyHunter.labelFemalePlural>caçadoras de recompensas</BountyHunter.labelFemalePlural>
+
+        <!-- EN: outlaw -->
+        <Outlaw.label>fora-da-lei</Outlaw.label>
+        <!-- EN: outlaws -->
+        <Outlaw.labelPlural>foras-da-lei</Outlaw.labelPlural>
+        <!-- EN: outlaw -->
+        <Outlaw.labelMale>fora-da-lei</Outlaw.labelMale>
+        <!-- EN: outlaws -->
+        <Outlaw.labelMalePlural>foras-da-lei</Outlaw.labelMalePlural>
+        <!-- EN: outlaw -->
+        <Outlaw.labelFemale>fora-da-lei</Outlaw.labelFemale>
+        <!-- EN: outlaws -->
+        <Outlaw.labelFemalePlural>foras-da-lei</Outlaw.labelFemalePlural>
+
+        <!-- EN: gunslinger -->
+        <Gunslinger.label>pistoleiro</Gunslinger.label>
+        <!-- EN: gunslingers -->
+        <Gunslinger.labelPlural>pistoleiros</Gunslinger.labelPlural>
+        <!-- EN: gunslinger -->
+        <Gunslinger.labelMale>pistoleiro</Gunslinger.labelMale>
+        <!-- EN: gunslingers -->
+        <Gunslinger.labelMalePlural>pistoleiros</Gunslinger.labelMalePlural>
+        <!-- EN: gunslinger -->
+        <Gunslinger.labelFemale>pistoleira</Gunslinger.labelFemale>
+        <!-- EN: gunslingers -->
+        <Gunslinger.labelFemalePlural>pistoleiras</Gunslinger.labelFemalePlural>
+
+        <!-- EN: bandit leader -->
+        <BanditLeader.label>bandido chefe</BanditLeader.label>
+        <!-- EN: bandit leaders -->
+        <BanditLeader.labelPlural>bandidos chefes</BanditLeader.labelPlural>
+        <!-- EN: bandit leader -->
+        <BanditLeader.labelMale>bandido chefe</BanditLeader.labelMale>
+        <!-- EN: bandit leaders -->
+        <BanditLeader.labelMalePlural>bandidos chefes</BanditLeader.labelMalePlural>
+        <!-- EN: bandit leader -->
+        <BanditLeader.labelFemale>bandida chefe</BanditLeader.labelFemale>
+        <!-- EN: bandit leaders -->
+        <BanditLeader.labelFemalePlural>bandidas chefes</BanditLeader.labelFemalePlural>
+
+
+        <!-- EN: bandit -->
+        <VFES_Bandit.label>bandido</VFES_Bandit.label>
+        <!-- EN: bandits -->
+        <VFES_Bandit.labelPlural>bandidos</VFES_Bandit.labelPlural>
+        <!-- EN: bandit -->
+        <VFES_Bandit.labelMale>bandido</VFES_Bandit.labelMale>
+        <!-- EN: bandits -->
+        <VFES_Bandit.labelMalePlural>bandidos</VFES_Bandit.labelMalePlural>
+        <!-- EN: bandit -->
+        <VFES_Bandit.labelFemale>bandida</VFES_Bandit.labelFemale>
+        <!-- EN: bandits -->
+        <VFES_Bandit.labelFemalePlural>bandidas</VFES_Bandit.labelFemalePlural>
+
+        <!-- EN: settler -->
+        <Settler.label>colonizador</Settler.label>
+        <!-- EN: settlers -->
+        <Settler.labelPlural>colonizadores</Settler.labelPlural>
+        <!-- EN: settler -->
+        <Settler.labelMale>colonizador</Settler.labelMale>
+        <!-- EN: settlers -->
+        <Settler.labelMalePlural>colonizadores</Settler.labelMalePlural>
+        <!-- EN: settler -->
+        <Settler.labelFemale>colonizadora</Settler.labelFemale>
+        <!-- EN: settlers -->
+        <Settler.labelFemalePlural>colonizadoras</Settler.labelFemalePlural>
+
+        <!-- EN: deputy -->
+        <Deputy.label>delegado</Deputy.label>
+        <!-- EN: deputies -->
+        <Deputy.labelPlural>delegados</Deputy.labelPlural>
+        <!-- EN: deputy -->
+        <Deputy.labelMale>delegado</Deputy.labelMale>
+        <!-- EN: deputies -->
+        <Deputy.labelMalePlural>delegados</Deputy.labelMalePlural>
+        <!-- EN: deputy -->
+        <Deputy.labelFemale>delegada</Deputy.labelFemale>
+        <!-- EN: deputies -->
+        <Deputy.labelFemalePlural>delegadas</Deputy.labelFemalePlural>
+
+        <!-- EN: militia -->
+        <Militia.label>miliciano</Militia.label>
+        <!-- EN: militias -->
+        <Militia.labelPlural>milicianos</Militia.labelPlural>
+        <!-- EN: militia -->
+        <Militia.labelMale>miliciano</Militia.labelMale>
+        <!-- EN: militias -->
+        <Militia.labelMalePlural>milicianos</Militia.labelMalePlural>
+        <!-- EN: militia -->
+        <Militia.labelFemale>miliciana</Militia.labelFemale>
+        <!-- EN: militias -->
+        <Militia.labelFemalePlural>milicianas</Militia.labelFemalePlural>
+
+        <!-- EN: frontier trader -->
+        <Frontier_Trader.label>contrabandista</Frontier_Trader.label>
+        <!-- EN: frontier traders -->
+        <Frontier_Trader.labelPlural>contrabandistas</Frontier_Trader.labelPlural>
+        <!-- EN: frontier trader -->
+        <Frontier_Trader.labelMale>contrabandista</Frontier_Trader.labelMale>
+        <!-- EN: frontier traders -->
+        <Frontier_Trader.labelMalePlural>contrabandistas</Frontier_Trader.labelMalePlural>
+        <!-- EN: frontier trader -->
+        <Frontier_Trader.labelFemale>contrabandista</Frontier_Trader.labelFemale>
+        <!-- EN: frontier traders -->
+        <Frontier_Trader.labelFemalePlural>contrabandistas</Frontier_Trader.labelFemalePlural>
+
+        <!-- EN: sheriff -->
+        <Sheriff.label>xerife</Sheriff.label>
+        <!-- EN: sheriffs -->
+        <Sheriff.labelPlural>xerifes</Sheriff.labelPlural>
+        <!-- EN: sheriff -->
+        <Sheriff.labelMale>xerife</Sheriff.labelMale>
+        <!-- EN: sheriffs -->
+        <Sheriff.labelMalePlural>xerifes</Sheriff.labelMalePlural>
+        <!-- EN: sheriff -->
+        <Sheriff.labelFemale>xerife</Sheriff.labelFemale>
+        <!-- EN: sheriffs -->
+        <Sheriff.labelFemalePlural>xerifes</Sheriff.labelFemalePlural>
+
+        <!-- EN: mayor -->
+        <Mayor.label>prefeito</Mayor.label>
+        <!-- EN: mayors -->
+        <Mayor.labelPlural>prefeitos</Mayor.labelPlural>
+        <!-- EN: mayor -->
+        <Mayor.labelMale>prefeito</Mayor.labelMale>
+        <!-- EN: mayors -->
+        <Mayor.labelMalePlural>prefeitos</Mayor.labelMalePlural>
+        <!-- EN: mayor -->
+        <Mayor.labelFemale>prefeita</Mayor.labelFemale>
+        <!-- EN: mayors -->
+        <Mayor.labelFemalePlural>prefeitas</Mayor.labelFemalePlural>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: member -->
+        <VFEV_Member.label>membro</VFEV_Member.label>
+        <!-- EN: members -->
+        <VFEV_Member.labelPlural>membros</VFEV_Member.labelPlural>
+        <!-- EN: member -->
+        <VFEV_Member.labelMale>membro</VFEV_Member.labelMale>
+        <!-- EN: members -->
+        <VFEV_Member.labelMalePlural>membros</VFEV_Member.labelMalePlural>
+        <!-- EN: member -->
+        <VFEV_Member.labelFemale>membra</VFEV_Member.labelFemale>
+        <!-- EN: members -->
+        <VFEV_Member.labelFemalePlural>membras</VFEV_Member.labelFemalePlural>
+
+        <!-- EN: slave -->
+        <VFEV_Slave.label>escravo</VFEV_Slave.label>
+        <!-- EN: slaves -->
+        <VFEV_Slave.labelPlural>escravos</VFEV_Slave.labelPlural>
+        <!-- EN: slave -->
+        <VFEV_Slave.labelMale>escravo</VFEV_Slave.labelMale>
+        <!-- EN: slaves -->
+        <VFEV_Slave.labelMalePlural>escravos</VFEV_Slave.labelMalePlural>
+        <!-- EN: slave -->
+        <VFEV_Slave.labelFemale>escrava</VFEV_Slave.labelFemale>
+        <!-- EN: slaves -->
+        <VFEV_Slave.labelFemalePlural>escravas</VFEV_Slave.labelFemalePlural>
+
+        <!-- EN: hero -->
+        <VFEV_VikingHero.label>herói</VFEV_VikingHero.label>
+        <!-- EN: heroes -->
+        <VFEV_VikingHero.labelPlural>heróis</VFEV_VikingHero.labelPlural>
+        <!-- EN: hero -->
+        <VFEV_VikingHero.labelMale>herói</VFEV_VikingHero.labelMale>
+        <!-- EN: heroes -->
+        <VFEV_VikingHero.labelMalePlural>heróis</VFEV_VikingHero.labelMalePlural>
+        <!-- EN: hero -->
+        <VFEV_VikingHero.labelFemale>heroína</VFEV_VikingHero.labelFemale>
+        <!-- EN: heroes -->
+        <VFEV_VikingHero.labelFemalePlural>heroínas</VFEV_VikingHero.labelFemalePlural>
+
+        <!-- EN: legend -->
+        <VFEV_VikingLegend.label>lenda</VFEV_VikingLegend.label>
+        <!-- EN: legends -->
+        <VFEV_VikingLegend.labelPlural>lendas</VFEV_VikingLegend.labelPlural>
+        <!-- EN: legend -->
+        <VFEV_VikingLegend.labelMale>lenda</VFEV_VikingLegend.labelMale>
+        <!-- EN: legends -->
+        <VFEV_VikingLegend.labelMalePlural>lendas</VFEV_VikingLegend.labelMalePlural>
+        <!-- EN: legend -->
+        <VFEV_VikingLegend.labelFemale>lenda</VFEV_VikingLegend.labelFemale>
+        <!-- EN: legends -->
+        <VFEV_VikingLegend.labelFemalePlural>lendas</VFEV_VikingLegend.labelFemalePlural>
+
+        <!-- EN: peasant -->
+        <VFEV_Viking_Peasant.label>camponês</VFEV_Viking_Peasant.label>
+        <!-- EN: peasants -->
+        <VFEV_Viking_Peasant.labelPlural>camponeses</VFEV_Viking_Peasant.labelPlural>
+        <!-- EN: peasant -->
+        <VFEV_Viking_Peasant.labelMale>camponês</VFEV_Viking_Peasant.labelMale>
+        <!-- EN: peasants -->
+        <VFEV_Viking_Peasant.labelMalePlural>camponeses</VFEV_Viking_Peasant.labelMalePlural>
+        <!-- EN: peasant -->
+        <VFEV_Viking_Peasant.labelFemale>camponesa</VFEV_Viking_Peasant.labelFemale>
+        <!-- EN: peasants -->
+        <VFEV_Viking_Peasant.labelFemalePlural>camponesas</VFEV_Viking_Peasant.labelFemalePlural>
+
+        <!-- EN: merchant -->
+        <VFEV_Viking_Merchant.label>comerciante</VFEV_Viking_Merchant.label>
+        <!-- EN: merchants -->
+        <VFEV_Viking_Merchant.labelPlural>comerciantes</VFEV_Viking_Merchant.labelPlural>
+        <!-- EN: merchant -->
+        <VFEV_Viking_Merchant.labelMale>comerciante</VFEV_Viking_Merchant.labelMale>
+        <!-- EN: merchants -->
+        <VFEV_Viking_Merchant.labelMalePlural>comerciantes</VFEV_Viking_Merchant.labelMalePlural>
+        <!-- EN: merchant -->
+        <VFEV_Viking_Merchant.labelFemale>comerciante</VFEV_Viking_Merchant.labelFemale>
+        <!-- EN: merchants -->
+        <VFEV_Viking_Merchant.labelFemalePlural>comerciantes</VFEV_Viking_Merchant.labelFemalePlural>
+
+        <!-- EN: slaver -->
+        <VFEV_Viking_Slaver.label>escravista</VFEV_Viking_Slaver.label>
+        <!-- EN: slavers -->
+        <VFEV_Viking_Slaver.labelPlural>escravistas</VFEV_Viking_Slaver.labelPlural>
+        <!-- EN: slaver -->
+        <VFEV_Viking_Slaver.labelMale>escravista</VFEV_Viking_Slaver.labelMale>
+        <!-- EN: slavers -->
+        <VFEV_Viking_Slaver.labelMalePlural>escravistas</VFEV_Viking_Slaver.labelMalePlural>
+        <!-- EN: slaver -->
+        <VFEV_Viking_Slaver.labelFemale>escravista</VFEV_Viking_Slaver.labelFemale>
+        <!-- EN: slavers -->
+        <VFEV_Viking_Slaver.labelFemalePlural>escravistas</VFEV_Viking_Slaver.labelFemalePlural>
+
+        <!-- EN: raider -->
+        <VFEV_Raider.label>invasor</VFEV_Raider.label>
+        <!-- EN: raiders -->
+        <VFEV_Raider.labelPlural>invasores</VFEV_Raider.labelPlural>
+        <!-- EN: raider -->
+        <VFEV_Raider.labelMale>invasor</VFEV_Raider.labelMale>
+        <!-- EN: raiders -->
+        <VFEV_Raider.labelMalePlural>invasores</VFEV_Raider.labelMalePlural>
+        <!-- EN: raider -->
+        <VFEV_Raider.labelFemale>invasora</VFEV_Raider.labelFemale>
+        <!-- EN: raiders -->
+        <VFEV_Raider.labelFemalePlural>invasoras</VFEV_Raider.labelFemalePlural>
+
+        <!-- EN: guardian -->
+        <VFEV_Guardian.label>guardião</VFEV_Guardian.label>
+        <!-- EN: guardians -->
+        <VFEV_Guardian.labelPlural>guardiões</VFEV_Guardian.labelPlural>
+        <!-- EN: guardian -->
+        <VFEV_Guardian.labelMale>guardião</VFEV_Guardian.labelMale>
+        <!-- EN: guardians -->
+        <VFEV_Guardian.labelMalePlural>guardiões</VFEV_Guardian.labelMalePlural>
+        <!-- EN: guardian -->
+        <VFEV_Guardian.labelFemale>guardiã</VFEV_Guardian.labelFemale>
+        <!-- EN: guardians -->
+        <VFEV_Guardian.labelFemalePlural>guardiãs</VFEV_Guardian.labelFemalePlural>
+
+        <!-- EN: ravager -->
+        <VFEV_Ravager.label>devastador</VFEV_Ravager.label>
+        <!-- EN: ravagers -->
+        <VFEV_Ravager.labelPlural>devastadores</VFEV_Ravager.labelPlural>
+        <!-- EN: ravager -->
+        <VFEV_Ravager.labelMale>devastador</VFEV_Ravager.labelMale>
+        <!-- EN: ravagers -->
+        <VFEV_Ravager.labelMalePlural>devastadores</VFEV_Ravager.labelMalePlural>
+        <!-- EN: ravager -->
+        <VFEV_Ravager.labelFemale>devastadora</VFEV_Ravager.labelFemale>
+        <!-- EN: ravagers -->
+        <VFEV_Ravager.labelFemalePlural>devastadoras</VFEV_Ravager.labelFemalePlural>
+
+        <!-- EN: berserker -->
+        <VFEV_Berserker.label>bárbaro</VFEV_Berserker.label>
+        <!-- EN: berserkers -->
+        <VFEV_Berserker.labelPlural>bárbaros</VFEV_Berserker.labelPlural>
+        <!-- EN: berserker -->
+        <VFEV_Berserker.labelMale>bárbaro</VFEV_Berserker.labelMale>
+        <!-- EN: berserkers -->
+        <VFEV_Berserker.labelMalePlural>bárbaros</VFEV_Berserker.labelMalePlural>
+        <!-- EN: berserker -->
+        <VFEV_Berserker.labelFemale>bárbara</VFEV_Berserker.labelFemale>
+        <!-- EN: berserkers -->
+        <VFEV_Berserker.labelFemalePlural>bárbaras</VFEV_Berserker.labelFemalePlural>
+
+        <!-- EN: archer -->
+        <VFEV_Archer.label>arqueiro</VFEV_Archer.label>
+        <!-- EN: archers -->
+        <VFEV_Archer.labelPlural>arqueiros</VFEV_Archer.labelPlural>
+        <!-- EN: archer -->
+        <VFEV_Archer.labelMale>arqueiro</VFEV_Archer.labelMale>
+        <!-- EN: archers -->
+        <VFEV_Archer.labelMalePlural>arqueiros</VFEV_Archer.labelMalePlural>
+        <!-- EN: archer -->
+        <VFEV_Archer.labelFemale>arqueira</VFEV_Archer.labelFemale>
+        <!-- EN: archers -->
+        <VFEV_Archer.labelFemalePlural>arqueiras</VFEV_Archer.labelFemalePlural>
+
+        <!-- EN: shieldbearer -->
+        <VFEV_Shieldbearer.label>escudeiro</VFEV_Shieldbearer.label>
+        <!-- EN: shieldbearers -->
+        <VFEV_Shieldbearer.labelPlural>escudeiros</VFEV_Shieldbearer.labelPlural>
+        <!-- EN: shieldbearer -->
+        <VFEV_Shieldbearer.labelMale>escudeiro</VFEV_Shieldbearer.labelMale>
+        <!-- EN: shieldbearers -->
+        <VFEV_Shieldbearer.labelMalePlural>escudeiros</VFEV_Shieldbearer.labelMalePlural>
+        <!-- EN: shieldbearer -->
+        <VFEV_Shieldbearer.labelFemale>escudeira</VFEV_Shieldbearer.labelFemale>
+        <!-- EN: shieldbearers -->
+        <VFEV_Shieldbearer.labelFemalePlural>escudeiras</VFEV_Shieldbearer.labelFemalePlural>
+
+        <!-- EN: guardian -->
+        <VFEV_ShieldedGuardian.label>guardião</VFEV_ShieldedGuardian.label>
+        <!-- EN: guardians -->
+        <VFEV_ShieldedGuardian.labelPlural>guardiões</VFEV_ShieldedGuardian.labelPlural>
+        <!-- EN: guardian -->
+        <VFEV_ShieldedGuardian.labelMale>guardião</VFEV_ShieldedGuardian.labelMale>
+        <!-- EN: guardians -->
+        <VFEV_ShieldedGuardian.labelMalePlural>guardiões</VFEV_ShieldedGuardian.labelMalePlural>
+        <!-- EN: guardian -->
+        <VFEV_ShieldedGuardian.labelFemale>guardiã</VFEV_ShieldedGuardian.labelFemale>
+        <!-- EN: guardians -->
+        <VFEV_ShieldedGuardian.labelFemalePlural>guardiãs</VFEV_ShieldedGuardian.labelFemalePlural>
+    
+        <!-- EN: ravager -->
+        <VFEV_ShieldedRavager.label>devastador</VFEV_ShieldedRavager.label>
+        <!-- EN: ravagers -->
+        <VFEV_ShieldedRavager.labelPlural>devastadores</VFEV_ShieldedRavager.labelPlural>
+        <!-- EN: ravager -->
+        <VFEV_ShieldedRavager.labelMale>devastador</VFEV_ShieldedRavager.labelMale>
+        <!-- EN: ravagers -->
+        <VFEV_ShieldedRavager.labelMalePlural>devastadores</VFEV_ShieldedRavager.labelMalePlural>
+        <!-- EN: ravager -->
+        <VFEV_ShieldedRavager.labelFemale>devastadora</VFEV_ShieldedRavager.labelFemale>
+        <!-- EN: ravagers -->
+        <VFEV_ShieldedRavager.labelFemalePlural>devastadoras</VFEV_ShieldedRavager.labelFemalePlural>
+    
+        <!-- EN: housecarl -->
+        <VFEV_HousecarlMelee.label>caseiro</VFEV_HousecarlMelee.label>
+        <!-- EN: housecarls -->
+        <VFEV_HousecarlMelee.labelPlural>caseiros</VFEV_HousecarlMelee.labelPlural>
+        <!-- EN: housecarl -->
+        <VFEV_HousecarlMelee.labelMale>caseiro</VFEV_HousecarlMelee.labelMale>
+        <!-- EN: housecarls -->
+        <VFEV_HousecarlMelee.labelMalePlural>caseiros</VFEV_HousecarlMelee.labelMalePlural>
+        <!-- EN: housecarl -->
+        <VFEV_HousecarlMelee.labelFemale>caseira</VFEV_HousecarlMelee.labelFemale>
+        <!-- EN: housecarls -->
+        <VFEV_HousecarlMelee.labelFemalePlural>caseiras</VFEV_HousecarlMelee.labelFemalePlural>
+
+        <!-- EN: housecarl -->
+        <VFEV_HousecarlRanged.label>caseiro</VFEV_HousecarlRanged.label>
+        <!-- EN: housecarls -->
+        <VFEV_HousecarlRanged.labelPlural>caseiros</VFEV_HousecarlRanged.labelPlural>
+        <!-- EN: housecarl -->
+        <VFEV_HousecarlRanged.labelMale>caseiro</VFEV_HousecarlRanged.labelMale>
+        <!-- EN: housecarls -->
+        <VFEV_HousecarlRanged.labelMalePlural>caseiros</VFEV_HousecarlRanged.labelMalePlural>
+        <!-- EN: housecarl -->
+        <VFEV_HousecarlRanged.labelFemale>caseira</VFEV_HousecarlRanged.labelFemale>
+        <!-- EN: housecarls -->
+        <VFEV_HousecarlRanged.labelFemalePlural>caseiras</VFEV_HousecarlRanged.labelFemalePlural>
+
+        <!-- EN: wooly cow -->
+        <VFEV_WoolyCow.label>vaca da montanha</VFEV_WoolyCow.label>
+        <!-- EN: wooly cows -->
+        <VFEV_WoolyCow.labelPlural>vacas da montanha</VFEV_WoolyCow.labelPlural>
+        <!-- EN: wooly bull -->
+        <VFEV_WoolyCow.labelMale>touro da montanha</VFEV_WoolyCow.labelMale>
+        <!-- EN: wooly bulls -->
+        <VFEV_WoolyCow.labelMalePlural>touros da montanha</VFEV_WoolyCow.labelMalePlural>
+        <!-- EN: wooly cow -->
+        <VFEV_WoolyCow.labelFemale>vaca da montanha</VFEV_WoolyCow.labelFemale>
+        <!-- EN: wooly cows -->
+        <VFEV_WoolyCow.labelFemalePlural>vacas da montanha</VFEV_WoolyCow.labelFemalePlural>
+        <!-- EN: calf -->
+        <VFEV_WoolyCow.lifeStages.0.label>bezerro da montanha</VFEV_WoolyCow.lifeStages.0.label>
+        <!-- EN: calves -->
+        <VFEV_WoolyCow.lifeStages.0.labelPlural>bezerros da montanha</VFEV_WoolyCow.lifeStages.0.labelPlural>
+
+        <!-- EN: fenrir -->
+        <VFEV_Fenrir.label>fenrir</VFEV_Fenrir.label>
+        <!-- EN: fenrirs -->
+        <VFEV_Fenrir.labelPlural>fenris</VFEV_Fenrir.labelPlural>
+        <!-- EN: fenri puppy -->
+        <VFEV_Fenrir.lifeStages.0.label>filhote de fenrir</VFEV_Fenrir.lifeStages.0.label>
+        <!-- EN: fenri puppies -->
+        <VFEV_Fenrir.lifeStages.0.labelPlural>filhotes de fenrir</VFEV_Fenrir.lifeStages.0.labelPlural>
+
+        <!-- EN: lothurr -->
+        <VFEV_Lothurr.label>lodur</VFEV_Lothurr.label>
+        <!-- EN: lothurrs -->
+        <VFEV_Lothurr.labelPlural>lodurs</VFEV_Lothurr.labelPlural>
+        <!-- EN: lothurr calf -->
+        <VFEV_Lothurr.lifeStages.0.label>filhote de lodur</VFEV_Lothurr.lifeStages.0.label>
+        <!-- EN: lothurr calves -->
+        <VFEV_Lothurr.lifeStages.0.labelPlural>filhotes de lodur</VFEV_Lothurr.lifeStages.0.labelPlural>
+
+        <!-- EN: njorun -->
+        <VFEV_Njorun.label>niorum</VFEV_Njorun.label>
+        <!-- EN: njoruns -->
+        <VFEV_Njorun.labelPlural>nioruns</VFEV_Njorun.labelPlural>
+        <!-- EN: njorun calf -->
+        <VFEV_Njorun.lifeStages.0.label>filhote de niorum</VFEV_Njorun.lifeStages.0.label>
+        <!-- EN: njorun calves -->
+        <VFEV_Njorun.lifeStages.0.labelPlural>filhotes de niorum</VFEV_Njorun.lifeStages.0.labelPlural>
+
+        <!-- EN: wolfhound -->
+        <VFEV_Wolfhound.label>lebréu irlandês</VFEV_Wolfhound.label>
+        <!-- EN: wolfhounds -->
+        <VFEV_Wolfhound.labelPlural>lebréis irlandeses</VFEV_Wolfhound.labelPlural>
+        <!-- EN: wolfhound puppy -->
+        <VFEV_Wolfhound.lifeStages.0.label>filhote de lebréu irlandês</VFEV_Wolfhound.lifeStages.0.label>
+        <!-- EN: wolfhound puppies -->
+        <VFEV_Wolfhound.lifeStages.0.labelPlural>filhotes de lebréu irlandês</VFEV_Wolfhound.lifeStages.0.labelPlural>
+
+        <!-- EN: odin -->
+        <VFEV_Mech_Odin.label>odim</VFEV_Mech_Odin.label>
+        <!-- EN: odins -->
+        <VFEV_Mech_Odin.labelPlural>odins</VFEV_Mech_Odin.labelPlural>
+
+    <!-- Vanilla Ideology Expanded - Dryads -->
+        <!-- EN: awakened carrier dryad -->
+        <VDE_AwakenedDryad_Carrier.label>dríade carregadeira desperta</VDE_AwakenedDryad_Carrier.label>
+        <!-- EN: awakened carrier dryads -->
+        <VDE_AwakenedDryad_Carrier.labelPlural>dríades carregadeiras despertas</VDE_AwakenedDryad_Carrier.labelPlural>
+
+        <!-- EN: awakened clawer dryad -->
+        <VDE_AwakenedDryad_Clawer.label>dríade agarradeira desperta</VDE_AwakenedDryad_Clawer.label>
+        <!-- EN: awakened clawer dryads -->
+        <VDE_AwakenedDryad_Clawer.labelPlural>dríades agarradeiras despertas</VDE_AwakenedDryad_Clawer.labelPlural>
+
+        <!-- EN: awakened barkskin dryad -->
+        <VDE_AwakenedDryad_Barkskin.label>dríade cascuda desperta</VDE_AwakenedDryad_Barkskin.label>
+        <!-- EN: awakened barkskin dryads -->
+        <VDE_AwakenedDryad_Barkskin.labelPlural>dríades cascudas despertas</VDE_AwakenedDryad_Barkskin.labelPlural>
+
+        <!-- EN: awakened woodmaker dryad -->
+        <VDE_AwakenedDryad_Woodmaker.label>dríade marceneira desperta</VDE_AwakenedDryad_Woodmaker.label>
+        <!-- EN: awakened woodmaker dryads -->
+        <VDE_AwakenedDryad_Woodmaker.labelPlural>dríades marceneiras despertas</VDE_AwakenedDryad_Woodmaker.labelPlural>
+
+        <!-- EN: awakened medicinemaker dryad -->
+        <VDE_AwakenedDryad_Medicinemaker.label>dríade medicineira desperta</VDE_AwakenedDryad_Medicinemaker.label>
+        <!-- EN: awakened medicinemaker dryads -->
+        <VDE_AwakenedDryad_Medicinemaker.labelPlural>dríades medicineiras despertas</VDE_AwakenedDryad_Medicinemaker.labelPlural>
+
+        <!-- EN: awakened berrymaker dryad -->
+        <VDE_AwakenedDryad_Berrymaker.label>dríade bagueira desperta</VDE_AwakenedDryad_Berrymaker.label>
+        <!-- EN: awakened berrymaker dryads -->
+        <VDE_AwakenedDryad_Berrymaker.labelPlural>dríades bagueiras despertas</VDE_AwakenedDryad_Berrymaker.labelPlural>
+
+        <!-- EN: awakened stonedigger dryad -->
+        <VDE_AwakenedDryad_Stonedigger.label>dríade escavadeira desperta</VDE_AwakenedDryad_Stonedigger.label>
+        <!-- EN: awakened stonedigger dryads -->
+        <VDE_AwakenedDryad_Stonedigger.labelPlural>dríades escavadeiras despertas</VDE_AwakenedDryad_Stonedigger.labelPlural>
+
+        <!-- EN: awakened nectarmaker dryad -->
+        <VDE_AwakenedDryad_Nectarmaker.label>dríade nectareira desperta</VDE_AwakenedDryad_Nectarmaker.label>
+        <!-- EN: awakened nectarmaker dryads -->
+        <VDE_AwakenedDryad_Nectarmaker.labelPlural>dríades nectareiras despertas</VDE_AwakenedDryad_Nectarmaker.labelPlural>
+
+        <!-- EN: awakened spitter dryad -->
+        <VDE_AwakenedDryad_Spitter.label>dríade cuspideira desperta</VDE_AwakenedDryad_Spitter.label>
+        <!-- EN: awakened spitter dryads -->
+        <VDE_AwakenedDryad_Spitter.labelPlural>dríades cuspideiras despertas</VDE_AwakenedDryad_Spitter.labelPlural>
+
+        <!-- EN: awakened gaubricmaker dryad -->
+        <VDE_AwakenedDryad_Gaubricmaker.label>dríade gaussideira desperta</VDE_AwakenedDryad_Gaubricmaker.label>
+        <!-- EN: awakened gaubricmaker dryads -->
+        <VDE_AwakenedDryad_Gaubricmaker.labelPlural>dríades gaussideiras despertas</VDE_AwakenedDryad_Gaubricmaker.labelPlural>
+
+        <!-- EN: stonedigger dryad -->
+        <VDE_Dryad_Stonedigger.label>dríade escavadeira</VDE_Dryad_Stonedigger.label>
+        <!-- EN: stonedigger dryad -->
+        <VDE_Dryad_Stonedigger.labelPlural>dríades escavadeiras</VDE_Dryad_Stonedigger.labelPlural>
+
+        <!-- EN: spitter dryad -->
+        <VDE_Dryad_Spitter.label>dríade cuspideira</VDE_Dryad_Spitter.label>
+        <!-- EN: spitter dryads -->
+        <VDE_Dryad_Spitter.labelPlural>dríades cuspideiras</VDE_Dryad_Spitter.labelPlural>
+
+        <!-- EN: gaubricmaker dryad -->
+        <VDE_Dryad_Gaubricmaker.label>dríade gaussideira</VDE_Dryad_Gaubricmaker.label>
+        <!-- EN: gaubricmaker dryads -->
+        <VDE_Dryad_Gaubricmaker.labelPlural>dríades gaussideiras</VDE_Dryad_Gaubricmaker.labelPlural>
+
+        <!-- EN: nectarmaker dryad -->
+        <VDE_Dryad_Nectarmaker.label>dríade nectareira</VDE_Dryad_Nectarmaker.label>
+        <!-- EN: nectarmaker dryads -->
+        <VDE_Dryad_Nectarmaker.labelPlural>dríades nectareiras</VDE_Dryad_Nectarmaker.labelPlural>
+
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <!-- EN: man in the coat -->    
+        <VSE_ManInTheCoat.label>homem de casaco</VSE_ManInTheCoat.label>
+        <!-- EN: men in the coats -->
+        <VSE_ManInTheCoat.labelPlural>homens de casaco</VSE_ManInTheCoat.labelPlural>
+        <!-- EN: man in the coat -->
+        <VSE_ManInTheCoat.labelMale>homem de casaco</VSE_ManInTheCoat.labelMale>
+        <!-- EN: men in the coats -->
+        <VSE_ManInTheCoat.labelMalePlural>homens de casaco</VSE_ManInTheCoat.labelMalePlural>
+        <!-- EN: woman in the coat -->
+        <VSE_ManInTheCoat.labelFemale>mulher de casaco</VSE_ManInTheCoat.labelFemale>
+        <!-- EN: women in the coat -->
+        <VSE_ManInTheCoat.labelFemalePlural>mulheres de casaco</VSE_ManInTheCoat.labelFemalePlural>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: archocat -->
+        <Archocat.label>arquogato</Archocat.label>
+        <!-- EN: archocats -->
+        <Archocat.labelPlural>arquogatos</Archocat.labelPlural>
+        <!-- EN: archokitten -->
+        <Archocat.lifeStages.0.label>arquogatinho</Archocat.lifeStages.0.label>
+        <!-- EN: archokittens -->
+        <Archocat.lifeStages.0.labelPlural>arquogatinhos</Archocat.lifeStages.0.labelPlural>
+
+        <!-- EN: archomutt -->
+        <Archomutt.label>arquocão</Archomutt.label>
+        <!-- EN: archomutts -->
+        <Archomutt.labelPlural>arquocães</Archomutt.labelPlural>
+        <!-- EN: archopuppy -->
+        <Archomutt.lifeStages.0.label>arquocão filhote</Archomutt.lifeStages.0.label>
+        <!-- EN: archopuppies -->
+        <Archomutt.lifeStages.0.labelPlural>arquocães filhotes</Archomutt.lifeStages.0.labelPlural>
+
+        <!-- EN: archostrich -->
+        <Archostrich.label>arquotruz</Archostrich.label>
+        <!-- EN: archostriches -->
+        <Archostrich.labelPlural>arquotruzes</Archostrich.labelPlural>
+
+        <!-- EN: archoffalo -->
+        <Archoffalo.label>arquôfalo</Archoffalo.label>
+        <!-- EN:archoffalo -->
+        <Archoffalo.labelPlural>arquôfalos</Archoffalo.labelPlural>
+        <!-- EN: archoffalo calf -->
+        <Archoffalo.lifeStages.0.label>filhote de arquôfalo</Archoffalo.lifeStages.0.label>
+        <!-- EN: archoffalo calves -->
+        <Archoffalo.lifeStages.0.labelPlural>filhotes de arquôfalo</Archoffalo.lifeStages.0.labelPlural>
+
+        <!-- EN: archospider -->
+        <Archospider.label>arquoranha</Archospider.label>
+        <!-- EN: archospiders -->
+        <Archospider.labelPlural>arquoranhas</Archospider.labelPlural>
+
+        <!-- EN: archolope -->
+        <Archolope.label>arquólope</Archolope.label>
+        <!-- EN: archolopes -->
+        <Archolope.labelPlural>arquólopes</Archolope.labelPlural>
+        <!-- EN: archolope calf -->
+        <Archolope.lifeStages.archolope_calf.label>filhote de arquólope</Archolope.lifeStages.archolope_calf.label>
+        <!-- EN: archolope calves -->
+        <Archolope.lifeStages.archolope_calf.labelPlural>filhotes de arquólope</Archolope.lifeStages.archolope_calf.labelPlural>
+
+        <!-- EN: archotortoise -->
+        <Archotortoise.label>arquotaruga</Archotortoise.label>
+        <!-- EN: archotortoises -->
+        <Archotortoise.labelPlural>arquotarugas</Archotortoise.labelPlural>
+
+        <!-- EN: archopanda -->
+        <Archopanda.label>arquopanda</Archopanda.label>
+        <!-- EN: archopandas -->
+        <Archopanda.labelPlural>arquopandas</Archopanda.labelPlural>
+
+        <!-- EN: archojerboa -->
+        <Archojerboa.label>arquojerboa</Archojerboa.label>
+        <!-- EN: archojerboas -->
+        <Archojerboa.labelPlural>arquojerboas</Archojerboa.labelPlural>
+
+        <!-- EN: archothrumbo -->
+        <Archothrumbo.label>arquotrumbo</Archothrumbo.label>
+        <!-- EN: archothrumbos -->
+        <Archothrumbo.labelPlural>arquotrumbos</Archothrumbo.labelPlural>
+        <!-- EN: archothrumbo calf -->
+        <Archothrumbo.lifeStages.0.label>filhote de arquotrumbo</Archothrumbo.lifeStages.0.label>
+        <!-- EN: archothrumbo calves -->
+        <Archothrumbo.lifeStages.0.labelPlural>filhotes de arquotrumbo</Archothrumbo.lifeStages.0.labelPlural>
+
+        <!-- EN: Personal Shuttle (hover mode) -->
+        <ShuttlePersonalHover.label>transporte pessoal</ShuttlePersonalHover.label>
+
+        <!-- EN: Cargo Shuttle (hover mode) -->
+        <ShuttleCargoHover.label>transporte de carga</ShuttleCargoHover.label>
+
+        <!-- EN: Heavy Cargo Shuttle (hover mode) -->
+        <ShuttleHeavyHover.label>super-transporte de carga</ShuttleHeavyHover.label>
+
+        <!-- EN: Superheavy Dropship (hover mode) -->
+        <ShuttleDropshipHover.label>super-transporte de desembarque</ShuttleDropshipHover.label>
+
+        <!-- EN: space cannibal -->
+        <SpaceCannibal.label>canibal espacial</SpaceCannibal.label>
+        <!-- EN: space cannibals -->
+        <SpaceCannibal.labelPlural>canibais espaciais</SpaceCannibal.labelPlural>
+        <!-- EN: space cannibals -->
+        <SpaceCannibal.labelMale>canibal espacial</SpaceCannibal.labelMale>
+        <!-- EN: space cannibals -->
+        <SpaceCannibal.labelMalePlural>canibais espaciais</SpaceCannibal.labelMalePlural>
+        <!-- EN: space cannibal -->
+        <SpaceCannibal.labelFemale>canibal espacial</SpaceCannibal.labelFemale>
+        <!-- EN: space cannibal -->
+        <SpaceCannibal.labelFemalePlural>canibais espaciais</SpaceCannibal.labelFemalePlural>
+
+        <!-- EN: crew -->
+        <SpaceCrew.label>tripulante</SpaceCrew.label>
+        <!-- EN: crews -->
+        <SpaceCannibal.labelPlural>tripulantes</SpaceCannibal.labelPlural>
+        <!-- EN: crew -->
+        <SpaceCannibal.labelMale>tripulante</SpaceCannibal.labelMale>
+        <!-- EN: crews -->
+        <SpaceCannibal.labelMalePlural>tripulantes</SpaceCannibal.labelMalePlural>
+        <!-- EN: crew -->
+        <SpaceCannibal.labelFemale>tripulante</SpaceCannibal.labelFemale>
+        <!-- EN: crews -->
+        <SpaceCannibal.labelFemalePlural>tripulantes</SpaceCannibal.labelFemalePlural>
+
+        <!-- EN: light marine -->
+        <SpaceCrewMarine.label>fuzileiro naval leve</SpaceCrewMarine.label>
+        <!-- EN: light marines -->
+        <SpaceCrewMarine.labelPlural>fuzileiros navais leves</SpaceCrewMarine.labelPlural>
+        <!-- EN: light marine -->
+        <SpaceCannibal.labelMale>fuzileiro naval leve</SpaceCannibal.labelMale>
+        <!-- EN: light marines -->
+        <SpaceCannibal.labelMalePlural>fuzileiros navais leves</SpaceCannibal.labelMalePlural>
+        <!-- EN: light marine -->
+        <SpaceCannibal.labelFemale>fuzileira naval leve</SpaceCannibal.labelFemale>
+        <!-- EN: light marines -->
+        <SpaceCannibal.labelFemalePlural>fuzileiras navais leves</SpaceCannibal.labelFemalePlural>
+
+        <!-- EN: heavy marine -->
+        <SpaceCrewMarineHeavy.label>fuzileiro naval pesado</SpaceCrewMarineHeavy.label>
+        <!-- EN: heavy marines -->
+        <SpaceCrewMarineHeavy.labelPlural>fuzileiros navais pesados</SpaceCrewMarineHeavy.labelPlural>
+        <!-- EN: heavy marine -->
+        <SpaceCannibal.labelMale>fuzileiro naval pesado</SpaceCannibal.labelMale>
+        <!-- EN: heavy marines -->
+        <SpaceCannibal.labelMalePlural>fuzileiros navais pesados</SpaceCannibal.labelMalePlural>
+        <!-- EN: heavy marine -->
+        <SpaceCannibal.labelFemale>fuzileira naval pesada</SpaceCannibal.labelFemale>
+        <!-- EN: heavy marines -->
+        <SpaceCannibal.labelFemalePlural>fuzileiras navais pesadas</SpaceCannibal.labelFemalePlural>
+
+        <!-- EN: astromite -->
+        <Astromite.label>astromita</Astromite.label>
+        <!-- EN: astromites -->
+        <Astromite.labelPlural>astromitas</Astromite.labelPlural>
+
+        <!-- EN: stellapede -->
+        <Stellapede.label>estelapédia</Stellapede.label>
+        <!-- EN: stellapedes -->
+        <Stellapede.labelPlural>estelapédias</Stellapede.labelPlural>
+
+        <!-- EN: cosmopillar -->
+        <Cosmopillar.label>cosmolarva</Cosmopillar.label>
+        <!-- EN: cosmopillars -->
+        <Cosmopillar.labelPlural>cosmolarvas</Cosmopillar.labelPlural>
+
+        <!-- EN: holographic avatar -->
+        <SoSHologram.label>avatar holográfico</SoSHologram.label>
+        <!-- EN: holographic avatars -->
+        <SoSHologram.labelPlural>avatares holográficos</SoSHologram.labelPlural>
+        <!-- EN: holographic avatar -->
+        <SoSHologram.labelMale>avatar holográfico</SoSHologram.labelMale>
+        <!-- EN: holographic avatar -->
+        <SoSHologram.labelMalePlural>avatar holográfico</SoSHologram.labelMalePlural>
+        <!-- EN: holographic avatar -->
+        <SoSHologram.labelFemale>avatar holográfica</SoSHologram.labelFemale>
+        <!-- EN: holographic avatars -->
+        <SoSHologram.labelFemalePlural>avatares holográficas</SoSHologram.labelFemalePlural>
+
+        <!-- EN: imperial laborer -->
+        <Empire_Space_Laborer.label>operário imperial</Empire_Space_Laborer.label>
+        <!-- EN: imperial laborers -->
+        <Empire_Space_Laborer.labelPlural>operários imperiais</Empire_Space_Laborer.labelPlural>
+        <!-- EN: imperial laborer -->
+        <Empire_Space_Laborer.labelMale>operário imperial</Empire_Space_Laborer.labelMale>
+        <!-- EN: imperial laborers -->
+        <Empire_Space_Laborer.labelMalePlural>operários imperiais</Empire_Space_Laborer.labelMalePlural>
+        <!-- EN: imperial laborer -->
+        <Empire_Space_Laborer.labelFemale>operária imperial</Empire_Space_Laborer.labelFemale>
+        <!-- EN: imperial laborers -->
+        <Empire_Space_Laborer.labelFemalePlural>operárias imperiais</Empire_Space_Laborer.labelFemalePlural>
+
+        <!-- EN: space marine -->
+        <Empire_Fighter_Marine_Space.label>fuzileiro naval espacial</Empire_Fighter_Marine_Space.label>
+        <!-- EN: space marines -->
+        <Empire_Fighter_Marine_Space.labelPlural>fuzileiros navais espaciais</Empire_Fighter_Marine_Space.labelPlural>
+        <!-- EN: space marine -->
+        <Empire_Fighter_Marine_Space.labelMale>fuzileiro naval espacial</Empire_Fighter_Marine_Space.labelMale>
+        <!-- EN: space marines -->
+        <Empire_Fighter_Marine_Space.labelMalePlural>fuzileiros navais espaciais</Empire_Fighter_Marine_Space.labelMalePlural>
+        <!-- EN: space marine -->
+        <Empire_Fighter_Marine_Space.labelFemale>fuzileiro naval espacial</Empire_Fighter_Marine_Space.labelFemale>
+        <!-- EN: space marines -->
+        <Empire_Fighter_Marine_Space.labelFemalePlural>fuzileiros navais espaciais</Empire_Fighter_Marine_Space.labelFemalePlural>
+
+        <!-- EN: space cataphract -->
+        <Empire_Fighter_Cataphract_Space.label>catafrata espacial</Empire_Fighter_Cataphract_Space.label>
+        <!-- EN: space cataphracts -->
+        <Empire_Fighter_Cataphract_Space.labelPlural>catafratas espaciais</Empire_Fighter_Cataphract_Space.labelPlural>
+        <!-- EN: space cataphract -->
+        <Empire_Fighter_Cataphract_Space.labelMale>catafrata espacial</Empire_Fighter_Cataphract_Space.labelMale>
+        <!-- EN: space cataphracts -->
+        <Empire_Fighter_Cataphract_Space.labelMalePlural>catafratas espaciais</Empire_Fighter_Cataphract_Space.labelMalePlural>
+        <!-- EN: space cataphract -->
+        <Empire_Fighter_Cataphract_Space.labelFemale>catafrata espacial</Empire_Fighter_Cataphract_Space.labelFemale>
+        <!-- EN: space cataphracts -->
+        <Empire_Fighter_Cataphract_Space.labelFemalePlural>catafratas espaciais</Empire_Fighter_Cataphract_Space.labelFemalePlural>
+
+    <!-- Vanilla Weapons Expanded - Laser -->
+        <!-- EN: mercenary marine -->
+        <Mercenary_Marine.label>fuzileiro naval mercenário</Mercenary_Marine.label>
+        <!-- EN: mercenary marines -->
+        <Mercenary_Marine.labelPlural>fuzileiros navais mercenários</Mercenary_Marine.labelPlural>
+        <!-- EN: mercenary marine -->
+        <Mercenary_Marine.labelMale>fuzileiro naval mercenário</Mercenary_Marine.labelMale>
+        <!-- EN: mercenary marines -->
+        <Mercenary_Marine.labelMalePlural>fuzileiros navais mercenários</Mercenary_Marine.labelMalePlural>
+        <!-- EN: mercenary marine -->
+        <Mercenary_Marine.labelFemale>fuzileira naval mercenária</Mercenary_Marine.labelFemale>
+        <!-- EN: mercenary marines -->
+        <Mercenary_Marine.labelFemalePlural>fuzileiras navais mercenárias</Mercenary_Marine.labelFemalePlural>
+
+</LanguageData>

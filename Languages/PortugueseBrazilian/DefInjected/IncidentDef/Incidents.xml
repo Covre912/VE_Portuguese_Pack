@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: The Beastliest of Beasts -->
+        <VAE_Incident_InsectoidHulk.label>besta bestial</VAE_Incident_InsectoidHulk.label>
+
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- EN: extinct animals pass -->
+        <AEXP_ExtintAnimalsPasses.label>animais em extinção</AEXP_ExtintAnimalsPasses.label>
+
+    <!-- Vanilla Events Expanded -->
+        <!-- EN: wanderer join (traitor) -->
+        <VEE_WandererJoinsTraitor.label>viajante se junta (traidor)</VEE_WandererJoinsTraitor.label>
+
+        <!-- EN: hail storm -->
+        <VEE_HailStorm.label>chuva de granizo</VEE_HailStorm.label>
+        <!-- EN: A freak, small scale hail storm is ravaging the local area. Any person or creature not hiding under the roof risks getting injured by ice pellets. Get some blunt resistant armour! -->
+        <VEE_HailStorm.letterText>Uma chuva de granizo anômala de pequena escala está devastando a área local. Qualquer pessoa ou criatura não sob um teto corre o risco de se ferir por pelotas de gelo.</VEE_HailStorm.letterText>
+        <!-- EN: Hail Storm -->
+        <VEE_HailStorm.letterLabel>Chuva de granizo</VEE_HailStorm.letterLabel>
+
+        <!-- EN: drought -->
+        <VEE_Drought.label>seca</VEE_Drought.label>
+        <!-- EN: An unusual drought has set in.\n\nDrought is devastating for plant life and will quickly prevent all the crops not planted in hydroponics or high fertility soil to grow. -->
+        <VEE_Drought.letterText>Uma seca inusitada se estabeleceu.\n\nA seca é devastadora para a vida vegetal e irá destruir rapidamente todas as plantas não plantadas nas hidropônicas. Certifique-se de colher rapidamente todas as plantas que puder.</VEE_Drought.letterText>
+        <!-- EN: Drought -->
+        <VEE_Drought.letterLabel>Seca</VEE_Drought.letterLabel>
+
+        <!-- EN: space battle -->
+        <VEE_SpaceBattle.label>batalha espacial</VEE_SpaceBattle.label>
+        <!-- EN: Several massive spaceships have engaged in combat in the planet’s orbit. Missed shots and debris can impact the ground in the area. This can lead to massive fires. -->
+        <VEE_SpaceBattle.letterText>Várias espaços espaciais enormes engajaram em combate na órbita do planeta. Tiros perdidos e destroços podem impactar o chão na área. Isso pode levar a grandes incêndios.</VEE_SpaceBattle.letterText>
+        <!-- EN: Space Battle -->
+        <VEE_SpaceBattle.letterLabel>Batalha espacial</VEE_SpaceBattle.letterLabel>
+
+        <!-- EN: meteorite shower -->
+        <VEE_MeteoriteShower.label>chuva de meteoros</VEE_MeteoriteShower.label>
+        <!-- EN: Several large meteorites have struck ground in the area. They left behind large lumps of resources. -->
+        <VEE_MeteoriteShower.letterText>Vários meteoritos grandes colidiram com o chão na área. Eles deixaram para trás grandes amontoados de recursos.</VEE_MeteoriteShower.letterText>
+        <!-- EN: Meteorite Shower -->
+        <VEE_MeteoriteShower.letterLabel>Chuva de meteoros</VEE_MeteoriteShower.letterLabel>
+
+        <!-- EN: animal pod crash -->
+        <VEE_AnimalPodCrash.label>queda de cápsula de transporte de animal</VEE_AnimalPodCrash.label>
+
+        <!-- EN: shuttle crash -->
+        <VEE_ShuttleCrash.label>queda de transporte</VEE_ShuttleCrash.label>
+
+        <!-- Earthquake -->
+        <VEE_Earthquake.label>terremoto</VEE_Earthquake.label>
+
+        <!-- EN: cargopods weapons -->
+        <VEE_Cargopodsweapons.label>cápsulas de carga (armas)</VEE_Cargopodsweapons.label>
+
+        <!-- EN: cargo pods apparel -->
+        <VEE_Cargopodsapparel.label>cápsulas de carga (vestuário)</VEE_Cargopodsapparel.label>
+
+        <!-- EN: caravan animals wander in -->
+        <VEE_CaravanAnimalsWanderIn.label>animais de caravana</VEE_CaravanAnimalsWanderIn.label>
+
+        <!-- EN: crop sprout -->
+        <VEE_CropSprout.label>broto de plantas</VEE_CropSprout.label>
+
+        <!-- EN: battle animals wander in -->
+        <VEE_BattleAnimalsWanderIn.label>animais de batalha</VEE_BattleAnimalsWanderIn.label>
+
+        <!-- EN: wild men wander in -->
+        <VEE_WildMenWanderIn.label>homens selvagens</VEE_WildMenWanderIn.label>
+
+        <!-- EN: hunting party -->
+        <VEE_HuntingParty.label>grupo de caça</VEE_HuntingParty.label>
+
+        <!-- EN: enemy raid ice agee -->
+        <RaidEnemyPurple.label>invasão inimiga na era do gelo</RaidEnemyPurple.label>
+
+        <!-- EN: manhunter pack -->
+        <ManhunterPackPurple.label>caçadores de humanos</ManhunterPackPurple.label>
+
+        <!-- EN: mass animal insanity -->
+        <AnimalInsanityMassPurple.label>insanidade animal em massa</AnimalInsanityMassPurple.label>
+
+        <!-- EN: ice age -->
+        <VEE_IceAge.label>era do gelo</VEE_IceAge.label>
+        <!-- EN: Atmospheric composition of the planet drastically changed resulting in a significant drop in temperature.\n\nFlora and Fauna is suffering from these changes as biomes shift into their colder counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
+        <VEE_IceAge.letterText>A composição atmosférica do planeta mudou drasticamente, resultando em uma queda de temperatura significante.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais frias. Recursos se tornam escassos, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos. (Mudanças visuais só apareceram ao recarregar o jogo salvo atual)</VEE_IceAge.letterText>
+        <!-- EN: Ice Age -->
+        <VEE_IceAge.letterLabel>Era do gelo</VEE_IceAge.letterLabel>
+
+        <!-- EN: global warming -->
+        <VEE_GlobalWarming.label>aquecimento global</VEE_GlobalWarming.label>
+        <!-- EN: Global temperatures have suddenly risen to dangerous levels.\n\nFlora and Fauna is suffering from these changes as biomes shift into their warmer counterparts. Resources become scarce, forcing factions into conflict.\n\nIt will last anywhere between a season to several years. -->
+        <VEE_GlobalWarming.letterText>Temperaturas globais subitamente subiram a níveis perigosos.\n\nFlora e fauna estão sofrendo por essas mudanças à medida que os biomas mudam para suas contrapartes mais quentes. Recursos se tornam escassos, forçando facções a conflitos.\n\nIsso durará de uma estação a vários anos. (Mudanças visuais só apareceram ao recarregar o jogo salvo atual)</VEE_GlobalWarming.letterText>
+        <!-- EN: Global Warming -->
+        <VEE_GlobalWarming.letterLabel>Aquecimento global</VEE_GlobalWarming.letterLabel>
+
+        <!-- EN: psychic rain -->
+        <VEE_PsychicRain.label>chuva psíquica</VEE_PsychicRain.label>
+        <!-- EN: A dangerous psychic entity caused disturbance on subatomic levels, resonating across all particles of the atmosphere.\n\nA seemingly endless supernatural rain has begun, altering the very composition of time. Any person or creature not under the roof will age significantly faster.\n\nIt will last anywhere between a season to several years. -->
+        <VEE_PsychicRain.letterText>Uma entidade psíquica perigosa causou um distúrbio a níveis subatômicos, ressoando através de todas as partículas da atmosfera.\n\nUma chuva supernatural aparentemente sem fim começou, alterando a própria composição do tempo. Qualquer pessoa ou criatura não sob um teto irá envelhecer significativamente mais rápido.\n\nIsso durará de uma estação a vários anos.</VEE_PsychicRain.letterText>
+        <!-- EN: Psychic Rain -->
+        <VEE_PsychicRain.letterLabel>Chuva psíquica</VEE_PsychicRain.letterLabel>
+
+        <!-- EN: long night -->
+        <VEE_LongNight.label>noite longa</VEE_LongNight.label>
+        <!-- EN: A space entity of unimaginable size has covered a local star, resulting in a long lasting eclipse.\n\nTerrified of this supernatural phenomenon, other factions will use this time to wage war and conflict across the surface.\n\nIt will last anywhere between a season to several years. -->
+        <VEE_LongNight.letterText>Uma entidade espacial de tamanho inimaginável cobriu uma estrela local, resultando em um longo eclipse.\n\nApavorados com esse fenômeno supernatural, outras facções irão usar esse tempo para fazer guerras e conflitos ao longo do planeta.\n\nIsso durará de uma estação a vários anos.</VEE_LongNight.letterText>
+        <!-- EN: Long Night -->
+        <VEE_LongNight.letterLabel>Noite longa</VEE_LongNight.letterLabel>
+
+        <!-- EN: psychic bloom -->
+        <VEE_PsychicBloom.label>floração psíquica</VEE_PsychicBloom.label>
+        <!-- EN: A strong psychic pulse emitted by a long forgotten entity changed the very genetical structure of local flora. Whilst the sky filled with a seemingly endless auroras, colourful flowers started sprouting everywhere. \n\nAll pawns will gain a positive mood buff for the time of the event. The rapidly spreading flowers will overgrow everything, including your fields.\n\nIt will last anywhere between a few days to a season. -->
+        <VEE_PsychicBloom.letterText>Um forte pulso psíquico emitido por uma entidade há muito esquecida mudou a própria estrutura genética da flora local. Enquanto o céu se encheu com auroras aparentemente sem fim, flores coloridas começaram a brotar por toda parte.\n\nTodos os colonos irão ganhar um buff positivo de humor pelo tempo do evento. As flores se espalhando rapidamente vão crescer por cima de tudo, incluindo seus campos.\n\nIsso durará de alguns dias a uma estação.</VEE_PsychicBloom.letterText>
+        <!-- EN: Psychic Bloom -->
+        <VEE_PsychicBloom.letterLabel>Floração psíquica</VEE_PsychicBloom.letterLabel>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: reinforcements -->
+        <VSE_Reinforcements.label>reforços</VSE_Reinforcements.label>
+
+        <!-- EN: outpost under attack -->
+        <VEF_OutpostAttacked.label>posto avançado sob ataque</VEF_OutpostAttacked.label>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: supply drop -->
+        <VFEA_SupplyDrop.label>entrega de suprimentos</VFEA_SupplyDrop.label>
+        <!-- EN: A supply crate bound for an unknown location has accidentally landed here. You can hack it to open it, but this may trigger an enemy raid.\n\nGuaranteed to contain resources, medicine or food, fuel and tons of ancient technology, these crates were often sent inbetween ancient complexes generations ago. -->
+        <VFEA_SupplyDrop.letterText>Uma caixa de suprimentos com um destino desconhecido caiu acidentalmente aqui. Você pode hackeá-la para abri-lá, porém isso pode atrair uma invasão inimiga.\n\nHá muito tempo, essas caixas eram enviadas entres complexos ancestrais, por isso contém recursos, medicina ou alimento, combustível e tecnologia ancestral.</VFEA_SupplyDrop.letterText>
+        <!-- EN: Supply Drop Incoming -->
+        <VFEA_SupplyDrop.letterLabel>Entrega de suprimentos</VFEA_SupplyDrop.letterLabel>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: infested chunk crash -->
+        <VFEI_InfestedSmallShipPartDrop.label>queda de pedaço de espaçonave infestado</VFEI_InfestedSmallShipPartDrop.label>
+        <!-- EN: A number of small chunks of an ancient ship has crashed nearby. \n They seem to be infested with an organic mass. Bizarre insect chittering can be heard within the hull. \n Destroy them as soon as possible. -->
+        <VFEI_InfestedSmallShipPartDrop.letterText>Uma série de pequenos pedaços de uma espaçonave antiga caiu nas proximidades.\nParece estar coberto de biomassa e de geleia de inseto. Barulhos bizarros de insetos podem ser ouvidos dentro da carcaça.\nDestrua-o o mais rápido possível.</VFEI_InfestedSmallShipPartDrop.letterText>
+        <!-- EN: Infested chunk crash -->
+        <VFEI_InfestedSmallShipPartDrop.letterLabel>Queda de pedaço de espaçonave infestada</VFEI_InfestedSmallShipPartDrop.letterLabel>
+
+        <!-- EN: infested ship crash -->
+        <VFEI_InfestedShipPartDrop.label>queda de espaçonave infestada</VFEI_InfestedShipPartDrop.label>
+        <!-- EN: A large piece of an ancient ship has crashed nearby.\n It seems to be infested with an organic mass. Bizarre insect chittering can be heard within the hull.\n Destroy it as soon as possible. -->
+        <VFEI_InfestedShipPartDrop.letterText>Um grande pedaço de uma espaçonave antiga caiu nas proximidades.\nParece estar coberta de biomassa e de geleia de inseto. Barulhos bizarros de insetos podem ser ouvidos dentro da carcaça.\nDestrua-a o mais rápido possível.</VFEI_InfestedShipPartDrop.letterText>
+        <!-- EN: Infested ship crash -->
+        <VFEI_InfestedShipPartDrop.letterLabel>Queda de espaçonave infestada</VFEI_InfestedShipPartDrop.letterLabel>
+
+        <!-- EN: infested ship module crash -->
+        <VFEI_InfestedShipModuleDrop.label>queda de módulo de espaçonave infestado</VFEI_InfestedShipModuleDrop.label>
+        <!-- EN: A mysterious segment of a long destroyed spaceship has crashed nearby.\n It seems to be completely covered in biomass and lumps of insectoid jelly. It is fairly certain that this old wreckage may contain ancient dangers.\n Destroy it as soon as possible. -->
+        <VFEI_InfestedShipModuleDrop.letterText>Um segmento misterioso de uma espaçonave há muito destruída caiu nas proximidades.\nParece estar coberta de biomassa e de geleia de inseto. Barulhos bizarros de insetos podem ser ouvidos dentro da carcaça.\nDestrua-o o mais rápido possível.</VFEI_InfestedShipModuleDrop.letterText>
+        <!-- EN: infested ship module crash -->
+        <VFEI_InfestedShipModuleDrop.letterLabel>Queda de módulo de espaçonave infestado</VFEI_InfestedShipModuleDrop.letterLabel>
+
+        <!-- EN: large infestation -->
+        <VFEI_GiantInfestation.label>infestação pródiga</VFEI_GiantInfestation.label>
+        <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home.\n\nThis infestation seem to be pretty large, and led by a queen! -->
+        <VFEI_GiantInfestation.letterText>Insetos gigantes estão cavando túneis em sua direção! Eles romperão em alguns segundos para montar colmeias.\n\nAs colmeias gerarão mais insetos e mais colmeias.\n\nSe você não quiser que os insetos infestem toda a área, destrua as colmeias. Mas cuidado - os insetos se defenderão.\n\nEssa infestação parece ser bem grande e liderada por uma rainha!</VFEI_GiantInfestation.letterText>
+        <!-- EN: Large Infestation -->
+        <VFEI_GiantInfestation.letterLabel>Infestação pródiga</VFEI_GiantInfestation.letterLabel>
+
+        <!-- EN: raid -->
+        <VFEI_FirstInsectoidRaid.label>invasão</VFEI_FirstInsectoidRaid.label>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: Mechanoid ship destroyed -->
+        <VFEM_MechShipDestroyed.label>espaçonave mecanoide destruída</VFEM_MechShipDestroyed.label>
+        <!-- EN: {FACTION_name} destroyed {1} -->
+        <VFEM_MechShipDestroyed.letterLabel>{FACTION_name} destruiu {1}</VFEM_MechShipDestroyed.letterLabel>
+        <!-- EN: Through clever strategies, large number of casualties and incredible perseverance, {FACTION_name} managed to destroy {1}. -->
+        <VFEM_MechShipDestroyed.letterText>Por meio de estratégias inteligentes, com grande número de baixas e incrível perseverança, {FACTION_name} conseguiu destruir {1}.</VFEM_MechShipDestroyed.letterText>
+
+        <!-- EN: ship landing frigate -->
+        <VFEM_ShipLandFrigate.label>aterrissagem de espaçonave fragata</VFEM_ShipLandFrigate.label>
+        <!-- EN: Ship Landed: Frigate -->
+        <VFEM_ShipLandFrigate.letterLabel>Espaçonave aterrissada: Fragata</VFEM_ShipLandFrigate.letterLabel>
+        <!-- EN: {0} sent a new ship to land on the planet.\n\nA small ship often used for ground recon operations. It has minimal defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+        <VFEM_ShipLandFrigate.letterText>{0} enviou uma nova espaçonave para pousar no planeta.\n\nUma pequena espaçonave frequentemente usada para operações de reconhecimento terrestre. Possui defesas mínimas. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandFrigate.letterText>
+
+        <!-- EN: ship landing destroyer -->
+        <VFEM_ShipLandDestroyer.label>aterrissagem de espaçonave contratorpedeira</VFEM_ShipLandDestroyer.label>
+        <!-- EN: Ship Landed: Destroyer -->
+        <VFEM_ShipLandDestroyer.letterLabel>Espaçonave aterrissada: Contratorpedeiro</VFEM_ShipLandDestroyer.letterLabel>
+        <!-- EN: {0} sent a new ship to land on the planet.\n\nDestroyer is a medium-sized ship usually serving as mechanoid hive defender. It has no short range defenses. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+        <VFEM_ShipLandDestroyer.letterText>{0} enviou uma nova espaçonave para pousar no planeta.\n\nO contratorpedeiro é uma espaçonave de tamanho médio que geralmente serve como defensor da colmeia mecanoide. Não tem defesas de curto alcance. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandDestroyer.letterText>
+
+        <!-- EN: ship landing cruiser -->
+        <VFEM_ShipLandCruiser.label>aterrissagem de espaçonave cruzadora</VFEM_ShipLandCruiser.label>
+        <!-- EN: Ship Landed: Cruiser -->
+        <VFEM_ShipLandCruiser.letterLabel>Espaçonave aterrissada: Cruzador</VFEM_ShipLandCruiser.letterLabel>
+        <!-- EN: {0} sent a new ship to land on the planet.\n\nCruiser is a medium-sized ship usually serving as a bulk of a mechanoid hive fleet. Is has a number of short range defensive measures, but lacks long range weaponry. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+        <VFEM_ShipLandCruiser.letterText>{0} enviou uma nova espaçonave para pousar no planeta.\n\nO cruzador é uma espaçonave de tamanho médio geralmente servindo como uma grande parte de uma frota mecanoide. Tem uma série de medidas defensivas de curto alcance, mas carece de armamento de longo alcance. Quando destruída, a presença de mecanoide na superfície será reduzida.\b\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandCruiser.letterText>
+
+        <!-- EN: ship landing troopship -->
+        <VFEM_ShipLandTroopship.label>aterrissagem de espaçonave transportadora</VFEM_ShipLandTroopship.label>
+        <!-- EN: Ship Landed: Troopship -->
+        <VFEM_ShipLandTroopship.letterLabel>Espaçonave aterrissada: Transportador</VFEM_ShipLandTroopship.letterLabel>
+        <!-- EN: {0} sent a new ship to land on the planet.\n\nTroopship is a large mechanoid factory-ship, capable of producing large amounts of combat-ready mechanoids in very little time. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+        <VFEM_ShipLandTroopship.letterText>{0} enviou uma nova espaçonave para pousar no planeta.\n\nA espaçonave é uma grande espaçonave-fábrica mecanoide, capaz de produzir grandes quantidades de mecanoides prontos para o combate em muito pouco tempo. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandTroopship.letterText>
+
+        <!-- EN: ship landing carrier -->
+        <VFEM_ShipLandCarrier.label>aterrissagem de espaçonave carregadora</VFEM_ShipLandCarrier.label>
+        <!-- EN: Ship Landed: Carrier -->
+        <VFEM_ShipLandCarrier.letterLabel>Espaçonave aterrissada: Carregador</VFEM_ShipLandCarrier.letterLabel>
+        <!-- EN: {0} sent a new ship to land on the planet.\n\nCarrier is the biggest ship in the mechanoid hive, heavily defended and with numerous means of producing new, combat-ready mechanoid units. When destroyed, mechanoid presence on the surface will be lowered.\n\nIf it's left operational, it will contribute to the size of mechanoid attack parties. -->
+        <VFEM_ShipLandCarrier.letterText>{0} enviou uma nova espaçonave para pousar no planeta.\n\nO carregador é a maior espaçonave da colmeia mecanoide, fortemente protegida e com vários meios de produzir novas unidades mecanoides prontas para o combate. Quando destruída, a presença de mecanoide na superfície será reduzida.\n\nSe permanecer operando, contribuirá para o tamanho das equipes de ataque mecanoide.</VFEM_ShipLandCarrier.letterText>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: none shall pass -->
+        <VFEM_BlackKnight.label>ninguém passará</VFEM_BlackKnight.label>
+        <!-- EN: None shall pass! -->
+        <VFEM_BlackKnight.letterLabel>Ninguém passará!</VFEM_BlackKnight.letterLabel>
+        <!-- EN: {0} has encountered a mysterious knight in black who appears to be guarding a bridge! -->
+        <VFEM_BlackKnight.letterText>{0} encontrou um misterioso cavaleiro vestido de preto que parece estar vigiando uma ponte!</VFEM_BlackKnight.letterText>
+
+        <!-- EN: enemy raid -->
+        <VFEM_PursuitParty.label>invasão</VFEM_PursuitParty.label>
+
+        <!-- EN: plague -->
+        <VFEM_Disease_BlackPlague.label>peste</VFEM_Disease_BlackPlague.label>
+        <!-- EN: Disease: Black Plague -->
+        <VFEM_Disease_BlackPlague.letterLabel>Doença: Peste negra</VFEM_Disease_BlackPlague.letterLabel>
+        <!-- EN: {0} of your {1} have gotten sick from {2}.\n\nEnsure you have a medical bed and a doctor. Make sure that they get proper treatment and spend as much time in bed as possible.\n\nThe following {1} have gotten sick:\n\n{3} -->
+        <VFEM_Disease_BlackPlague.letterText>{0} de seus {1} infectou-se com {2}.\n\nCertifique-se de possuir uma cama médica, um médico e que o paciente possua o tratamento adequado e passe o maior tempo possível em repouso.\n\nOs seguintes {1} adoeceram:\n\n</VFEM_Disease_BlackPlague.letterText>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: Protection fee demand -->
+        <ProtectionFee.label>exigência de taxa de proteção</ProtectionFee.label>
+
+        <!-- EN: Protection fee demand -->
+        <ProtectionFeeLTS.label>exigência de taxa de proteção</ProtectionFeeLTS.label>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: raid (Slavers) -->
+        <VFEV_SlaverRaid.label>invasão (escravistas)</VFEV_SlaverRaid.label>
+        <!-- EN: Raid (Slavers) -->
+        <VFEV_SlaverRaid.letterLabel>Invasão (escravistas)</VFEV_SlaverRaid.letterLabel>
+        <!-- EN: A group of slavers have arrived nearby. They will use wolfhounds to hunt down your colonists and kidnap them as soon as they can. They are not interested in dealing damage and destroying your base. -->
+        <VFEV_SlaverRaid.letterText>Um grupo de escravistas chegou por perto. Eles usarão lebréus irlandeses para caçar seus colonos e sequestrá-los assim que puderem. Eles não estão interessados ​​em causar dano e destruir sua base.</VFEV_SlaverRaid.letterText>
+
+        <!-- EN: raid (pillage) -->
+        <VFEV_PillageRaid.label>invasão (saqueadores)</VFEV_PillageRaid.label>
+        <!-- EN: Raid (Pillage) -->
+        <VFEV_PillageRaid.letterLabel>Invasão (saqueadores)</VFEV_PillageRaid.letterLabel>
+        <!-- EN: A group of pillagers have arrived nearby. They will use torches to set your base ablaze. They are not interested in fighting and only want to steal your property and burn down your houses. -->
+        <VFEV_PillageRaid.letterText>Um grupo de saqueadores chegou por perto. Eles usarão tochas para incendiar sua base e não estão interessados ​​em lutar e só querem roubar sua propriedade.</VFEV_PillageRaid.letterText>
+
+        <!-- EN: mysterious wanderer -->
+        <VFE_MysteriousHeroJoins.label>viajante misterioso</VFE_MysteriousHeroJoins.label>
+        <!-- EN: Mysterious wanderer -->
+        <VFE_MysteriousHeroJoins.letterLabel>Viajante misterioso</VFE_MysteriousHeroJoins.letterLabel>
+        <!-- EN: Sensing trouble, or perhaps foreboding a time of turmoil, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to aid the colony in these dark times? -->
+        <VFE_MysteriousHeroJoins.letterText>Sentindo problemas, ou talvez pressagiando uma época de turbulência, um(a) misterioso(a) [PAWN_kind] chegou.\n\nSerá que [PAWN_pronoun] é capaz de ajudar a colônia nestes tempos sombrios?</VFE_MysteriousHeroJoins.letterText>
+
+        <!-- EN: mysterious legend -->
+        <VFE_MysteriousLegendJoins.label>lenda misteriosa</VFE_MysteriousLegendJoins.label>
+        <!-- EN: Traveling legend -->
+        <VFE_MysteriousLegendJoins.letterLabel>Lenda misteriosa</VFE_MysteriousLegendJoins.letterLabel>
+        <!-- EN: Noticing the tragedy that met your colony, a mysterious [PAWN_kind] has arrived.\n\nCan the [PAWN_pronoun] help to put things right? -->
+        <VFE_MysteriousLegendJoins.letterText>Percebendo a tragédia que atingiu sua colônia, um(a) misterioso(a) [PAWN_kind] chegou.\n\nSerá que [PAWN_pronoun] é capaz de consertar as coisas?</VFE_MysteriousLegendJoins.letterText>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: roaming monstrosities -->
+        <GR_ManhunterMonstrosities.label>monstruosidades vagantes</GR_ManhunterMonstrosities.label>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: junk chunk drop -->
+        <VME_JunkChunkDrop.label>queda de lixo espacial</VME_JunkChunkDrop.label>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- EN: One night stand -->
+        <VSIE_OneNightStand.label>Encontro casual</VSIE_OneNightStand.label>
+
+    <!-- Vanilla Storytellers Expanded - Perry Persistent -->
+        <!-- EN: man in the coat -->
+        <VSE_ManInTheCoatJoin.label>homem de casaco</VSE_ManInTheCoatJoin.label>
+        <!-- EN: Man in the Coat -->
+        <VSE_ManInTheCoatJoin.letterLabel>Homem de casaco</VSE_ManInTheCoatJoin.letterLabel>
+        <!-- EN: Sensing trouble, a mysterious [PAWN_kind] has arrived.\n\nWill [PAWN_pronoun] be able to investigate the current situation and close the case? -->
+        <VSE_ManInTheCoatJoin.letterText>Percebendo problemas, um(a) misterioso(a) [PAWN_kind] chegou.\n\n[PAWN_pronoun] poderá investigar a situação atual e encerrar o caso?</VSE_ManInTheCoatJoin.letterText>
+
+    <!-- Vanilla Storytellers Expanded - Winston Waves -->
+        <!-- EN: orbital bombardement -->
+        <VESWW_OrbitalBombardement.label>bombardeio orbital</VESWW_OrbitalBombardement.label>
+
+        <!-- EN: full map flashstorm -->
+        <VESWW_FullMapFlashstorm.label>tempestade</VESWW_FullMapFlashstorm.label>
+
+        <!-- EN: meteor storm -->
+        <VESWW_MeteorStorm.label>chuva de meteoritos</VESWW_MeteorStorm.label>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: ship combat -->
+        <ShipCombat.label>combate de espaçonaves</ShipCombat.label>
+
+    <!-- Vanilla Trading Expanded -->
+        <!-- EN: collectors -->
+        <VTE_Collectors.label>coletores</VTE_Collectors.label>
+
+        <!-- EN: caravan arrived for items -->
+        <VTE_CaravanArriveForItems.label>caravana de contrato</VTE_CaravanArriveForItems.label>
+
+</LanguageData>

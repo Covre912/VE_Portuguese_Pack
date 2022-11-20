@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Storytellers Expanded - Winston Waves -->
+        <!-- EN: Pawns join -->
+        <VSEWW_ExcellentPawnJoins.label>Ingressão de Colonos</VSEWW_ExcellentPawnJoins.label>
+        <!-- EN: A group of 5 pawns worth a minimum of 175 Combat points joins the colony -->
+        <VSEWW_ExcellentPawnJoins.description>Um grupo de 5 colonos ingressa sua colônia.</VSEWW_ExcellentPawnJoins.description>
+
+        <!-- EN: Resource drop -->
+        <VSEWW_ExcellentResourceDrop.label>Remessa de Recursos</VSEWW_ExcellentResourceDrop.label>
+        <!-- EN: Cargo pods drop 1000 wood, 1000 steel, 60 components, 20 advanced components and 300 plasteel -->
+        <VSEWW_ExcellentResourceDrop.description>Cápsulas de transporte contendo 1000 unidades de madeira e aço, 60 componentes comuns, 20 componentes avançados e 300 unidades de plastiaço são entregues em sua colônia.</VSEWW_ExcellentResourceDrop.description>
+
+        <!-- EN: Food and medicine drop -->
+        <VSEWW_ExcellentFoodAndMedicineDrop.label>Remessa de Suprimentos</VSEWW_ExcellentFoodAndMedicineDrop.label>
+        <!-- EN: Cargo pods drop 120 survival meals, 20 glitterworld medicine and 100 medicine -->
+        <VSEWW_ExcellentFoodAndMedicineDrop.description>Cápsulas de transporte contendo 120 refeições de sobrevivência embaladas, 20 unidades de medicina purpurante e 100 unidades de medicina comum são entregues em sua colônia.</VSEWW_ExcellentFoodAndMedicineDrop.description>
+
+        <!-- EN: Fuel drop -->
+        <VSEWW_ExcellentFuelDrop.label>Remessa de Combustível</VSEWW_ExcellentFuelDrop.label>
+        <!-- EN: Cargo pods drop 1000 chemfuel, 1000 wood and 400 uranium -->
+        <VSEWW_ExcellentFuelDrop.description>Cápsulas de transporte contendo 1000 unidades de combustível químico e madeira e 400 unidades de urânio são entregues em sua colônia.</VSEWW_ExcellentFuelDrop.description>
+
+        <!-- EN: Excellent weapons drop -->
+        <VSEWW_ExcellentWeaponDrop.label>Remessa de Armas</VSEWW_ExcellentWeaponDrop.label>
+        <!-- EN: Cargo pods 5 random weapons, quality is Excellent -->
+        <VSEWW_ExcellentWeaponDrop.description>Cápsulas de transporte contendo 5 armas de qualidade excelente aleatórias são entregues em sua colônia.</VSEWW_ExcellentWeaponDrop.description>
+
+        <!-- EN: Excellent armor drop -->
+        <VSEWW_ExcellentArmorDrop.label>Remessa de Armaduras</VSEWW_ExcellentArmorDrop.label>
+        <!-- EN: Cargo pods 5 random pieces of armor, quality is Excellent -->
+        <VSEWW_ExcellentArmorDrop.description>Cápsulas de transporte contendo 5 armaduras de qualidade excelente são entregues em sua colônia.</VSEWW_ExcellentArmorDrop.description>
+
+        <!-- EN: Cash -->
+        <VSEWW_ExcellentCashDrop.label>Remessa de Dinheiro</VSEWW_ExcellentCashDrop.label>
+        <!-- EN: Cargo pods drop 10000 silver, 500 gold -->
+        <VSEWW_ExcellentCashDrop.description>Cápsulas de transporte contendo 10000 unidades de prata e 500 unidades de ouro são entregues em sua colônia.</VSEWW_ExcellentCashDrop.description>
+
+        <!-- EN: Delay next wave -->
+        <VSEWW_DelayBy15.label>Adiamento da Invasão</VSEWW_DelayBy15.label>
+        <!-- EN: The next wave is delayed by 15 days -->
+        <VSEWW_DelayBy15.description>A próxima invasão é adiada em 15 dias.</VSEWW_DelayBy15.description>
+
+        <!-- EN: Wargs drop -->
+        <VSEWW_WargDrop.label>Remessa de Estranguis</VSEWW_WargDrop.label>
+        <!-- EN: Cargo pod drops 10 tamed wargs -->
+        <VSEWW_WargDrop.description>Cápsulas de transporte contendo 10 estranguis domesticados são entregues em sua colônia.</VSEWW_WargDrop.description>
+
+        <!-- EN: Skill boost -->
+        <VSEWW_ExcellentSkillBoost.label>Reforço de Habilidade</VSEWW_ExcellentSkillBoost.label>
+        <!-- EN: Improve every skill of every pawn under your control by 3 -->
+        <VSEWW_ExcellentSkillBoost.description>Aumenta as habilidades de todos os colonos em 3.</VSEWW_ExcellentSkillBoost.description>
+
+        <!-- EN: Research boost -->
+        <VSEWW_ExcellentReseachBoost.label>Reforço de Pesquisa</VSEWW_ExcellentReseachBoost.label>
+        <!-- EN: Instantly research 8 random research projects you meet prerequisites for -->
+        <VSEWW_ExcellentReseachBoost.description>Pesquisa 8 projetos aleatórios instantaneamente.</VSEWW_ExcellentReseachBoost.description>
+
+        <!-- EN: Archotech artifacts drop -->
+        <VSEWW_ExcellentArchotechArtifactsDrop.label>Remessa de Artefatos Arquotecnológicos</VSEWW_ExcellentArchotechArtifactsDrop.label>
+        <!-- EN: Receive 8 random archotech items (can be minified structures) -->
+        <VSEWW_ExcellentArchotechArtifactsDrop.description>Cápsulas de transporte contendo 8 itens arquotecnológicos aleatórios (podem ser estruturas) são entregues em sua colônia.</VSEWW_ExcellentArchotechArtifactsDrop.description>
+
+        <!-- EN: Targeters drop -->
+        <VSEWW_TargetersDrop.label>Remessa de Direcionadores</VSEWW_TargetersDrop.label>
+        <!-- EN: Receive an orbital beam targeter, orbital bombardment targeter and tornado generator -->
+        <VSEWW_TargetersDrop.description>Cápsulas de transporte contendo um direcionador de bombardeio orbital, um direcionador de feixe de potência orbital e um gerador de tornado são entregues em sua colônia.</VSEWW_TargetersDrop.description>
+
+        <!-- EN: Drugs drop -->
+        <VSEWW_ExcellentDrugsDrop.label>Remessa de Drogas</VSEWW_ExcellentDrugsDrop.label>
+        <!-- EN: Receive 100 Ambrosia, 100 psychite tea, 200 beer, 200 smokeleaf joints, 200 flake, 200 yayo, 200 wake-up, 200 go juice -->
+        <VSEWW_ExcellentDrugsDrop.description>Cápsulas de transporte contendo 100 unidades de ambrosia e chá psicoide e 200 unidades de baseados de folha de fumo, floco, brilho, despertar e suco-turbo são entregues em sua colônia</VSEWW_ExcellentDrugsDrop.description>
+
+        <!-- EN: Prosthetics drop -->
+        <VSEWW_ExcellentProstheticsDrop.label>Remessa de Próteses</VSEWW_ExcellentProstheticsDrop.label>
+        <!-- EN: Cargo pod drops random 10 bionic prosthetics -->
+        <VSEWW_ExcellentProstheticsDrop.description>Cápsulas de transporte contendo 10 biônicos aleatórios são entregues em sua colônia.</VSEWW_ExcellentProstheticsDrop.description>
+
+        <!-- EN: Healer serum drop -->
+        <VSEWW_MechSerumHealerDrop.label>Remessa de Meca-Soro</VSEWW_MechSerumHealerDrop.label>
+        <!-- EN: Cargo pod drops 5 Mechanoid healer serum -->
+        <VSEWW_MechSerumHealerDrop.description>Cápsulas de transporte contendo 5 meca-soros de cura são entregues em sua colônia.</VSEWW_MechSerumHealerDrop.description>
+
+        <!-- EN: Random Legendary reward -->
+        <VSEWW_RandomLegendaryDrop.label>Recompensa Lendária</VSEWW_RandomLegendaryDrop.label>
+        <!-- EN: Instead of picking up a specific Excellent-level reward, obtain a completely random Legendary-level reward -->
+        <VSEWW_RandomLegendaryDrop.description>Ao invés de escolher uma recompensa excelente, receba uma recompensa lendária aleatória.</VSEWW_RandomLegendaryDrop.description>
+
+        <!-- EN: Pawns join -->
+        <VSEWW_GoodPawnJoins.label>Ingressão de Colonos</VSEWW_GoodPawnJoins.label>
+        <!-- EN: A group of 3 pawns worth a minimum 100 and up to 175 Combat points joins the colony -->
+        <VSEWW_GoodPawnJoins.description>Um grupo de 3 colonos ingressa sua colônia.</VSEWW_GoodPawnJoins.description>
+
+        <!-- EN: Resource drop -->
+        <VSEWW_GoodResourceDrop.label>Remessa de Recursos</VSEWW_GoodResourceDrop.label>
+        <!-- EN: Cargo pods drop 500 wood, 500 steel, 30 components and 200 plasteel -->
+        <VSEWW_GoodResourceDrop.description>Cápsulas de transporte contendo 500 unidades de madeira e aço, 30 componentes e 200 unidades de plastiaço são entregues em sua colônia.</VSEWW_GoodResourceDrop.description>
+
+        <!-- EN: Resource drop -->
+        <VSEWW_GoodComponentDrop.label>Remessa de Componentes</VSEWW_GoodComponentDrop.label>
+        <!-- EN: Cargo pods drop 60 components and 15 advanced components -->
+        <VSEWW_GoodComponentDrop.description>Cápsulas de transporte contendo 60 componentes comuns e 15 componentes avançados são entregues em sua colônia.</VSEWW_GoodComponentDrop.description>
+
+        <!-- EN: Food and medicine drop -->
+        <VSEWW_GoodFoodAndMedicineDrop.label>Remessa de Suprimentos</VSEWW_GoodFoodAndMedicineDrop.label>
+        <!-- EN: Cargo pods drop 100 survival meals and 100 medicine -->
+        <VSEWW_GoodFoodAndMedicineDrop.description>Cápsulas de transporte contendo 100 refeições de sobrevivência embaladas e 100 unidades de medicina são entregues em sua colônia.</VSEWW_GoodFoodAndMedicineDrop.description>
+
+        <!-- EN: Fuel drop -->
+        <VSEWW_GoodFuelDrop.label>Remessa de Combustível</VSEWW_GoodFuelDrop.label>
+        <!-- EN: Cargo pods drop 800 chemfuel, 800 wood and 250 uranium -->
+        <VSEWW_GoodFuelDrop.description>Cápsulas de transporte contendo 800 unidades de combustível químico e madeira e 250 unidades de urânio são entregues em sua colônia.</VSEWW_GoodFuelDrop.description>
+
+        <!-- EN: Good weapons drop -->
+        <VSEWW_GoodWeaponsDrop.label>Remessa de Armas</VSEWW_GoodWeaponsDrop.label>
+        <!-- EN: Cargo pods 3 random weapons, quality is Good -->
+        <VSEWW_GoodWeaponsDrop.description>Cápsulas de transporte contendo 3 armas de qualidade boa aleatórias são entregues em sua colônia.</VSEWW_GoodWeaponsDrop.description>
+
+        <!-- EN: Good armor drop -->
+        <VSEWW_GoodArmorDrop.label>Remessa de Armaduras</VSEWW_GoodArmorDrop.label>
+        <!-- EN: Cargo pods 3 random pieces of armor, quality is Good -->
+        <VSEWW_GoodArmorDrop.description>Cápsulas de transporte contendo 3 armaduras de qualidade boa são entregues em sua colônia.</VSEWW_GoodArmorDrop.description>
+
+        <!-- EN: Cash -->
+        <VSEWW_GoodCashDrop.label>Remessa de Dinheiro</VSEWW_GoodCashDrop.label>
+        <!-- EN: Cargo pods drop 5000 silver, 250 gold -->
+        <VSEWW_GoodCashDrop.description>Cápsulas de transporte contendo 5000 unidades de prata e 250 unidades de ouro são entregues em sua colônia.</VSEWW_GoodCashDrop.description>
+
+        <!-- EN: Delay next wave -->
+        <VSEWW_DelayBy7.label>Adiamento da Invasão</VSEWW_DelayBy7.label>
+        <!-- EN: The next wave is delayed by 7 days -->
+        <VSEWW_DelayBy7.description>A próxima invasão é adiada em 7 dias.</VSEWW_DelayBy7.description>
+
+        <!-- EN: Combat Animal drop -->
+        <VSEWW_CombatAnimalDrop.label>Remessa de Animais</VSEWW_CombatAnimalDrop.label>
+        <!-- EN: Cargo pod drops 5 random, tamed combat animals -->
+        <VSEWW_CombatAnimalDrop.description>Cápsulas de transporte contendo 5 animais de combate domesticados são entregues em sua colônia.</VSEWW_CombatAnimalDrop.description>
+
+        <!-- EN: Textile drop -->
+        <VSEWW_GoodTextileDrop.label>Remessa de Têxteis</VSEWW_GoodTextileDrop.label>
+        <!-- EN: Cargo pod drops 1000 random pieces of leather or textile -->
+        <VSEWW_GoodTextileDrop.description>Cápsulas de transporte contendo 1000 unidades de couro ou têxteis são entregues em sua colônia.</VSEWW_GoodTextileDrop.description>
+
+        <!-- EN: Skill boost -->
+        <VSEWW_GoodSkillBoost.label>Reforço de Habilidade</VSEWW_GoodSkillBoost.label>
+        <!-- EN: Improve every skill of every pawn under your control by 2 -->
+        <VSEWW_GoodSkillBoost.description>Aumenta as habilidades de todos os colonos em 2.</VSEWW_GoodSkillBoost.description>
+
+        <!-- EN: Research boost -->
+        <VSEWW_GoodReseachBoost.label>Reforço de Pesquisa</VSEWW_GoodReseachBoost.label>
+        <!-- EN: Instantly research 5 random research projects you meet prerequisites for -->
+        <VSEWW_GoodReseachBoost.description>Pesquisa 5 projetos aleatórios instantaneamente.</VSEWW_GoodReseachBoost.description>
+
+        <!-- EN: Weaken next wave -->
+        <VSEWW_Weaken50.label>Enfraquecimento da Invasão</VSEWW_Weaken50.label>
+        <!-- EN: Next wave only has 50% Combat points it would normally have -->
+        <VSEWW_Weaken50.description>A próxima invasão tem metade do tamanho que teria normalmente.</VSEWW_Weaken50.description>
+        
+        <!-- EN: Allies! -->
+        <VSEWW_Allies.label>Aliados!</VSEWW_Allies.label>
+        <!-- EN: Next wave also brings allies that are 2x the regular size, to help you -->
+        <VSEWW_Allies.description>Durante a próxima invasão, aliados serão destacados para ajudá-lo(a).</VSEWW_Allies.description>
+
+        <!-- EN: Archotech artifacts drop -->
+        <VSEWW_GoodArchotechArtifactsDrop.label>Remessa de Artefatos Arquotecnológicos</VSEWW_GoodArchotechArtifactsDrop.label>
+        <!-- EN: Receive 5 random archotech items (can be minified structures) -->
+        <VSEWW_GoodArchotechArtifactsDrop.description>Cápsulas de transporte contendo 5 itens arquotecnológicos aleatórios (podem ser estruturas) são entregues em sua colônia.</VSEWW_GoodArchotechArtifactsDrop.description>
+
+        <!-- EN: Orbital beam targeter -->
+        <VSEWW_OrbitalTargeterPowerBeamDrop.label>Remessa de Direcionador de Feixe de Potência Orbital</VSEWW_OrbitalTargeterPowerBeamDrop.label>
+        <!-- EN: Receive an orbital beam targeter -->
+        <VSEWW_OrbitalTargeterPowerBeamDrop.description>Uma cápsula de transporte contendo um direcionador de feixe de potência orbital é entregue em sua colônia.</VSEWW_OrbitalTargeterPowerBeamDrop.description>
+
+        <!-- EN: Orbital bombardment targeter -->
+        <VSEWW_OrbitalTargeterBombardmentDrop.label>Remessa de Direcionador de Bombardeio Orbital</VSEWW_OrbitalTargeterBombardmentDrop.label>
+        <!-- EN: Receive an orbital bombardment targeter -->
+        <VSEWW_OrbitalTargeterBombardmentDrop.description>Uma cápsula de transporte contendo um direcionador de bombardeio orbital é entregue em sua colônia.</VSEWW_OrbitalTargeterBombardmentDrop.description>
+
+        <!-- EN: Tornado generator  -->
+        <VSEWW_TornadoGeneratorDrop.label>Remessa de Direcionador de Feixe de Potência Orbital</VSEWW_TornadoGeneratorDrop.label>
+        <!-- EN: Receive a tornado generator -->
+        <VSEWW_TornadoGeneratorDrop.description>Uma cápsula de transporte contendo um gerador de tornado é entregue em sua colônia.</VSEWW_TornadoGeneratorDrop.description>
+
+        <!-- EN: Drugs drop -->
+        <VSEWW_GoodDrugsDrop.label>Remessa de Drogas</VSEWW_GoodDrugsDrop.label>
+        <!-- EN: Receive 10 Ambrosia, 10 psychite tea, 20 beer, 20 smokeleaf joints, 20 flake, 20 yayo, 20 wake-up, 20 go juice -->
+        <VSEWW_GoodDrugsDrop.description>Cápsulas de transporte contendo 10 unidades de ambrosia e chá psicoide e 20 unidades de cerveja, baseados de folha de fumo, floco, brilho, despertar e suco-turbo são entregues em sua colônia</VSEWW_GoodDrugsDrop.description>
+
+        <!-- EN: Prosthetics drop -->
+        <VSEWW_GoodProstheticsDrop.label>Remessa de Próteses</VSEWW_GoodProstheticsDrop.label>
+        <!-- EN: Cargo pod drops 5 random low-level prosthetics and 5 bionic prosthetics -->
+        <VSEWW_GoodProstheticsDrop.description>Cápsulas de transporte contendo 5 próteses e biônicos aleatórios são entregues em sua colônia.</VSEWW_GoodProstheticsDrop.description>
+
+        <!-- EN: Random Excellent reward -->
+        <VSEWW_RandomExcellentDrop.label>Recompensa Excelente</VSEWW_RandomExcellentDrop.label>
+        <!-- EN: Instead of picking up a specific Good-level reward, obtain a completely random Excellent-level reward -->
+        <VSEWW_RandomExcellentDrop.description>Ao invés de escolher uma recompensa boa, receba uma recompensa excelente aleatória.</VSEWW_RandomExcellentDrop.description>
+
+        <!-- EN: Orbital Trader Arrival -->
+        <VSEWW_OrbitalTraderArrival.label>Comércio Orbital</VSEWW_OrbitalTraderArrival.label>
+        <!-- EN: Send a random orbital trader -->
+        <VSEWW_OrbitalTraderArrival.description>Receba a visita de um comerciante orbital aleatório.</VSEWW_OrbitalTraderArrival.description>
+
+        <!-- EN: Pawns join -->
+        <VSEWW_MercenaryJoins.label>Ingressão de Mercenários</VSEWW_MercenaryJoins.label>
+        <!-- EN: A group of 5 mercenary PawnKindDef pawns join -->
+        <VSEWW_MercenaryJoins.description>Um grupo de 5 mercenários ingressa sua colônia.</VSEWW_MercenaryJoins.description>
+
+        <!-- EN: Resource drop -->
+        <VSEWW_LegendaryResourceDrop.label>Remessa de Recursos</VSEWW_LegendaryResourceDrop.label>
+        <!-- EN: Cargo pods drop 3000 wood, 3000 steel, 100 components, 50 advanced components, 500 plasteel -->
+        <VSEWW_LegendaryResourceDrop.description>Cápsulas de transporte contendo 3000 unidades de madeira e aço, 100 componentes comuns, 50 componentes avançados e 500 unidades de plastiaço são entregues em sua colônia.</VSEWW_LegendaryResourceDrop.description>
+
+        <!-- EN: Survival means drop -->
+        <VSEWW_SurvivalMeansDrop.label>Remessa de Suprimentos</VSEWW_SurvivalMeansDrop.label>
+        <!-- EN: Cargo pods drop 250 survival meals, 50 glitterworld medicine, 5 Mechanite healer mech serums and 200 medicine -->
+        <VSEWW_SurvivalMeansDrop.description>Cápsulas de transporte contendo 250 refeições de sobrevivência embaladas, 50 unidades de medicina purpurante, 5 meca-soros de cura e 100 unidades de medicina comum são entregues em sua colônia.</VSEWW_SurvivalMeansDrop.description>
+
+        <!-- EN: Fuel drop -->
+        <VSEWW_LegendaryFuelDrop.label>Remessa de Combustível</VSEWW_LegendaryFuelDrop.label>
+        <!-- EN: Cargo pods drop 2000 chemfuel, 2000 wood and 800 uranium -->
+        <VSEWW_LegendaryFuelDrop.description>Cápsulas de transporte contendo 2000 unidades de combustível químico e madeira e 800 unidades de urânio são entregues em sua colônia.</VSEWW_LegendaryFuelDrop.description>
+
+        <!-- EN: Legendary gear drop -->
+        <VSEWW_LegendaryGearDrop.label>Remessa de Armamento</VSEWW_LegendaryGearDrop.label>
+        <!-- EN: Cargo pods 5 random weapons and 5 random armors drop, quality is Legendary -->
+        <VSEWW_LegendaryGearDrop.description>Cápsulas de transporte contendo 5 armas e armaduras de qualidade lendária aleatórias são entregues em sua colônia.</VSEWW_LegendaryGearDrop.description>
+
+        <!-- EN: Cash and Riches -->
+        <VSEWW_CashAndRiches.label>Remessa de Fortuna</VSEWW_CashAndRiches.label>
+        <!-- EN: Cargo pods drop 25000 silver, 1000 gold, 1000 Jade -->
+        <VSEWW_CashAndRiches.description>Cápsulas de transporte contendo 25000 unidades de prata e 1000 unidades de ouro e jade são entregues em sua colônia.</VSEWW_CashAndRiches.description>
+
+        <!-- EN: Thrumbo drop -->
+        <VSEWW_ThrumboDrop.label>Remessa de Trumbos</VSEWW_ThrumboDrop.label>
+        <!-- EN: Cargo pod drops 3 tamed thrumbos -->
+        <VSEWW_ThrumboDrop.description>Cápsulas de transporte contendo 3 trumbos domesticados são entregues em sua colônia.</VSEWW_ThrumboDrop.description>
+
+        <!-- EN: Skill boost -->
+        <VSEWW_LegendarySkillBoost.label>Reforço de Habilidade</VSEWW_LegendarySkillBoost.label>
+        <!-- EN: Improve every skill of every pawn under your control by 5 -->
+        <VSEWW_LegendarySkillBoost.description>Aumenta as habilidades de todos os colonos em 5.</VSEWW_LegendarySkillBoost.description>
+
+        <!-- EN: Archotech prosthetics drop -->
+        <VSEWW_ArchotechProstheticsDrop.label>Remessa de Biônicos</VSEWW_ArchotechProstheticsDrop.label>
+        <!-- EN: Cargo pod drops random 10 archotech body parts -->
+        <VSEWW_ArchotechProstheticsDrop.description>Cápsulas de transporte contendo 10 biônicos arquotecnológicos são entregues em sua colônia.</VSEWW_ArchotechProstheticsDrop.description>
+
+        <!-- EN: Mass Heal -->
+        <VSEWW_MassHeal.label>Regeneração em Massa</VSEWW_MassHeal.label>
+        <!-- EN: Instantly heals all the wounds on all pawns under player control -->
+        <VSEWW_MassHeal.description>Cura os ferimentos de todos os colonos instantaneamente.</VSEWW_MassHeal.description>
+
+        <!-- EN: Pawn joins -->
+        <VSEWW_NormalPawnJoins.label>Ingressão de Colono</VSEWW_NormalPawnJoins.label>
+        <!-- EN: A single pawn worth minimum 50 and up to 125 Combat points joins the colony -->
+        <VSEWW_NormalPawnJoins.description>Um colono ingressa sua colônia.</VSEWW_NormalPawnJoins.description>
+
+        <!-- EN: Resource drop -->
+        <VSEWW_NormalResourceDrop.label>Remessa de Recursos</VSEWW_NormalResourceDrop.label>
+        <!-- EN: Cargo pods drop 250 wood, 250 steel, 10 components -->
+        <VSEWW_NormalResourceDrop.description>Cápsulas de transporte contendo 250 unidades de madeira e aço e 60 componentes são entregues em sua colônia.</VSEWW_NormalResourceDrop.description>
+        
+        <!-- EN: Component drop -->
+        <VSEWW_NormalComponentDrop.label>Remessa de Componente</VSEWW_NormalComponentDrop.label>
+        <!-- EN: Cargo pods drop 20 components, 5 advanced components -->
+        <VSEWW_NormalComponentDrop.description>Cápsulas de transporte contendo 20 componentes comuns e 5 componentes avançados são entregues em sua colônia.</VSEWW_NormalComponentDrop.description>
+
+        <!-- EN: Food and medicine drop -->
+        <VSEWW_NormalFoodAndMedicineDrop.label>Remessa de Suprimentos</VSEWW_NormalFoodAndMedicineDrop.label>
+        <!-- EN: Cargo pods drop 30 survival meals and 30 medicine -->
+        <VSEWW_NormalFoodAndMedicineDrop.description>Cápsulas de transporte contendo 30 refeições de sobrevivência embaladas e medicina são entregues em sua colônia.</VSEWW_NormalFoodAndMedicineDrop.description>
+    
+        <!-- EN: Uranium drop -->
+        <VSEWW_UraniumDrop.label>Remessa de Urânio</VSEWW_UraniumDrop.label>
+        <!-- EN: Cargo pods drop 100 uranium -->
+        <VSEWW_UraniumDrop.description>Cápsulas de transporte contendo 100 unidades de urânio são entregues em sua colônia.</VSEWW_UraniumDrop.description>
+
+        <!-- EN: Fuel drop -->
+        <VSEWW_NormalFuelDrop.label>Remessa de Combustível</VSEWW_NormalFuelDrop.label>
+        <!-- EN: Cargo pods drop 500 chemfuel -->
+        <VSEWW_NormalFuelDrop.description>Cápsulas de transporte contendo 500 unidades de combustível químico são entregues em sua colônia.</VSEWW_NormalFuelDrop.description>
+
+        <!-- EN: Plasteel drop -->
+        <VSEWW_PlasteelDrop.label>Remessa de Plastiaço</VSEWW_PlasteelDrop.label>
+        <!-- EN: Cargo pods drop 100 plasteel -->
+        <VSEWW_PlasteelDrop.description>Cápsulas de transporte contendo 100 unidades de plastiaço são entregues em sua colônia.</VSEWW_PlasteelDrop.description>
+
+        <!-- EN: Normal weapons drop -->
+        <VSEWW_NormalWeaponsDrop.label>Remessa de Armas</VSEWW_NormalWeaponsDrop.label>
+        <!-- EN: Cargo pods 3 random weapons, quality is Normal -->
+        <VSEWW_NormalWeaponsDrop.description>Cápsulas de transporte contendo 3 armas de qualidade normal aleatórias são entregues em sua colônia.</VSEWW_NormalWeaponsDrop.description>
+
+        <!-- EN: Cash -->
+        <VSEWW_NormalCashDrop.label>Remessa de Dinheiro</VSEWW_NormalCashDrop.label>
+        <!-- EN: Cargo pods drop 3000 silver -->
+        <VSEWW_NormalCashDrop.description>Cápsulas de transporte contendo 3000 unidades de prata são entregues em sua colônia.</VSEWW_NormalCashDrop.description>
+
+        <!-- EN: Caravan arrival -->
+        <VSEWW_CaravanArrival.label>Caravana Comercial</VSEWW_CaravanArrival.label>
+        <!-- EN: A random caravan arrives -->
+        <VSEWW_CaravanArrival.description>Uma caravana comercial aleatória visita sua colônia.</VSEWW_CaravanArrival.description>
+
+        <!-- EN: Delay next wave -->
+        <VSEWW_DelayBy3.label>Adiamento da Invasão</VSEWW_DelayBy3.label>
+        <!-- EN: The next wave is delayed by 3 days -->
+        <VSEWW_DelayBy3.description>A próxima invasão é adiada em 3 dias.</VSEWW_DelayBy3.description>
+
+        <!-- EN: Animal drop -->
+        <VSEWW_NormalAnimalDrop.label>Remessa de Animais</VSEWW_NormalAnimalDrop.label>
+        <!-- EN: Cargo pod drops 2 random, tamed animals -->
+        <VSEWW_NormalAnimalDrop.description>Cápsulas de transporte contendo 2 animais domesticados são entregues em sua colônia.</VSEWW_NormalAnimalDrop.description>
+
+        <!-- EN: Textile drop -->
+        <VSEWW_NormalTextileDrop.label>Remessa de Têxteis</VSEWW_NormalTextileDrop.label>
+        <!-- EN: Cargo pod drops 400 random pieces of leather or textile -->
+        <VSEWW_NormalTextileDrop.description>Cápsulas de transporte contendo 400 unidades de couro ou têxteis são entregues em sua colônia.</VSEWW_NormalTextileDrop.description>
+
+        <!-- EN: Miniturret drop -->
+        <VSEWW_MiniturretDrop.label>Remessa de Mini-Torretas</VSEWW_MiniturretDrop.label>
+        <!-- EN: Cargo pod drops 3 minified mini-turrets -->
+        <VSEWW_MiniturretDrop.description>Cápsulas de transporte contendo 3 mini-torretas são entregues em sua colônia.</VSEWW_MiniturretDrop.description>
+
+        <!-- EN: Research boost -->
+        <VSEWW_NormalReseachBoost.label>Reforço de Pesquisa</VSEWW_NormalReseachBoost.label>
+        <!-- EN: Instantly research 3 random research projects you meet prerequisites for -->
+        <VSEWW_NormalReseachBoost.description>Pesquisa 3 projetos aleatórios instantaneamente.</VSEWW_NormalReseachBoost.description>
+
+        <!-- EN: Prosthetics drop -->
+        <VSEWW_NormalProstheticsDrop.label>Remessa de Próteses</VSEWW_NormalProstheticsDrop.label>
+        <!-- EN: Cargo pod drops 5 random low-level prosthetics -->
+        <VSEWW_NormalProstheticsDrop.description>Cápsulas de transporte contendo 5 próteses são entregues em sua colônia.</VSEWW_NormalProstheticsDrop.description>
+
+        <!-- EN: Random Good reward -->
+        <VSEWW_RandomGoodDrop.label>Recompensa Boa</VSEWW_RandomGoodDrop.label>
+        <!-- EN: Instead of picking up a specific Normal-level reward, obtain a completely random Good-level reward -->
+        <VSEWW_RandomGoodDrop.description>Ao invés de escolher uma recompensa normal, receba uma recompensa boa aleatória.</VSEWW_RandomGoodDrop.description>
+
+        <!-- EN: Meteorite Impact -->
+        <VSEWW_MeteoriteImpact.label>Impacto de Meteorito</VSEWW_MeteoriteImpact.label>
+        <!-- EN: Send a random orbital trader -->
+        <VSEWW_MeteoriteImpact.description>Um meteorito ruirá à sua colônia.</VSEWW_MeteoriteImpact.description>
+
+        <!-- EN: Psychic soothe -->
+        <VSEWW_PsychicSoothe.label>Calmante Psíquico</VSEWW_PsychicSoothe.label>
+        <!-- EN: Psychic soothe -->
+        <VSEWW_PsychicSoothe.description>Um calmante psíquico dominará sua colônia.</VSEWW_PsychicSoothe.description>
+
+        <!-- EN: Super-nanites drop -->
+        <VSEWW_SuperNanitesDrop.label>Remessa de Super-Nanorrobôs</VSEWW_SuperNanitesDrop.label>
+        <!-- EN: Cargo pod drops 5 super-nanites. -->
+        <VSEWW_SuperNanitesDrop.description>Cápsulas de transporte contendo 5 super-nanorrobôs são entregues em sua colônia.</VSEWW_SuperNanitesDrop.description>
+
+        <!-- EN: Lab part drop -->
+        <VSEWW_RandomLabDrop.label>Remessa de Laboratório</VSEWW_RandomLabDrop.label>
+        <!-- EN: Cargo pod drop one gene-tailoring lab part. -->
+        <VSEWW_RandomLabDrop.description>Uma cápsula de transporte contendo um parte da cápsula de costura genética é entregue em sua colônia.</VSEWW_RandomLabDrop.description>
+
+        <!-- EN: Lab parts drop -->
+        <VSEWW_LegendaryRandomLabDrop.label>Remessa de Laboratório</VSEWW_LegendaryRandomLabDrop.label>
+        <!-- EN: Cargo pod drops 3 random gene-tailoring lab parts. -->
+        <VSEWW_LegendaryRandomLabDrop.description>Cápsulas de transporte contendo 3 partes da cápsula de costura genética são entregues em sua colônia.</VSEWW_LegendaryRandomLabDrop.description>
+
+        <!-- EN: Laser weapons drop -->
+        <VSEWW_LaserWeaponsDrop.label>Remessa de Armas Laser</VSEWW_LaserWeaponsDrop.label>
+        <!-- EN: Cargo pod drops 3 random laser weapons. -->
+        <VSEWW_LaserWeaponsDrop.description>Cápsulas de transporte contendo 3 armas laser são entregues em sua colônia.</VSEWW_LaserWeaponsDrop.description>
+
+        <!-- EN: Pawn joins -->
+        <VSEWW_PoorPawnJoins.label>Ingressão de Colono</VSEWW_PoorPawnJoins.label>
+        <!-- EN: A single pawn worth up to 50 Combat points joins the colony -->
+        <VSEWW_PoorPawnJoins.description>Um colono ingressa sua colônia.</VSEWW_PoorPawnJoins.description>
+
+        <!-- EN: Wood drop -->
+        <VSEWW_WoodDrop.label>Remessa de Madeira</VSEWW_WoodDrop.label>
+        <!-- EN: Cargo pods drop 250 wood -->
+        <VSEWW_WoodDrop.description>Cápsulas de transporte contendo 250 unidades de madeira são entregues em sua colônia.</VSEWW_WoodDrop.description>
+
+        <!-- EN: Steel drop -->
+        <VSEWW_SteelDrop.label>Remessa de Aço</VSEWW_SteelDrop.label>
+        <!-- EN: Cargo pods drop 250 stone blocks -->
+        <VSEWW_SteelDrop.description>Cápsulas de transporte contendo 250 blocos de pedra são entregues em sua colônia.</VSEWW_SteelDrop.description>
+
+        <!-- EN: Stone drop -->
+        <VSEWW_StoneDrop.label>Remessa de Pedra</VSEWW_StoneDrop.label>
+        <!-- EN: Cargo pods drop 250 steel -->
+        <VSEWW_StoneDrop.description>Cápsulas de transporte contendo 250 unidades de aço são entregues em sua colônia.</VSEWW_StoneDrop.description>
+
+        <!-- EN: Food drop -->
+        <VSEWW_FoodDrop.label>Remessa de Alimento</VSEWW_FoodDrop.label>
+        <!-- EN: Cargo pods drop 250 stone blocks -->
+        <VSEWW_FoodDrop.description>Cápsulas de transporte contendo 30 refeições de sobrevivência embaladas são entregues em sua colônia.</VSEWW_FoodDrop.description>
+
+        <!-- EN: Medicine drop -->
+        <VSEWW_MedicineDrop.label>Remessa de Medicina</VSEWW_MedicineDrop.label>
+        <!-- EN: Cargo pods drop 30 medicine -->
+        <VSEWW_MedicineDrop.description>Cápsulas de transporte contendo 30 unidades de medicina são entregues em sua colônia.</VSEWW_MedicineDrop.description>
+
+        <!-- EN: Fuel drop -->
+        <VSEWW_PoorFuelDrop.label>Remessa de Combustível</VSEWW_PoorFuelDrop.label>
+        <!-- EN: Cargo pods drop 200 chemfuel -->
+        <VSEWW_PoorFuelDrop.description>Cápsulas de transporte contendo 200 unidades de combustível químico são entregues em sua colônia.</VSEWW_PoorFuelDrop.description>
+
+        <!-- EN: Poor weapons drop -->
+        <VSEWW_PoorWeaponsDrop.label>Remessa de Armas</VSEWW_PoorWeaponsDrop.label>
+        <!-- EN: Cargo pods 3 random weapons, maximum quality is poor -->
+        <VSEWW_PoorWeaponsDrop.description>Cápsulas de transporte contendo 3 armas de qualidade máxima pobre aleatórias são entregues em sua colônia.</VSEWW_PoorWeaponsDrop.description>
+
+        <!-- EN: Cash -->
+        <VSEWW_PoorCashDrop.label>Remessa de Dinheiro</VSEWW_PoorCashDrop.label>
+        <!-- EN: Cargo pods drop 1000 silver -->
+        <VSEWW_PoorCashDrop.description>Cápsulas de transporte contendo 1000 unidades de prata são entregues em sua colônia.</VSEWW_PoorCashDrop.description>
+
+        <!-- EN: Leather drop -->
+        <VSEWW_LeatherDrop.label>Remessa de Couro</VSEWW_LeatherDrop.label>
+        <!-- EN: Cargo pod drops 300 random pieces of leather -->
+        <VSEWW_LeatherDrop.description>Cápsulas de transporte contendo 300 unidades de couro são entregues em sua colônia.</VSEWW_LeatherDrop.description>
+
+        <!-- EN: Random Normal reward -->
+        <VSEWW_RandomNormalDrop.label>Recompensa Normal</VSEWW_RandomNormalDrop.label>
+        <!-- EN: Instead of picking up a specific Poor-level reward, obtain a completely random Normal-level reward -->
+        <VSEWW_RandomNormalDrop.description>Ao invés de escolher uma recompensa pobre, receba uma recompensa normal aleatória.</VSEWW_RandomNormalDrop.description>
+
+        <!-- EN: Incubator drop -->
+        <VSEWW_IncubatorDrop.label>Remessa de Incubadora</VSEWW_IncubatorDrop.label>
+        <!-- EN: Cargo pod drop one incubator. -->
+        <VSEWW_IncubatorDrop.description>Uma cápsula de transporte contendo uma incubadora de bioengenharia é entregue em sua colônia.</VSEWW_IncubatorDrop.description>
+
+        <!-- EN: Genomes drop -->
+        <VSEWW_GenomeDrop.label>Remessa de Genomas</VSEWW_GenomeDrop.label>
+        <!-- EN: Cargo pod drops 5 random genomes. -->
+        <VSEWW_GenomeDrop.description>Cápsulas de transporte contendo 5 genomas são entregues em sua colônia.</VSEWW_GenomeDrop.description>
+
+        <!-- EN: Plasma weapons drop -->
+        <VSEWW_PlasmaWeaponsDrop.label>Remessa de Armas de Plasma</VSEWW_PlasmaWeaponsDrop.label>
+        <!-- EN: Cargo pod drops 3 random plasma weapons. -->
+        <VSEWW_PlasmaWeaponsDrop.description>Cápsulas de transporte contendo 3 armas de plasma são entregues em sua colônia.</VSEWW_PlasmaWeaponsDrop.description>
+
+        <!-- EN: Books drop -->
+        <VSEWW_BooksDrop.label>Remessa de Livros</VSEWW_BooksDrop.label>
+        <!-- EN: Cargo pods 3 random books. -->
+        <VSEWW_BooksDrop.description>Cápsulas de transporte contendo 3 livros são entregues em sua colônia.</VSEWW_BooksDrop.description>
+
+        <!-- EN: Crypto gears drop -->
+        <VSEWW_CryoGearDrop.label>Remessa de Cripto-Equipamento</VSEWW_CryoGearDrop.label>
+        <!-- EN: Cargo pod drops 3 random crypto gears. -->
+        <VSEWW_CryoGearDrop.description>Cápsulas de transporte contendo 3 cripto-equipamentos são entregues em sua colônia.</VSEWW_CryoGearDrop.description>
+
+        <!-- EN: Factory starter drop -->
+        <VSEWW_FactoryStarterDrop.label>Remessa de Fábrica</VSEWW_FactoryStarterDrop.label>
+        <!-- EN: Cargo pod drops 150 steel and 5 mechanoid components -->
+        <VSEWW_FactoryStarterDrop.description>Cápsulas de transporte contendo 150 unidades de aço e 5 componentes mecanoides são entregues em sua colônia.</VSEWW_FactoryStarterDrop.description>
+
+        <!-- EN: Factory expansion drop -->
+        <VSEWW_FactoryExpansionDrop.label>Remessa de Expansão de Fábrica</VSEWW_FactoryExpansionDrop.label>
+        <!-- EN: Cargo pod drops 400 steel and 10 mechanoid components and 20 industrial components -->
+        <VSEWW_FactoryExpansionDrop.description>Cápsulas de transporte contendo 400 unidades de aço, 10 componentes mecanoides e 10 componentes industriais são entregues em sua colônia.</VSEWW_FactoryExpansionDrop.description>
+
+        <!-- EN: Heavy weapon drop -->
+        <VSEWW_HeavyWeaponDrop.label>Remessa de Armas Pesadas</VSEWW_HeavyWeaponDrop.label>
+        <!-- EN: Cargo pod drop one random heavy weapon and one exoskeleton frame. -->
+        <VSEWW_HeavyWeaponDrop.description>Cápsulas de transporte contendo um arma pesada e uma armação de exoesqueleto são entregues em sua colônia.</VSEWW_HeavyWeaponDrop.description>
+
+</LanguageData>

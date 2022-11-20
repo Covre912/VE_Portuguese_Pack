@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: Mechanoid Upgrade Warning -->
+        <firstWarning.label>Aviso de atualização mecanoide</firstWarning.label>
+        <!-- EN: The mechanoids are close to obtaining critical mass before they receive a hardware upgrade. Destroy their ships to stop them. -->
+        <firstWarning.description>Os mecanoides estão próximos de obter massa crítica antes de receberem uma atualização de hardware. Destrua suas espaçonaves para detê-los.</firstWarning.description>
+
+        <!-- EN: Mechanoid Upgrade Imminent -->
+        <secondWarning.label>Atualização mecanoide iminente</secondWarning.label>
+        <!-- EN: The mechanoids are going to obtain critical mass and receive a hardware upgrade soon if you don't destroy their ships. -->
+        <secondWarning.description>Os mecanoides obterão massa crítica e receber uma atualização de hardware em breve, se você não destruir suas espaçonaves.</secondWarning.description>
+
+        <!-- EN: Mechanoid Upgrade Complete -->
+        <thirdWarning.label>Atualização mecanoide concluída</thirdWarning.label>
+        <!-- EN: The mechanoids obtained critical mass and received a hardware upgrade. Destroy mechanoid ships to lower their presence. -->
+        <thirdWarning.description>Os mecanoides obtiveram massa crítica e receberam uma atualização de hardware. Destrua as espaçonaves mecanoides para diminuir sua presença.</thirdWarning.description>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: baton -->
+        <VME_Corporate_Club.overrideLabel>cassetete</VME_Corporate_Club.overrideLabel>
+
+        <!-- EN: telescopic baton -->
+        <VME_Corporate_Mace.overrideLabel>cassetete telescópico</VME_Corporate_Mace.overrideLabel>
+
+        <!-- EN: Things/Weapons/CorporateWeapons/AM_CorporateSawedOffShotgun  -->
+        <VME_Corporate_SawedOffShotgun.graphic.subGraphic.path>Things/Weapons/CorporateWeapons/AM_CorporateSawedOffShotgun</VME_Corporate_SawedOffShotgun.graphic.subGraphic.path>
+
+</LanguageData>

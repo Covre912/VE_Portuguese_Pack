@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla UI Expanded -->
+        <!-- EN: Edit mode -->
+        <UI_EditMode.label>Modo de Edição</UI_EditMode.label>
+        <!-- EN: Activate to drag and drop the buttons on the bottom to reorder them. -->
+        <UI_EditMode.description>Ative para reordenar os botões do menu.</UI_EditMode.description>
+
+</LanguageData>

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: destroy cocoons -->
+        <VAE_DestroyCocoons.label>- Destruição de casulos</VAE_DestroyCocoons.label>
+        <!-- EN: destroy cocoons -->
+        <VAE_DestroyCocoons.verb>destruir casulos</VAE_DestroyCocoons.verb>
+        <!-- EN: destroying cocoons -->
+        <VAE_DestroyCocoons.gerund>destruindo casulos</VAE_DestroyCocoons.gerund>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: write books -->
+        <VBE_DoBillsWrite.label>- Escrita de livros</VBE_DoBillsWrite.label>
+        <!-- EN: write -->
+        <VBE_DoBillsWrite.verb>escrever</VBE_DoBillsWrite.verb>
+        <!-- EN: writing at -->
+        <VBE_DoBillsWrite.gerund>escrevendo em</VBE_DoBillsWrite.gerund>
+
+    <!-- Vanilla Brewing Expanded -->
+        <!-- EN: mix drinks at bar -->
+        <VBE_DoBillsBar.label>- Mistura de bebidas</VBE_DoBillsBar.label>
+        <!-- EN: mix drinks -->
+        <VBE_DoBillsBar.verb>misturar bebidas</VBE_DoBillsBar.verb>
+        <!-- EN: mixing drinks at -->
+        <VBE_DoBillsBar.gerund>misturando bebidas em</VBE_DoBillsBar.gerund>
+
+    <!-- Vanilla Brewing Expanded - Coffees and Teas -->
+        <!-- EN: brew at espresso machine -->
+        <VBE_DoBillsEspressoMachine.label>- Preparação de bebidas em máquinas de espresso</VBE_DoBillsEspressoMachine.label>
+        <!-- EN: brew -->
+        <VBE_DoBillsEspressoMachine.verb>preparar</VBE_DoBillsEspressoMachine.verb>
+        <!-- EN: brew at -->
+        <VBE_DoBillsEspressoMachine.gerund>preparando em</VBE_DoBillsEspressoMachine.gerund>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: cook at grill -->
+        <VCE_DoBillsGrill.label>- Cozinha em grelhas</VCE_DoBillsGrill.label>
+        <!-- EN: grill -->
+        <VCE_DoBillsGrill.verb>grelhar</VCE_DoBillsGrill.verb>
+        <!-- EN: grilling at -->
+        <VCE_DoBillsGrill.gerund>grelhando em</VCE_DoBillsGrill.gerund>
+
+        <!-- EN: cook at deep fryer -->
+        <VCE_DoBillsFryer.label>- Cozinha em fritadeiras</VCE_DoBillsFryer.label>
+        <!-- EN: deep fry -->
+        <VCE_DoBillsFryer.verb>fritar</VCE_DoBillsFryer.verb>
+        <!-- EN: deep frying at -->
+        <VCE_DoBillsFryer.gerund>fritando em</VCE_DoBillsFryer.gerund>
+
+        <!-- EN: work at canning machine -->
+        <VCE_DoBillsCanning.label>- Enlatamento</VCE_DoBillsCanning.label>
+        <!-- EN: can food -->
+        <VCE_DoBillsCanning.verb>enlatar alimentos</VCE_DoBillsCanning.verb>
+        <!-- EN: canning food at -->
+        <VCE_DoBillsCanning.gerund>enlatando alimentos em</VCE_DoBillsCanning.gerund>
+
+        <!-- EN: work on condiments at prep table -->
+        <VCE_DoBillsPrep.label>- Preparação de condimentos</VCE_DoBillsPrep.label>
+        <!-- EN: prep condiments -->
+        <VCE_DoBillsPrep.verb>preparar condimentos</VCE_DoBillsPrep.verb>
+        <!-- EN: working on condiments at -->
+        <VCE_DoBillsPrep.gerund>preparando condimentos em</VCE_DoBillsPrep.gerund>
+
+    <!-- Vanilla Cooking Expanded - Sushi -->
+        <!-- EN: cook at sushi table -->
+        <VCE_DoBillsSushi.label>- Preparação de sushi</VCE_DoBillsSushi.label>
+        <!-- EN: cook -->
+        <VCE_DoBillsSushi.verb>preparar</VCE_DoBillsSushi.verb>
+        <!-- EN: cooking at -->
+        <VCE_DoBillsSushi.gerund>preparando em</VCE_DoBillsSushi.gerund>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: gather animal resource -->
+        <VEF_AnimalResource.label>- Coleta de recursos animais</VEF_AnimalResource.label>
+        <!-- EN: gather animal resource from -->
+        <VEF_AnimalResource.verb>coletar recursos animais de</VEF_AnimalResource.verb>
+        <!-- EN: gathering animal resource from -->
+        <VEF_AnimalResource.gerund>coletando recursos animais de</VEF_AnimalResource.gerund>
+
+        <!-- EN: destroy items -->
+        <VEF_DestroyItems.label>- Destruição de itens</VEF_DestroyItems.label>
+        <!-- EN: destroy items -->
+        <VEF_DestroyItems.verb>destruir itens</VEF_DestroyItems.verb>
+        <!-- EN: destroy items -->
+        <VEF_DestroyItems.gerund>destruir itens</VEF_DestroyItems.gerund>
+
+        <!-- EN: bringing ingredient -->
+        <IP_InsertFirstIngredient.label>- Transporte de ingredientes primários</IP_InsertFirstIngredient.label>
+        <!-- EN: bring ingredient to -->
+        <IP_InsertFirstIngredient.verb>trazer ingrediente para</IP_InsertFirstIngredient.verb>
+        <!-- EN: bringing ingredient to -->
+        <IP_InsertFirstIngredient.gerund>trazendo ingrediente para</IP_InsertFirstIngredient.gerund>
+
+        <!-- EN: bringing ingredient -->
+        <IP_InsertSecondIngredient.label>- Transporte de ingredientes secundários</IP_InsertSecondIngredient.label>
+        <!-- EN: bring ingredient to -->
+        <IP_InsertSecondIngredient.verb>trazer ingrediente para</IP_InsertSecondIngredient.verb>
+        <!-- EN: bringing ingredient to -->
+        <IP_InsertSecondIngredient.gerund>trazendo ingrediente para</IP_InsertSecondIngredient.gerund>
+
+        <!-- EN: bringing ingredient -->
+        <IP_InsertThirdIngredient.label>- Transporte de ingredientes terciários</IP_InsertThirdIngredient.label>
+        <!-- EN: bring ingredient to -->
+        <IP_InsertThirdIngredient.verb>trazer ingrediente para</IP_InsertThirdIngredient.verb>
+        <!-- EN: bringing ingredient to -->
+        <IP_InsertThirdIngredient.gerund>trazendo ingrediente para</IP_InsertThirdIngredient.gerund>
+
+        <!-- EN: removing finished product -->
+        <IP_RemoveProduct.label>- Remoção de produtos finalizados</IP_RemoveProduct.label>
+        <!-- EN: remove finished product from -->
+        <IP_RemoveProduct.verb>remover o produto finalizado de</IP_RemoveProduct.verb>
+        <!-- EN: removing finished product from -->
+        <IP_RemoveProduct.gerund>removendo o produto finalizado de</IP_RemoveProduct.gerund>
+
+        <!-- EN: drain out of storage -->
+        <PS_DrainOutOfStorage.label>- Drenagem de estoques</PS_DrainOutOfStorage.label>
+        <!-- EN: drain out of storage -->
+        <PS_DrainOutOfStorage.verb>drenar estoque</PS_DrainOutOfStorage.verb>
+        <!-- EN: draining out of storage -->
+        <PS_DrainOutOfStorage.gerund>drenando estoque</PS_DrainOutOfStorage.gerund>
+
+        <!-- EN: fill storage -->
+        <PS_FillStorage.label>- Preenchimento de estoques</PS_FillStorage.label>
+        <!-- EN: filling storage -->
+        <PS_FillStorage.verb>preencher estoque</PS_FillStorage.verb>
+        <!-- EN: fill storage -->
+        <PS_FillStorage.gerund>preenchendo estoque</PS_FillStorage.gerund>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: make things at ancient workshop -->
+        <VFEA_DoBillsAncientWorkshop.label>- Produção em estações de oficina ancestrais</VFEA_DoBillsAncientWorkshop.label>
+        <!-- EN: work -->
+        <VFEA_DoBillsAncientWorkshop.verb>trabalhar</VFEA_DoBillsAncientWorkshop.verb>
+        <!-- EN: work at -->
+        <VFEA_DoBillsAncientWorkshop.gerund>trabalhando em</VFEA_DoBillsAncientWorkshop.gerund>
+
+        <!-- EN: cook meals at ancient cooking station -->
+        <VFEA_DoBillsAncientCookingStation.label>- Preparação de refeições em estações de gastronomia ancestrais</VFEA_DoBillsAncientCookingStation.label>
+        <!-- EN: cook -->
+        <VFEA_DoBillsAncientCookingStation.verb>cozinhar</VFEA_DoBillsAncientCookingStation.verb>
+        <!-- EN: cooking at -->
+        <VFEA_DoBillsAncientCookingStation.gerund>cozinhando em</VFEA_DoBillsAncientCookingStation.gerund>
+
+        <!-- EN: mend thing at mending station -->
+        <VFEA_DoBillsMending.label>- Reparo de manufaturados em estações</VFEA_DoBillsMending.label>
+        <!-- EN: mend -->
+        <VFEA_DoBillsMending.verb>reparo</VFEA_DoBillsMending.verb>
+        <!-- EN: mending at -->
+        <VFEA_DoBillsMending.gerund>reparando em</VFEA_DoBillsMending.gerund>
+
+        <!-- EN: interrogate prisoners -->
+        <VFEA_Interrogate.label>- Interrogação de prisioneiros</VFEA_Interrogate.label>
+        <!-- EN: interrogate -->
+        <VFEA_Interrogate.verb>interrogar</VFEA_Interrogate.verb>
+        <!-- EN: interrogating -->
+        <VFEA_Interrogate.gerund>interrogando</VFEA_Interrogate.gerund>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: make things at crafting bench -->
+        <VFEC_DoBillsUseCraftingBench.label>- Fabricação em mesas de trabalho</VFEC_DoBillsUseCraftingBench.label>
+        <!-- EN: craft -->
+        <VFEC_DoBillsUseCraftingBench.verb>fabricar</VFEC_DoBillsUseCraftingBench.verb>
+        <!-- EN: crafting at -->
+        <VFEC_DoBillsUseCraftingBench.gerund>fabricando em</VFEC_DoBillsUseCraftingBench.gerund>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: inserting genome in incubator -->
+        <VFEI_InsertFirstGenome.label>- Inserção de genomas primários em incubadoras</VFEI_InsertFirstGenome.label>
+        <!-- EN: insert genome in incubator -->
+        <VFEI_InsertFirstGenome.verb>inserir genoma em incubadora</VFEI_InsertFirstGenome.verb>
+        <!-- EN: inserting genome in incubator -->
+        <VFEI_InsertFirstGenome.gerund>inserindo genoma em incubadora</VFEI_InsertFirstGenome.gerund>
+
+        <!-- EN: inserting genome in incubator -->
+        <VFEI_InsertSecondGenome.label>- Inserção de genomas secundários em incubadoras</VFEI_InsertSecondGenome.label>
+        <!-- EN: insert genome in incubator -->
+        <VFEI_InsertSecondGenome.verb>inserir genoma em incubadora</VFEI_InsertSecondGenome.verb>
+        <!-- EN: inserting genome in incubator -->
+        <VFEI_InsertSecondGenome.gerund>inserindo genoma em incubadora</VFEI_InsertSecondGenome.gerund>
+
+        <!-- EN: inserting genome in incubator -->
+        <VFEI_InsertThirdGenome.label>- Inserção de genomas terciários em incubadoras</VFEI_InsertThirdGenome.label>
+        <!-- EN: insert genome in incubator -->
+        <VFEI_InsertThirdGenome.verb>inserir genoma em incubadora</VFEI_InsertThirdGenome.verb>
+        <!-- EN: inserting genome in incubator -->
+        <VFEI_InsertThirdGenome.gerund>inserindo genoma em incubadora</VFEI_InsertThirdGenome.gerund>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: refuel rocket silo -->
+        <VFEM_RefuelSilo.label>- Reabastecimento de silos de foguetes</VFEM_RefuelSilo.label>
+        <!-- EN: refuel -->
+        <VFEM_RefuelSilo.verb>reabastecer</VFEM_RefuelSilo.verb>
+        <!-- EN: refueling -->
+        <VFEM_RefuelSilo.gerund>reabastecendo</VFEM_RefuelSilo.gerund>
+
+        <!-- EN: repair machine -->
+        <VFE_Mechanoids_RepairMachine.label>- Reparação de máquinas</VFE_Mechanoids_RepairMachine.label>
+        <!-- EN: repair -->
+        <VFE_Mechanoids_RepairMachine.verb>reparar</VFE_Mechanoids_RepairMachine.verb>
+        <!-- EN: repairing -->
+        <VFE_Mechanoids_RepairMachine.gerund>reparando</VFE_Mechanoids_RepairMachine.gerund>
+
+        <!-- EN: attach turret -->
+        <VFE_Mechanoids_AttachTurret.label>- Anexação de torretas</VFE_Mechanoids_AttachTurret.label>
+        <!-- EN: attach turret to -->
+        <VFE_Mechanoids_AttachTurret.verb>anexar torreta a</VFE_Mechanoids_AttachTurret.verb>
+        <!-- EN: attaching turret to -->
+        <VFE_Mechanoids_AttachTurret.gerund>anexando torreta a</VFE_Mechanoids_AttachTurret.gerund>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: welding at warcasket foundry -->
+        <VFEP_DoWelding.label>- Soldagem em fundações de guerrataúde</VFEP_DoWelding.label>
+        <!-- EN: weld at -->
+        <VFEP_DoWelding.verb>soldar em</VFEP_DoWelding.verb>
+        <!-- EN: welding at -->
+        <VFEP_DoWelding.gerund>soldando em</VFEP_DoWelding.gerund>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: take honey out of apiary-->
+        <VFEV_TakeHoneyOutOfApiary.label>- Extração de mel de apiários</VFEV_TakeHoneyOutOfApiary.label>
+        <!-- EN: take honey -->
+        <VFEV_TakeHoneyOutOfApiary.verb>extrair mel</VFEV_TakeHoneyOutOfApiary.verb>
+        <!-- EN: taking honey from -->
+        <VFEV_TakeHoneyOutOfApiary.gerund>extraindo mel de</VFEV_TakeHoneyOutOfApiary.gerund>
+
+        <!-- EN: tend to the apiary -->
+        <VFEV_endToTheApiary.label>- Apicultura</VFEV_endToTheApiary.label>
+        <!-- EN: tend apiary -->
+        <VFEV_endToTheApiary.verb>cuidar de apiário</VFEV_endToTheApiary.verb>
+        <!-- EN: tend to -->
+        <VFEV_endToTheApiary.gerund>cuidando de</VFEV_endToTheApiary.gerund>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: dig terrain -->
+        <ConstructDigTerrain.label>- Escavamento de terreno</ConstructDigTerrain.label>
+        <!-- EN: dig -->
+        <ConstructDigTerrain.verb>escavar</ConstructDigTerrain.verb>
+        <!-- EN: digging -->
+        <ConstructDigTerrain.gerund>escavando</ConstructDigTerrain.gerund>
+
+        <!-- EN: fill terrain -->
+        <ConstructFillTerrain.label>- Preenchimento de terreno</ConstructFillTerrain.label>
+        <!-- EN: fill -->
+        <ConstructFillTerrain.verb>preencher</ConstructFillTerrain.verb>
+        <!-- EN: filling -->
+        <ConstructFillTerrain.gerund>preenchendo</ConstructFillTerrain.gerund>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- EN: catch fish -->
+        <VCEF_Fish.label>- Pesca</VCEF_Fish.label>
+        <!-- EN: catch fish -->
+        <VCEF_Fish.verb>pescar</VCEF_Fish.verb>
+        <!-- EN: fishing -->
+        <VCEF_Fish.gerund>pescando</VCEF_Fish.gerund>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: cook meals at stone campfire -->
+        <DoBillsCookStone_Campfire.label>- Preparação de refeições em fogueiras de pedra</DoBillsCookStone_Campfire.label>
+        <!-- EN: cook -->
+        <DoBillsCookStone_Campfire.verb>cozinhar</DoBillsCookStone_Campfire.verb>
+        <!-- EN: cooking at -->
+        <DoBillsCookStone_Campfire.gerund>cozinhando em</DoBillsCookStone_Campfire.gerund>
+
+        <!-- EN: do bills at stone campfire -->
+        <DoBillsHaulStone_Campfire.label>- Realização de tarefas em fogueiras de pedra</DoBillsHaulStone_Campfire.label>
+        <!-- EN: work at -->
+        <DoBillsHaulStone_Campfire.verb>trabalhar em</DoBillsHaulStone_Campfire.verb>
+        <!-- EN: working at -->
+        <DoBillsHaulStone_Campfire.gerund>trabalhando em</DoBillsHaulStone_Campfire.gerund>
+
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- EN: works at gas powered crematorium -->
+        <VPE_DoBillsGasCrematorium.label>- Realização de tarefas em crematórios a gás</VPE_DoBillsGasCrematorium.label>
+        <!-- EN: work at gas powered crematorium -->
+        <VPE_DoBillsGasCrematorium.verb>trabalhar em crematório</VPE_DoBillsGasCrematorium.verb>
+        <!-- EN: working at gas powered crematorium -->
+        <VPE_DoBillsGasCrematorium.gerund>trabalhando em</VPE_DoBillsGasCrematorium.gerund>
+
+        <!-- EN: burn at gas powered crematorium -->
+        <VPE_BurnGasCrematorium.label>- Cremação em crematórios a gás</VPE_BurnGasCrematorium.label>
+        <!-- EN: burn at -->
+        <VPE_BurnGasCrematorium.verb>queimar em crematório</VPE_BurnGasCrematorium.verb>
+        <!-- EN: burning at -->
+        <VPE_BurnGasCrematorium.gerund>queimando em</VPE_BurnGasCrematorium.gerund>
+
+        <!-- EN: works at gas smelter -->
+        <VPE_DoBillsGasSmelter.label>- Realização de tarefas em fornos de fundição a gás</VPE_DoBillsGasSmelter.label>
+        <!-- EN: work at gas smelter -->
+        <VPE_DoBillsGasSmelter.verb>trabalhar em forno de fundição</VPE_DoBillsGasSmelter.verb>
+        <!-- EN: working at gas smelter -->
+        <VPE_DoBillsGasSmelter.gerund>trabalhando em</VPE_DoBillsGasSmelter.gerund>
+
+        <!-- EN: cook meals at stove -->
+        <VPE_DoBillsGasStove.label>- Preparação de refeições em fogões a gás</VPE_DoBillsGasStove.label>
+        <!-- EN: cook -->
+        <VPE_DoBillsGasStove.verb>cozinhar</VPE_DoBillsGasStove.verb>
+        <!-- EN: cooking at -->
+        <VPE_DoBillsGasStove.gerund>cozinhando em</VPE_DoBillsGasStove.gerund>
+
+        <!-- EN: make weapons -->
+        <VPE_DoBillsGasSmithy.label>- Forja de armas em forjas a gás</VPE_DoBillsGasSmithy.label>
+        <!-- EN: smith -->
+        <VPE_DoBillsGasSmithy.verb>forjar</VPE_DoBillsGasSmithy.verb>
+        <!-- EN: smithing at -->
+        <VPE_DoBillsGasSmithy.gerund>forjando em</VPE_DoBillsGasSmithy.gerund>
+
+        <!-- EN: work at refinery -->
+        <VPE_DoBillsGasRefinery.label>- Realização de tarefas em refinarias a gás</VPE_DoBillsGasRefinery.label>
+        <!-- EN: refine chemicals -->
+        <VPE_DoBillsGasRefinery.verb>refinar químicos</VPE_DoBillsGasRefinery.verb>
+        <!-- EN: refining chemicals at -->
+        <VPE_DoBillsGasRefinery.gerund>refinando químicos em</VPE_DoBillsGasRefinery.gerund>
+
+        <!-- EN: drill at gas excavator -->
+        <VPE_WorkAtGasExcavator.label>- Perfuração em brocas profundas a gás</VPE_WorkAtGasExcavator.label>
+        <!-- EN: excavate with gas excavator -->
+        <VPE_WorkAtGasExcavator.verb>perfurar em broca profunda</VPE_WorkAtGasExcavator.verb>
+        <!-- EN: excavating with gas excavator -->
+        <VPE_WorkAtGasExcavator.gerund>perfurando em</VPE_WorkAtGasExcavator.gerund>
+
+        <!-- EN: plug hole -->
+        <VPE_WorkGiverPluggingHole.label>- Preenchimento de buracos</VPE_WorkGiverPluggingHole.label>
+        <!-- EN: fill -->
+        <VPE_WorkGiverPluggingHole.verb>preencher</VPE_WorkGiverPluggingHole.verb>
+        <!-- EN: filling -->
+        <VPE_WorkGiverPluggingHole.gerund>preenchendo</VPE_WorkGiverPluggingHole.gerund>
+
+        <!-- EN: plug pond -->
+        <VPE_WorkGiverPluggingPond.label>- Preenchimento de poças</VPE_WorkGiverPluggingPond.label>
+        <!-- EN: fill -->
+        <VPE_WorkGiverPluggingPond.verb>preencher</VPE_WorkGiverPluggingPond.verb>
+        <!-- EN: filling -->
+        <VPE_WorkGiverPluggingPond.gerund>preenchendo</VPE_WorkGiverPluggingPond.gerund>
+
+    <!-- Vanilla Furniture Expanded - Security -->
+        <!-- EN: rearm traps -->
+        <VFES_ConstructRearmTrap.label>- Construção de armadilhas desarmadas</VFES_ConstructRearmTrap.label>
+        <!-- EN: rearm -->
+        <VFES_ConstructRearmTrap.verb>armar</VFES_ConstructRearmTrap.verb>
+        <!-- EN: rearming -->
+        <VFES_ConstructRearmTrap.gerund>armando</VFES_ConstructRearmTrap.gerund>
+
+        <!-- EN: rearm traps -->
+        <VFES_RearmTrap.label>- Armação de armadilhas</VFES_RearmTrap.label>
+        <!-- EN: rearm -->
+        <VFES_RearmTrap.verb>armar</VFES_RearmTrap.verb>
+        <!-- EN: rearming -->
+        <VFES_RearmTrap.gerund>armando</VFES_RearmTrap.gerund>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: works at genetics table -->
+        <GR_DoBillsGenetics.label>- Realização de trabalhos em mesas de geneticismo</GR_DoBillsGenetics.label>
+        <!-- EN: extract genetic materials -->
+        <GR_DoBillsGenetics.verb>extrair materiais genéticos</GR_DoBillsGenetics.verb>
+        <!-- EN: extracting genetic material at -->
+        <GR_DoBillsGenetics.gerund>extraindo materiais genéticos em</GR_DoBillsGenetics.gerund>
+
+        <!-- EN: works at tissue grinder -->
+        <GR_DoBillsTissueGrinder.label>- Moeção de tecidos</GR_DoBillsTissueGrinder.label>
+        <!-- EN: grinding tissues -->
+        <GR_DoBillsTissueGrinder.verb>moer tecidos</GR_DoBillsTissueGrinder.verb>
+        <!-- EN: grinding tissues at -->
+        <GR_DoBillsTissueGrinder.gerund>moendo tecidos em</GR_DoBillsTissueGrinder.gerund>
+
+        <!-- EN: works at genetics tinkering table -->
+        <GR_DoBillsGeneticsTinkeringTable.label>- Realização de trabalhos em mesas de ajuste genético</GR_DoBillsGeneticsTinkeringTable.label>
+        <!-- EN: tinkering -->
+        <GR_DoBillsGeneticsTinkeringTable.verb>ajustar genomas</GR_DoBillsGeneticsTinkeringTable.verb>
+        <!-- EN: tinkering at -->
+        <GR_DoBillsGeneticsTinkeringTable.gerund>ajustando genomas em</GR_DoBillsGeneticsTinkeringTable.gerund>
+
+        <!-- EN: works at gene recombinator -->
+        <GR_DoBillsGeneRecombinator.label>- Realização de trabalhos em recombinadores de genomas</GR_DoBillsGeneRecombinator.label>
+        <!-- EN: recombining genes -->
+        <GR_DoBillsGeneRecombinator.verb>recombinar genomas</GR_DoBillsGeneRecombinator.verb>
+        <!-- EN: recombining genes at -->
+        <GR_DoBillsGeneRecombinator.gerund>recombinando genomas em</GR_DoBillsGeneRecombinator.gerund>
+
+        <!-- EN: works at tissue growing vat -->
+        <GR_DoBillsVat.label>- Realização de trabalhos em cubas de cultivo de tecidos</GR_DoBillsVat.label>
+        <!-- EN: growing tissues -->
+        <GR_DoBillsVat.verb>cultivar tecidos</GR_DoBillsVat.verb>
+        <!-- EN: growing tissues at -->
+        <GR_DoBillsVat.gerund>cultivando tecidos em</GR_DoBillsVat.gerund>
+
+        <!-- EN: bringing ingredients -->
+        <GR_InsertIngredients.label>- Transporte de ingredientes</GR_InsertIngredients.label>
+        <!-- EN: bring ingredients to -->
+        <GR_InsertIngredients.verb>trazer ingredientes para</GR_InsertIngredients.verb>
+        <!-- EN: bringing ingredients to -->
+        <GR_InsertIngredients.gerund>trazendo ingredientes para</GR_InsertIngredients.gerund>
+
+        <!-- EN: bringing animals to extraction -->
+        <GR_ArchotechDNAExtraction.label>- Transporte de animais para extrações</GR_ArchotechDNAExtraction.label>
+        <!-- EN: bring animal to -->
+        <GR_ArchotechDNAExtraction.verb>trazer animal para</GR_ArchotechDNAExtraction.verb>
+        <!-- EN: bringing animal to -->
+        <GR_ArchotechDNAExtraction.gerund>trazendo animal para</GR_ArchotechDNAExtraction.gerund>
+
+        <!-- EN: bringing paragon to convert -->
+        <GR_ParagonConversion.label>- Transportes de prototípicos para conversões</GR_ParagonConversion.label>
+        <!-- EN: bring paragon to -->
+        <GR_ParagonConversion.verb>trazer prototípico</GR_ParagonConversion.verb>
+        <!-- EN: bringing paragon to -->
+        <GR_ParagonConversion.gerund>trazendo prototípico para</GR_ParagonConversion.gerund>
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: uninstall ancient junk -->
+        <VME_DeconstructJunk.label>- Desinstalação de lixo espacial</VME_DeconstructJunk.label>
+        <!-- EN: uninstall ancient junk -->
+        <VME_DeconstructJunk.verb>desinstalar lixo espacial</VME_DeconstructJunk.verb>
+        <!-- EN: uninstalling ancient junk -->
+        <VME_DeconstructJunk.gerund>desinstalando lixo espacial</VME_DeconstructJunk.gerund>
+
+        <!-- EN: maintain insect nest -->
+        <VME_MaintainInsectNest.label>- Manutenção de ninhos de insetos</VME_MaintainInsectNest.label>
+        <!-- EN: maintain -->
+        <VME_MaintainInsectNest.verb>manter</VME_MaintainInsectNest.verb>
+        <!-- EN: maintaining -->
+        <VME_MaintainInsectNest.gerund>mantendo</VME_MaintainInsectNest.gerund>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: scan for orbital sites -->
+        <ScanSpace.label>- Escaneamento de campos orbitais</ScanSpace.label>
+        <!-- EN: scan -->
+        <ScanSpace.verb>escanear</ScanSpace.verb>
+        <!-- EN: scanning at -->
+        <ScanSpace.gerund>escaneando em</ScanSpace.gerund>
+
+        <!-- EN: load torpedo -->
+        <LoadTorpedoTube.label>- Carregamento de torpedos</LoadTorpedoTube.label>
+        <!-- EN: load -->
+        <LoadTorpedoTube.verb>carregar</LoadTorpedoTube.verb>
+        <!-- EN: loading -->
+        <LoadTorpedoTube.gerund>carregando</LoadTorpedoTube.gerund>
+
+        <!-- EN: fight mechanites -->
+        <FightMechanites.label>- Luta com mecanitos</FightMechanites.label>
+        <!-- EN: scraping -->
+        <FightMechanites.verb>lutar com</FightMechanites.verb>
+        <!-- EN: scraping -->
+        <FightMechanites.gerund>lutando com</FightMechanites.gerund>
+
+        <!-- EN: sacrifice prisoners -->
+        <DoArchotechSacrifice.label>- Sacrifício de prisioneiros</DoArchotechSacrifice.label>
+        <!-- EN: sacrifice -->
+        <DoArchotechSacrifice.verb>sacrificar</DoArchotechSacrifice.verb>
+        <!-- EN: sacrificing -->
+        <DoArchotechSacrifice.gerund>sacrificando</DoArchotechSacrifice.gerund>
+
+        <!-- EN: recycle items -->
+        <DoBillsRecyclotron.label>- Reciclagem</DoBillsRecyclotron.label>
+        <!-- EN: recycle -->
+        <DoBillsRecyclotron.verb>reciclar</DoBillsRecyclotron.verb>
+        <!-- EN: recycling at -->
+        <DoBillsRecyclotron.gerund>reciclando em</DoBillsRecyclotron.gerund>
+
+        <!-- EN: install consciousness -->
+        <InstallConsciousness.label>- Instalação de consciência</InstallConsciousness.label>
+        <!-- EN: install -->
+        <InstallConsciousness.verb>instalar</InstallConsciousness.verb>
+        <!-- EN: installing -->
+        <InstallConsciousness.gerund>instalando</InstallConsciousness.gerund>
+
+</LanguageData>

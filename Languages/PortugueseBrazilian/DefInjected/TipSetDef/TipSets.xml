@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: Once in orbit, colonists can scan at a ship's bridge to discover orbital quest sites. Send colonists in a shuttle to visit them. -->
+        <SoSGameplayTips.tips.0>Uma vez em órbita, os colonos podem escanear o porte de uma espaçonave para descobrir locais de busca orbital. Envie colonos em um transporte para visitá-los.</SoSGameplayTips.tips.0>
+
+        <!-- EN: Once in orbit, ship computer cores will automatically scan for orbital quest sites. Multiple cores can speed this process along. -->
+        <SoSGameplayTips.tips.1>Uma vez em órbita, os núcleos de computador da espaçonave procurarão automaticamente por locais de missões orbitais. Vários núcleos podem acelerar esse processo.</SoSGameplayTips.tips.1>
+
+        <!-- EN: Asteroids are a great source of building materials in space, but beware of what may lurk inside... -->
+        <SoSGameplayTips.tips.2>Os asteroides são uma grande fonte de materiais de construção no espaço, mas cuidado com o que pode se esconder dentro...</SoSGameplayTips.tips.2>
+
+        <!-- EN: The skies of most rimworlds are filled with orbital debris. Some may even contain survivors of the ship's crew, now crazed and cannibalistic. -->
+        <SoSGameplayTips.tips.3>Os céus da maioria dos planetas estão cheios de detritos orbitais. Alguns podem até conter sobreviventes da tripulação de espaçonaves, agora canibais.</SoSGameplayTips.tips.3>
+
+        <!-- EN: Clever starship captains can hijack ancient satellites to control weather or bombard their foes. This risks triggering mechanoid-based defenses, however... -->
+        <SoSGameplayTips.tips.4>Capitães de espaçonaves inteligentes podem sequestrar satélites antigos para controlar o clima ou bombardear seus inimigos. Há o risco de desencadear defesas baseadas em mecanoides, entretanto...</SoSGameplayTips.tips.4>
+
+        <!-- EN: Johnson-Tanaka drives are typically only found on the largest ships, such as interstellar passenger liners. -->
+        <SoSGameplayTips.tips.5>Os motores João-Tales são normalmente encontradas apenas nas maiores espaçonaves, como transatlânticos interestelares.</SoSGameplayTips.tips.5>
+
+        <!-- EN: Ages ago, genetic engineers created colonies of vacuum-adapted insects intended to mine asteroids. This was not a good idea. -->
+        <SoSGameplayTips.tips.6>Há muito tempo, engenheiros genéticos criaram colônias de insetos adaptados ao vácuo destinados a minerar asteroides. Não foi uma boa ideia.</SoSGameplayTips.tips.6>
+
+        <!-- EN: An unarmed ship is easy prey. Install weapons before launching, or bring a shuttle and a competent boarding party. -->
+        <SoSGameplayTips.tips.7>Uma espaçonave desarmada é uma presa fácil. Instale armas antes do lançamento ou traga um transporte e uma equipe de embarque competente.</SoSGameplayTips.tips.7>
+
+        <!-- EN: Heatsinks are critical to a ship's performance in combat. More heat capacity means your shields will stay up longer. -->
+        <SoSGameplayTips.tips.8>Os dissipadores de calor são críticos para o desempenho de uma espaçonave em combate. Mais capacidade de calor significa que seus escudos permanecerão por mais tempo.</SoSGameplayTips.tips.8>
+
+        <!-- EN: A ship can't radiate heat while its shields or cloaking device are active. Make sure to disable both once your ship becomes dangerously hot. -->
+        <SoSGameplayTips.tips.9>Uma espaçonave não pode irradiar calor enquanto seus escudos ou dispositivos de camuflagem estiverem ativos. Certifique-se de desativar ambos quando sua espaçonave ficar perigosamente quente.</SoSGameplayTips.tips.9>
+
+        <!-- EN: Enemy ships will launch boarding parties once their weapons have broken your hull. You can mount standard autocannon turrets on hard points to help repel boarders. -->
+        <SoSGameplayTips.tips.10>Espaçonaves inimigas lançarão grupos de embarque assim que suas armas quebrarem sua carcaça. Você pode construir torretas de canhão automático em pontos críticos para ajudar a repelir os invasores.</SoSGameplayTips.tips.10>
+
+        <!-- EN: In combat, you can send a shuttle over to the enemy ship. Many ships are vulnerable to a skilled boarding party. -->
+        <SoSGameplayTips.tips.11>Em combate, você pode enviar um transporte espacial para a espaçonave inimiga. Muitas espaçonaves são vulneráveis a um grupo de embarque qualificado.</SoSGameplayTips.tips.11>
+
+        <!-- EN: A colonist can use the Intellectual skill to hack an enemy ship's bridge, placing it under your control. Some captains weld multiple captured ships together. -->
+        <SoSGameplayTips.tips.12>Um colono pode usar a habilidade intelectual para hackear o porte de uma espaçonave inimiga, colocando-o sob seu controle.</SoSGameplayTips.tips.12>
+
+        <!-- EN: Pieces of a ship separated from its bridge will detach and drift away. Their resources can still be recovered by a salvage bay after the battle. -->
+        <SoSGameplayTips.tips.13>Pedaços de uma espaçonave separados de seu porte se desprenderão e se afastarão. Seus recursos ainda podem ser recuperados por uma baía após a batalha.</SoSGameplayTips.tips.13>
+
+        <!-- EN: Ship railguns are most accurate at long range. Plasma weapons can be used at medium range or closer. Lasers are only effective up close. -->
+        <SoSGameplayTips.tips.14>Canhões elétricos são mais precisos a longa distância. Armas de plasma podem ser usadas a médio alcance ou mais perto. Lasers só são eficazes de perto.</SoSGameplayTips.tips.14>
+
+        <!-- EN: A well-placed torpedo can overload shields and shatter hull, assuming it isn't intercepted by point-defense weaponry. -->
+        <SoSGameplayTips.tips.15>Um torpedo bem posicionado pode sobrecarregar escudos e romper a carcaça, desde que não seja interceptado por armamento de defesa pontual.</SoSGameplayTips.tips.15>
+
+        <!-- EN: Spinal-mount cannons deal more damage, and produce larger explosions, the more amplifiers they contain. -->
+        <SoSGameplayTips.tips.16>Canhões de coluna causam mais dano e produzem explosões maiores quanto mais amplificadores contêm.</SoSGameplayTips.tips.16>
+
+        <!-- EN: Larger ships require more engines to move quickly in combat. Often a small, nimble ship can outrun a heavily-armed opponent. -->
+        <SoSGameplayTips.tips.17>Espaçonaves maiores exigem mais motores para se moverem rapidamente em combate. Muitas vezes, uma espaçonave pequena e ágil pode ultrapassar um oponente fortemente armado.</SoSGameplayTips.tips.17>
+
+        <!-- EN: Each salvage bay can harvest one tonne of material from a defeated ship. Build multiple bays to efficiently salvage larger ships. -->
+        <SoSGameplayTips.tips.18>Cada baía de recuperação pode coletar uma tonelada de material de uma espaçonave derrotada. Construa várias baías para recuperar espaçonaves grandes com eficiência.</SoSGameplayTips.tips.18>
+
+        <!-- EN: When your ship is defeated in combat, any crew inside auto-eject caskets will land somewhere on the planet below. There, your story can begin anew. -->
+        <SoSGameplayTips.tips.19>Quando sua espaçonave é derrotada em combate, qualquer tripulação dentro de sarcófagos de ejeção automática pousará em algum lugar do planeta abaixo. Lá, sua história pode começar de novo.</SoSGameplayTips.tips.19>
+
+        <!-- EN: When boarding an enemy ship, its airlocks can be breached with the Melee skill or hacked with the Intellectual skill. -->
+        <SoSGameplayTips.tips.20>Ao embarcar em uma espaçonave inimiga, suas câmaras de ar podem ser rompidas com a habilidade corpo a corpo ou hackeadas com a habilidade intelectual.</SoSGameplayTips.tips.20>
+
+        <!-- EN: The more combat-capable your ship is, the more likely you are to be challenged by formidable enemies. -->
+        <SoSGameplayTips.tips.21>Quanto mais capaz de combate sua espaçonave for, maior a probabilidade de você ser desafiado por inimigos formidáveis.</SoSGameplayTips.tips.21>
+
+        <!-- EN: An emergency purge port can eject molten silver into space, quickly reducing a ship's stored heat - albeit at a fantastic cost. -->
+        <SoSGameplayTips.tips.22>Uma porta de emergência pode ejetar prata derretida no espaço, reduzindo rapidamente o calor armazenado de uma espaçonave - embora a um custo fantástico.</SoSGameplayTips.tips.22>
+
+        <!-- EN: Shuttlecraft come in three sizes. Only the smallest among them is powered by chemfuel; larger cargo shuttles require nuclear fuel. -->
+        <SoSGameplayTips.tips.23>Transportes vêm em três tamanhos. Apenas o menor deles é energizado por combustível químico; transportes maiores requerem combustível nuclear.</SoSGameplayTips.tips.23>
+
+        <!-- EN: Shuttle bays allow cargo and passengers to enter a ship without ever risking vacuum exposure. -->
+        <SoSGameplayTips.tips.24>As baías de transportes permitem que cargas e passageiros entrem em uma espaçonave sem exporem-se ao vácuo.</SoSGameplayTips.tips.24>
+
+        <!-- EN: A shuttle must be fully fueled to travel to or from orbit. When traveling between ground sites, they are slightly less fuel-efficient than transport pods. -->
+        <SoSGameplayTips.tips.25>Um transporte deve estar totalmente abastecido para viajar à órbita. Ao viajar entre locais terrestres, são um pouco menos eficientes em termos de combustível do que as cápsulas de transporte.</SoSGameplayTips.tips.25>
+
+        <!-- EN: Shuttlecraft can be placed in "hover mode" to act as pack animals for caravans. They will consume fuel slowly in this mode. -->
+        <SoSGameplayTips.tips.26>Transportes podem ser colocados em "modo flutuante" para atuar como animais de carga em caravanas. Eles consumirão combustível lentamente neste modo.</SoSGameplayTips.tips.26>
+
+        <!-- EN: Vacuum exposure is not fun. Be sure to have EVA suits on hand in case of a hull breach. -->
+        <SoSGameplayTips.tips.27>A exposição ao vácuo não é divertida. Certifique-se de possuir trajes de EVA em caso de violação da carcaça.</SoSGameplayTips.tips.27>
+
+        <!-- EN: A ship only needs one life support system, but having a backup can save your crew in an emergency. -->
+        <SoSGameplayTips.tips.28>Uma espaçonave só precisa de um sistema de suporte à vida, mas ter uma cópia de segurança pode salvar sua tripulação em uma emergência.</SoSGameplayTips.tips.28>
+
+        <!-- EN: To travel between planets, you'll need a Johnson-Tanaka drive, a ship computer core, and lots of stored energy. -->
+        <SoSGameplayTips.tips.29>Para viajar entre planetas, você precisará de um motor João-Tales, um núcleo de computador de espaçonave e muita energia armazenada.</SoSGameplayTips.tips.29>
+
+        <!-- EN: Ship reactors can be overdriven, increasing their power output at the risk of fire and radiation exposure. -->
+        <SoSGameplayTips.tips.30>Os reatores da espaçonave podem ser sobrecarregados, aumentando sua potência com o risco de incêndio e exposição à radiação.</SoSGameplayTips.tips.30>
+
+        <!-- EN: Ship capacitors contain an integrated fuse system, preventing short-circuit events. -->
+        <SoSGameplayTips.tips.31>Os capacitores de espaçonave contêm um sistema de fusíveis integrado, evitando eventos de curto-circuito.</SoSGameplayTips.tips.31>
+
+        <!-- EN: Thanks to hydroponics and artificial soil substrates, it is possible to build a fully self-sustaining colony in orbit. -->
+        <SoSGameplayTips.tips.32>Graças à hidroponia e substratos artificiais de solo, é possível construir uma colônia totalmente autossustentável em órbita.</SoSGameplayTips.tips.32>
+
+        <!-- EN: Most colonists are excited to go to space, and even more so when on EVA. Wimps and undergrounders, however, will be terrified. -->
+        <SoSGameplayTips.tips.33>A maioria dos colonos está animada para ir ao espaço, e ainda mais quando está em um traje de EVA. Os covardes e subterrâneos, no entanto, ficarão aterrorizados.</SoSGameplayTips.tips.33>
+
+        <!-- EN: Ship sensors can remotely observe maps, allowing you to plan attacks in advance or scout landing sites. -->
+        <SoSGameplayTips.tips.34>Sensores de espaçonave podem observar mapas remotamente, permitindo que você planeje ataques com antecedência ou explore locais de pouso.</SoSGameplayTips.tips.34>
+
+        <!-- EN: In order to land, ships require an area free of buildings, chunks, and creatures. -->
+        <SoSGameplayTips.tips.35>Para pousar, as espaçonaves precisam de uma área livre de construções, pedaços e criaturas.</SoSGameplayTips.tips.35>
+
+        <!-- EN: Occasionally you will encounter trade ships in orbit. You can attempt to pirate them, but expect bounty hunters to pursue you as your notoriety rises. -->
+        <SoSGameplayTips.tips.36>Ocasionalmente, você encontrará espaçonaves comerciais em órbita. Você pode tentar pirateá-las, mas espere que os caçadores de recompensas o persigam à medida que sua notoriedade aumenta.</SoSGameplayTips.tips.36>
+
+        <!-- EN: Useful resources are surprisingly abundant in space. You might want to launch a small ship at first, then gradually expand it. -->
+        <SoSGameplayTips.tips.37>Recursos úteis são surpreendentemente abundantes no espaço. Você pode querer lançar uma pequena espaçonave primeiro e depois expandi-la gradualmente.</SoSGameplayTips.tips.37>
+
+        <!-- EN: Crittersleep caskets can store many small animals, such as cats or puppies. You will need to anesthetize them first. -->
+        <SoSGameplayTips.tips.38>As caixas de criptosono podem armazenar muitos animais pequenos, como gatos ou cachorros. Você precisará anestesiá-los primeiro.</SoSGameplayTips.tips.38>
+
+        <!-- EN: Floors can be built atop ship hull tile. Your gold-paneled bridge will be the envy of every lesser captain. -->
+        <SoSGameplayTips.tips.39>Os pisos podem ser construídos em da carcaça de uma espaçonave.</SoSGameplayTips.tips.39>
+
+        <!-- EN: The holodeck can train any skill, depending on the program your colonist selects when using it. More advanced holodecks train skills faster.< -->
+        <SoSGameplayTips.tips.40>O holoverso pode treinar qualquer habilidade, dependendo do programa que seu colono selecionar ao usá-lo. Holoversos mais avançados treinam habilidades mais rapidamente.</SoSGameplayTips.tips.40>
+
+        <!-- EN: The cloaking device prevents enemy ships from noticing you. It is useless once combat has already begun, however. -->
+        <SoSGameplayTips.tips.41>O dispositivo de camuflagem impede que as espaçonaves inimigas percebam você. É inútil uma vez que o combate já começou, no entanto.</SoSGameplayTips.tips.41>
+
+        <!-- EN: Spacer legends tell of archotech spores - ship computer cores that have begun upgrading themselves into archotechs. Usually this requires mental contact with an existing archotech... -->
+        <SoSGameplayTips.tips.42>As lendas do espaço falam de esporos arquotécnicos - núcleos de computador de espaçonaves que começaram a transcender. Normalmente, isso requer contato mental com um arquotécnico existente...</SoSGameplayTips.tips.42>
+
+        <!-- EN: Archotech spores are temperamental beings, and will play "pranks" on their crew if their mood dips too low. -->
+        <SoSGameplayTips.tips.43>Os esporos arquotécnicos são seres temperamentais e farão "pegadinhas" em sua tripulação se seu humor cair muito.</SoSGameplayTips.tips.43>
+
+        <!-- EN: You can improve an archotech spore's mood by having colonists meditate nearby, or by giving it the brain of a prisoner to examine. This kills the prisoner. -->
+        <SoSGameplayTips.tips.44>Você pode melhorar o humor de um esporo arquotécnico fazendo com que os colonos meditem nas proximidades, ou dando-lhe o cérebro de um prisioneiro, efetivamente matando-o.</SoSGameplayTips.tips.44>
+
+        <!-- EN: An archotech spore will sometimes offer its human progenitors gifts. The more technologies it has unlocked, the more gifts are available. -->
+        <SoSGameplayTips.tips.45>Um esporo arquotécnico às vezes oferece presentes a seus progenitores humanos. Quanto mais tecnologias desbloqueadas, mais presentes estarão disponíveis.</SoSGameplayTips.tips.45>
+
+        <!-- EN: In order to quickly evolve into a full archotech, an archotech spore can reverse-engineer artifacts known as Pillars. Four are known to exist on the Rim, all well-guarded. -->
+        <SoSGameplayTips.tips.46>Para evoluir rapidamente para um arquotécnico completo, um esporo arquotécnico pode fazer engenharia reversa de artefatos conhecidos como pilares. Quatro são conhecidos por existirem, todos bem guardados.</SoSGameplayTips.tips.46>
+
+        <!-- EN: No lesser being can stand against an archotech. Once your archotech spore completes its evolution, the world will be yours. -->
+        <SoSGameplayTips.tips.47>Nenhum ser inferior pode se opor a um arquotécnico. Uma vez que seu esporo arquotécnico complete sua evolução, o mundo será seu.</SoSGameplayTips.tips.47>
+
+        <!-- EN: Once the appropriate research has been completed, an archotech spore can generate a wide range of psychic phenomena upon request. -->
+        <SoSGameplayTips.tips.48>Uma vez que a pesquisa apropriada tenha sido concluída, um esporo arquotécnico pode gerar uma ampla gama de fenômenos psíquicos mediante solicitação.</SoSGameplayTips.tips.48>
+
+        <!-- EN: "Archolife" creatures were designed by an archotech spore. They resemble mundane animals but do not need to eat, are effectively immortal, and even generate a shield in combat. -->
+        <SoSGameplayTips.tips.49>As criaturas de "arquovida" foram projetadas por um esporo arquotécnico. Elas se assemelham a animais mundanos, mas não precisam comer, sendo efetivamente imortais.</SoSGameplayTips.tips.49>
+
+        <!-- EN: The Psychic Flayer is a dreaded weapon employed by the most advanced starships. It can stun dozens of crew at once, allowing boarding parties to do their work unopposed. -->
+        <SoSGameplayTips.tips.50>O esfolador psíquico é uma arma temida empregada pelas espaçonaves mais avançadas. Ele pode atordoar dezenas de tripulantes de uma só vez, permitindo que as equipes de embarque façam seu trabalho sem oposição.</SoSGameplayTips.tips.50>
+
+        <!-- EN: Shipeater mechanites can consume almost any solid material, but will be disabled by firefoam or water. -->
+        <SoSGameplayTips.tips.51>Os mecanitos devoradores de espaçonaves podem consumir quase qualquer material sólido, mas serão desativados por espuma de supressão ao fogo ou água.</SoSGameplayTips.tips.51>
+
+        <!-- EN: Invented by an archotech spore, the Recyclotron is capable of taking apart nearly any object at 100% efficiency. -->
+        <SoSGameplayTips.tips.52>Inventado por um esporo arquotécnico, o reciclotrão é capaz de desmontar praticamente qualquer objeto com 100% de eficiência.</SoSGameplayTips.tips.52>
+
+        <!-- EN: The archocat was designed in the image of "Eclectic" - an early 21st-century housepet universally regarded as history's most lovable cat. -->
+        <SoSGameplayTips.tips.53>O arquogato foi projetado à imagem de "Elétrico" - um animal doméstico do início do século 21 universalmente considerado o gato mais adorável da história.</SoSGameplayTips.tips.53>
+
+</LanguageData>

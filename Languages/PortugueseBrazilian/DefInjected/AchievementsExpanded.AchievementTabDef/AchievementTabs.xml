@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Achievements Expanded -->
+        <!-- EN: Main -->
+        <Main.label>Principal</Main.label>
+
+        <!-- EN: Vanilla Expanded -->
+        <VanillaExpanded.label>Expansão</VanillaExpanded.label>
+
+    <!-- Vanilla Cooking Expanded -->
+        <!-- EN: Vanilla Cuisine -->
+        <VCE_Achievements.label>Culinária</VCE_Achievements.label>
+
+</LanguageData>

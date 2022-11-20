@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN:
+            <li>questName->[asker_nameDef]'s [monster] [contract]</li>
+            <li>monster->spider</li>
+            <li>monster->ancient giant spider</li>
+            <li>monster->arachnid</li>
+            <li>monster->gargantuan spider</li>
+            <li>contract->contract</li>
+            <li>contract->mission</li>
+            <li>contract->arrangement</li>
+            <li>contract->undertaking</li>
+            <li>contract->holy task</li>
+        -->
+        <VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings>
+            <li>questName->[contract] de Caça de [monster] de [asker_nameDef]</li>
+            <li>monster->Aranha</li>
+            <li>monster->Aranha Gigante Ancestral</li>
+            <li>monster->Aracnídeo</li>
+            <li>monster->Aranha Gigantesca</li>
+            <li>contract->Contrato</li>
+            <li>contract->Missão</li>
+            <li>contract->Tarefa</li>
+        </VAE_Spider_MonsterEncounterQuest.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has reported that their livestock seems to be disappearing at alarming rates. A mess of silk strands is all that is often left, hinting that a ravenous nest of giant spiders is behind the disappearances.\n\nIf we successfully investigate this mystery, [allRewardsDescriptions]</li>
+        -->
+        <VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], relatou que seu gado parece estar desaparecendo em taxas alarmantes. Muitas vezes, um monte de fios de seda é tudo o que resta, sugerindo que um ninho faminto de aranhas gigantes está por trás dos desaparecimentos.\n\nSe investigarmos com sucesso esse mistério, [allRewardsDescriptions]</li>
+        </VAE_Spider_MonsterEncounterQuest.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+        <!-- EN: The spiders have left this area, and you won't hear from them until they have claimed their next victims. The quest [resolvedQuestName] has expired. -->
+        <VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>As aranhas deixaram esta área, e você não terá notícias delas até que tenham reivindicado suas próximas vítimas. A missão [resolvedQuestName] expirou.</VAE_Spider_MonsterEncounterQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+        <!-- EN: Payment arrived -->
+        <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>O pagamento chegou</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+        <!-- EN: You have defeated the spiders!\n\nThe payment from [asker_faction_name] has arrived. -->
+        <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Você derrotou as aranhas!\n\nO pagamento de [asker_faction_name] chegou.</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>[asker_faction_royalFavorLabel]</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.label.slateRef>
+        <!-- EN: These colonists participated in the epic hunt for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] favor for this service. -->
+        <VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>Estes colonos participaram da caçada épica da missão [resolvedQuestName]. [asker_definite] quer saber quem deve receber [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VAE_Spider_MonsterEncounterQuest.root.nodes.siteAllEnemiesDefeated.node.nodeIfChosenPawnSignalUsed.text.slateRef>
+
+    <!-- Vanilla Events Expanded -->
+        <!-- EN:
+            <li>questName->Wanderer joins</li>
+        -->
+        <VEE_WandererJoinsTraitor.questNameRules.rulesStrings>
+            <li>questName->Viajante se junta</li>
+        </VEE_WandererJoinsTraitor.questNameRules.rulesStrings>
+
+        <!-- EN: 
+            <li>questDescription-></li>
+        -->
+        <VEE_WandererJoinsTraitor.questDescriptionRules.rulesStrings>
+            <li>questDescription-></li>
+        </VEE_WandererJoinsTraitor.questDescriptionRules.rulesStrings>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s [path] to the [ruins]</li>
+            <li>questName->[stash] in the [ruins]</li>
+            <li>path->Journey</li>
+            <li>path->Expedition</li>
+            <li>path->Adventure</li>
+            <li>ruins->Vault ruins</li>
+            <li>ruins->Ruined vault</li>
+            <li>ruins->Destroyed vault</li>
+            <li>ruins->Empty vault</li>
+            <li>stash->Stash</li>
+            <li>stash->Stockpile</li>
+            <li>stash->Treasure</li>
+        -->
+        <VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+            <li>questName(priority=1)->A [caminho] de [asker_nameDef] à [ruína]</li>
+            <li>questName->O [estoque] na [ruína]</li>
+            <li>caminho->Aventura</li>
+            <li>caminho->Expedição</li>
+            <li>caminho->Jornada</li>
+            <li>estoque->Depósito</li>
+            <li>estoque->Estoque</li>
+            <li>estoque->Tesouro</li>
+            <li>ruína->Cripta Destruída</li>
+            <li>ruína->Cripta em Ruínas</li>
+            <li>ruína->Cripta Vazia</li>
+            <li>ruína->Ruína de uma Cripta</li>
+        </VFEM_OpportunitySite_LootedVault.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about an abandoned vault ruins not far from [map_definite].\n\nIt seems that [allSitePartsDescriptionsExceptFirst]
+            <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of abandoned vault ruins not far from us. It might still be possible to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+        -->
+        <VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Nós interceptamos mensagens sobre as ruínas de uma cripta abandonada não muito longe de [map_definite].\n\nParece que [allSitePartsDescriptionsExceptFirst]</li> 
+            <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] de [asker_faction_name], nos informou sobre as ruínas de uma cripta abandonada não muito longe daqui. Ainda deve ser possível vasculhar o que sobrou.\n\n[asker_label] diz que [allSitePartsDescriptionsExceptFirst]</li>
+        </VFEM_OpportunitySite_LootedVault.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+        <!-- EN: Intercepted communications indicate the looted vault has been completely scavenged by others. The quest [resolvedQuestName] has expired. -->
+        <VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Comunicações interceptadas indicam que a cripta foi invadida e saqueada por outras pessoas. A missão [resolvedQuestName] expirou.</VFEM_OpportunitySite_LootedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[journey] to the [ruins]</li>
+            <li>journey->Journey</li>
+            <li>journey->Expedition</li>
+            <li>journey->Treasure hunt</li>
+            <li>journey->Adventure</li>
+            <li>ruins->Sealed vault</li>
+            <li>ruins->Locked vault</li>
+            <li>ruins->Ancient vault</li>
+            <li>ruins->Secured vault</li>
+            <li>ruins->Hidden vault</li>
+        -->
+        <VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+            <li>questName(priority=1)->A [jornada] à [ruína]</li>
+            <li>jornada->Aventura</li>
+            <li>jornada->Expedição</li>
+            <li>jornada->Jornada</li>
+            <li>ruína->Cripta Ancestral</li>
+            <li>ruína->Cripta Escondida</li>
+            <li>ruína->Cripta Protegida</li>
+            <li>ruína->Cripta Selada</li>
+            <li>ruína->Cripta Trancada</li>
+        </VFEA_OpportunitySite_SealedVault.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about a sealed vault not far from [map_definite]. The site is full of ancient technology and relics.\n\nIt seems that it is still defended by ancient soldiers.</li>
+        -->
+        <VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Nós interceptamos uma mensagem sobre uma cripta selada não muito longe de [map_definite]. O local está repleto de tecnologia e relíquias ancestrais.\n\nParece que ainda é defendida por soldados ancestrais.</li>
+        </VFEA_OpportunitySite_SealedVault.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+        <!-- EN: Intercepted communications indicate the sealed vault has been opened and scavenged by others. The quest [resolvedQuestName] has expired. -->
+        <VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Comunicações interceptadas indicam que a cripta foi aberta e saqueada por outras pessoas. A missão [resolvedQuestName] expirou.</VFEA_OpportunitySite_SealedVault.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN:
+            <li>questName->The [abandoned] [factory]</li>
+            <li>questName->[abandoned] [factory]</li>
+            <li>questName->[asker_nameDef] and the [abandoned] [factory]</li>
+            <li>abandoned->Abandoned</li>
+            <li>abandoned->Old</li>
+            <li>abandoned->Decommissioned</li>
+            <li>abandoned->Ruined</li>
+            <li>factory->Factory</li>
+            <li>factory->Production Line</li>
+            <li>factory->Automated Factory</li>
+            <li>factory->Manufacturing site</li>
+        -->
+        <VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+            <li>questName->A [factory] [abandoned]</li>
+            <li>questName->[factory] [abandoned]</li>
+            <li>questName->[asker_nameDef] e a [factory] [abandoned]</li>
+            <li>abandoned->Abandonada</li>
+            <li>abandoned->Antiga</li>
+            <li>abandoned->Descomissionada</li>
+            <li>abandoned->Arruinada</li>
+            <li>factory->Fábrica</li>
+            <li>factory->Linha de Produção</li>
+            <li>factory->Fábrica Automatizada</li>
+            <li>factory->Área de Manufatura</li>
+        </VFE_OpportunitySite_AbandonedFactory.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] based in a nearby abandoned factory have been raiding their caravans. The factory site is controlled by [siteFaction_name]. It can be a great opportunity to obtain factory elements and mechanoid components.\n\n[asker_nameDef] is asking us to eliminate the threat, and cares not about the fate of the old machine pieces. [asker_label] says that [sitePart0_description].</li>
+        -->
+        <VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] com base em uma fábrica abandonada próxima estão invadindo suas caravanas. A fábrica é controlada por [siteFaction_name]. Pode ser uma grande oportunidade para obter elementos de fábrica e componentes mecanoides.\n\n[asker_nameDef] está nos pedindo para eliminar a ameaça e não se preocupa com o destino das peças das máquinas. [asker_label] diz que [sitePart0_description].</li>
+        </VFE_OpportunitySite_AbandonedFactory.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>Os bandidos fizeram as malas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_AbandonedFactory.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFE_OpportunitySite_AbandonedFactory.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os bandidos se dispersaram. A missão [resolvedQuestName] terminou.</VFE_OpportunitySite_AbandonedFactory.LetterTextQuestFailed.slateRef>
+        <!-- EN: Payment arrived -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFE_OpportunitySite_AbandonedFactory.LetterLabelPaymentArrived.slateRef>
+        <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterTextPaymentArrived.slateRef>Você derrotou o acampamento dos bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VFE_OpportunitySite_AbandonedFactory.LetterTextPaymentArrived.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_AbandonedFactory.LetterLabelFavorReceiver.slateRef>
+        <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+        <VFE_OpportunitySite_AbandonedFactory.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFE_OpportunitySite_AbandonedFactory.LetterTextFavorReceiver.slateRef>
+
+        <!-- EN:
+            <li>questName->The [abandoned] [broadcasting] [station]</li>
+            <li>questName->[abandoned] [broadcasting] [station]</li>
+            <li>questName->[asker_nameDef] and the [abandoned] [broadcasting] [station]</li>
+            <li>abandoned->Abandoned</li>
+            <li>abandoned->Old</li>
+            <li>abandoned->Decommissioned</li>
+            <li>abandoned->Ruined</li>
+            <li>broadcasting->Broadcasting</li>
+            <li>broadcasting->Radar</li>
+            <li>broadcasting->Calculation</li>
+            <li>broadcasting->Supercomputer</li>
+            <li>station->Station</li>
+            <li>station->Facility</li>
+            <li>station->Antenna</li>
+            <li>station->Outpost</li>
+        -->
+        <VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+            <li>questName->A [station] de [broadcasting] [abandoned]</li>
+            <li>questName-> [station] de [broadcasting] [abandoned]</li>
+            <li>questName->[asker_nameDef] e a [station] de [broadcasting] [abandoned]</li>
+            <li>abandoned->Abandonada</li>
+            <li>abandoned->Antiga</li>
+            <li>abandoned->Descomissionada</li>
+            <li>abandoned->Arruinada</li>
+            <li>broadcasting->Transmissão</li>
+            <li>broadcasting->Radar</li>
+            <li>broadcasting->Cálculo</li>
+            <li>broadcasting->Super-Computação</li>
+            <li>station->Estação</li>
+            <li>station->Facilidade</li>
+            <li>station->Antena</li>
+            <li>station->Repartição</li>
+        </VFE_OpportunitySite_BroadcastingStation.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. According to them, [siteFaction_pawnsPlural] have been using the nearby broadcasting station as a base of operations. The site is controlled by [siteFaction_name]. It is guaranteed to contain some still functioning supercomputer units.\n\n[asker_nameDef] is asking us to take care of the enemies, and cares not about the fate of the old electronical apparatus. [asker_label] says that [sitePart0_description].</li>
+        -->
+        <VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos enviou uma mensagem. De acordo com eles, [siteFaction_pawnsPlural] tem usado uma estação de transmissão próxima como base de operações. O assentamento é controlado por [siteFaction_name]. É garantido que contém algumas unidades de supercomputador ainda em funcionamento.\n\n[asker_nameDef] está nos pedindo para cuidar dos inimigos, e não se preocupa com o destino do antigo aparato eletrônico. [asker_label] diz que [sitePart0_description].</li> 
+        </VFE_OpportunitySite_BroadcastingStation.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The bandit camp has packed up and moved on. The quest [resolvedQuestName] has expired. -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>Os bandidos fizeram as malas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFE_OpportunitySite_BroadcastingStation.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, the bandit camp has dispersed. The quest [resolvedQuestName] has ended. -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os bandidos se dispersaram. A missão [resolvedQuestName] terminou.</VFE_OpportunitySite_BroadcastingStation.LetterTextQuestFailed.slateRef>
+        <!-- EN: Payment arrived    -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFE_OpportunitySite_BroadcastingStation.LetterLabelPaymentArrived.slateRef>
+        <!-- EN: You have defeated the bandit camp!\n\nThe payment from [asker_faction_name] has arrived -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>Você derrotou o acampamento dos bandidos!\n\nO pagamento de [asker_faction_name] chegou.</VFE_OpportunitySite_BroadcastingStation.LetterTextPaymentArrived.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFE_OpportunitySite_BroadcastingStation.LetterLabelFavorReceiver.slateRef>
+        <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+        <VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFE_OpportunitySite_BroadcastingStation.LetterTextFavorReceiver.slateRef>
+
+        <!-- EN:
+            <li>questName->Saving the people of [asker_faction_name]</li>
+            <li>questName->Mechanoids siege of [asker_faction_name]</li>
+            <li>questName->[asker_faction_name] Under Siege</li>
+            <li>questName->[asker_faction_name] Under Attack</li>
+        -->
+        <VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+            <li>questName->Cerco de Mecanoides em [asker_faction_name]</li>
+            <li>questName->[asker_faction_name] sob Cerco</li>
+            <li>questName->[asker_faction_name] sob Ataque</li>
+        </VFE_OpportunitySite_MechanoidAttackParty.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] outpost is under attack by mechanoids.\n\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it to the outpost in time, the men you save can choose to join you.\n\nYou can expect the defenders to be heavily outnumbered and wounded.</li>
+        -->
+        <VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], diz que o posto avançado [asker_possessive] está sob ataque de mecanoides.\n\n[asker_nameDef] não tem ninguém de sobra para ajudá-los, mas diz que se você conseguir chegar ao posto avançado a tempo, os homens que você salvar podem escolher se juntar a você.\n\nVocê pode esperar que os defensores estejam em grande desvantagem numérica e feridos.</li>
+        </VFE_OpportunitySite_MechanoidAttackParty.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelQuestExpired.slateRef>
+        <!-- EN:  The outpost has fallen to the mechanoid attack force. The quest [resolvedQuestName] has expired. -->
+        <VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>O posto avançado caiu para a força de ataque mecanoide. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextQuestExpired.slateRef>
+        <!-- EWN: Mechanoids defeated -->
+        <VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>Mecanoides derrotados</VFE_OpportunitySite_MechanoidAttackParty.LetterLabelMechsAreDefeated.slateRef>
+        <!-- EN: All mechanoids in the area have been defeated. -->
+        <VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>Todos os mecanoides da área foram derrotados.</VFE_OpportunitySite_MechanoidAttackParty.LetterTextMechsAreDefeated.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s [intel] about Mechanoid [landing]</li>
+            <li>questName->Mechanoid [landing]</li>
+            <li>intel->Intel</li>
+            <li>intel->Clue</li>
+            <li>intel->Advice</li>
+            <li>intel->Information</li>
+            <li>landing->Landing Zone</li>
+            <li>landing->Landing Pad</li>
+            <li>landing->Imminent Ship Touchdown</li>
+            <li>landing->Landing Site</li>
+            <li>landing->Ship Incoming</li>
+        -->
+        <VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[intel] de [asker_nameDef] sobre [landing] Mecanoide</li>
+            <li>questName->[landing] Mecanoide</li>
+            <li>intel->A Informação</li>
+            <li>intel->A Indicação</li>
+            <li>intel->O Aviso</li>
+            <li>landing->a Área de Pouso</li>
+            <li>landing->a Plataforma de Aterrissagem</li>
+            <li>landing->o Ataque Iminente</li>
+            <li>landing->o Local de Aterrissagem</li>
+            <li>landing->a Espaçonave</li>
+        </VFE_OpportunitySite_MechanoidShipLanding.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've obtained encrypted information about an incoming mechanoid ship, planning to touch down not far from [map_definite]. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</li>
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid ship intending to land not too far from our area. This ship's protocol does not allow for landing if the location contains hostiles. This site is guarded by mechanoid forces, but destroying four landing beacons will be enough to stop the ship from landing.\n\nFailing to do so will result in the mechanoid ship making it to the surface, increasing the mechanoid presence in the area.</li>
+        -->
+        <VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Obtivemos informações criptografadas sobre uma espaçonave mecanoide que se aproxima, planejando pousar não muito longe de [map_definite]. O protocolo desta espaçonave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanoides, mas destruir os quatro faróis de pouso será o suficiente para impedir a espaçonave de pousar.\n\nFalhas ao fazer isso resultarão na espaçonave mecanoide chegando à superfície, aumentando a presença mecanoide na área.</li>
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de uma espaçonave mecanoide que pretende pousar não muito longe daqui. O protocolo desta espaçonave não permite o pouso se o local contiver hostis. Este local é protegido por forças mecanoide, mas destruir os quatro faróis de pouso será o suficiente para impedir a espaçonave de pousar.\n\nFalhas ao fazer isso resultarão na espaçonave mecanoide chegando à superfície, aumentando a presença mecanoide na área.</li>
+        </VFE_OpportunitySite_MechanoidShipLanding.questDescriptionRules.rulesStrings>
+        <!-- EN: Landing beacons Destroyed -->
+        <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>Faróis de pouso destruídos</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelAllMechBeaconsDestroyed.slateRef>
+        <!-- EN: All landing beacons have been destroyed. -->
+        <VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>Todos os faróis de pouso foram destruídos.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextAllMechBeaconsDestroyed.slateRef>
+        <!-- EN: Quest expired (failed to destroy beacons 1 ): [resolvedQuestName] -->
+        <VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
+        <VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>A espaçonave mecanoide pousou. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidShipLanding.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest expired (failed to destroy beacons 2): [resolvedQuestName] -->
+        <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.label.slateRef>
+        <!-- EN: The mechanoid ship has landed. The quest [resolvedQuestName] has expired. -->
+        <VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>A espaçonave mecanoide pousou. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidShipLanding.root.nodes.WorldObjectTimeout-1.node.nodes.Letter.text.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s [intel] about Mechanoid [storage]</li>
+            <li>questName->Mechanoid [storage]</li>
+            <li>intel->Intel</li>
+            <li>intel->Clue</li>
+            <li>intel->Advice</li>
+            <li>intel->Information</li>
+            <li>storage->Storage Site</li>
+            <li>storage->Recycling Site</li>
+            <li>storage->Pick-up Coordinates</li>
+            <li>storage->Treasure</li>
+            <li>storage->Supplies</li>
+        -->
+        <VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[intel] de [asker_nameDef] sobre [storage]</li>
+            <li>questName->[storage] Mecanoide</li>
+            <li>intel->A Informação</li>
+            <li>intel->A Indicação</li>
+            <li>intel->O Aviso</li>
+            <li>storage->o Local de Armazenamento Mecanoide</li>
+            <li>storage->o Local de Reciclagem Mecanoide</li>
+            <li>storage->as Coordenadas de Coleta Mecanoide</li>
+            <li>storage->Suprimentos Mecanoides</li>
+        </VFE_OpportunitySite_MechanoidStoragePickup.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted encrypted communication about a large amount of raw resources worth [itemStashContentsValue] ready for collection not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</li>
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a mechanoid resources [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] informs us that mechanoids are guarding the location before the resources are picked up and shipped to orbit.</li>
+        -->
+        <VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos a comunicação criptografada sobre uma grande quantidade de recursos brutos no valor de [itemStashContentsValue] prontos para coleta não muito longe de [map_definite]. A coleção consiste em:\n\n[itemStashContents]\n\nParece que os mecanoides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], informou-nos de um recurso mecanoide [itemStashContentsValue] não muito longe de nós. A coleção consiste em:\n\n[itemStashContents]\n\n[asker_label] nos informa que os mecanoides estão guardando o local antes que os recursos sejam coletados e enviados para a órbita.</li>
+        </VFE_OpportunitySite_MechanoidStoragePickup.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_MechanoidStoragePickup.LetterLabelQuestExpired.slateRef>
+        <!-- EN: Intercepted communications indicate the item stash has been uplifted to orbit. The quest [resolvedQuestName] has expired. -->
+        <VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>Comunicações interceptadas indicam que o estoque de itens foi colocado em órbita. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_MechanoidStoragePickup.LetterTextQuestExpired.slateRef>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s [journey] to the [ruins]</li>
+            <li>questName->[stash] in the [ruins]</li>
+            <li>journey->Journey</li>
+            <li>journey->Expedition</li>
+            <li>journey->Treasure hunt</li>
+            <li>journey->Adventure</li>
+            <li>ruins->Castle ruins</li>
+            <li>ruins->Ruined fortress</li>
+            <li>ruins->Destroyed castle</li>
+            <li>ruins->Ruined castle</li>
+            <li>ruins->Empty hold</li>
+            <li>stash->Stash</li>
+            <li>stash->Stockpile</li>
+            <li>stash->Treasure</li>
+            <li>ruins->Ruins</li>
+            <li>ruins->Ruined castle</li>
+            <li>ruins->Destroyed hold</li>
+        -->
+        <VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings>
+            <li>questName(priority=1)->A [jornada] de [asker_nameDef] às [ruins]</li>
+            <li>questName->[stash] nas [ruins]</li>
+            <li>jornada->Jornada</li>
+            <li>jornada->Expedição</li>
+            <li>jornada->Aventura</li>
+            <li>ruins->Ruínas</li>
+            <li>ruins->Ruínas do Castelo</li>
+            <li>ruins->Ruínas da Fortaleza</li>
+            <li>stash->A Pilha</li>
+            <li>stash->O Estoque</li>
+            <li>stash->O Tesouro</li>
+        </VFEM_OpportunitySite_CastleRuins.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about an abandoned castle ruins that contain treasure not far from [map_definite].\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+            <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of some abandoned castle ruins that may contain treasure not far from us. No one knows what happened to previous inhabitants, but we might still be able to scavenge what's left over.\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+        -->
+        <VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre as ruínas de um castelo abandonado que contém um tesouro não muito longe daqui.\n\nParece que [allSitePartsDescriptionsExceptFirst]</li>
+            <li>questDescription(asker_factionLeader==True)->[asker_label], [asker_faction_leaderTitle] de [asker_faction_name], nos informou sobre algumas ruínas de um castelo abandonado que podem conter um tesouro não muito longe daqui. Ninguém sabe o que aconteceu aos habitantes anteriores, mas ainda podemos saquear o que sobrou.\n\n[asker_label] diz que [allSitePartsDescriptionsExceptFirst]</li>
+        </VFEM_OpportunitySite_CastleRuins.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+        <!-- EN: Intercepted communications indicate the ruined castle has been scavenged by others. The quest [resolvedQuestName] has expired. -->
+        <VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Comunicações interceptadas indicam que o castelo em ruínas foi destruído. A missão [resolvedQuestName] expirou.</VFEM_OpportunitySite_CastleRuins.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+        <!-- EN:
+            <li>questName->Skirmish</li>
+        -->
+        <VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+            <li>questName->Escaramuça</li>
+        </VFE_OpportunitySite_Skirmish.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], says that [asker_possessive] forces encountered an enemy and want to battle them in an open field.\n\n[asker_nameDef] has nobody to spare to assist them, but says that if you can make it in time, you will be doing them a great favor.</li>
+        -->
+        <VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+            <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name], diz que suas forças encontraram um inimigo e que querem batalhar em um campo aberto.\n\n[asker_nameDef] não possui ninguém para ajudá-l[asker_possessive], mas diz que se você puder fazer esse favor, [asker_pronoun] lhe agradecerá imensamente.</li>
+        </VFE_OpportunitySite_Skirmish.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFE_OpportunitySite_Skirmish.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFE_OpportunitySite_Skirmish.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The battle has resolved. The quest [resolvedQuestName] has expired. -->
+        <VFE_OpportunitySite_Skirmish.LetterTextQuestExpired.slateRef>A batalha foi resolvida. A missão [resolvedQuestName] expirou.</VFE_OpportunitySite_Skirmish.LetterTextQuestExpired.slateRef>
+        <!-- EN: Enemy defeated. -->
+        <VFE_OpportunitySite_Skirmish.LetterLabelEnemiesAreDefeated.slateRef>Inimigo derrotado</VFE_OpportunitySite_Skirmish.LetterLabelEnemiesAreDefeated.slateRef>
+        <!-- EN: All enemies in the area have been defeated. -->
+        <VFE_OpportunitySite_Skirmish.LetterTextEnemiesAreDefeated.slateRef>Todos os inimigos na área foram derrotados.</VFE_OpportunitySite_Skirmish.LetterTextEnemiesAreDefeated.slateRef>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN:
+            <li>questName->Bounty: [nameFull] [nickname]</li>
+            <li>questName->Wanted, Dead or Alive: [nickname]</li>
+            <li>questName->[nickname]'s brigands</li>
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name] hails us. Apparently, the notorious [criminal_nameFull] of [siteFaction_name] is hiding out in our vicinity.\n\n[asker_nameDef] is asking us to bring [nickname] to one of their settlements for a grand sum of [bounty] silver, double if alive. They are hiding in a safe house and it's probably guarded.\n\nIf we clear out their camp, [allRewardsDescriptions]</li>
+        -->
+        <VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+            <li>questName->Recompensa: [nameFull], [nickname]</li>
+            <li>questName->Procurado, Vivo ou Morto: [nickname]</li>
+            <li>questName->Gangue do [nickname]</li>
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos chama. Aparentemente, o(a) notório(a) [criminal_nameFull] de [siteFaction_name] está se escondendo nas proximidades.\n\n[asker_nameDef] está nos pendido para levar o "[nickname]" a um de seus assentamentos por uma soma de [bounty] pratas, o dobro se estiver vivo(a). Eles estão se escondendo em um esconderijo protegido nas proximidades.\n\nSe você destruir o esconderijo, [allRewardsDescriptions]</li>
+        </VFES_Wanted.questDescriptionAndNameRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+        <!-- EN: [criminal_nameFull] heard about their compromised position thus have decided to leave the area. The quest [resolvedQuestName] has expired. -->
+        <VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>O(a) [criminal_nameFull] ouviu sobre sua posição comprometida e decidiu deixar a área. A missão [resolvedQuestName] expirou.</VFES_Wanted.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>A missão falhou: [resolvedQuestName]</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.label.slateRef>
+        <!-- EN: The brigands has packed up and moved on. -->
+        <VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>Os [siteFaction_pawnsPlural] empacotaram suas coisas e seguiram em frente.</VFES_Wanted.root.nodes.siteDestroyed.node.nodes.Letter.text.slateRef>
+        <!-- EN: Payment arrived -->
+        <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>O pagamento chegou</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterLabel.slateRef>
+        <!-- EN: You have defeated [criminal_nameFull] and eliminated the camp!\n\nThe bonus reward from [asker_faction_name] has arrived. -->
+        <VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>Você derrotou [criminal_nameFull] e destruiu o esconderijo!\n\nO pagamento de [asker_faction_name] chegou.</VFES_Wanted.root.nodes.siteAllEnemiesDefeated.node.customLetterText.slateRef>
+
+        <!-- EN: 
+            <li>questName->Caravan [raid]</li>
+            <li>questName->[asker_nameDef] and the Caravan [raid]</li>
+            <li>raid->Raid</li>
+            <li>raid->Attack</li>
+            <li>raid->Ambush</li>
+        -->
+        <VFES_CaravanRaid.questNameRules.rulesStrings>
+            <li>questName->[raid] Caravana</li>
+            <li>raid->Interceptação da</li>
+            <li>raid->Ataque à</li>
+            <li>raid->Emboscada da</li>
+        </VFES_CaravanRaid.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] of [asker_faction_name], has sent us a message. Apparently, [siteFaction_pawnsPlural] are resting with their beasts before continuing their journey.\n\n[asker_nameDef] gave us their location, if we want to, we can go attack them.</li>
+        -->
+        <VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+            <li>questDescription->[asker_nameFull], [asker_faction_leaderTitle] de [asker_faction_name], nos mandou uma mensagem. Aparentemente, [siteFaction_pawnsPlural] fizeram uma parada em sua caravana antes de continuarem sua jornada.\n\n[asker_nameDef] nos deu a localização, se quisermos, podemos atacá-los.</li>
+        </VFES_CaravanRaid.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The [siteFaction_pawnsPlural] packed up their stuff and moved on. The quest [resolvedQuestName] has expired. -->
+        <VFES_CaravanRaid.LetterTextQuestExpired.slateRef>Os [siteFaction_pawnsPlural] empacotaram suas coisas e seguiram em frente. A missão [resolvedQuestName] expirou.</VFES_CaravanRaid.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFES_CaravanRaid.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, the [siteFaction_pawnsPlural] left. The quest [resolvedQuestName] has ended. -->
+        <VFES_CaravanRaid.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os [siteFaction_pawnsPlural] saíram da área. A missão [resolvedQuestName] terminou.</VFES_CaravanRaid.LetterTextQuestFailed.slateRef>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s [ancient] [ruins]</li>
+            <li>questName->[ancient] [ruins]</li>
+            <li>ancient->Ancient</li>
+            <li>ancient->Legendary</li>
+            <li>ancient->Long forgotten</li>
+            <li>ancient->Old</li>
+            <li>ruins->Ruins</li>
+            <li>ruins->Ruin Complex</li>
+            <li>ruins->Danger</li>
+            <li>ruins->Stash</li>
+            <li>ruins->Tomb</li>
+        -->
+        <VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[ruins] [ancient] de [asker_nameDef]</li>
+            <li>questName->[ruins] [ancient]</li>
+            <li>ruins->Ruínas</li>
+            <li>ruins->Agregação de Ruínas</li>
+            <li>ancient->Antigas</li>
+            <li>ancient->Lendárias</li>
+            <li>ancient->Esquecidas</li>
+        </VFEV_OpportunitySite_AncientRuin.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about the location of an old ruin complex near [map_definite]. These ruins can contain anything, from cryptosleep caskets and archotech artifacts to rare weapons and armor.\n\nBe careful, as these ancient ruins are certainly defended by a number of threats. We should be prepared for anything.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] informed us about the location of an old ruin complex near [map_definite]. These ruins can contain anything, from cryptosleep caskets and archotech artifacts to rare weapons and armor.\n\nBe careful, as these ancient ruins are certainly defended by a number of threats. We should be prepared for anything.</li>
+        -->
+        <VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um antigo complexo de ruínas próximo a [map_definite]. Essas ruínas podem conter qualquer coisa, desde sarcófagos de criptosono e artefatos arquotecnológicos até armas e armaduras raras.\n\nTenha cuidado, pois essas ruínas antigas certamente são defendidas. Devemos estar preparados para tudo.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] nos informou sobre a localização de um antigo complexo de ruínas próximo a [map_definite]. Essas ruínas podem conter qualquer coisa, desde sarcófagos de criptosono e artefatos arquotecnológicos até armas e armaduras raras.\n\nTenha cuidado, pois essas ruínas antigas certamente são defendidas. Devemos estar preparados para tudo.</li>
+        </VFEV_OpportunitySite_AncientRuin.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEV_OpportunitySite_AncientRuin.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_OpportunitySite_AncientRuin.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The ancient ruins have been found by others. The quest [resolvedQuestName] has expired. -->
+        <VFEV_OpportunitySite_AncientRuin.LetterTextQuestExpired.slateRef>As antigas ruínas foram encontradas por outros. A missão [resolvedQuestName] expirou.</VFEV_OpportunitySite_AncientRuin.LetterTextQuestExpired.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s [legendary] [grave]</li>
+            <li>questName->[legendary] [grave]</li>
+            <li>grave->Grave</li>
+            <li>grave->Tomb</li>
+            <li>grave->Crypt</li>
+            <li>grave->Mausoleum</li>
+            <li>grave->Catacomb</li>
+            <li>legendary->Legendary</li>
+            <li>legendary->Mythical</li>
+            <li>legendary->Ancient</li>
+            <li>legendary->Lost</li>
+            <li>legendary->Fabled</li>
+        -->
+        <VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[grave] [legendary] de [asker_nameDef]</li>
+            <li>questName->[grave] [legendary]</li>
+            <li>grave->Túmulo</li>
+            <li>grave->Sepulcro</li>
+            <li>grave->Mausoléu</li>
+            <li>legendary->Lendário</li>
+            <li>legendary->Mítico</li>
+            <li>legendary->Antigo</li>
+            <li>legendary->Perdido</li>
+            <li>legendary->Fabuloso</li>
+        </VFEV_OpportunitySite_LegendaryGrave.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've found the location of a legendary vikings grave not far from [map_definite]. The place might be guarded.\n\nYou can travel there and defeat the guardians to obtain valuable rewards and perhaps recruit a legendary viking hero.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports finding the location of a legendary vikings grave not far from [map_definite]. The place might be guarded.\n\nYou can travel there and defeat the guardians to obtain valuable rewards and perhaps recruit a legendary viking hero.</li>
+        -->
+        <VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Encontramos a localização de um lendário túmulo de viquingues não muito longe daqui.\n\nVocê pode viajar até lá e derrotar os guardiões para obter recompensas valiosas e talvez recrutar um lendário herói.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que encontraram a localização de um túmulo de viquingues lendário não muito longe daqui.\n\nVocê pode viajar até lá e derrotar os guardiões para obter recompensas valiosas e talvez recrutar um lendário herói.</li>
+        </VFEV_OpportunitySite_LegendaryGrave.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The site has been found and raided by others. The quest [resolvedQuestName] has expired. -->
+        <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>O antigo túmulo foi encontrada por outros. A missão [resolvedQuestName] expirou.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, they woke up the heros, and transferred them somewhere else. The quest [resolvedQuestName] has ended. -->
+        <VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>Depois de serem descobertos, os heróis acordaram e transferiram-se para outro lugar. A missão [resolvedQuestName] terminou.</VFEV_OpportunitySite_LegendaryGrave.LetterTextQuestFailed.slateRef>
+        <!-- EN: Quest Succeed: [resolvedQuestName] -->
+        <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>A missão sucedeu: [resolvedQuestName]</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.label.slateRef>
+        <!-- EN: You successfully fought the guardians! The quest [resolvedQuestName] has ended. -->
+        <VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>Você lutou com sucesso contra os guardiões! A missão [resolvedQuestName] terminou.</VFEV_OpportunitySite_LegendaryGrave.root.nodes.siteAllEnemiesDefeated.node.nodes.Letter.text.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s Fenrir [hunt]</li>
+            <li>questName->Fenrir [hunt]</li>
+            <li>hunt->Hunt</li>
+            <li>hunt->Chase</li>
+        -->
+        <VFEV_FenrirHunt.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[hunt] de Fenrir de [asker_nameDef]</li>
+            <li>questName->[hunt] de Fenrir</li>
+            <li>hunt->Caça</li>
+            <li>hunt->Caçada</li>
+        </VFEV_FenrirHunt.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about the location of a Fenrir rest place near [map_definite]. It will stay there for the foreseeable future but move on in time. You can use this moment to hunt it for it’s precious pelt.\n\nA gigantic, deadly wolf of unknown origin. The fenrir is aggressive by nature and extremely dangerous when enraged. Its fur and hide is incredibly resistant to damage and cold, while it's razor-sharp teeth can pierce even the best armour.\n\nLegends say that fenrir were bioengineered in ancient times for war and only follow the bravest leader's into combat.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports spotting a Fenrir nearby. While they don't plan on hunting the beast themselves, they're challenging you to hunt it. Should you be successful, they will give the following reward to you. It will stay there for the foreseeable future but move on in time. You can use this moment to hunt it for it’s precious pelt, or try to tame it if you dare.\n\nA gigantic, deadly wolf of unknown origin. The fenrir is aggressive by nature and extremely dangerous when enraged. Its fur and hide is incredibly resistant to damage and cold, while it's razor-sharp teeth can pierce even the best armour.\n\nLegends say that fenrir were bioengineered in ancient times for war and only follow the bravest leader's into combat.</li>
+        -->
+        <VFEV_FenrirHunt.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um fenrir próximo a [map_definite]. Você pode usar este momento para caçar sua pele preciosa ou tentar domesticá-lo se tiver coragem.\n\nUm lobo gigante e mortal de origem desconhecida. O fenrir é agressivo por natureza e extremamente perigoso quando enfurecido. Seu pelo e sua pele são incrivelmente resistentes a danos e ao frio, enquanto seus dentes afiados podem perfurar até mesmo a melhor armadura.\n\nAs lendas dizem que os fenris foram bioengenharia em tempos antigos para a guerra e só seguem o líder mais corajoso para o combate.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um fenrir nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la. Você pode usar este momento para caçar sua pele preciosa ou tentar domesticá-lo se tiver coragem.\n\nUm lobo gigante e mortal de origem desconhecida. O fenrir é agressivo por natureza e extremamente perigoso quando enfurecido. Seu pelo e sua pele são incrivelmente resistentes a danos e ao frio, enquanto seus dentes afiados podem perfurar até mesmo a melhor armadura.\n\nAs lendas dizem que os fenris foram bioengenharia em tempos antigos para a guerra e só seguem o líder mais corajoso para o combate.</li>
+        </VFEV_FenrirHunt.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_FenrirHunt.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The Fenrir has been found by others. The quest [resolvedQuestName] has expired. -->
+        <VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>O fenrir foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_FenrirHunt.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_FenrirHunt.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, the Fenrir fled. The quest [resolvedQuestName] has ended. -->
+        <VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o fenrir fugiu. A missão [resolvedQuestName] terminou.</VFEV_FenrirHunt.LetterTextQuestFailed.slateRef>
+        <!-- EN: Payment arrived -->
+        <VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_FenrirHunt.LetterLabelPaymentArrived.slateRef>
+        <!-- EN: You have defeated the Fenrir!\n\nThe payment from [asker_faction_name] has arrived. -->
+        <VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>Você derrotou o fenrir!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_FenrirHunt.LetterTextPaymentArrived.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_FenrirHunt.LetterLabelFavorReceiver.slateRef>
+        <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+        <VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_FenrirHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s Lothurr [hunt]</li>
+            <li>questName->Lothurr [hunt]</li>
+            <li>hunt->Hunt</li>
+            <li>hunt->Chase</li>
+        -->
+        <VFEV_LothurrHunt.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[hunt] de Lodur de [asker_nameDef]</li>
+            <li>questName->[hunt] de Lodur</li>
+            <li>hunt->Caça</li>
+            <li>hunt->Caçada</li>
+        </VFEV_LothurrHunt.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about the location of a Lothurr rest place near [map_definite]. It will stay there for the foreseeable future but move on in time. You can use this moment to hunt it for it’s majestic antlers.\n\nA gigantic, dragon-like creature of unknown origin. The lothurr is peaceful by nature, but extremely dangerous when enraged. Its fur and armour plates are incredibly resistant to damage and cold, while it's majestic antlers fetch a huge price. \n\n Many legends surround the lothurrs. Some say it is the manifestation of the old nordic gods while others claim they are a truly alien species, other tall tales claim the beast is able to vanish and rapidly reappear elsewhere at will.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports spotting a Lothurr nearby. While they don't plan on hunting the beast themselves, they're challenging you to hunt it. Should you be successful, they will give the following reward to you. It will stay there for the foreseeable future but move on in time. You can use this moment to hunt it for it’s majestic antlers, or try to tame it if you dare.\n\nA gigantic, dragon-like creature of unknown origin. The lothurr is peaceful by nature, but extremely dangerous when enraged. Its fur and armour plates are incredibly resistant to damage and cold, while it's majestic antlers fetch a huge price. \n\n Many legends surround the lothurrs. Some say it is the manifestation of the old nordic gods while others claim they are a truly alien species, other tall tales claim the beast is able to vanish and rapidly reappear elsewhere at will.</li>
+        -->
+        <VFEV_LothurrHunt.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um lodur próximo a [map_definite]. Você pode usar este momento para caçá-lo por seus chifres majestosos ou tentar domesticá-lo se tiver coragem.\n\nUma criatura gigantesca, semelhante a um dragão, de origem desconhecida. O lodur é pacífico por natureza, mas extremamente perigoso quando enfurecido. Sua pele e placas de armadura são incrivelmente resistentes a danos e ao frio, enquanto seus chifres majestosos custam um preço enorme.\n\nMuitas lendas cercam os lodurs. Alguns dizem que é a manifestação dos antigos deuses nórdicos enquanto outros afirmam que são uma espécie verdadeiramente alienígena.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um lodur nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la. Você pode usar este momento para caçá-lo por seus chifres majestosos ou tentar domesticá-lo se tiver coragem.\n\nUma criatura gigantesca, semelhante a um dragão, de origem desconhecida. O lodur é pacífico por natureza, mas extremamente perigoso quando enfurecido. Sua pele e placas de armadura são incrivelmente resistentes a danos e ao frio, enquanto seus chifres majestosos custam um preço enorme.\n\nMuitas lendas cercam os lodurs. Alguns dizem que é a manifestação dos antigos deuses nórdicos enquanto outros afirmam que são uma espécie verdadeiramente alienígena.</li>
+        </VFEV_LothurrHunt.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_LothurrHunt.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The Lothurr has been found by others. The quest [resolvedQuestName] has expired. -->
+        <VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>O lodur foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_LothurrHunt.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_LothurrHunt.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, the Lothurr fled. The quest [resolvedQuestName] has ended. -->
+        <VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o lodur fugiu. A missão [resolvedQuestName] terminou.</VFEV_LothurrHunt.LetterTextQuestFailed.slateRef>
+        <!-- EN: Payment arrived -->
+        <VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_LothurrHunt.LetterLabelPaymentArrived.slateRef>
+        <!-- EN: You have defeated the Lothurr!\n\nThe payment from [asker_faction_name] has arrived. -->
+        <VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>Você derrotou o lodur!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_LothurrHunt.LetterTextPaymentArrived.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_LothurrHunt.LetterLabelFavorReceiver.slateRef>
+        <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+        <VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_LothurrHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s Njörun [hunt]</li>
+            <li>questName->Njörun [hunt]</li>
+            <li>hunt->Hunt</li>
+            <li>hunt->Chase</li>
+        -->
+        <VFEV_NjorunHunt.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[hunt] de Niorum de [asker_nameDef]</li>
+            <li>questName->[hunt] de Niorum</li>
+            <li>hunt->Caça</li>
+            <li>hunt->Caçada</li>
+        </VFEV_NjorunHunt.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about the location of a Njörun rest place near [map_definite]. It will stay there for the foreseeable future but move on in time. You can use this moment to hunt it for it’s thick leather and meat.\n\nA gigantic, ox-like creature of unknown origin. The njorun is wary by nature, traveling the planet in small herds and staying hidden from anyone who might wish it harm. Though docile, the beast is far too skittish to be tamed and is likely to retaliate if attacked.\n\n Legends say the njoruns are the result of breeding by long gone corporations in an attempt to create the perfect animal to breed for profits.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports spotting some Njörun nearby. While they don't plan on hunting the beast themselves, they're challenging you to hunt it. Should you be successful, they will give the following reward to you. It will stay there for the foreseeable future but move on in time. You can use this moment to hunt it for it’s thick leather and meat.\n\nA gigantic, ox-like creature of unknown origin. The njorun is wary by nature, traveling the planet in small herds and staying hidden from anyone who might wish it harm. Though docile, the beast is far too skittish to be tamed and is likely to retaliate if attacked.\n\n Legends say the njoruns are the result of breeding by long gone corporations in an attempt to create the perfect animal to breed for profits.</li>
+        -->
+        <VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um niorum próximo a [map_definite]. Você pode usar este momento para caçar seu couro grosso e carne.\n\nUma criatura gigantesca, parecida com um boi, de origem desconhecida. O niorum é cauteloso por natureza, viajando pelo planeta em pequenos rebanhos e se escondendo de qualquer pessoa que possa desejar-lhe mal. Embora dócil, a fera é muito nervosa e provavelmente retaliará se for atacada.\n\nAs lendas dizem que os nioruns são o resultado da criação de corporações há muito desaparecidas na tentativa de criar o animal perfeito.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um niorum nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la. Você pode usar este momento para caçar seu couro grosso e carne.\n\nUma criatura gigantesca, parecida com um boi, de origem desconhecida. O niorum é cauteloso por natureza, viajando pelo planeta em pequenos rebanhos e se escondendo de qualquer pessoa que possa desejar-lhe mal. Embora dócil, a fera é muito nervosa e provavelmente retaliará se for atacada.\n\nAs lendas dizem que os nioruns são o resultado da criação de corporações há muito desaparecidas na tentativa de criar o animal perfeito.</li>
+        </VFEV_NjorunHunt.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_NjorunHunt.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The Njörun have been found by others. The quest [resolvedQuestName] has expired. -->
+        <VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>O niorum foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_NjorunHunt.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_NjorunHunt.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, the Njörun fled. The quest [resolvedQuestName] has ended. -->
+        <VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o niorum fugiu. A missão [resolvedQuestName] terminou.</VFEV_NjorunHunt.LetterTextQuestFailed.slateRef>
+        <!-- EN: Payment arrived -->
+        <VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_NjorunHunt.LetterLabelPaymentArrived.slateRef>
+        <!-- EN: You have defeated the Njörun!\n\nThe payment from [asker_faction_name] has arrived. -->
+        <VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>Você derrotou o niorum!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_NjorunHunt.LetterTextPaymentArrived.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_NjorunHunt.LetterLabelFavorReceiver.slateRef>
+        <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+        <VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_NjorunHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s Thrumbo [hunt]</li>
+            <li>questName->Thrumbo [hunt]</li>
+            <li>hunt->Hunt</li>
+            <li>hunt->Chase</li>
+        -->
+        <VFEV_ThrumboHunt.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[hunt] de Trumbo de [asker_nameDef]</li>
+            <li>questName->[hunt] de Trumbo</li>
+            <li>hunt->Caça</li>
+            <li>hunt->Caçada</li>
+        </VFEV_ThrumboHunt.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about the location of a Thrumbo rest place near [map_definite]. It will stay there for the foreseeable future but move on in time.\n\nA gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports spotting a Thrumbo nearby. While they don't plan on hunting the beast themselves, they're challenging you to hunt it. Should you be successful, they will give the following reward to you. It will stay there for the foreseeable future but move on in time.\n\nA gigantic, graceful creature of unknown origin. The thrumbo is gentle by nature, but extremely dangerous when enraged. While its long fur is exceptionally beautiful, its hide is also incredibly resistant to damage. Its razor-sharp horn fetches a huge price.\n\nLegends say that an old thrumbo is the wisest creature in the universe - it simply chooses not to speak.</li>
+        -->
+        <VFEV_ThrumboHunt.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um trumbo próximo a [map_definite].\n\nUma criatura gigantesca de origem desconhecida. O trumbo é gentil por natureza, mas extremamente perigoso quando enfurecido. Seu pelo longo é excepcionalmente belo e valioso, e seu chifre de lâmina afiada são muito valiosos na maioria dos mercados. Lendas dizem que um trumbo ancião é a criatura mais sábia do universo - ele simplesmente escolhe não falar.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um trumbo nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la.\n\nUma criatura gigantesca de origem desconhecida. O trumbo é gentil por natureza, mas extremamente perigoso quando enfurecido. Seu pelo longo é excepcionalmente belo e valioso, e seu chifre de lâmina afiada são muito valiosos na maioria dos mercados. Lendas dizem que um trumbo ancião é a criatura mais sábia do universo - ele simplesmente escolhe não falar.</li>
+        </VFEV_ThrumboHunt.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_ThrumboHunt.LetterLabelQuestExpired.slateRef>
+        <!-- EN: The Thrumbo has been found by others. The quest [resolvedQuestName] has expired. -->
+        <VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>O trumbo foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_ThrumboHunt.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_ThrumboHunt.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, the Thrumbo fled. The quest [resolvedQuestName] has ended. -->
+        <VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o trumbo fugiu. A missão [resolvedQuestName] terminou.</VFEV_ThrumboHunt.LetterTextQuestFailed.slateRef>
+        <!-- EN: Payment arrived -->
+        <VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_ThrumboHunt.LetterLabelPaymentArrived.slateRef>
+        <!-- EN: You have defeated the Thrumbo!\n\nThe payment from [asker_faction_name] has arrived. -->
+        <VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>Você derrotou o trumbo!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_ThrumboHunt.LetterTextPaymentArrived.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_ThrumboHunt.LetterLabelFavorReceiver.slateRef>
+        <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+        <VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_ThrumboHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- EN:
+            <li>questName(priority=1)->[asker_nameDef]'s Odin [hunt]</li>
+            <li>questName->Odin [hunt]</li>
+            <li>hunt->Hunt</li>
+            <li>hunt->Chase</li>
+        -->
+        <VFEV_OdinHunt.questNameRules.rulesStrings>
+            <li>questName(priority=1)->[hunt] de Odim de [asker_nameDef]</li>
+            <li>questName->[hunt] de Odim</li>
+            <li>hunt->Caça</li>
+            <li>hunt->Caçada</li>
+        </VFEV_OdinHunt.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription(askerIsNull==true)->We've intercepted messages about the location of a roaming Odin near [map_definite]. It will stay there for the foreseeable future but move on in time. You can hunt it for glory and rare components, but be aware it’s a formidable foe.\n\nA monolothic, fortified mechanoid theorized to have the ability to cause lightning strikes through envirionmental manipulation and static discharge. Serrated, bladed arms are paired alongside EMP pulse resonators capable of disabling nearby electronics. Those brave enough to fight this mechanoid at point blank range are swiftly dispatched by high-voltage lightning strikes.During the mechanoid wars, the Odin’s very sighting is known to usher in demand for retreat. Very few have encountered it and survived long enough to report back.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name] has reports spotting an Odin nearby. While they don't plan on hunting the beast themselves, they're challenging you to hunt it. Should you be successful, they will give the following reward to you. It will stay there for the foreseeable future but move on in time. You can hunt it for glory and rare components, but be aware it’s a formidable foe.\n\nA monolothic, fortified mechanoid theorized to have the ability to cause lightning strikes through envirionmental manipulation and static discharge. Serrated, bladed arms are paired alongside EMP pulse resonators capable of disabling nearby electronics. Those brave enough to fight this mechanoid at point blank range are swiftly dispatched by high-voltage lightning strikes.During the mechanoid wars, the Odin’s very sighting is known to usher in demand for retreat. Very few have encountered it and survived long enough to report back.</li>
+        -->
+        <VFEV_OdinHunt.questDescriptionRules.rulesStrings>
+            <li>questDescription(askerIsNull==true)->Interceptamos mensagens sobre a localização de um local de um odim próximo a [map_definite].\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanoide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de odim é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
+            <li>questDescription->[asker_nameDef], [asker_faction_leaderTitle] de [asker_faction_name] tem relatórios que avistaram um Odin nas proximidades. Embora não planejem caçar a fera, estão desafiando você a caçá-la.\n\nUm mecanoide monolótico fortificado teorizado por ter a capacidade de causar quedas de raios por meio de manipulação ambiental e descarga estática. Braços laminados serrilhados são emparelhados com ressonadores de pulso PEM capazes de desativar os eletrônicos próximos. Aqueles que são corajosos o suficiente para lutar contra este mecanoide à queima-roupa são rapidamente despachados por relâmpagos de alta voltagem.\n\nDurante as guerras mecanoide, o próprio avistamento de odim é conhecido por gerar uma demanda por retirada. Muito poucos o encontraram e sobreviveram para relatar.</li>
+        </VFEV_OdinHunt.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</VFEV_OdinHunt.LetterLabelQuestExpired.slateRef>
+        <!-- EN: Odin has been found by others. The quest [resolvedQuestName] has expired. -->
+        <VFEV_OdinHunt.LetterTextQuestExpired.slateRef>O odim foi encontrado por outros. A missão [resolvedQuestName] expirou.</VFEV_OdinHunt.LetterTextQuestExpired.slateRef>
+        <!-- EN: Quest failed: [resolvedQuestName] -->
+        <VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>A missão falhou: [resolvedQuestName]</VFEV_OdinHunt.LetterLabelQuestFailed.slateRef>
+        <!-- EN: After being discovered, Odin went away. The quest [resolvedQuestName] has ended. -->
+        <VFEV_OdinHunt.LetterTextQuestFailed.slateRef>Depois de ser descoberto, o odim fugiu. A missão [resolvedQuestName] terminou.</VFEV_OdinHunt.LetterTextQuestFailed.slateRef>
+        <!-- EN: Payment arrived -->
+        <VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>O pagamento chegou</VFEV_OdinHunt.LetterLabelPaymentArrived.slateRef>
+        <!-- EN: You have defeated the Odin!\n\nThe payment from [asker_faction_name] has arrived. -->
+        <VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>Você derrotou o odim!\n\nO pagamento de [asker_faction_name] chegou.</VFEV_OdinHunt.LetterTextPaymentArrived.slateRef>
+        <!-- EN: [asker_faction_royalFavorLabel] -->
+        <VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>[asker_faction_royalFavorLabel]</VFEV_OdinHunt.LetterLabelFavorReceiver.slateRef>
+        <!-- EN: These colonists participated in the victory for the quest [resolvedQuestName]. [asker_definite] wants to know who should receive the [royalFavorReward_amount] [asker_faction_royalFavorLabel] for this service. -->
+        <VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>Esses colonos participaram da vitória da missão [resolvedQuestName]. [asker_definite] deseja saber quem deve receber o [royalFavorReward_amount] [asker_faction_royalFavorLabel] por este serviço.</VFEV_OdinHunt.LetterTextFavorReceiver.slateRef>
+
+        <!-- EN:
+            <li>rewardDescription->a [joiner_age]-year-old [joiner_title] named [joiner_nameDef] will arrive and join you. [joiner_relationInfo]</li>
+        -->
+        <VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings>
+            <li>rewardDescription->um(a) [joiner_title] de [joiner_age] anos de idade chamado(a) [joiner_nameDef] chegará e se juntará a você. [joiner_relationInfo]</li>
+        </VFEV_Util_SlavesWalkIn.questDescriptionRules.rulesStrings>
+
+        <!-- EN:
+            <li>questName->Saving [runnerIndef]</li>
+            <li>questName->The Salvation of [runnerIndef]</li>
+            <li>questName->Helping [runnerIndef]</li>
+            <li>questName->Accepting [runnerIndef]</li>
+            <li>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</li>
+            <li>questName->[runnerIndef] on the Run</li>
+            <li>questName->[runnerIndef] Seeks a Home</li>
+            <li>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</li>
+            <li>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</li>
+            <li>runnerIndef->[joiner_titleIndef]</li>
+            <li>runnerIndef->[joiner_nameIndef]</li>
+            <li>runnerIndef->a Slave</li>
+        -->
+        <VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings>
+            <li>questName->Salvando [runnerIndef]</li>
+            <li>questName->A Salvação de [runnerIndef]</li>
+            <li>questName->Ajudando [runnerIndef]</li>
+            <li>questName->Aceitando [runnerIndef]</li>
+            <li>questName->[runnerIndef] Fugindo</li>
+            <li>runnerIndef->[joiner_nameIndef]</li>
+            <li>runnerIndef->um Escravo</li>
+        </VFEV_ThreatReward_Raid_SlavesJoiner.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is a slave, chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, you'll have to fight off the [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+        -->
+        <VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings>
+            <li>questDescription->Um(a) [joiner_title] de [joiner_age] anos de idade, chamado(a) [joiner_nameDef] está chamando por perto. [joiner_pronoun] é um(a) escravo(a), perseguido(a) por [enemyFaction_pawnsPlural] de [enemyFaction_name]!\n\n[joiner_pronoun] implora por segurança e se oferece para se juntar a você em [map_definite].[joiner_relationInfo]\n\nSe você aceitar, terá que lutar contra os [enemyFaction_pawnsPluralDef] que estão o(a) perseguindo. O grupo dos [enemyFaction_pawnsPlural] é composto por:\n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] está muito assustado(a) para oferecer mais informações.</li>
+        </VFEV_ThreatReward_Raid_SlavesJoiner.questDescriptionRules.rulesStrings>
+        <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+        <VFEV_ThreatReward_Raid_SlavesJoiner.LetterLabelCashing.value.slateRef>{BASELABEL} perseguindo [../joiner_nameDef]</VFEV_ThreatReward_Raid_SlavesJoiner.LetterLabelCashing.value.slateRef>
+        <!-- EN: {BASETEXT}\n\nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
+        <VFEV_ThreatReward_Raid_SlavesJoiner.LetterTextCashing.value.slateRef>{BASETEXT}\n\nOs [enemyFaction_pawnsPlural] vieram pegar [../joiner_nameDef].</VFEV_ThreatReward_Raid_SlavesJoiner.LetterTextCashing.value.slateRef>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN:
+            <li>questName->[quest_name]</li>
+        -->
+        <ArchotechGiftQuest.questNameRules.rulesStrings>
+            <li>questName->[quest_name]</li>
+        </ArchotechGiftQuest.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->[archotech_name] warmly embraces your minds, offering its human progenitors a choice of gifts.</li>
+        -->
+        <ArchotechGiftQuest.questDescriptionRules.rulesStrings>
+            <li>questDescription->[archotech_name] abraça calorosamente suas mentes, oferecendo a seus progenitores humanos uma variedade de presentes.</li>
+        </ArchotechGiftQuest.questDescriptionRules.rulesStrings>
+
+        <!-- EN:
+            <li>questName->Ship Mayday</li>
+        -->
+        <SoSMayday.questNameRules.rulesStrings>
+            <li>questName->Impacto de Espaçonave</li>
+        </SoSMayday.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->"Mayday, mayday... containment failure... by pirate... not responding... impact..." The garbled radio signal is accompanied by a blazing streak across the sky. It appears that the ship will make landfall not far from [map_definite].\n\nA downed ship will attract every pirate, looter, and treasure hunter in a wide radius. Even if you arrive in time, you'll have to fight both fires and raids in order to secure the ship's valuable salvage.\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+        -->
+        <SoSMayday.questDescriptionRules.rulesStrings>
+            <li>questDescription->"Fodeu, fodeu... falha de contenção... por pirata... não respondendo... impacto..." O sinal de rádio distorcido é acompanhado por um raio em chamas no céu. Parece que a espaçonave chegará a este planeta não muito longe de [map_definite].\n\nUma espaçonave danificada atrair piratas, saqueadores e caçadores de tesouros em um amplo raio. Mesmo que você chegue a tempo, terá que combater incêndios e invasões para garantir a recuperação da espaçonave.\n\nParece que [allSitePartsDescriptionsExceptFirst]</li>
+        </SoSMayday.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <SoSMayday.LetterLabelQuestExpired.slateRef>A missão expirou: [resolvedQuestName]</SoSMayday.LetterLabelQuestExpired.slateRef>
+        <!-- EN: Intercepted communications indicate the ship has been stripped of all valuables. The quest [resolvedQuestName] has expired. -->
+        <SoSMayday.LetterTextQuestExpired.slateRef>Comunicações interceptadas indicam que a espaçonave foi completamente saqueada. A missão [resolvedQuestName] expirou.</SoSMayday.LetterTextQuestExpired.slateRef>
+
+        <!-- EN:
+            <li>questName->[site_label]</li>
+        -->
+        <SpaceSiteQuest.questNameRules.rulesStrings>
+            <li>questName->Campo em Órbita</li>
+        </SpaceSiteQuest.questNameRules.rulesStrings>
+        <!-- EN:
+            <li>questDescription->Using your ship's sensors, [worker_definite] has found [site_label] in a nearby orbit.\n\nUnfortunately, the orbit is decaying and will lead to atmospheric re-entry in [timeoutTicks_duration]. Reaching the site will take [fuelCost]% of a shuttle's maximum fuel - be sure to bring enough for a return trip!\n\n[allSitePartsDescriptionsExceptFirst]</li>
+        -->
+        <SpaceSiteQuest.questDescriptionRules.rulesStrings>
+            <li>questDescription->Usando os sensores de sua espaçonave, [worker_definite] encontrou [site_label] em uma órbita próxima.\n\nInfelizmente, a órbita está decaindo e reentrará a atmosfera em [timeoutTicks_duration]. Chegar ao local levará [fuelCost]% do combustível de um transporte - certifique-se de trazer o suficiente para uma viagem de volta!\n\n[allSitePartsDescriptionsExceptFirst]</li>
+        </SpaceSiteQuest.questDescriptionRules.rulesStrings>
+        <!-- EN: Quest expired: [resolvedQuestName] -->
+        <SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>A missão expirou: [resolvedQuestName]</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.label.slateRef>
+        <!-- EN: With a blazing streak across the upper atmosphere, the [site_label] plummeted to the planet below. Anything of value is now lost. -->
+        <SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>Com um raio flamejante na atmosfera superior, o(a) [site_label] decaiu. Qualquer coisa de valor agora está perdida.</SpaceSiteQuest.root.nodes.WorldObjectTimeout.node.nodes.Letter.text.slateRef>
+
+</LanguageData>

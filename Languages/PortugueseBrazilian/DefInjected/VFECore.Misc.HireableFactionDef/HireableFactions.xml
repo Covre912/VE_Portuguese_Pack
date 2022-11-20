@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: pirates -->
+        <Pirate.label>piratas</Pirate.label>
+        <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range. -->
+        <Pirate.description>A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\n\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\n\nTheir technology level depends mostly on who they've managed to steal from recently. Mostly they carry gunpowder weapons, though some prefer to stab victims at close range.</Pirate.description>
+
+        <!-- EN: junkers -->
+        <VFEP_Junkers.label>sucateadores</VFEP_Junkers.label>
+        <!-- EN: A loose confederation of pirate gangs who've agreed to mostly fight outsiders instead of fighting each other.\nPirates don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\nJunkers utilize warcasket technology and seal themselves in metal tombs in which they raid, steal, plunder and inevitably die. They rarely use melee weapons and prefer to keep at distance to the enemy to fully utilize the powerful warcasket weaponry. -->
+        <VFEP_Junkers.description>Uma confederação perdida de gangues de piratas que concordaram em lutar principalmente contra forasteiros em vez de lutar entre si.\nOs piratas não semeiam, não constroem e raramente negociam. Impulsionados por uma cultura de sangue e honra que valoriza a força e a crueldade pessoais, eles se enriquecem invadindo e roubando seus vizinhos mais produtivos.\nOs sucateadores utilizam a tecnologia de guerrataúde e se fecham em cápsulas de metal nas quais invadem, roubam, saqueiam e inevitavelmente morrem. Eles raramente usam armas brancas e preferem manter distância do inimigo para utilizar plenamente o poderoso armamento de guerrataúde.</VFEP_Junkers.description>
+
+        <!-- EN: mercenaries -->
+        <VFEP_Mercenaries.label>mercenários</VFEP_Mercenaries.label>
+        <!-- EN: A paramilitary organization sanctioned and governed by political figures and megacorporations.\nMercenaries don't sow, they don't build, and they rarely trade. Driven by a blood-and-honor culture that values personal strength and ruthlessness, they enrich themselves by raiding and robbing their more productive neighbors.\nMercenaries utilize spacer-tech weapons and armors to eliminate the targets of their corporate overlords. Unlike other pirate factions, mercenaries can be communicated with and befriended, but they rarely have much to offer in regards to trade and research. -->
+        <VFEP_Mercenaries.description>Uma organização paramilitar sancionada e governada por figuras políticas e megacorporações.\nOs mercenários não semeiam, não constroem e raramente negociam. Impulsionados por uma cultura de sangue e honra que valoriza a força e a crueldade pessoais, eles se enriquecem invadindo e roubando seus vizinhos mais produtivos.\nOs mercenários utilizam armas e armaduras de tecnologia espacial para eliminar os alvos de seus chefes corporativos. Ao contrário de outras facções de piratas, os mercenários podem se comunicar e fazer amizade, mas raramente têm muito a oferecer em relação ao comércio e pesquisa.</VFEP_Mercenaries.description>
+
+</LanguageData>

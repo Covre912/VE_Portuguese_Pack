@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: moatable -->
+        <VFEM_Moatable.label>escavável</VFEM_Moatable.label>
+
+    <!-- Vanilla Furniture Expanded - Architect -->
+        <!-- EN: foundations -->
+        <VFEArch_Foundation.label>fundação</VFEArch_Foundation.label>
+
+        <!-- EN: grass -->
+        <VFEArch_Soil.label>grama</VFEArch_Soil.label>
+
+</LanguageData>

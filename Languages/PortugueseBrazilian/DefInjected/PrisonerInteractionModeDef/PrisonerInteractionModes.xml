@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: interrogate -->
+        <VFEA_Interrogate.label>interrogar</VFEA_Interrogate.label>
+        <!-- EN: Wardens will use various methods to extract information about nearby locations of interest from the prisoner. -->
+        <VFEA_Interrogate.description>Os guardas utilizarão diversos métodos para extrair informações do prisioneiro sobre locais de interesse próximos.</VFEA_Interrogate.description>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: sacrifice to archotech spore -->
+        <SacrificeToArchotech.label>sacrificar ao esporo arquotécnico</SacrificeToArchotech.label>
+
+</LanguageData>

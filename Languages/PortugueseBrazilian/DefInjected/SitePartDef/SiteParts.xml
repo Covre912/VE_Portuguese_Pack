@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: monster encounter -->
+        <VAE_Spider_MonsterEncounterCore.label>encontro de monstro</VAE_Spider_MonsterEncounterCore.label>
+        <!-- EN: The place where a monster is roaming. -->
+        <VAE_Spider_MonsterEncounterCore.description>Um local por onde um monstro vaga.</VAE_Spider_MonsterEncounterCore.description>
+        <!-- EN: Attacking {0} -->
+        <VAE_Spider_MonsterEncounterCore.approachingReportString>Atacando {0}</VAE_Spider_MonsterEncounterCore.approachingReportString>
+        <!-- EN: Attack {0} -->
+        <VAE_Spider_MonsterEncounterCore.approachOrderString>Atacar</VAE_Spider_MonsterEncounterCore.approachOrderString>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: enemies present -->
+        <KCSG_EnnemiesPresence.label>presença de inimigos</KCSG_EnnemiesPresence.label>
+        <!-- EN: Enemies are present in this place. -->
+        <KCSG_EnnemiesPresence.description>Inimigos estão presentes neste lugar.</KCSG_EnnemiesPresence.description>
+
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: looted vault -->
+        <VFEA_LootedVault.label>cripta saqueada</VFEA_LootedVault.label>
+        <!-- EN: A recently-discovered looted vault. -->
+        <VFEA_LootedVault.description>Uma cripta saqueada recém-descoberta.</VFEA_LootedVault.description>
+
+        <!-- EN: sealed vault -->
+        <VFEA_SealedVault.label>cripta selada</VFEA_SealedVault.label>
+        <!-- EN: A recently-discovered sealed vault. -->
+        <VFEA_SealedVault.description>Uma cripta selada recém-descoberta.</VFEA_SealedVault.description>
+
+        <!-- EN: enemies present -->
+        <VFEA_AncientSoldierHostile.label>presença de inimigos</VFEA_AncientSoldierHostile.label>
+        <!-- EN: Enemies are present in this place. -->
+        <VFEA_AncientSoldierHostile.description>Inimigos estão presentes neste lugar.</VFEA_AncientSoldierHostile.description>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: a friendly outpost under mech attack -->
+        <VFE_MechanoidAttackParty.label>posto avançado sob ataque mecanoide</VFE_MechanoidAttackParty.label>
+        <!-- EN: A friendly outpost invaded by a mechanoid force, begging for help. -->
+        <VFE_MechanoidAttackParty.description>Um refugiado encalhado e incapacitado implorando por ajuda.</VFE_MechanoidAttackParty.description>
+
+        <!-- EN: mechanoid ship landing -->
+        <VFE_MechanoidShipLanding.label>aterrissagem de espaçonave mecanoide</VFE_MechanoidShipLanding.label>
+        <!-- EN: mechanoid ship landing. -->
+        <VFE_MechanoidShipLanding.description>Aterrissagem de espaçonave mecanoide.</VFE_MechanoidShipLanding.description>
+
+        <!-- EN: mechanoid storage -->
+        <VFE_MechanoidStorage.label>armazenamento mecanoide</VFE_MechanoidStorage.label>
+        <!-- EN: Mechanoid storage. -->
+        <VFE_MechanoidStorage.description>Um armazém mecanoide.</VFE_MechanoidStorage.description>
+        
+        <!-- EN: abandoned factory -->
+        <VFEV_AbandonedFactory.label>fábrica abandonada</VFEV_AbandonedFactory.label>
+        <!-- EN: An abandoned factory. -->
+        <VFEV_AbandonedFactory.description>Uma fábrica abandonada.</VFEV_AbandonedFactory.description>
+
+        <!-- EN: abandoned broadcasting station -->
+        <VFEV_BroadcastingStation.label>estação de transmissão abandonada</VFEV_BroadcastingStation.label>
+        <!-- EN: An broadcasting station. -->
+        <VFEV_BroadcastingStation.description>Uma estação de transmissão abandonada.</VFEV_BroadcastingStation.description>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: castle ruins -->
+        <VFEM_CastleRuins.label>ruínas de castelo</VFEM_CastleRuins.label>
+        <!-- EN: A recently-discovered set of ruins which could contain valuable loot. -->
+        <VFEM_CastleRuins.description>Ruínas recém-descobertas que podem conter itens valiosos.</VFEM_CastleRuins.description>
+
+        <!-- EN: A site of battle between two factions -->
+        <VFE_Skirmish.label>escaramuça</VFE_Skirmish.label>
+        <!-- EN: A site of battle between two factions at war. Your allies beg for assistance. -->
+        <VFE_Skirmish.description>Um local de batalha entre duas facções em guerra. Seus aliados imploram por ajuda.</VFE_Skirmish.description>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: caravan stop -->
+        <CaravanRaid.label>parada de caravana</CaravanRaid.label>
+        <!-- EN: An unknowing caravan. -->
+        <CaravanRaid.description>Uma caravana desconhecida.</CaravanRaid.description>
+
+        <!-- EN: safe house -->
+        <WantedHideout.label>esconderijo protegido</WantedHideout.label>
+        <!-- EN: A safe house for a wanted criminal. -->
+        <WantedHideout.description>Um esconderijo protegido para um criminoso procurado.</WantedHideout.description>
+        <!-- EN: Attacking {0} -->
+        <WantedHideout.approachingReportString>Atacando {0}</WantedHideout.approachingReportString>
+        <!-- EN: Attack {0} -->
+        <WantedHideout.approachOrderString>Atacar {0}</WantedHideout.approachOrderString>
+        <!-- EN: There is an enemy outpost in this area. -->
+        <WantedHideout.arrivedLetter>Há um posto avançado inimigo nesta área.</WantedHideout.arrivedLetter>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: ancient ruins -->
+        <VFEV_AncientRuins.label>ruínas antigas</VFEV_AncientRuins.label>
+        <!-- EN: Ancient ruins. -->
+        <VFEV_AncientRuins.description>Ruínas antigas.</VFEV_AncientRuins.description>
+
+        <!-- EN: fenrir hunt -->
+        <VFEV_FenrirHunt.label>caçada de fenrir</VFEV_FenrirHunt.label>
+        <!-- EN: A legendary Fenrir has been sighted here. It will stay there for the foreseeable future but move on in time -->
+        <VFEV_FenrirHunt.description>Um lendário fenrir foi avistado aqui. Ele permanecerá nesse local por um tempo, mas seguirá em frente em algum momento.</VFEV_FenrirHunt.description>
+
+        <!-- EN: lothurr hunt -->
+        <VFEV_LothurrHunt.label>caçada de lodur</VFEV_LothurrHunt.label>
+        <!-- EN: A legendary Lothurr has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+        <VFEV_LothurrHunt.description>Um lendário lodur foi avistado aqui. Ele permanecerá nesse local por um tempo, mas seguirá em frente em algum momento.</VFEV_LothurrHunt.description>
+
+        <!-- EN: njorun hunt -->
+        <VFEV_NjorunHunt.label>caçada de niorum</VFEV_NjorunHunt.label>
+        <!-- EN: A legendary Njorun has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+        <VFEV_NjorunHunt.description>Um lendário niorum foi avistado aqui. Ele permanecerá nesse local por um tempo, mas seguirá em frente em algum momento.</VFEV_NjorunHunt.description>
+
+        <!-- EN: thrumbo hunt -->
+        <VFEV_ThrumboHunt.label>caçada de trumbo</VFEV_ThrumboHunt.label>
+        <!-- EN: A legendary Thrumbo has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+        <VFEV_ThrumboHunt.description>Um lendário trumbo foi avistado aqui. Ele permanecerá nesse local por um tempo, mas seguirá em frente em algum momento.</VFEV_ThrumboHunt.description>
+
+        <!-- EN: odin hunt -->
+        <VFEV_OdinHunt.label>caçada de odim</VFEV_OdinHunt.label>
+        <!-- EN: A legendary Odin has been sighted here. It will stay there for the foreseeable future but move on in time. -->
+        <VFEV_OdinHunt.description>Um lendário odim foi avistado aqui. Ele permanecerá nesse local por um tempo, mas seguirá em frente em algum momento.</VFEV_OdinHunt.description>
+
+        <!-- EN: legendary grave -->
+        <VFEV_LegendaryGrave.label>túmulo lendário</VFEV_LegendaryGrave.label>
+        <!-- EN: A legendary grave. -->
+        <VFEV_LegendaryGrave.description>Um túmulo lendário.</VFEV_LegendaryGrave.description>
+
+        <!-- EN: vikings guards -->
+        <VFEV_VikingsGuarding.label>guardas viquingues</VFEV_VikingsGuarding.label>
+        <!-- EN: Vikings are guarding this place. -->
+        <VFEV_VikingsGuarding.description>Viquingues estão vigiando este local.</VFEV_VikingsGuarding.description>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: biomechanical lab complex -->
+        <GR_BiomechanicalLab.label>complexo de laboratórios biomecânicos</GR_BiomechanicalLab.label>
+        <!-- EN: A recently-discovered biomechanical lab complex. -->
+        <GR_BiomechanicalLab.description>Um complexo de laboratórios biomecânicos recém-descoberto.</GR_BiomechanicalLab.description>
+
+        <!-- EN: abandoned lab -->
+        <GR_AbandonedLab.label>laboratório abandonado</GR_AbandonedLab.label>
+        <!-- EN: A recently-discovered abandoned lab. -->
+        <GR_AbandonedLab.description>Um laboratório abandonado recém-descoberto.</GR_AbandonedLab.description>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: valuable asteroids -->
+        <SpaceValuableAsteroids.label>asteroides valiosos</SpaceValuableAsteroids.label>
+        <!-- EN: Small rocks containing a high concentration of precious materials. Likely towed into orbit long ago, but never mined for some unknown reason. -->
+        <SpaceValuableAsteroids.description>Pequenas rochas contendo uma alta concentração de materiais preciosos. Provavelmente em órbita há muito tempo, mas nunca extraídas por algum motivo desconhecido.</SpaceValuableAsteroids.description>
+
+        <!-- EN: ship debris -->
+        <SpaceShipDebris.label>destroços de espaçonave</SpaceShipDebris.label>
+        <!-- EN: A fragment of a derelict ship. Sensors indicate multiple hull breaches and minimal power signature. -->
+        <SpaceShipDebris.description>Um fragmento de uma espaçonave abandonada. Os sensores indicam várias brechas na carcaça e uma assinatura de energia mínima.</SpaceShipDebris.description>
+
+        <!-- EN: damaged satellites -->
+        <SpaceHackableSatellite.label>satélites danificados</SpaceHackableSatellite.label>
+        <!-- EN: Ancient satellites dating back to this world's original terraformation. If repaired, they could prove useful. -->
+        <SpaceHackableSatellite.description>Satélites antigos que remontam à terraformação original deste mundo. Se reparados, podem ser úteis.</SpaceHackableSatellite.description>
+
+        <!-- EN: starship bow -->
+        <BlackBoxMission.label>arco de espaçonave estelar</BlackBoxMission.label>
+        <!-- EN: The front portion of an ancient starship. Scans indicate life signs and an active power signature. -->
+        <BlackBoxMission.description>A parte dianteira de uma espaçonave estelar antiga. As varreduras indicam sinais de vida e uma assinatura de energia ativa.</BlackBoxMission.description>
+
+        <!-- EN: downed ship -->
+        <SoSMayday.label>espaçonave derrubada</SoSMayday.label>
+        <!-- EN: A downed starship. -->
+        <SoSMayday.description>Uma espaçonave derrubada.</SoSMayday.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: Genetics tab -->
+        <Architect_GR_GeneticsTab.label>Aba de Genéticas</Architect_GR_GeneticsTab.label>
+        <!-- EN: Key bindings for the "Genetics" section of the Architect menu -->
+        <Architect_GR_GeneticsTab.description>Atalhos para a seção "Genética" do menu Arquiteto.</Architect_GR_GeneticsTab.description>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: HugsLib -->
+        <HugsLibShortcuts.label>Biblioteca</HugsLibShortcuts.label>
+        <!-- EN: Shortcuts for the HugsLib library. -->
+        <HugsLibShortcuts.description>Atalhos para a biblioteca de código.</HugsLibShortcuts.description>
+
+</LanguageData>

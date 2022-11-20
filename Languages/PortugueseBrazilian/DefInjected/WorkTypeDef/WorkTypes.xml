@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: Writing  -->
+        <VBE_Writing.labelShort>escrita</VBE_Writing.labelShort>
+        <!-- EN: Perform writing work. -->
+        <VBE_Writing.description>Descrição: Execute trabalho de redação.</VBE_Writing.description>
+        <!-- EN: Writer -->
+        <VBE_Writing.pawnLabel>Escritor</VBE_Writing.pawnLabel>
+        <!-- EN: writing -->
+        <VBE_Writing.gerundLabel>escrita</VBE_Writing.gerundLabel>
+        <!-- EN: Write at -->
+        <VBE_Writing.verb>Escrever em</VBE_Writing.verb>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- EN: Fish -->
+        <VCEF_Fishing.labelShort>pesca</VCEF_Fishing.labelShort>
+        <!-- EN: Catch fish in designated work zones. -->
+        <VCEF_Fishing.description>Descrição: Pesque peixes em áreas designadas.</VCEF_Fishing.description>
+        <!-- EN: Fisher -->
+        <VCEF_Fishing.pawnLabel>Pescador</VCEF_Fishing.pawnLabel>
+        <!-- EN: fishing -->
+        <VCEF_Fishing.gerundLabel>pesca</VCEF_Fishing.gerundLabel>
+        <!-- EN: Fish -->
+        <VCEF_Fishing.verb>Pescar</VCEF_Fishing.verb>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: genetics -->
+        <GR_Genetics.label>genética</GR_Genetics.label>
+        <!-- EN: Perform genetics research work. -->
+        <GR_Genetics.description>Descrição: Pesquise genética.</GR_Genetics.description>
+        <!-- EN: genetics -->
+        <GR_Genetics.labelShort>genética</GR_Genetics.labelShort>
+        <!-- EN: Genetic researcher -->
+        <GR_Genetics.pawnLabel>Geneticista</GR_Genetics.pawnLabel>
+        <!-- EN: researching genetics -->
+        <GR_Genetics.gerundLabel>genética</GR_Genetics.gerundLabel>
+        <!-- EN: Research genetics at -->
+        <GR_Genetics.verb>Pesquisar genética em</GR_Genetics.verb>
+
+
+</LanguageData>

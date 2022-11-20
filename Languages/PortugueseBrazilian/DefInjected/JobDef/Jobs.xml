@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!-- Vanilla Animals Expanded - Caves -->
+        <!-- EN: leaving. -->
+        <VAECaves_LeaveMap.reportString>saindo.</VAECaves_LeaveMap.reportString>
+
+        <!-- EN: opening cocoon. -->
+        <VAECaves_OpenCocoon.reportString>abrindo casulo.</VAECaves_OpenCocoon.reportString>
+
+        <!-- EN: building spider lair. -->
+        <VAECaves_BuildSpiderLair.reportString>construindo covil de aranhas.</VAECaves_BuildSpiderLair.reportString>
+
+        <!-- EN: laying spider eggs. -->
+        <VAECaves_CreateEggs.reportString>colocando ovos de aranha.</VAECaves_CreateEggs.reportString>
+
+    <!-- Vanilla Animals Expanded - Endangered -->
+        <!-- EN: devouring ants. -->
+        <AEXP_IngestAnts.reportString>devorando formigas.</AEXP_IngestAnts.reportString>
+
+        <!-- EN: going to the wild. -->
+        <AEXP_GotoTheWild.reportString>indo à natureza.</AEXP_GotoTheWild.reportString>
+
+    <!-- Vanilla Books Expanded -->
+        <!-- EN: reading. -->
+        <VBE_ReadBook.reportString>lendo.</VBE_ReadBook.reportString>
+
+    <!-- Vanilla Events Expanded -->
+        <!-- EN: hunting TargetA. -->
+        <HuntAndLeave.reportString>caçando TargetA.</HuntAndLeave.reportString>
+
+    <!-- Vanilla Expanded Framework -->
+        <!-- EN: Doing something. -->
+        <VFEA_UseAbilityUninterruptible.reportString>Fazendo algo.</VFEA_UseAbilityUninterruptible.reportString>
+
+        <!-- EN: Doing something. -->
+        <VFEA_GotoTargetAndUseAbility.reportString>Fazendo algo.</VFEA_GotoTargetAndUseAbility.reportString>
+
+        <!-- EN: standing. -->
+        <VFEA_StandAndFaceTarget.reportString>de pé.</VFEA_StandAndFaceTarget.reportString>
+
+        <!-- EN: equipping TargetA. -->
+        <VFEC_EquipShield.reportString>equipando TargetA.</VFEC_EquipShield.reportString>
+
+        <!-- EN: leaving. -->
+        <VFEC_LeaveMap.reportString>saindo.</VFEC_LeaveMap.reportString>
+
+        <!-- EN: rebuilding machine. -->
+        <VFE_Mechanoids_RepairMachine.reportString>reconstruindo máquina.</VFE_Mechanoids_RepairMachine.reportString>
+
+        <!-- EN: attaching turret. -->
+        <VFE_Mechanoids_AttachTurret.reportString>anexando torreta.</VFE_Mechanoids_AttachTurret.reportString>
+
+        <!-- EN: recharging. -->
+        <VFE_Mechanoids_Recharge.reportString>recarregando.</VFE_Mechanoids_Recharge.reportString>
+
+        <!-- EN: inserting ingredient. -->
+        <IP_InsertFirstIngredient.reportString>inserindo ingrediente.</IP_InsertFirstIngredient.reportString>
+
+        <!-- EN: inserting ingredient. -->
+        <IP_InsertSecondIngredient.reportString>inserindo ingrediente.</IP_InsertSecondIngredient.reportString>
+
+        <!-- EN: inserting ingredient. -->
+        <IP_InsertThirdIngredient.reportString>inserindo ingrediente.</IP_InsertThirdIngredient.reportString>
+
+        <!-- EN: removing finished product. -->
+        <IP_RemoveProduct.reportString>removendo o produto finalizado.</IP_RemoveProduct.reportString>
+
+        <!-- EN: gathering animal resource from TargetA. -->
+        <VEF_AnimalResource.reportString>coletando recursos animais de TargetA.</VEF_AnimalResource.reportString>
+
+        <!-- EN: destroying an item. -->
+        <VEF_DestroyItem.reportString>destruindo um item.</VEF_DestroyItem.reportString>
+
+        <!-- EN: laying egg. -->
+        <VEF_LayExplodingEgg.reportString>botando ovo.</VEF_LayExplodingEgg.reportString>
+
+        <!-- EN: consuming TargetA. -->
+        <VEF_IngestWeird.reportString>consumindo TargetA.</VEF_IngestWeird.reportString>
+
+        <!-- EN: eating. -->
+        <VEF_AutoNutrition.reportString>comendo.</VEF_AutoNutrition.reportString>
+
+        <!-- EN: Doing something. -->
+        <VFEA_UseAbility.reportString>Fazendo algo.</VFEA_UseAbility.reportString>
+
+        <!-- EN: customizing TargetA. -->
+        <VEF_CustomizeItem.reportString>customizando TargetA.</VEF_CustomizeItem.reportString>
+
+        <!-- EN: draining out of TargetA. -->
+        <PS_DrainFromMarkedStorage.reportString>drenando TargetA.</PS_DrainFromMarkedStorage.reportString>
+
+        <!-- EN: filling TargetA. -->
+        <PS_FillStorage.reportString>preenchendo TargetA.</PS_FillStorage.reportString>
+
+        <!-- EN: reloading TargetA. -->
+        <BetterReload.reportString>recarregando TargetA.</BetterReload.reportString>
+
+        <!-- EN: reloading TargetA. -->
+        <ReloadFromInventory.reportString>recarregando TargetA.</ReloadFromInventory.reportString>
+
+        <!-- EN: unloading TargetA. -->
+        <Unload.reportString>descarregando TargetA.</Unload.reportString>
+    
+    <!-- Vanilla Factions Expanded - Ancients -->
+        <!-- EN: using ancient educator. -->
+        <VFEA_Play_AncientEducator.reportString>usando educador ancestral.</VFEA_Play_AncientEducator.reportString>
+
+        <!-- EN: playing foosball. -->
+        <VFEA_Play_AncientFoosballTable.reportString>jogando pebolim.</VFEA_Play_AncientFoosballTable.reportString>
+
+        <!-- EN: executing TargetA. -->
+        <VFEA_ZealotExecution.reportString>executando TargetA.</VFEA_ZealotExecution.reportString>
+
+        <!-- EN: entering gene-tailoring pod. -->
+        <VFEA_EnterGeneTailoringPod.reportString>adentrando cápsula de costura genética.</VFEA_EnterGeneTailoringPod.reportString>
+
+        <!-- EN: carrying TargetA to gene-tailoring pod. -->
+        <VFEA_CarryToGeneTailoringPod.reportString>carregando TargetA para cápsula de costura genética.</VFEA_CarryToGeneTailoringPod.reportString>
+
+        <!-- EN: interrogating TargetA. -->
+        <VFEA_PrisonerInterrogate.reportString>interrogando TargetA.</VFEA_PrisonerInterrogate.reportString>
+
+        <!-- EN:carrying TargetA to bio-battery tank. -->
+        <VFEA_CarryToBioBatteryTank.reportString>carregando TargetA para tanque de bio-bateria.</VFEA_CarryToBioBatteryTank.reportString>
+
+    <!-- Vanilla Factions Expanded - Classical -->
+        <!-- EN: relaxing in a bath. -->
+        <VFEC_Relax_Thermaebath.reportString>relaxando em ofurô.</VFEC_Relax_Thermaebath.reportString>
+
+        <!-- EN: performing on stage. -->
+        <VFEC_Stage_Performance.reportString>atuando no palco.</VFEC_Stage_Performance.reportString>
+
+        <!-- EN: watching a stage performance -->
+        <VFEC_Stage_WatchPerformance.reportString>assistindo à uma performance no palco.</VFEC_Stage_WatchPerformance.reportString>
+
+        <!-- EN: set up scorpion -->
+        <VFEC_SetupScorpion.label>montar escorpião</VFEC_SetupScorpion.label>
+        <!-- EN: setting up scorpion -->
+        <VFEC_SetupScorpion.reportString>montando escorpião.</VFEC_SetupScorpion.reportString>
+
+    <!-- Vanilla Factions Expanded - Mechanoids -->
+        <!-- EN: dissembling TargetA. -->
+        <VFEM_Disassemble.reportString>desmontando TargetA.</VFEM_Disassemble.reportString>
+
+        <!-- EN: refueling TargetA. -->
+        <VFEM_RefuelSilo.reportString>reabastecendo TargetA.</VFEM_RefuelSilo.reportString>
+
+        <!-- EN: entering indoctrination pod. -->
+        <VFEM_EnterIndoctrinationPod.reportString>entrando em cápsula de doutrinação.</VFEM_EnterIndoctrinationPod.reportString>
+
+    <!-- Vanilla Factions Expanded - Insectoids -->
+        <!-- EN: inserting genome. -->
+        <VFEI_InsertFirstGenomeJob.reportString>inserindo genoma.</VFEI_InsertFirstGenomeJob.reportString>
+
+        <!-- EN: inserting genome. -->
+        <VFEI_InsertSecondGenomeJob.reportString>inserindo genoma.</VFEI_InsertSecondGenomeJob.reportString>
+
+        <!-- EN: inserting genome. -->
+        <VFEI_InsertThirdGenomeJob.reportString>inserindo genoma.</VFEI_InsertThirdGenomeJob.reportString>
+
+        <!-- EN: leaving map. -->
+        <InsectFlee.reportString>deixando o mapa.</InsectFlee.reportString>
+
+    <!-- Vanilla Factions Expanded - Medieval -->
+        <!-- EN: equipping TargetA. -->
+        <VFEM_EquipShield.reportString>equipando TargetA.</VFEM_EquipShield.reportString>
+
+        <!-- EN: digging terrain. -->
+        <VFEM_DigTerrain.reportString>escavando terreno.</VFEM_DigTerrain.reportString>
+
+        <!-- EN: filling terrain. -->
+        <VFEM_FillTerrain.reportString>preenchendo terreno.</VFEM_FillTerrain.reportString>
+
+        <!-- EN: shooting at archery. -->
+        <VFEM_Play_Archery.reportString>atirando em alvo.</VFEM_Play_Archery.reportString>
+
+    <!-- Vanilla Factions Expanded - Pirates -->
+        <!-- EN: entombing in TargetA. -->
+        <VFEP_EntombIn.reportString>sepultando em TargetA.</VFEP_EntombIn.reportString>
+
+        <!-- EN: Welding TargetB in TargetA. -->
+        <VFEP_DoWelding.reportString>soldando TargetB em TargetA.</VFEP_DoWelding.reportString>
+
+        <!-- EN: equipping TargetA. -->
+        <VFEP_EquipFromWeaponBox.reportString>equipando TargetA.</VFEP_EquipFromWeaponBox.reportString>
+
+        <!-- EN: moving. -->
+        <VFEP_GotoAndExplode.reportString>movendo-se.</VFEP_GotoAndExplode.reportString>
+
+    <!-- Vanilla Factions Expanded - Settlers -->
+        <!-- EN: playing faro. -->
+        <Play_Faro.reportString>jogando faraó.</Play_Faro.reportString>
+
+        <!-- EN: playing five finger fillet. -->
+        <Play_FiveFingerFillet.reportString>jogando filete de cinco dedos.</Play_FiveFingerFillet.reportString>
+
+    <!-- Vanilla Factions Expanded - Vikings -->
+        <!-- EN: playing hnefatafl. -->
+        <Play_Hnefatafl.reportString>jogando tafl.</Play_Hnefatafl.reportString>
+
+        <!-- EN: training at dummy. -->
+        <Play_TrainingDummy.reportString>treinando.</Play_TrainingDummy.reportString>
+
+        <!-- EN: taking honey out of TargetA. -->
+        <VFEV_TakeHoneyOutOfApiary.reportString>extraindo mel de TargetA.</VFEV_TakeHoneyOutOfApiary.reportString>
+
+        <!-- EN: tending to TargetA. -->
+        <VFEV_TendToApiary.reportString>cuidando de TargetA.</VFEV_TendToApiary.reportString>
+
+        <!-- EN: changing facepaint at TargetA. -->
+        <VFEV_ChangeFacepaint.reportString>pintando o rosto em TargetA.</VFEV_ChangeFacepaint.reportString>
+
+        <!-- EN: igniting TargetA with torches. -->
+        <VFEV_IgniteWithTorches.reportString>acendendo TargetA com tochas.</VFEV_IgniteWithTorches.reportString>
+
+        <!-- EN: recovering from hypothermia. -->
+        <VFEV_HypothermiaResponse.reportString>recuperando-se de hipotermia.</VFEV_HypothermiaResponse.reportString>
+
+    <!-- Vanilla Fishing Expanded -->
+        <!-- EN: fishing at TargetA. -->
+        <VCEF_FishJob.reportString>pescando em TargetA.</VCEF_FishJob.reportString>
+
+    <!-- Vanilla Furniture Expanded -->
+        <!-- EN: playing roulette. -->
+        <Play_Roulette.reportString>jogando roleta.</Play_Roulette.reportString>
+
+        <!-- EN: playing arcade game. -->
+        <Play_Arcade.reportString>jogando fliperama.</Play_Arcade.reportString>
+
+        <!-- EN: playing darts. -->
+        <Play_DartsBoard.reportString>jogando dardos.</Play_DartsBoard.reportString>
+
+        <!-- EN: using punching bag. -->
+        <Play_PunchingBag.reportString>usando saco de pancadas.</Play_PunchingBag.reportString>
+
+        <!-- EN: using computer. -->
+        <Play_ComputerIndustrial.reportString>usando computador.</Play_ComputerIndustrial.reportString>
+
+        <!-- EN: using computer. -->
+        <Play_ComputerModern.reportString>usando computador.</Play_ComputerModern.reportString>
+
+    <!-- Vanilla Furniture Expanded - Power -->
+        <!-- EN: destroying hole. -->
+        <VPE_JobPlugHole.reportString>preenchendo buraco.</VPE_JobPlugHole.reportString>
+
+    <!-- Vanilla Furniture Expanded - Security -->
+        <!-- EN: rearming TargetA. -->
+        <VFES_RearmTrap.reportString>armando TargetA.</VFES_RearmTrap.reportString>
+
+    <!-- Vanilla Genetics Expanded -->
+        <!-- EN: using genome excavator. -->
+        <GR_UseGenomeExcavator.reportString>usando escavador de genomas.</GR_UseGenomeExcavator.reportString>
+
+        <!-- EN: talking with TargetA. -->
+        <GR_HumanoidHybridTalk.reportString>falando com TargetA.</GR_HumanoidHybridTalk.reportString>
+
+        <!-- EN: convincing TargetA. -->
+        <GR_HumanoidHybridRecruit.reportString>convencendo TargetA.</GR_HumanoidHybridRecruit.reportString>
+
+        <!-- EN: deconstructing -->
+        <GR_AnimalDeconstructJob.reportString>desconstruindo TargetA.</GR_AnimalDeconstructJob.reportString>
+
+        <!-- EN: hunting TargetA. -->
+        <GR_AnimalHuntJob.reportString>caçando TargetA.</GR_AnimalHuntJob.reportString>
+
+        <!-- EN: harvesting TargetA. -->
+        <GR_AnimalHarvestJob.reportString>colhendo TargetA.</GR_AnimalHarvestJob.reportString>
+
+        <!-- EN: inserting ingredients on TargetA. -->
+        <GR_InsertIngredients.reportString>inserindo ingredientes em TargetA.</GR_InsertIngredients.reportString>
+
+        <!-- EN: inserting growth cell on TargetA. -->
+        <GR_InsertGrowthCell.reportString>inserindo célula de crescimento em TargetA.</GR_InsertGrowthCell.reportString>
+
+        <!-- EN: inserting archotech growth cell on TargetA. -->
+        <GR_InsertArchotechGrowthCell.reportString>inserindo célula de crescimento arquotécnica em TargetA.</GR_InsertArchotechGrowthCell.reportString>
+
+        <!-- EN: carrying TargetA to TargetB. -->
+        <GR_ArchotechDNAExtractionJob.reportString>carregando TargetA para TargetB.</GR_ArchotechDNAExtractionJob.reportString>
+
+        <!-- EN: carrying TargetA to TargetB. -->
+        <GR_ParagonConversionJob.reportString>carregando TargetA para TargetB.</GR_ParagonConversionJob.reportString>
+
+    <!-- Vanilla Hair Expanded -->
+        <!-- EN: changing hairstyle at TargetA. -->
+        <VHE_ChangeHairstyle.reportString>cortando o cabelo em TargetA.</VHE_ChangeHairstyle.reportString>
+
+    <!-- Vanilla Ideology Expanded - Dryads -->
+        <!-- EN: merging into TargetB. -->
+        <VDE_MergeIntoAwakeningCocoon.reportString>fundindo em TargetB.</VDE_MergeIntoAwakeningCocoon.reportString>
+
+
+    <!-- Vanilla Ideology Expanded - Memes and Structures -->
+        <!-- EN: uninstalling ancient junk building. -->
+        <VME_DeconstructBuilding.reportString>desinstalando lixo espacial.</VME_DeconstructBuilding.reportString>
+
+        <!-- EN: maintaining insect nest. -->
+        <VME_MaintainInsectNest.reportString>mantendo ninho de insetos.</VME_MaintainInsectNest.reportString>
+
+        <!-- EN: participating in orgy. -->
+        <VME_DanceWithLove.reportString>participando de orgia.</VME_DanceWithLove.reportString>
+
+    <!-- Vanilla Social Interactions Expanded -->
+        <!-- EN: venting to TargetA. -->
+        <VSIE_VentToFriend.reportString>desabafando para TargetA.</VSIE_VentToFriend.reportString>
+
+        <!-- EN: hearing venting from TargetA. -->
+        <VSIE_StandAndHearVenting.reportString>ouvindo desabafos de TargetA.</VSIE_StandAndHearVenting.reportString>
+        
+        <!-- EN: taking TargetA. -->
+        <VSIE_TakingBeer.reportString>pegando TargetA.</VSIE_TakingBeer.reportString>
+
+        <!-- EN: talking to TargetA. -->
+        <VSIE_TalkToSecondPawn.reportString>conversando com TargetA.</VSIE_TalkToSecondPawn.reportString>
+
+        <!-- EN: honoring TargetA. -->
+        <VSIE_HonorPawn.reportString>homenageando TargetA.</VSIE_HonorPawn.reportString>
+
+        <!-- EN: skygazing with TargetB. -->
+        <VSIE_Skygaze.reportString>observando o céu com TargetB.</VSIE_Skygaze.reportString>
+
+        <!-- EN: viewing art with TargetB. -->
+        <VSIE_ViewArtTogether.reportString>apreciando arte com TargetB.</VSIE_ViewArtTogether.reportString>
+
+        <!-- EN: building snowman with TargetB. -->
+        <VSIE_BuildSnowmanTogether.reportString>construindo bonecos de neve com TargetB.</VSIE_BuildSnowmanTogether.reportString>
+
+        <!-- EN: walking with TargetB. -->
+        <VSIE_GotoWith.reportString>caminhando com TargetB.</VSIE_GotoWith.reportString>
+        
+        <!-- EN: talking to Target. -->
+        <VSIE_GotoTalkToSecondPawn.reportString>conversando com Target.</VSIE_GotoTalkToSecondPawn.reportString>
+
+        <!-- EN: walking with TargetA. -->
+        <VSIE_Follow.reportString>caminhando com TargetA.</VSIE_Follow.reportString>
+
+        <!-- EN: lovin'. -->
+        <VSIE_OneStandLovin.reportString>amando.</VSIE_OneStandLovin.reportString>
+
+        <!-- EN: watching television. -->
+        <VSIE_WatchTelevisionTogether.reportString>assistindo televisão.</VSIE_WatchTelevisionTogether.reportString>
+
+        <!-- EN: dating. -->
+        <VSIE_HaveMealTogether.reportString>namorando.</VSIE_HaveMealTogether.reportString>
+
+    <!-- Vanilla Textures Expanded - Save Our Ship 2 -->
+        <!-- EN: using holodeck. -->
+        <UseHolodeck.reportString>utilizando holoverso.</UseHolodeck.reportString>
+    
+        <!-- EN: carrying eggs to cryptonest. -->
+        <CarryToCryptonest.reportString>carregando ovos para cripto-ninho.</CarryToCryptonest.reportString>
+
+        <!-- EN: scanning at TargetA. -->
+        <OperateScannerSpace.reportString>escaneando em TargetA.</OperateScannerSpace.reportString>
+
+        <!-- EN: hacking TargetA. -->
+        <HackSatellite.reportString>hackeando TargetA.</HackSatellite.reportString>
+
+        <!-- EN: repairing TargetA. -->
+        <RepairSatellite.reportString>reparando TargetA.</RepairSatellite.reportString>
+
+        <!-- EN: persuading TargetA. -->
+        <PersuadeAI.reportString>persuadindo TargetA.</PersuadeAI.reportString>
+
+        <!-- EN: hacking TargetA. -->
+        <HackBlackBoxConsole.reportString>hackeando TargetA.</HackBlackBoxConsole.reportString>
+
+        <!-- EN: Loading torpedo tube. -->
+        <LoadTorpedoTube.reportString>carregando tubo de torpedo.</LoadTorpedoTube.reportString>
+
+        <!-- EN: manning bridge  -->
+        <ManShipBridge.reportString>conduzindo porte.</ManShipBridge.reportString>
+
+        <!-- EN: hacking TargetA. -->
+        <HackEnemyShip.reportString>hackeando TargetA.</HackEnemyShip.reportString>
+
+        <!-- EN: hacking TargetA. -->
+        <HackAirlock.reportString>hackeando TargetA.</HackAirlock.reportString>
+
+        <!-- EN: breaching TargetA. -->
+        <BreachAirlock.reportString>rompendo TargetA.</BreachAirlock.reportString>
+
+        <!-- EN: repairing TargetA. -->
+        <RepairItemWithGel.reportString>reparando TargetA.</RepairItemWithGel.reportString>
+
+        <!-- EN: sacrificing TargetA. -->
+        <SacrificeToArchotech.reportString>sacrificando TargetA.</SacrificeToArchotech.reportString>
+
+        <!-- EN: fleeing from vacuum. -->
+        <FleeVacuum.reportString>fugindo do vácuo.</FleeVacuum.reportString>
+
+        <!-- EN: installing consciousness of TargetB. -->
+        <InstallConsciousness.reportString>instalando a consciência de TargetB.</InstallConsciousness.reportString>
+
+        <!-- EN: merging with archotech spore. -->
+        <MergeWithSpore.reportString>fundindo-se com esporo arquotécnico.</MergeWithSpore.reportString>
+
+        <!-- EN: resurrecting brain in TargetA. -->
+        <ResurrectHologram.reportString>ressuscitando cérebro em TargetA.</ResurrectHologram.reportString>
+
+    <!-- Vanilla Trading Expanded -->
+        <!-- EN: using trading terminal to view prices. -->
+        <VTE_ViewPrices.reportString>analisando preços em terminal de comércio.</VTE_ViewPrices.reportString>
+
+        <!-- EN: using trading terminal to contact bank. -->
+        <VTE_ContactBank.reportString>entrando em contato com banco em terminal de comércio.</VTE_ContactBank.reportString>
+
+        <!-- EN: using trading terminal to view news. -->
+        <VTE_ViewNews.reportString>visualizando notícias em terminal de comércio.</VTE_ViewNews.reportString>
+
+        <!-- EN: using trading terminal to open stock market. -->
+        <VTE_OpenStockMarket.reportString>analisando a bolsa de valores em terminal de comércio.</VTE_OpenStockMarket.reportString>
+
+        <!-- EN: using trading terminal to open contracts. -->
+        <VTE_OpenContracts.reportString>acessando contratos em terminal de comércio.</VTE_OpenContracts.reportString>
+
+    <!-- Vanilla Traits Expanded -->
+        <!-- EN: stealing items from TargetA -->
+        <VTE_StealItems.reportString>roubando itens de TargetA.</VTE_StealItems.reportString>
+
+</LanguageData>
